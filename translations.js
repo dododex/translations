@@ -6,7 +6,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: "Zähmen durch Aushungern" ist eine Technik, die manche Überlebende benutzen, um das Risiko eines Ressourcenverlusts während des Zähmens zu minimieren. 
 el:
 en:
 es:
@@ -46,7 +46,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: "Verlorene" Punkte
 el:
 en:
 es:
@@ -86,7 +86,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Wilde Kreaturen bekommen einen Charakter-Punkt für jedes Level. Jeder von diesen Punkten wird einer zufälligen Eigenschaft zugewiesen. Weil Bewegungsgeschwindigkeit von wilden Kreaturen niemals erhöht wird, sind alle Punkte hierfür "verloren" und werden verworfen. Schwimmende Kreaturen bekommen keine Punkte auf Sauerstoff, weshalb diese Punkte ebenfalls verworfen werden.
 el:
 en:
 es:
@@ -126,7 +126,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Über
 el:
 en:
 es:
@@ -165,7 +165,7 @@ bg:
 bs:
 ca:
 cs:
-da:
+da: Über / Feedback
 de:
 el:
 en:
@@ -206,7 +206,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Über Zähmen durch Aushungern
 el:
 en:
 es:
@@ -246,7 +246,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Hinzufügen // Add this weapon -> Füge diese (this) Waffe(weapon) hinzu.
 el:
 en:
 es:
@@ -286,7 +286,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Füge einen eigenen Namen hinzu, um diese Waffe zu identifizieren.
 el:
 en:
 es:
@@ -326,7 +326,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Füge deine eigenen Waffen hinzu und Kreaturen mit verändertem Schaden um Dododex KO-Zeit-Berechnungen zu personalisieren.
 el:
 en:
 es:
@@ -366,7 +366,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Verändere die Multiplikatioren für unoffizielle Servereinstellungen. (Multiplikatoren auf 1 gesetzt lassen für offizielle Server)
 el:
 en:
 es:
@@ -406,7 +406,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Jugendlicher
 el:
 en:
 es:
@@ -446,7 +446,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Erwachsener
 el:
 en:
 es:
@@ -486,7 +486,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: fortgeschritten
 el:
 en:
 es:
@@ -526,7 +526,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: betroffen von
 el:
 en:
 es:
@@ -566,7 +566,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Alarm (min. bevor) / Wecker (min. bevor)
 el:
 en:
 es:
@@ -606,7 +606,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Beeinflusst auch die Schwangerschaftsgeschwindigkeit 
 el:
 en:
 es:
@@ -646,7 +646,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Auch bevorzugt von
 el:
 en:
 es:
@@ -686,7 +686,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Menge pro Nutzung
 el:
 en:
 es:
@@ -726,7 +726,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: App Einstellungen
 el:
 en:
 es:
@@ -766,7 +766,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Baby
 el:
 en:
 es:
@@ -806,7 +806,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Baby-Wachstumsgeschwindkeit / Geschwindigkeit bis das Baby erwachsen ist
 el:
 en:
 es:
@@ -846,7 +846,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Zurück
 el:
 en:
 es:
@@ -886,7 +886,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Basis
 el:
 en:
 es:
@@ -926,7 +926,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Vorteile
 el:
 en:
 es:
@@ -966,7 +966,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Zucht (from the Breeding)
 el:
 en:
 es:
@@ -1006,7 +1006,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: züchten (from to breed)
 el:
 en:
 es:
@@ -1045,7 +1045,7 @@ bg:
 bs:
 ca:
 cs:
-da:
+da: Rechner
 de:
 el:
 en:
@@ -1086,7 +1086,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: kann beschädigen // Diese(this) Kreatur(creature) kann Stein(stone) beschädigen
 el:
 en:
 es:
@@ -1126,7 +1126,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Tragbar von
 el:
 en:
 es:
@@ -1166,7 +1166,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Tragbare Kreaturen
 el:
 en:
 es:
@@ -1206,7 +1206,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Diagramm der tragbaren Kreaturen
 el:
 en:
 es:
@@ -1245,7 +1245,7 @@ bg:
 bs:
 ca:
 cs:
-da:
+da: Todeschance
 de:
 el:
 en:
@@ -1286,7 +1286,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Charaktereinstellungen
 el:
 en:
 es:
@@ -1326,7 +1326,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Kopfstoß 
 el:
 en:
 es:
@@ -1366,7 +1366,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Nach neuen Daten überprüfen
 el:
 en:
 es:
@@ -1406,7 +1406,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Vergleich
 el:
 en:
 es:
@@ -1446,7 +1446,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: wach
 el:
 en:
 es:
@@ -1486,7 +1486,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Konsumgeschwindigkeit
 el:
 en:
 es:
@@ -1526,7 +1526,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Kochtopf
 el:
 en:
 es:
@@ -1566,7 +1566,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Hergestellt in
 el:
 en:
 es:
@@ -1606,7 +1606,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Wert des hergestellen Essens
 el:
 en:
 es:
@@ -1646,7 +1646,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Aktuelles Level
 el:
 en:
 es:
@@ -1686,7 +1686,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Schadensmodifikationsdiagramm
 el:
 en:
 es:
@@ -1726,7 +1726,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Löschen
 el:
 en:
 es:
@@ -1766,7 +1766,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Details
 el:
 en:
 es:
@@ -1806,7 +1806,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Dododex sucht automatisch nach neuen Datenupdates für dich, aber du kannst Dododex die neusten Daten jetzt herunterladen lassen (App wird neugeladen)
 el:
 en:
 es:
@@ -1846,7 +1846,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Dodoex wird in Los Angeles von Dan Leveille entwickelt. Daten und Rechnungen basieren auf dem Ark Dev Kit. Speziellen Dank an Crumplecorn.com und das Official Ark Wiki für zusätzliche Nachforschungen und Rechnungen.
 el:
 en:
 es:
@@ -1886,7 +1886,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Dododex Daten werden konstant geupdatet und auf ihre Richtigkeit überprüft. Das Melden von Ungenauigkeiten stellt sicher, dass Fehler schneller behoben werden und Dodox genau bleibt.
 el:
 en:
 es:
@@ -1926,7 +1926,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Waffen ändern
 el:
 en:
 es:
@@ -1966,7 +1966,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Ei-Schlüpfgeschwindigkeit
 el:
 en:
 es:
@@ -2006,7 +2006,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Gebe die Daten deiner Kreatur für maximale Nahrung und aktuelle Nahrung ein.
 el:
 en:
 es:
@@ -2046,7 +2046,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Bevorzugtes Kibble
 el:
 en:
 es:
@@ -2086,7 +2086,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Feedback
 el:
 en:
 es:
@@ -2126,7 +2126,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Feedback, Vorschläge und bug reports können unterhalb mitgeteilt werden oder an @danlev auf Twitter gesendet werden. Entwicklung von neuen Features ist priorisiert und basiert auf der Menge an interessierten Nutzern.
 el:
 en:
 es:
@@ -2166,7 +2166,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Folge Dododex für updates, Ark: Survival Evolved Neuigkeiten und GIFs von twerkenden Dodos.
 el:
 en:
 es:
@@ -2206,7 +2206,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Essen / Nahrung
 el:
 en:
 es:
@@ -2246,7 +2246,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Essen/ Nahrung
 el:
 en:
 es:
@@ -2285,7 +2285,7 @@ bg:
 bs:
 ca:
 cs:
-da:
+da: Komplettes Diagramm
 de:
 el:
 en:
@@ -2326,7 +2326,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Sammeleffektivität 
 el:
 en:
 es:
@@ -2366,7 +2366,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Bewertungen der Sammeleffektivität
 el:
 en:
 es:
@@ -2406,7 +2406,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Hat Dododex dir geholfen? Hilf anderen Dododex zu finden, indem du es im App Store bewertest.
 el:
 en:
 es:
@@ -2446,7 +2446,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Kopf
 el:
 en:
 es:
@@ -2486,7 +2486,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Kopfschüsse & Modifikatoren
 el:
 en:
 es:
@@ -2526,7 +2526,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Gesundheit
 el:
 en:
 es:
@@ -2566,7 +2566,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Wie Zähmen durch Aushungern funktioniert
 el:
 en:
 es:
@@ -2606,7 +2606,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Idealtemperatur für die Inkubation
 el:
 en:
 es:
@@ -2646,7 +2646,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Wenn eine Kreatur angegriffen wird während des normalen Zähmens, kann man die gesamte Nahrung, die es verzehrt hat, verlieren. Ebenso das, welches noch im Inventar liegt. Zähmen durch Aushungern verändert nicht die Effizienz des Zähmens
 el:
 en:
 es:
@@ -2686,7 +2686,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Wenn es NICHT angezeigt wird.
 el:
 en:
 es:
@@ -2726,7 +2726,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Wenn der "Bis zum Verhungern"-Countdown angezeigt WIRD
 el:
 en:
 es:
@@ -2765,7 +2765,7 @@ bg:
 bs:
 ca:
 cs:
-da:
+da: Beeinflusst die Nahkampfwaffen
 de:
 el:
 en:
@@ -2806,7 +2806,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Bei der normalen Zähmvariante schlägst du eine Kreatur bewusstlos und legst sofort die gesamte benötigte Nahrung in sein Inventar, damit die Kreatur ein Stück verzehrt, sobald sie hungrig genug ist. Mit Zähmen durch Aushungern wartest du, nachdem du die Kreatur KO geschlagen hast. Wenn die Kreatur hungrig genug ist die gesamte Nahrung auf einmal zu verzehren, fängst du an sie zu füttern.
 el:
 en:
 es:
@@ -2846,7 +2846,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Anstieg pro Level
 el:
 en:
 es:
@@ -2886,7 +2886,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Inkubation
 el:
 en:
 es:
@@ -2926,7 +2926,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: jugendlich
 el:
 en:
 es:
@@ -2966,7 +2966,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Kibble
 el:
 en:
 es:
@@ -3006,7 +3006,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Kibble-Flussdiagramm
 el:
 en:
 es:
@@ -3045,7 +3045,7 @@ bg:
 bs:
 ca:
 cs:
-da:
+da: hergestelltes Kibble
 de:
 el:
 en:
@@ -3086,7 +3086,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: KO schlagen
 el:
 en:
 es:
@@ -3126,7 +3126,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Level /Lvl
 el:
 en:
 es:
@@ -3166,7 +3166,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Karten
 el:
 en:
 es:
@@ -3206,7 +3206,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Paarungsintervall
 el:
 en:
 es:
@@ -3246,7 +3246,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Paarungsintervall
 el:
 en:
 es:
@@ -3285,7 +3285,7 @@ bg:
 bs:
 ca:
 cs:
-da:
+da: Max
 de:
 el:
 en:
@@ -3326,7 +3326,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Max. nach dem Training
 el:
 en:
 es:
@@ -3366,7 +3366,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Maximale Nahrungsmenge
 el:
 en:
 es:
@@ -3406,7 +3406,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Nahkampfwaffenschaden
 el:
 en:
 es:
@@ -3446,7 +3446,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Nahkampfschaden
 el:
 en:
 es:
@@ -3486,7 +3486,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Mehr
 el:
 en:
 es:
@@ -3526,7 +3526,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Multiplikator
 el:
 en:
 es:
@@ -3566,7 +3566,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Meine Waffen & Kreaturen
 el:
 en:
 es:
@@ -3606,7 +3606,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Name
 el:
 en:
 es:
@@ -3646,7 +3646,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Benötigtes Narkosemittel
 el:
 en:
 es:
@@ -3685,8 +3685,8 @@ bg:
 bs:
 ca:
 cs:
-da:
-de:
+da: 
+de:Sauerstoff
 el:
 en:
 es:
@@ -3726,7 +3726,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Schwangerschaft
 el:
 en:
 es:
@@ -3766,7 +3766,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Primär //Primärattacke 
 el:
 en:
 es:
@@ -3806,7 +3806,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: hergestellt von
 el:
 en:
 es:
@@ -3846,7 +3846,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Punkte / pkt
 el:
 en:
 es:
@@ -3886,7 +3886,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Rate
 el:
 en:
 es:
@@ -3926,7 +3926,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Dododex bewerten
 el:
 en:
 es:
@@ -3966,7 +3966,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Diese Kreatur bewerten
 el:
 en:
 es:
@@ -4006,7 +4006,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Bewertungen (Sterne) von fünf. Erfasst von {{x[}} Dododex Nutzern. //3 out of 5 Rating = 3 von 5 Sternen 
 el:
 en:
 es:
@@ -4046,7 +4046,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Rezepte & Farbstoffe
 el:
 en:
 es:
@@ -4086,7 +4086,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Datenfehler melden
 el:
 en:
 es:
@@ -4126,7 +4126,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Timer zurücksetzen
 el:
 en:
 es:
@@ -4166,7 +4166,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Timer wieder starten
 el:
 en:
 es:
@@ -4206,7 +4206,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Sattel
 el:
 en:
 es:
@@ -4246,7 +4246,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: sekundär
 el:
 en:
 es:
@@ -4286,7 +4286,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Einstellungen
 el:
 en:
 es:
@@ -4326,7 +4326,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Einstellungen / Multiplikatoren
 el:
 en:
 es:
@@ -4366,7 +4366,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Servermultiplikatoren
 el:
 en:
 es:
@@ -4406,7 +4406,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Schale
 el:
 en:
 es:
@@ -4446,7 +4446,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Komplette Details anzeigen
 el:
 en:
 es:
@@ -4486,7 +4486,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Stamina
 el:
 en:
 es:
@@ -4526,7 +4526,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Starte den Timer. Dododex ist nun synchronisiert mit der Nahrungsmenge deiner Kreatur.
 el:
 en:
 es:
@@ -4566,7 +4566,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Timer starten
 el:
 en:
 es:
@@ -4606,7 +4606,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Zähmen durch Aushungern reduziert das Risiko von Ressourcenverlust dadurch, dass die Kreatur erst gefüttert wird, wenn sie hungrig genug ist, alles auf einmal zu verzehren (oder so viel wie sie kann). Sobald du die Nahrung ausgewählt hast, mit der du zähmst, gebe die aktuelle und maximale Nahrungsmenge deiner Kreatur ein und starte den Timer.
 el:
 en:
 es:
@@ -4646,7 +4646,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Timer bis zum Verhungern
 el:
 en:
 es:
@@ -4686,7 +4686,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Stat
 el:
 en:
 es:
@@ -4726,7 +4726,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Stats
 el:
 en:
 es:
@@ -4766,7 +4766,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: gezähmt
 el:
 en:
 es:
@@ -4806,7 +4806,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Zähmen
 el:
 en:
 es:
@@ -4846,7 +4846,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: zähmen
 el:
 en:
 es:
@@ -4886,7 +4886,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Zähm-Rechner
 el:
 en:
 es:
@@ -4926,7 +4926,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Effektivität des Zähmens
 el:
 en:
 es:
@@ -4965,7 +4965,7 @@ bg:
 bs:
 ca:
 cs:
-da:
+da: Zähmgeschwindigkeit
 de:
 el:
 en:
@@ -5006,7 +5006,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Zeit
 el:
 en:
 es:
@@ -5046,7 +5046,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Timer
 el:
 en:
 es:
@@ -5086,7 +5086,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Timer
 el:
 en:
 es:
@@ -5126,7 +5126,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Um Multiplikatoren für unoffizielle Server zu ändern, benutze "Einstellungen" ganz unten.
 el:
 en:
 es:
@@ -5166,7 +5166,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Am besten bewertete Sammler
 el:
 en:
 es:
@@ -5206,7 +5206,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Beste Ressourcen
 el:
 en:
 es:
@@ -5246,7 +5246,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Trägheits-Timer
 el:
 en:
 es:
@@ -5286,7 +5286,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Gesamte benötigte Zeit bis zum Erwachsenwerden
 el:
 en:
 es:
@@ -5326,7 +5326,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Gesamte Zeit
 el:
 en:
 es:
@@ -5366,7 +5366,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Klicke auf ein Nahrungsmittel unterhalb, um ausschließlich diese Nahrung zu benutzen.
 el:
 en:
 es:
@@ -5406,7 +5406,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Gebe die Level ein anstatt ein Auswahlmenü zu nutzen.
 el:
 en:
 es:
@@ -5446,7 +5446,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: bis
 el:
 en:
 es:
@@ -5486,7 +5486,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: benutze
 el:
 en:
 es:
@@ -5526,7 +5526,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Benutze den Text-Input für die Levelauswahl.
 el:
 en:
 es:
@@ -5566,7 +5566,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Benutzt Nahkampfschaden
 el:
 en:
 es:
@@ -5606,7 +5606,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Den Timer benutzen.
 el:
 en:
 es:
@@ -5646,7 +5646,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Einstellungen ansehen, um den Charakter-Nahkampfschaden zu ändern.
 el:
 en:
 es:
@@ -5686,7 +5686,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Bewerte & schlage Features vor
 el:
 en:
 es:
@@ -5726,7 +5726,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Waffenschaden
 el:
 en:
 es:
@@ -5766,7 +5766,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Waffen
 el:
 en:
 es:
@@ -5806,7 +5806,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Gewicht 
 el:
 en:
 es:
@@ -5846,7 +5846,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Wiki Seite
 el:
 en:
 es:
@@ -5886,7 +5886,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Wiki Shortcuts & Links
 el:
 en:
 es:
@@ -5926,7 +5926,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Mit Zähmbonus
 el:
 en:
 es:
@@ -5966,7 +5966,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: XP fürs Töten
 el:
 en:
 es:
@@ -6006,7 +6006,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Deine Kreatur
 el:
 en:
 es:
@@ -6046,7 +6046,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Die maximale Nahrung deiner Kreatur ist nicht hoch genug, damit sie alle benötigte Nahrung auf einmal verzehrt. Der "BIS VERHUNGERT" countdown zeigt wann der Nahrungsmege deiner Kreatur 0 erreicht. Sobald er nahe 0 ist, füttere die Kreatur mit so viel Nahrung, wie sie verzehren kann und führe dann die normale Zähmvariante fort.
 el:
 es:
 et:
@@ -6084,7 +6084,7 @@ bs:
 ca:
 cs:
 da:
-de:
+de: Deine Kratur hat eine genügend hohe Maximal-Nahrungsmenge, um die benötigte Nahrung auf einmal zu verzehren. Wenn der "BIS VERHUNGERT"-Timer nahe 0 ist, fange an zu füttern.
 el:
 en:
 es:
