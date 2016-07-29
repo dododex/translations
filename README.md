@@ -10,6 +10,8 @@ Look at the English version of a phrase, and then add a translation directly bel
 
 Some phrases have comments (indicated with a `//`) to clarify their context. This comment does not need to be translated and should not be inculded in the translated version of the phrase.
 
+Special (non-Latin) characters such as ä or 渡 can be inserted into the file directly without translating them to HTML entities (don't use `&auml;` or `&#x6E21;`).
+
 If you are unsure of any translation, please do not add it. Instead, open an Issue (detailed below) to discuss the correct translation.
 
 ### 3. Submit your changes
