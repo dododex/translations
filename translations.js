@@ -13,7 +13,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Le "dressage par la faim" est une méthode que certains survivants utilisent pour minimiser le risque de perdre des ressources lors du dressage.
 hr:
 hu:
 hi:
@@ -53,7 +53,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Points "gaspillés"
 hr:
 hu:
 hi:
@@ -93,7 +93,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Les créatures sauvages obtiennent un point de caractéristique à chaque niveau. Chacun de ces points est assigné à une caractéristique au hasard. La Vitesse ne pouvant être améliorée à l'état sauvage, les points lui étant assignés seront perdus, "gaspillés". Pour les creatures marines, les points pour l'Oxygène n'étant pas applicables, ils seront aussi perdus.
 hr:
 hu:
 hi:
@@ -133,7 +133,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: À propos
 hr:
 hu:
 hi:
@@ -173,7 +173,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: À propos / Retours
 hr:
 hu:
 hi:
@@ -213,7 +213,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: À propos du dressage par la faim
 hr:
 hu:
 hi:
@@ -253,7 +253,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Ajouter
 hr:
 hu:
 hi:
@@ -293,7 +293,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Ajoutez un nom personnalisé pour identifier cette arme.
 hr:
 hu:
 hi:
@@ -333,7 +333,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Ajoutez vos propres armes et créatures avec des dommages personnalisés pour personnaliser les estimations de KO de Dododex.
 hr:
 hu:
 hi:
@@ -373,7 +373,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Ajustez les multiplicateurs pour les reglages des serveurs non-officiels. (Gardez les multiplicateurs à 1 pour les serveurs officiels.)
 hr:
 hu:
 hi:
@@ -413,7 +413,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Adolescent
 hr:
 hu:
 hi:
@@ -453,7 +453,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Adult
 hr:
 hu:
 hi:
@@ -493,7 +493,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Avancé
 hr:
 hu:
 hi:
@@ -533,7 +533,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Affecté par
 hr:
 hu:
 hi:
@@ -573,7 +573,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Alarme (min. avant)
 hr:
 hu:
 hi:
@@ -613,7 +613,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Impacte aussi sur la vitesse de gestation
 hr:
 hu:
 hi:
@@ -653,7 +653,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Aussi préféré par
 hr:
 hu:
 hi:
@@ -693,7 +693,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Quantité par utilisation
 hr:
 hu:
 hi:
@@ -733,7 +733,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Réglages de l'application
 hr:
 hu:
 hi:
@@ -773,7 +773,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Bébé
 hr:
 hu:
 hi:
@@ -813,7 +813,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Vitesse de maturation des bébés
 hr:
 hu:
 hi:
@@ -853,7 +853,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Retour
 hr:
 hu:
 hi:
@@ -893,7 +893,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Initial
 hr:
 hu:
 hi:
@@ -933,7 +933,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Avantages
 hr:
 hu:
 hi:
@@ -973,7 +973,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Élevage
 hr:
 hu:
 hi:
@@ -1013,7 +1013,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Élevage
 hr:
 hu:
 hi:
@@ -1053,7 +1053,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Calculateur
 hr:
 hu:
 hi:
@@ -1093,7 +1093,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Peut endommager
 hr:
 hu:
 hi:
@@ -1133,7 +1133,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Transportable par
 hr:
 hu:
 hi:
@@ -1173,7 +1173,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Créatures transportables
 hr:
 hu:
 hi:
@@ -1213,7 +1213,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Tableau des créatures transportables
 hr:
 hu:
 hi:
@@ -1253,7 +1253,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Risque de mort
 hr:
 hu:
 hi:
@@ -1293,7 +1293,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Réglages du joueur
 hr:
 hu:
 hi:
@@ -1333,7 +1333,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Charge
 hr:
 hu:
 hi:
@@ -1373,7 +1373,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Vérifier les nouvelles données
 hr:
 hu:
 hi:
@@ -1413,7 +1413,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Comparaison
 hr:
 hu:
 hi:
@@ -1453,7 +1453,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Conscient
 hr:
 hu:
 hi:
@@ -1493,7 +1493,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Vitesse de consommation
 hr:
 hu:
 hi:
@@ -1533,7 +1533,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Marmite
 hr:
 hu:
 hi:
@@ -1573,7 +1573,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Conçu dans
 hr:
 hu:
 hi:
@@ -1613,7 +1613,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Niveau actuel de faim
 hr:
 hu:
 hi:
@@ -1653,7 +1653,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Niveau actuel
 hr:
 hu:
 hi:
@@ -1693,7 +1693,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Tableau des modififications de dégâts
 hr:
 hu:
 hi:
@@ -1733,7 +1733,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Supprimer
 hr:
 hu:
 hi:
@@ -1773,7 +1773,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Détails
 hr:
 hu:
 hi:
@@ -1813,7 +1813,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Dododex vérifie automatiquement les nouvelles données, mais vous pouvez choisir de forcer Dododex à télécharger les dernières données maintenant (l'application se rafraîchira).
 hr:
 hu:
 hi:
@@ -1853,7 +1853,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Dododex est développé à Los Angeles par Dan Leveille. Les données et calculs sont basées sur l'Ark Dev Kit. Remerciements à Crumplecorn.com et à l'Official Ark Wiki pour les recherches additionnelles et les calculs.
 hr:
 hu:
 hi:
@@ -1893,7 +1893,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Les données de Dododex sont constamment mises à jour et testées pour leur exactitude. Reportez chaque inexactitude assurera la correction de ces erreurs le plus vite possible et Dododex restera exact.
 hr:
 hu:
 hi:
@@ -1933,7 +1933,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Modifier les armes
 hr:
 hu:
 hi:
@@ -1973,7 +1973,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Vitesse d'éclosion de l'œuf
 hr:
 hu:
 hi:
@@ -2013,7 +2013,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Entrez le niveau maximum de faim et le niveau actuel de faim de votre créature.
 hr:
 hu:
 hi:
@@ -2053,7 +2053,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Croquette préférée
 hr:
 hu:
 hi:
@@ -2093,7 +2093,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Retours
 hr:
 hu:
 hi:
@@ -2133,7 +2133,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Retours, suggestions et reports de bugs peuvent être partagés en dessous ou tweetés à @danlev sur Twitter. Le développement de nouvelles fonctionnalitées est prioritairement basé sur l'intérêt des utilisateurs.
 hr:
 hu:
 hi:
