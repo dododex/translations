@@ -2173,7 +2173,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Suivez Dododex pour des mises à jour, des nouveautés sur Ark: Survival Evolved et des GIFs de dodos qui twerkent.
 hr:
 hu:
 hi:
@@ -2213,7 +2213,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Nourriture
 hr:
 hu:
 hi:
@@ -2253,7 +2253,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Nourriture
 hr:
 hu:
 hi:
@@ -2293,7 +2293,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Tableau complet
 hr:
 hu:
 hi:
@@ -2333,7 +2333,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Efficacité de récolte
 hr:
 hu:
 hi:
@@ -2373,7 +2373,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Note d'efficacité de récolte
 hr:
 hu:
 hi:
@@ -2413,7 +2413,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Dododex vous a-t-il aidé ? Aidez les autres à connaître Dododex en notant l'application dans l'App Store.
 hr:
 hu:
 hi:
@@ -2453,7 +2453,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Tête
 hr:
 hu:
 hi:
@@ -2493,7 +2493,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Headshots & modifications
 hr:
 hu:
 hi:
@@ -2533,7 +2533,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Santé
 hr:
 hu:
 hi:
@@ -2573,7 +2573,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Comment le dressage par la faim fonctionne
 hr:
 hu:
 hi:
@@ -2613,7 +2613,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Température idéale d'incubation
 hr:
 hu:
 hi:
@@ -2653,7 +2653,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Si une créature est attaquée au milieu d'un dressage normal, vous risquez de perdre toute la nourriture qui a été consommée en plus de ce qui est dans son inventaire. Le dressage par la faim n'impacte pas sur l'efficacité du dressage.
 hr:
 hu:
 hi:
@@ -2693,7 +2693,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Si il n'est PAS affiché
 hr:
 hu:
 hi:
@@ -2733,7 +2733,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Si le compteur "Jusqu'à affamé" EST affiché
 hr:
 hu:
 hi:
@@ -2773,7 +2773,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Affecte les armes de mêlée
 hr:
 hu:
 hi:
@@ -2813,7 +2813,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Dans la méthode normale de dressage, vous assommez la créature et placez immédiatemment toute la nourriturre requise dans son inventaire et elle mangera un ingrédient à la fois lorsqu'elle aura assez faim. Avec le dressage par la faim, une fois la créature inconsciente, vous attendez simplement avant de nourrir ou de donner des narcotiques. Lorsque la créature aura assez faim pour manger toute la nourriture d'un coup, vous pouvez commencer à la nourrir.
 hr:
 hu:
 hi:
@@ -2853,7 +2853,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Augmentation par niveau
 hr:
 hu:
 hi:
@@ -2893,7 +2893,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Incubation
 hr:
 hu:
 hi:
@@ -2933,7 +2933,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Juvénile
 hr:
 hu:
 hi:
@@ -2973,7 +2973,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Croquette
 hr:
 hu:
 hi:
@@ -3013,7 +3013,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Organigramme des croquettes
 hr:
 hu:
 hi:
@@ -3053,7 +3053,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Croquette produite
 hr:
 hu:
 hi:
@@ -3093,7 +3093,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Assommage
 hr:
 hu:
 hi:
@@ -3133,7 +3133,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Niveau
 hr:
 hu:
 hi:
@@ -3173,7 +3173,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Carte
 hr:
 hu:
 hi:
@@ -3213,7 +3213,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Intervalle d'accouplement
 hr:
 hu:
 hi:
@@ -3253,7 +3253,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Intervalle d'accouplement
 hr:
 hu:
 hi:
@@ -3293,7 +3293,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Max
 hr:
 hu:
 hi:
@@ -3333,7 +3333,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Max après entraînement
 hr:
 hu:
 hi:
@@ -3373,7 +3373,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Valeur max de nourriture
 hr:
 hu:
 hi:
@@ -3413,7 +3413,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Dégâts de mêlée
 hr:
 hu:
 hi:
@@ -3453,7 +3453,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Dégâts de mêlée
 hr:
 hu:
 hi:
@@ -3493,7 +3493,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Autre
 hr:
 hu:
 hi:
@@ -3533,7 +3533,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Multiplicateur
 hr:
 hu:
 hi:
@@ -3573,7 +3573,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Mes armes & créatures
 hr:
 hu:
 hi:
@@ -3613,7 +3613,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Nom
 hr:
 hu:
 hi:
@@ -3653,7 +3653,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Narcotiques requis
 hr:
 hu:
 hi:
@@ -3693,7 +3693,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Oxygène
 hr:
 hu:
 hi:
@@ -3733,7 +3733,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Grossesse
 hr:
 hu:
 hi:
@@ -3773,7 +3773,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Primaire
 hr:
 hu:
 hi:
@@ -3813,7 +3813,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Produit par
 hr:
 hu:
 hi:
@@ -3853,7 +3853,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Pts
 hr:
 hu:
 hi:
@@ -3893,7 +3893,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Déplétion
 hr:
 hu:
 hi:
@@ -3933,7 +3933,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Noter Dododex
 hr:
 hu:
 hi:
@@ -3973,7 +3973,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Noter cette créature
 hr:
 hu:
 hi:
@@ -4013,7 +4013,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Notes sur 5. Collectées avec {{x}} utilisateurs de Dododex
 hr:
 hu:
 hi:
@@ -4053,7 +4053,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Recettes & Colorants
 hr:
 hu:
 hi:
@@ -4093,7 +4093,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Signaler une erreur
 hr:
 hu:
 hi:
@@ -4133,7 +4133,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Réinitialiser le minuteur
 hr:
 hu:
 hi:
@@ -4173,7 +4173,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: 
 hr:
 hu:
 hi:
@@ -4213,7 +4213,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Selle
 hr:
 hu:
 hi:
@@ -4253,7 +4253,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Secondaire
 hr:
 hu:
 hi:
@@ -4293,7 +4293,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Réglages
 hr:
 hu:
 hi:
@@ -4333,7 +4333,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Réglages / Multijoueur
 hr:
 hu:
 hi:
@@ -4373,7 +4373,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Multiplicateurs de serveur
 hr:
 hu:
 hi:
@@ -4413,7 +4413,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Carapace
 hr:
 hu:
 hi:
@@ -4453,7 +4453,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Voir tous les détails
 hr:
 hu:
 hi:
@@ -4493,7 +4493,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Énergie
 hr:
 hu:
 hi:
@@ -4533,7 +4533,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Lancer le minuteur. Dododex est maintenant synchronisé avec la faim de votre créature.
 hr:
 hu:
 hi:
@@ -4573,7 +4573,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Lancer le minuteur
 hr:
 hu:
 hi:
@@ -4613,7 +4613,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Le dressage par la faim réduit les risques de perdre des ressources en nourrissant la créature seulement quand elle a assez faim pour tout manger d'un coup (du moins, manger autant qu'elle peut). Une fois que vous avez choisi la nourriture pour le dressage, entrer la valeur actuelle et maximum de nourriture de la créature, puis lancez le minuteur.
 hr:
 hu:
 hi:
@@ -4653,7 +4653,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Minuteur de faim
 hr:
 hu:
 hi:
@@ -4693,7 +4693,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Statistiques
 hr:
 hu:
 hi:
@@ -4733,7 +4733,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Statistiques
 hr:
 hu:
 hi:
@@ -4773,7 +4773,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Dressé
 hr:
 hu:
 hi:
@@ -4813,7 +4813,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Dressage
 hr:
 hu:
 hi:
@@ -4853,7 +4853,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Dressage
 hr:
 hu:
 hi:
@@ -4893,7 +4893,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Calculateur de dressage
 hr:
 hu:
 hi:
@@ -4933,7 +4933,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Efficacité de dressage
 hr:
 hu:
 hi:
@@ -4973,7 +4973,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Vitesse de dressage
 hr:
 hu:
 hi:
@@ -5013,7 +5013,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Temps
 hr:
 hu:
 hi:
@@ -5053,7 +5053,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Minuteurs
 hr:
 hu:
 hi:
@@ -5093,7 +5093,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Minuteurs
 hr:
 hu:
 hi:
@@ -5133,7 +5133,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Pour personnaliser les multiplicateurs de dressage pour les serveurs non-officiels, appuyez sur "réglages" tout en bas de votre écran.
 hr:
 hu:
 hi:
@@ -5173,7 +5173,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Créatures les mieux notées
 hr:
 hu:
 hi:
@@ -5213,7 +5213,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Meilleures ressources
 hr:
 hu:
 hi:
@@ -5253,7 +5253,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Minuteur de torpeur
 hr:
 hu:
 hi:
@@ -5293,7 +5293,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Temps total de maturation
 hr:
 hu:
 hi:
@@ -5333,7 +5333,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Temps total
 hr:
 hu:
 hi:
@@ -5373,7 +5373,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Appuyez sur un type de nourriture pour rapidement l'utiliser exclusivement.
 hr:
 hu:
 hi:
@@ -5413,7 +5413,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Rentrer le niveau plutôt que d'utiliser un sélecteur.
 hr:
 hu:
 hi:
@@ -5453,7 +5453,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Jusqu'à
 hr:
 hu:
 hi:
@@ -5493,7 +5493,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Utiliser
 hr:
 hu:
 hi:
@@ -5533,7 +5533,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Utiliser du texte plutôt qu'un sélecteur de niveau
 hr:
 hu:
 hi:
@@ -5573,7 +5573,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Utilise les dégâts de mêlée
 hr:
 hu:
 hi:
@@ -5613,7 +5613,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Utilise le minuteur
 hr:
 hu:
 hi:
@@ -5653,7 +5653,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Allez dans les réglages pour changer les dégâts de mêlée du joueur.
 hr:
 hu:
 hi:
@@ -5693,7 +5693,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Evaluer & suggérer des fonctionnalités
 hr:
 hu:
 hi:
@@ -5733,7 +5733,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Dégâts d'arme
 hr:
 hu:
 hi:
@@ -5773,7 +5773,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Armes
 hr:
 hu:
 hi:
@@ -5813,7 +5813,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Poids
 hr:
 hu:
 hi:
@@ -5853,7 +5853,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Page Wiki
 hr:
 hu:
 hi:
@@ -5893,7 +5893,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Raccourcis Wiki & Liens
 hr:
 hu:
 hi:
@@ -5933,7 +5933,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Avec le bonus de dressage
 hr:
 hu:
 hi:
@@ -5973,7 +5973,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: XP pour tuer
 hr:
 hu:
 hi:
@@ -6013,7 +6013,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Votre créature
 hr:
 hu:
 hi:
@@ -6052,7 +6052,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Votre créature n'a pas assez de Valeur Max de Nourriture pour manger toute la nourriture requise d'un coup. Le minuteur "Jusqu'à affamé" indique quand la Nourriture de votre créature atteint 0. Lorsqu'elle est proche de 0, nourrissez-la autant qu'elle peut manger, puis continuez avec la méthode normale de dressage.
 hr:
 hu:
 hi:
@@ -6091,7 +6091,7 @@ es:
 et:
 fa:
 fi:
-fr:
+fr: Votre créature a une Valeur Max de Nourriture suffisante pour manger toute la nourriture requise quand elle aura assez faim. Lorsque le minuteur "Jusqu'à affamé" est proche de 0, commencez à la nourrir !
 hr:
 hu:
 hi:
