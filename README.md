@@ -4,7 +4,7 @@ Dododex is being translated to 39+ languages. The translation will begin on Gith
 
 ## HOW TO CONTRIBUTE
 
-### 1. Open [translations.js](translations.js) and click "Edit."
+### 1. Open [translations.txt](translations.txt) and click "Edit."
 ### 2. Add translations
 Look at the English version of a phrase, and then add a translation directly below it next to the language code of your language (codes listed below). It's best to translate from English to your language, as other languages may not yet be verified.
 
@@ -16,6 +16,8 @@ If you are unsure of any translation, please do not add it. Instead, open an Iss
 
 ### 3. Submit your changes
 This will be submitted as a [pull request](https://help.github.com/articles/using-pull-requests/) and will be approved.
+
+(If you have any trouble with these instructions, but still want to help, please contact me at dan14lev at gmail.com!)
 
 ## NOTES
 
