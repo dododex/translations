@@ -180,6 +180,15 @@ incrementPickerBy:"Increment level picker by"
 serverMultiplerNote:"(Official servers are typically 4. Official The Center servers are 5.)"
 noTimers:"You do not currently have any times running. "
 timerNote:"When you start a timer, it will be available here — even when you close Dododex."
+effects:"Effects",
+craftTime:"Craft Time",
+duration:"Duration",
+spoilsIn:"Spoils In",
+quantity:"Quantity",
+consumables:"Consumables",
+dyes:"Dyes",
+resources:"Resources",
+social:"Social"
 },
 fr:{
 aboutStarveIntro:"",
@@ -362,7 +371,16 @@ damageXP:"",
 incrementPickerBy:"",
 serverMultiplerNote:"",
 noTimers:"",
-timerNote:""
+timerNote:"",
+effects:"",
+craftTime:"",
+duration:"",
+spoilsIn:"",
+quantity:"",
+consumables:"",
+dyes:"",
+resources:"",
+social:""
 },
 de:{
 aboutStarveIntro:"\"Zähmen durch Aushungern\" ist eine Technik, die manche Überlebende benutzen, um das Risiko eines Ressourcenverlusts während des Zähmens zu minimieren.",
@@ -544,5 +562,14 @@ damageXP:"",
 incrementPickerBy:"",
 serverMultiplerNote:"",
 noTimers:"",
-timerNote:""
+timerNote:"",
+effects:"Effects",
+craftTime:"Craft Time",
+duration:"Duration",
+spoilsIn:"Spoils In",
+quantity:"Quantity",
+consumables:"Consumables",
+dyes:"Dyes",
+resources:"Resources",
+social:"Social"
 }}
