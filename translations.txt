@@ -1,3198 +1,548 @@
-"Starve Taming" is a technique some survivors use to minimize risk of losing resources while taming a creature.
-de: "Zähmen durch Aushungern" ist eine Technik, die manche Überlebende benutzen, um das Risiko eines Ressourcenverlusts während des Zähmens zu minimieren. 
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-"Wasted" Points // Context: Points given to the stat Movement Speed are wasted.
-de: "Verlorene" Punkte
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-* Wild creatures are given a stat point for each level. Each of these points are assigned to a random stat. Since Movement Speed is never upgraded in the wild, any points assigned to it will be "wasted" and discarded. For swimming creatures, Oxygen is not applicable, so these stats will also be discarded.
-de: Wilde Kreaturen bekommen einen Charakter-Punkt für jedes Level. Jeder von diesen Punkten wird einer zufälligen Eigenschaft zugewiesen. Weil Bewegungsgeschwindigkeit von wilden Kreaturen niemals erhöht wird, sind alle Punkte hierfür "verloren" und werden verworfen. Schwimmende Kreaturen bekommen keine Punkte auf Sauerstoff, weshalb diese Punkte ebenfalls verworfen werden.
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-About
-de: Über
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-About / Feedback
-da: Über / Feedback
-de:
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-About Starve Taming
-de: Über Zähmen durch Aushungern
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Add // Context: Add this weapon
-de: Hinzufügen // Add this weapon -> Füge diese (this) Waffe(weapon) hinzu.
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Add a custom name to identify this weapon.
-de: Füge einen eigenen Namen hinzu, um diese Waffe zu identifizieren.
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Add your own weapons and creatures with custom damage to personalize Dododex&#39;s knock out estimates.
-de: Füge deine eigenen Waffen hinzu und Kreaturen mit verändertem Schaden um Dododex KO-Zeit-Berechnungen zu personalisieren.
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Adjust multipliers for unofficial server settings. (Keep multipliers at 1 for official servers.)
-de: Verändere die Multiplikatioren für unoffizielle Servereinstellungen. (Multiplikatoren auf 1 gesetzt lassen für offizielle Server)
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Adolescent
-de: Jugendlicher
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Adult
-de: Erwachsener
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Advanced
-de: fortgeschritten
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Affected by // Context: This creature is affected by 
-de: betroffen von
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Alarm (mins. before)
-de: Alarm (min. bevor) / Wecker (min. bevor)
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Also impacts gestation speed
-de: Beeinflusst auch die Schwangerschaftsgeschwindigkeit 
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Also Preferred By
-de: Auch bevorzugt von
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Amount Per Use // Context: Amount of narcotics used each time you press the button
-de: Menge pro Nutzung
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-App Settings
-de: App Einstellungen
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Baby
-de: Baby
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Baby Mature Speed
-de: Baby-Wachstumsgeschwindkeit / Geschwindigkeit bis das Baby erwachsen ist
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Back // Context: Back button
-de: Zurück
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Base // Context: Base level
-de: Basis
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Benefits
-de: Vorteile
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Breeding
-de: Zucht (from the Breeding)
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Breeding
-de: züchten (from to breed)
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Calculator
-da: Rechner
-de:
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Can damage // Context: This creature can damage stone
-de: kann beschädigen // Diese(this) Kreatur(creature) kann Stein(stone) beschädigen
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Carryable by // Context: This creature is carryable by a quetzal
-de: Tragbar von
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Carryable Creatures
-de: Tragbare Kreaturen
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Carryable creatures chart
-de: Diagramm der tragbaren Kreaturen
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Chance of Death
-da: Todeschance
-de:
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Character settings
-de: Charaktereinstellungen
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Charge // Context: Pachy charge attack
-de: Kopfstoß 
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Check for new data
-de: Nach neuen Daten überprüfen
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Comparison 
-de: Vergleich
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Concious // Context: Creature will become concious when its torpor depletes
-de: wach
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Consumption Speed
-de: Konsumgeschwindigkeit
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Cooking Pot
-de: Kochtopf
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Crafted in
-de: Hergestellt in
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Current food value
-de: Wert des hergestellen Essens
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Current lvl
-de: Aktuelles Level
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Damage modifier chart
-de: Schadensmodifikationsdiagramm
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Delete
-de: Löschen
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Details
-de: Details
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Dododex automatically checks for data updates for you, but you can choose to force Dododex to download the latest data right now (app will refresh).
-de: Dododex sucht automatisch nach neuen Datenupdates für dich, aber du kannst Dododex die neusten Daten jetzt herunterladen lassen (App wird neugeladen)
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Dododex is developed in Los Angeles by Dan Leveille. Data and calculations are based on the Ark Dev Kit. Special thanks to Crumplecorn.com and the Official Ark Wiki for the additional research and calculations.
-de: Dodoex wird in Los Angeles von Dan Leveille entwickelt. Daten und Rechnungen basieren auf dem Ark Dev Kit. Speziellen Dank an Crumplecorn.com und das Official Ark Wiki für zusätzliche Nachforschungen und Rechnungen.
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Dododex's data is constantly updated and tested for accuracy. Reporting any inaccuracies will ensure that errors are fixed more quickly and Dododex stays accurate.
-de: Dododex Daten werden konstant geupdatet und auf ihre Richtigkeit überprüft. Das Melden von Ungenauigkeiten stellt sicher, dass Fehler schneller behoben werden und Dodox genau bleibt.
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Edit Weapons
-de: Waffen ändern
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Egg Hatch Speed
-de: Ei-Schlüpfgeschwindigkeit
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Enter your creature's Max Food Value and Current Food Value.
-de: Gebe die Daten deiner Kreatur für maximale Nahrung und aktuelle Nahrung ein.
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Favourite Kibble
-de: Bevorzugtes Kibble
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Feedback
-de: Feedback
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Feedback, suggestions, and bug reports can be shared below or tweeted to @danlev on Twitter. Development of new features is prioritized based on amount of user interest.
-de: Feedback, Vorschläge und bug reports können unterhalb mitgeteilt werden oder an @danlev auf Twitter gesendet werden. Entwicklung von neuen Features ist priorisiert und basiert auf der Menge an interessierten Nutzern.
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Follow Dododex for updates, Ark: Survival Evolved news, and GIFs of dodos twerking.
-de: Folge Dododex für updates, Ark: Survival Evolved Neuigkeiten und GIFs von twerkenden Dodos.
-es:
-et:
-fa:
-fi:
-fr: Suivez Dododex pour des mises à jour, des nouveautés sur Ark: Survival Evolved et des GIFs de dodos qui twerkent.
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Food
-de: Essen / Nahrung
-es:
-et:
-fa:
-fi:
-fr: Nourriture
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Full chart
-da: Komplettes Diagramm
-de:
-es:
-et:
-fa:
-fi:
-fr: Tableau complet
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Gathering Efficiency
-de: Sammeleffektivität 
-es:
-et:
-fa:
-fi:
-fr: Efficacité de récolte
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Gathering Efficiency Ratings
-de: Bewertungen der Sammeleffektivität
-es:
-et:
-fa:
-fi:
-fr: Note d'efficacité de récolte
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Has Dododex helped you? Help others find Dododex by ratings the app in the App Store.
-de: Hat Dododex dir geholfen? Hilf anderen Dododex zu finden, indem du es im App Store bewertest.
-es:
-et:
-fa:
-fi:
-fr: Dododex vous a-t-il aidé ? Aidez les autres à connaître Dododex en notant l'application dans l'App Store.
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Head
-de: Kopf
-es:
-et:
-fa:
-fi:
-fr: Tête
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Headshots & Modifiers
-de: Kopfschüsse & Modifikatoren
-es:
-et:
-fa:
-fi:
-fr: Headshots & modifications
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Health
-de: Gesundheit
-es:
-et:
-fa:
-fi:
-fr: Santé
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-How starve taming works
-de: Wie Zähmen durch Aushungern funktioniert
-es:
-et:
-fa:
-fi:
-fr: Comment le dressage par la faim fonctionne
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Ideal incubation temperature // Context: Egg incubation
-de: Idealtemperatur für die Inkubation
-es:
-et:
-fa:
-fi:
-fr: Température idéale d'incubation
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-If a creature is attacked in the middle of the normal taming method, you could lose all of the food that it had consumed as well as whatever was in its inventory. Starve taming does not impact Taming Effectiveness.
-de: Wenn eine Kreatur angegriffen wird während des normalen Zähmens, kann man die gesamte Nahrung, die es verzehrt hat, verlieren. Ebenso das, welches noch im Inventar liegt. Zähmen durch Aushungern verändert nicht die Effizienz des Zähmens
-es:
-et:
-fa:
-fi:
-fr: Si une créature est attaquée au milieu d'un dressage normal, vous risquez de perdre toute la nourriture qui a été consommée en plus de ce qui est dans son inventaire. Le dressage par la faim n'impacte pas sur l'efficacité du dressage.
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-If it IS NOT displayed
-de: Wenn es NICHT angezeigt wird.
-es:
-et:
-fa:
-fi:
-fr: Si il n'est PAS affiché
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-If the UNTIL STARVED countdown IS displayed
-de: Wenn der "Bis zum Verhungern"-Countdown angezeigt WIRD
-es:
-et:
-fa:
-fi:
-fr: Si le compteur "Jusqu'à affamé" EST affiché
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Impacts melee weapons.
-da: Beeinflusst die Nahkampfwaffen
-de:
-es:
-et:
-fa:
-fi:
-fr: Affecte les armes de mêlée
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-In the normal taming method, you knock a creature out and immediately place all of the required food in its inventory and it will eat one at a time as it gets hungry enough. With starve taming, once the creature is knocked out, you simply wait before feeding it any food or Narcotics. Once the creature is hungry enough to eat all of the food at once, then you begin feeding it.         
-de: Bei der normalen Zähmvariante schlägst du eine Kreatur bewusstlos und legst sofort die gesamte benötigte Nahrung in sein Inventar, damit die Kreatur ein Stück verzehrt, sobald sie hungrig genug ist. Mit Zähmen durch Aushungern wartest du, nachdem du die Kreatur KO geschlagen hast. Wenn die Kreatur hungrig genug ist die gesamte Nahrung auf einmal zu verzehren, fängst du an sie zu füttern.
-es:
-et:
-fa:
-fi:
-fr: Dans la méthode normale de dressage, vous assommez la créature et placez immédiatemment toute la nourriturre requise dans son inventaire et elle mangera un ingrédient à la fois lorsqu'elle aura assez faim. Avec le dressage par la faim, une fois la créature inconsciente, vous attendez simplement avant de nourrir ou de donner des narcotiques. Lorsque la créature aura assez faim pour manger toute la nourriture d'un coup, vous pouvez commencer à la nourrir.
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Inc. per lvl
-de: Anstieg pro Level
-es:
-et:
-fa:
-fi:
-fr: Augmentation par niveau
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Incubation
-de: Inkubation
-es:
-et:
-fa:
-fi:
-fr: Incubation
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Juvenile
-de: jugendlich
-es:
-et:
-fa:
-fi:
-fr: Juvénile
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Kibble
-de: Kibble
-es:
-et:
-fa:
-fi:
-fr: Croquette
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Kibble flow chart
-de: Kibble-Flussdiagramm
-es:
-et:
-fa:
-fi:
-fr: Organigramme des croquettes
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Kibble Produced
-da: hergestelltes Kibble
-de:
-es:
-et:
-fa:
-fi:
-fr: Croquette produite
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Knock out
-de: KO schlagen
-es:
-et:
-fa:
-fi:
-fr: Assommage
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Lvl
-de: Level /Lvl
-es:
-et:
-fa:
-fi:
-fr: Niveau
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Maps
-de: Karten
-es:
-et:
-fa:
-fi:
-fr: Carte
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Mating interval // Context: Interval to wait in between mating
-de: Paarungsintervall
-es:
-et:
-fa:
-fi:
-fr: Intervalle d'accouplement
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Max
-da: Max
-de:
-es:
-et:
-fa:
-fi:
-fr: Max
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Max after training // Context: Max level after training
-de: Max. nach dem Training
-es:
-et:
-fa:
-fi:
-fr: Max après entraînement
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Max food value
-de: Maximale Nahrungsmenge
-es:
-et:
-fa:
-fi:
-fr: Valeur max de nourriture
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Melee Damage
-de: Nahkampfwaffenschaden
-es:
-et:
-fa:
-fi:
-fr: Dégâts de mêlée
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Melee damage
-de: Nahkampfschaden
-es:
-et:
-fa:
-fi:
-fr: Dégâts de mêlée
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-More // Context: More info about this creature
-de: Mehr
-es:
-et:
-fa:
-fi:
-fr: Autre
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Multiplier
-de: Multiplikator
-es:
-et:
-fa:
-fi:
-fr: Multiplicateur
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-My weapons & creatures
-de: Meine Waffen & Kreaturen
-es:
-et:
-fa:
-fi:
-fr: Mes armes & créatures
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Name // Context: Name of your creature
-de: Name
-es:
-et:
-fa:
-fi:
-fr: Nom
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Narcotics needed
-de: Benötigtes Narkosemittel
-es:
-et:
-fa:
-fi:
-fr: Narcotiques requis
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Oxygen
-da: 
-de: Sauerstoff
-es:
-et:
-fa:
-fi:
-fr: Narcotiques requis
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Pregnancy
-de: Schwangerschaft
-es:
-et:
-fa:
-fi:
-fr: Grossesse
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Primary // Context: Primary attack
-de: Primär //Primärattacke 
-es:
-et:
-fa:
-fi:
-fr: Primaire
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Produced By
-de: hergestellt von
-es:
-et:
-fa:
-fi:
-fr: Produit par
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-pts //points
-de: Punkte / pkt
-es:
-et:
-fa:
-fi:
-fr: Pts
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Rate // Context: Rate of which the creature's torpor decreases
-de: Rate
-es:
-et:
-fa:
-fi:
-fr: Déplétion
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Rate Dododex
-de: Dododex bewerten
-es:
-et:
-fa:
-fi:
-fr: Noter Dododex
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Rate this creature 
-de: Diese Kreatur bewerten
-es:
-et:
-fa:
-fi:
-fr: Noter cette créature
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Ratings out of 5. Collected from {{x}} Dododex users.
-de: Bewertungen (Sterne) von fünf. Erfasst von {{x[}} Dododex Nutzern. //3 out of 5 Rating = 3 von 5 Sternen 
-es:
-et:
-fa:
-fi:
-fr: Notes sur 5. Collectées avec {{x}} utilisateurs de Dododex
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Recipes & Dyes
-de: Rezepte & Farbstoffe
-es:
-et:
-fa:
-fi:
-fr: Recettes & Colorants
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Report Data Error
-de: Datenfehler melden
-es:
-et:
-fa:
-fi:
-fr: Signaler une erreur
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Reset timer
-de: Timer zurücksetzen
-es:
-et:
-fa:
-fi:
-fr: Réinitialiser le minuteur
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Resume timer
-de: Timer wieder starten
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Retry
-de:
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Saddle
-de: Sattel
-es:
-et:
-fa:
-fi:
-fr: Selle
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Secondary
-de: sekundär
-es:
-et:
-fa:
-fi:
-fr: Secondaire
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Settings
-de: Einstellungen
-es:
-et:
-fa:
-fi:
-fr: Réglages
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Settings / Multipliers
-de: Einstellungen / Multiplikatoren
-es:
-et:
-fa:
-fi:
-fr: Réglages / Multijoueur
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Sever Multipliers
-de: Servermultiplikatoren
-es:
-et:
-fa:
-fi:
-fr: Multiplicateurs de serveur
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Shell
-de: Schale
-es:
-et:
-fa:
-fi:
-fr: Carapace
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Show full details
-de: Komplette Details anzeigen
-es:
-et:
-fa:
-fi:
-fr: Voir tous les détails
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Sorry, there was an issue loading Dododex's creature data. Please check your network connection or try again in a few moments.
-de: 
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Stamina
-de: Stamina
-es:
-et:
-fa:
-fi:
-fr: Énergie
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Start the timer. Dododex is now synced with your creature's food value.
-de: Starte den Timer. Dododex ist nun synchronisiert mit der Nahrungsmenge deiner Kreatur.
-es:
-et:
-fa:
-fi:
-fr: Lancer le minuteur. Dododex est maintenant synchronisé avec la faim de votre créature.
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Start timer
-de: Timer starten
-es:
-et:
-fa:
-fi:
-fr: Lancer le minuteur
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Starve taming reduces the risk of losing resources by feeding a creature only once it is hungry enough to eat everything at once (or, eat as much as it can). Once you\'ve selected the food you\'ll be taming with, enter the creature\'s current and max food values, then start the timer.
-de: Zähmen durch Aushungern reduziert das Risiko von Ressourcenverlust dadurch, dass die Kreatur erst gefüttert wird, wenn sie hungrig genug ist, alles auf einmal zu verzehren (oder so viel wie sie kann). Sobald du die Nahrung ausgewählt hast, mit der du zähmst, gebe die aktuelle und maximale Nahrungsmenge deiner Kreatur ein und starte den Timer.
-es:
-et:
-fa:
-fi:
-fr: Le dressage par la faim réduit les risques de perdre des ressources en nourrissant la créature seulement quand elle a assez faim pour tout manger d'un coup (du moins, manger autant qu'elle peut). Une fois que vous avez choisi la nourriture pour le dressage, entrer la valeur actuelle et maximum de nourriture de la créature, puis lancez le minuteur.
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Starve Timer
-de: Timer bis zum Verhungern
-es:
-et:
-fa:
-fi:
-fr: Minuteur de faim
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Stat
-de: Stat
-es:
-et:
-fa:
-fi:
-fr: Statistiques
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Stats
-de: Stats
-es:
-et:
-fa:
-fi:
-fr: Statistiques
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Tamed // Context: Time until tamed
-de: gezähmt
-es:
-et:
-fa:
-fi:
-fr: Dressé
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Taming
-de: Zähmen
-es:
-et:
-fa:
-fi:
-fr: Dressage
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Taming calculator
-de: Zähm-Rechner
-es:
-et:
-fa:
-fi:
-fr: Calculateur de dressage
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Taming Effectiveness
-de: Effektivität des Zähmens
-es:
-et:
-fa:
-fi:
-fr: Efficacité de dressage
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Taming Speed
-da: Zähmgeschwindigkeit
-de:
-es:
-et:
-fa:
-fi:
-fr: Vitesse de dressage
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Time
-de: Zeit
-es:
-et:
-fa:
-fi:
-fr: Temps
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Timers
-de: Timer
-es:
-et:
-fa:
-fi:
-fr: Minuteurs
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Timers
-de: Timer
-es:
-et:
-fa:
-fi:
-fr: Minuteurs
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-To customize taming multipliers for unofficial servers, tap "settings" at the very bottom of any screen.
-de: Um Multiplikatoren für unoffizielle Server zu ändern, benutze "Einstellungen" ganz unten.
-es:
-et:
-fa:
-fi:
-fr: Pour personnaliser les multiplicateurs de dressage pour les serveurs non-officiels, appuyez sur "réglages" tout en bas de votre écran.
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Top rated gatherers
-de: Am besten bewertete Sammler
-es:
-et:
-fa:
-fi:
-fr: Créatures les mieux notées
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Top resources
-de: Beste Ressourcen
-es:
-et:
-fa:
-fi:
-fr:
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Torpor Timer
-de: Trägheits-Timer
-es:
-et:
-fa:
-fi:
-fr: Minuteur de torpeur
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Total maturation // Context: Total time require to mature
-de: Gesamte benötigte Zeit bis zum Erwachsenwerden
-es:
-et:
-fa:
-fi:
-fr:  Temps total de maturation
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Total Time
-de: Gesamte Zeit
-es:
-et:
-fa:
-fi:
-fr: Temps total
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Try tapping on any food item below to quickly use that food exclusively.
-de: Klicke auf ein Nahrungsmittel unterhalb, um ausschließlich diese Nahrung zu benutzen.
-es:
-et:
-fa:
-fi:
-fr: Appuyez sur un type de nourriture pour rapidement l'utiliser exclusivement.
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Type in levels rather than using a picker.
-de: Gebe die Level ein anstatt ein Auswahlmenü zu nutzen.
-es:
-et:
-fa:
-fi:
-fr: Rentrer le niveau plutôt que d'utiliser un sélecteur.
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Until
-de: bis
-es:
-et:
-fa:
-fi:
-fr: Jusqu'à
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Use // Context: Use this food
-de: benutze
-es:
-et:
-fa:
-fi:
-fr: Utiliser
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Use text input for level selector
-de: Benutze den Text-Input für die Levelauswahl.
-es:
-et:
-fa:
-fi:
-fr: Utiliser du texte plutôt qu'un sélecteur de niveau
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Uses Melee Damage
-de: Benutzt Nahkampfschaden
-es:
-et:
-fa:
-fi:
-fr: Utilise les dégâts de mêlée
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Using the timer
-de: Den Timer benutzen.
-es:
-et:
-fa:
-fi:
-fr: Utilise le minuteur
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Visit Settings to change Character Melee Damage
-de: Einstellungen ansehen, um den Charakter-Nahkampfschaden zu ändern.
-es:
-et:
-fa:
-fi:
-fr: Allez dans les réglages pour changer les dégâts de mêlée du joueur.
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Vote On & Suggest Features
-de: Bewerte & schlage Features vor
-es:
-et:
-fa:
-fi:
-fr: Evaluer & suggérer des fonctionnalités
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Weapon damage
-de: Waffenschaden
-es:
-et:
-fa:
-fi:
-fr: Dégâts d'arme
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Weapons
-de: Waffen
-es:
-et:
-fa:
-fi:
-fr: Armes
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Weight
-de: Gewicht 
-es:
-et:
-fa:
-fi:
-fr: Poids
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Wiki page
-de: Wiki Seite
-es:
-et:
-fa:
-fi:
-fr: Page Wiki
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Wiki Shortcuts & Links
-de: Wiki Shortcuts & Links
-es:
-et:
-fa:
-fi:
-fr:
-hr: Raccourcis Wiki & Liens
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-With taming bonus
-de: Mit Zähmbonus
-es:
-et:
-fa:
-fi:
-fr: Avec le bonus de dressage
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-XP for killing
-de: XP fürs Töten
-es:
-et:
-fa:
-fi:
-fr: XP pour tuer
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Your creature // Context: Your creature has the following stats:
-de: Deine Kreatur
-es:
-et:
-fa:
-fi:
-fr: Votre créature
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Your creature does not have a high enough Max Food Value to eat all of its required food at once. The UNTIL STARVED countdown indicates when your creature's Food Value will reach 0. Once it is nearing 0, feed it all it can eat, and then continue with the normal method of taming.
-de: Die maximale Nahrung deiner Kreatur ist nicht hoch genug, damit sie alle benötigte Nahrung auf einmal verzehrt. Der "BIS VERHUNGERT" countdown zeigt wann der Nahrungsmege deiner Kreatur 0 erreicht. Sobald er nahe 0 ist, füttere die Kreatur mit so viel Nahrung, wie sie verzehren kann und führe dann die normale Zähmvariante fort.
-es:
-et:
-fi:
-fr: Votre créature n'a pas assez de Valeur Max de Nourriture pour manger toute la nourriture requise d'un coup. Le minuteur "Jusqu'à affamé" indique quand la Nourriture de votre créature atteint 0. Lorsqu'elle est proche de 0, nourrissez-la autant qu'elle peut manger, puis continuez avec la méthode normale de dressage.
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
-Your creature has a high enough Max Food Value to eat all of its required food once it's hungry enough. When the UNTIL TAMED timer is nearing 0, start feeding!de: Deine Kratur hat eine genügend hohe Maximal-Nahrungsmenge, um die benötigte Nahrung auf einmal zu verzehren. Wenn der "BIS VERHUNGERT"-Timer nahe 0 ist, fange an zu füttern.
-es:
-et:
-fi:
-fr: Votre créature a une Valeur Max de Nourriture suffisante pour manger toute la nourriture requise quand elle aura assez faim. Lorsque le minuteur "Jusqu'à affamé" est proche de 0, commencez à la nourrir !
-hr:
-hu:
-it:
-he:
-ko:
-nb:
-nl:
-pl:
-pt:
-ru:
-sv:
-th:
-tr:
-zh:
+var translations = {en:{
+aboutStarveIntro:"\"Starve Taming\" is a technique some survivors use to minimize risk of losing resources while taming a creature.",
+wastedPoints:"\"Wasted\" Points",
+statCalcNote:"Wild creatures are given a stat point for each level. Each of these points are assigned to a random stat. Since Movement Speed is never upgraded in the wild, any points assigned to it will be \"wasted\" and discarded. For swimming creatures, Oxygen is not applicable, so these stats will also be discarded.",
+about:"About",
+aboutFeedback:"About / Feedback",
+aboutStarve:"About Starve Taming",
+add:"Add",
+addCustomWeaponName:"Add a custom name to identify this weapon.",
+addWeapons:"Add your own weapons and creatures with custom damage to personalize Dododex&#39;s knock out estimates.",
+adjustMultipliers:"Adjust multipliers for unofficial server settings. (Keep multipliers at 1 for official servers.)",
+adolescent:"Adolescent",
+adult:"Adult",
+advanced:"Advanced",
+affectedBy:"Affected by",
+alarmMins:"Alarm (mins. before)",
+alsoImpactsGestationSpeed:"Also impacts gestation speed",
+alsoPreferredBy:"Also Preferred By",
+amountPerUse:"Amount Per Use",
+appSettings:"App Settings",
+baby:"Baby",
+babyMatureSpeed:"Baby Mature Speed",
+back:"Back",
+base:"Base",
+benefits:"Benefits",
+breeding:"Breeding",
+calculator:"Calculator",
+canDamage:"Can damage",
+carryableBy:"Carryable by",
+carryableCreatures:"Carryable Creatures",
+carryableCreaturesChart:"Carryable creatures chart",
+chanceOfDeath:"Chance of Death",
+characterSettings:"Character settings",
+charge:"Charge",
+checkForNewData:"Check for new data",
+comparison:"Comparison ",
+concious:"Concious",
+consumptionSpeed:"Consumption Speed",
+cookingPot:"Cooking Pot",
+craftedIn:"Crafted in",
+currentFoodValue:"Current food value",
+currentLvl:"Current lvl",
+damageModifierChart:"Damage modifier chart",
+delete:"Delete",
+details:"Details",
+aboutDataUpdate:"Dododex automatically checks for data updates for you, but you can choose to force Dododex to download the latest data right now (app will refresh).",
+aboutApp:"Dododex is developed in Los Angeles by Dan Leveille. Data and calculations are based on the Ark Dev Kit. Special thanks to Crumplecorn.com and the Official Ark Wiki for the additional research and calculations.",
+aboutData:"Dododex's data is constantly updated and tested for accuracy. Reporting any inaccuracies will ensure that errors are fixed more quickly and Dododex stays accurate.",
+editWeapons:"Edit Weapons",
+eggHatchSpeed:"Egg Hatch Speed",
+aboutStarveUsing1:"Enter your creature's Max Food Value and Current Food Value.",
+favouriteKibble:"Favourite Kibble",
+feedback:"Feedback",
+feedbackSuggestions:"Feedback, suggestions, and bug reports can be shared below or tweeted to @danlev on Twitter. Development of new features is prioritized based on amount of user interest.",
+followDododex:"Follow Dododex for updates, Ark: Survival Evolved news, and GIFs of dodos twerking.",
+food:"Food",
+fullChart:"Full chart",
+gatheringEfficiency:"Gathering Efficiency",
+gatheringEfficiencyRatings:"Gathering Efficiency Ratings",
+rateApp:"Has Dododex helped you? Help others find Dododex by ratings the app in the App Store.",
+head:"Head",
+headshotsModifiers:"Headshots & Modifiers",
+health:"Health",
+howStarveTamingWorks:"How starve taming works",
+idealIncubationTemp:"Ideal incubation temperature",
+aboutStarveBenefits:"If a creature is attacked in the middle of the normal taming method, you could lose all of the food that it had consumed as well as whatever was in its inventory. Starve taming does not impact Taming Effectiveness.",
+aboutStarveUntilIsNotHead:"If it IS NOT displayed",
+aboutStarveUntilIsHead:"If the UNTIL STARVED countdown IS displayed",
+impactsMeleeWeapons:"Impacts melee weapons.",
+aboutStarveMethod:"In the normal taming method, you knock a creature out and immediately place all of the required food in its inventory and it will eat one at a time as it gets hungry enough. With starve taming, once the creature is knocked out, you simply wait before feeding it any food or Narcotics. Once the creature is hungry enough to eat all of the food at once, then you begin feeding it.         ",
+incPerLvl:"Inc. per lvl",
+incubation:"Incubation",
+juvenile:"Juvenile",
+kibble:"Kibble",
+kibbleFlowChart:"Kibble flow chart",
+kibbleProduced:"Kibble Produced",
+knockOut:"Knock out",
+lvl:"Lvl",
+maps:"Maps",
+matingInterval:"Mating interval",
+max:"Max",
+maxAfterTraining:"Max after training",
+maxFoodValue:"Max food value",
+meleeDamage:"Melee damage",
+more:"More",
+multiplier:"Multiplier",
+myWeaponsCreatures:"My weapons & creatures",
+name:"Name",
+narcoticsNeeded:"Narcotics needed",
+oxygen:"Oxygen",
+pauseTimer:"Pause Timer",
+pregnancy:"Pregnancy",
+preferredBy:"Preferred By",
+primary:"Primary",
+producedBy:"Produced By",
+pts:"pts",
+rate:"Rate",
+rateDododex:"Rate Dododex",
+rateThisCreature:"Rate this creature",
+ratingsNote:"Ratings out of 5. Collected from {{x}} Dododex users.",
+recipesDyes:"Recipes & Dyes",
+reportDataError:"Report Data Error",
+resetTimer:"Reset timer",
+resumeTimer:"Resume timer",
+retry:"Retry",
+saddle:"Saddle",
+secondary:"Secondary",
+settings:"Settings",
+settingsMultipliers:"Settings / Multipliers",
+severMultipliers:"Sever Multipliers",
+shell:"Shell",
+showFullDetails:"Show full details",
+errorLoading:"Sorry, there was an issue loading Dododex's creature data. Please check your network connection or try again in a few moments.",
+stamina:"Stamina",
+aboutStarveUsing2:"Start the timer. Dododex is now synced with your creature's food value.",
+startTimer:"Start timer",
+starveReducesRisk:"Starve taming reduces the risk of losing resources by feeding a creature only once it is hungry enough to eat everything at once (or, eat as much as it can). Once you've selected the food you'll be taming with, enter the creature's current and max food values, then start the timer.",
+starveTimer:"Starve Timer",
+stat:"Stat",
+stats:"Stats",
+tamed:"Tamed",
+taming:"Taming",
+tamingCalculator:"Taming calculator",
+tamingEffectiveness:"Taming Effectiveness",
+tamingSpeed:"Taming Speed",
+time:"Time",
+timers:"Timers",
+toCustomizeMult:"To customize taming multipliers for unofficial servers, tap \"settings\" at the very bottom of any screen.",
+topRatedGatherers:"Top rated gatherers",
+topResources:"Top resources",
+torporTimer:"Torpor Timer",
+totalMaturation:"Total maturation",
+totalTime:"Total Time",
+tryTappingOn:"Try tapping on any food item below to quickly use that food exclusively.",
+typeInLevels:"Type in levels rather than using a picker.",
+until:"Until",
+use:"Use",
+useTextInput:"Use text input for level selector",
+usesMeleeDamage:"Uses Melee Damage",
+usingTheTimer:"Using the timer",
+meleeNote:"Visit Settings to change Character Melee Damage",
+suggestFeatures:"Vote On & Suggest Features",
+weaponDamage:"Weapon damage",
+weapons:"Weapons",
+weight:"Weight",
+wikiPage:"Wiki page",
+shortcutsLinks:"Wiki Shortcuts & Links",
+shortcuts:"Shortcuts",
+withBonus:"With taming bonus",
+xpk:"XP for killing",
+yourCreature:"Your creature",
+aboutStarveUntilIs:"Your creature does not have a high enough Max Food Value to eat all of its required food at once. The UNTIL STARVED countdown indicates when your creature's Food Value will reach 0. Once it is nearing 0, feed it all it can eat, and then continue with the normal method of taming.",
+aboutStarveUntilIsNot:"Your creature has a high enough Max Food Value to eat all of its required food once it's hungry enough. When the UNTIL TAMED timer is nearing 0, start feeding!"
+minimumTime:"Minimum Time"
+comparisonNote:"How the base stats (lvl 1) rank against other creatures."
+pauseTimer:"Pause Timer"
+narcotics:"Narcotics"
+average:"Average"
+belowAverage:"Below Average"
+aboveAverage:"Above Average"
+non-violent:"Non-violent"
+ratedForGathering:"Rated #{{x}} for gathering"
+hide:"Hide"
+dataAccuracy:"Data Accuracy"
+engramPoints:"Engram Points"
+wild:"Wild"
+perLvl:"Per Lvl"
+patchNotes:"Patch Notes"
+entityIDs:"Entity IDs"
+hideFullDetails:"Hide Full Details"
+beaconLocations:"Beacon Locations"
+beaconItems:"Beacon Items"
+arkSteamForums:"Ark Steam Forums"
+levelUpYourDodo…dex:"Level Up Your Dodo…dex"
+proDescription:"Enjoy an ad-free version of Dododex with all the features you already love."
+upgradeToPro:"Upgrade to Dododex Pro"
+restorePurchases:"Restore Purchases"
+damageXP:"Damage & XP"
+incrementPickerBy:"Increment level picker by"
+serverMultiplerNote:"(Official servers are typically 4. Official The Center servers are 5.)"
+noTimers:"You do not currently have any times running. "
+timerNote:"When you start a timer, it will be available here — even when you close Dododex."
+},
+fr:{
+aboutStarveIntro:"",
+wastedPoints:"",
+statCalcNote:"",
+about:"",
+aboutFeedback:"",
+aboutStarve:"",
+add:"",
+addCustomWeaponName:"",
+addWeapons:"",
+adjustMultipliers:"",
+adolescent:"",
+adult:"",
+advanced:"",
+affectedBy:"",
+alarmMins:"",
+alsoImpactsGestationSpeed:"",
+alsoPreferredBy:"",
+amountPerUse:"",
+appSettings:"",
+baby:"",
+babyMatureSpeed:"",
+back:"",
+base:"",
+benefits:"",
+breeding:"",
+calculator:"",
+canDamage:"",
+carryableBy:"",
+carryableCreatures:"",
+carryableCreaturesChart:"",
+chanceOfDeath:"",
+characterSettings:"",
+charge:"",
+checkForNewData:"",
+comparison:"",
+concious:"",
+consumptionSpeed:"",
+cookingPot:"",
+craftedIn:"",
+currentFoodValue:"",
+currentLvl:"Niveau actuel",
+damageModifierChart:"",
+delete:"",
+details:"",
+aboutDataUpdate:"",
+aboutApp:"",
+aboutData:"",
+editWeapons:"Modifier les armes",
+eggHatchSpeed:"",
+aboutStarveUsing1:"",
+favouriteKibble:"",
+feedback:"",
+feedbackSuggestions:"",
+followDododex:"Suivez Dododex pour des mises à jour, des nouveautés sur Ark: Survival Evolved et des GIFs de dodos qui twerkent.",
+food:"Nourriture",
+fullChart:"Tableau complet",
+gatheringEfficiency:"Efficacité de récolte",
+gatheringEfficiencyRatings:"Note d'efficacité de récolte",
+rateApp:"Dododex vous a-t-il aidé ? Aidez les autres à connaître Dododex en notant l'application dans l'App Store.",
+head:"Tête",
+headshotsModifiers:"Headshots & modifications",
+health:"Santé",
+howStarveTamingWorks:"Comment le dressage par la faim fonctionne",
+idealIncubationTemp:"Température idéale d'incubation",
+aboutStarveBenefits:"Si une créature est attaquée au milieu d'un dressage normal, vous risquez de perdre toute la nourriture qui a été consommée en plus de ce qui est dans son inventaire. Le dressage par la faim n'impacte pas sur l'efficacité du dressage.",
+aboutStarveUntilIsNotHead:"Si il n'est PAS affiché",
+aboutStarveUntilIsHead:"Si le compteur \"Jusqu'à affamé\" EST affiché",
+impactsMeleeWeapons:"Affecte les armes de mêlée",
+aboutStarveMethod:"Dans la méthode normale de dressage, vous assommez la créature et placez immédiatemment toute la nourriturre requise dans son inventaire et elle mangera un ingrédient à la fois lorsqu'elle aura assez faim. Avec le dressage par la faim, une fois la créature inconsciente, vous attendez simplement avant de nourrir ou de donner des narcotiques. Lorsque la créature aura assez faim pour manger toute la nourriture d'un coup, vous pouvez commencer à la nourrir.",
+incPerLvl:"Augmentation par niveau",
+incubation:"Incubation",
+juvenile:"Juvénile",
+kibble:"Croquette",
+kibbleFlowChart:"Organigramme des croquettes",
+kibbleProduced:"Croquette produite",
+knockOut:"Assommage",
+lvl:"Niveau",
+maps:"Carte",
+matingInterval:"Intervalle d'accouplement",
+max:"Max",
+maxAfterTraining:"Max après entraînement",
+maxFoodValue:"Valeur max de nourriture",
+meleeDamage:"Dégâts de mêlée",
+more:"Autre",
+multiplier:"Multiplicateur",
+myWeaponsCreatures:"Mes armes & créatures",
+name:"Nom",
+narcoticsNeeded:"Narcotiques requis",
+oxygen:"Narcotiques requis",
+pauseTimer:"Pause minuterie",
+pregnancy:"Grossesse",
+preferredBy:"",
+primary:"Primaire",
+producedBy:"Produit par",
+pts:"Pts",
+rate:"Déplétion",
+rateDododex:"Noter Dododex",
+rateThisCreature:"Noter cette créature",
+ratingsNote:"Notes sur 5. Collectées avec {{x}} utilisateurs de Dododex",
+recipesDyes:"Recettes & Colorants",
+reportDataError:"Signaler une erreur",
+resetTimer:"Réinitialiser le minuteur",
+resumeTimer:"",
+retry:"",
+saddle:"Selle",
+secondary:"Secondaire",
+settings:"Réglages",
+settingsMultipliers:"Réglages / Multijoueur",
+severMultipliers:"Multiplicateurs de serveur",
+shell:"Carapace",
+showFullDetails:"Voir tous les détails",
+errorLoading:"",
+stamina:"Énergie",
+aboutStarveUsing2:"Lancer le minuteur. Dododex est maintenant synchronisé avec la faim de votre créature.",
+startTimer:"Lancer le minuteur",
+starveReducesRisk:"Le dressage par la faim réduit les risques de perdre des ressources en nourrissant la créature seulement quand elle a assez faim pour tout manger d'un coup (du moins, manger autant qu'elle peut). Une fois que vous avez choisi la nourriture pour le dressage, entrer la valeur actuelle et maximum de nourriture de la créature, puis lancez le minuteur.",
+starveTimer:"Minuteur de faim",
+stat:"Statistiques",
+stats:"Statistiques",
+tamed:"Dressé",
+taming:"Dressage",
+tamingCalculator:"Calculateur de dressage",
+tamingEffectiveness:"Efficacité de dressage",
+tamingSpeed:"Vitesse de dressage",
+time:"Temps",
+timers:"Minuteurs",
+toCustomizeMult:"Pour personnaliser les multiplicateurs de dressage pour les serveurs non-officiels, appuyez sur \"réglages\" tout en bas de votre écran.",
+topRatedGatherers:"Créatures les mieux notées",
+topResources:"",
+torporTimer:"Minuteur de torpeur",
+totalMaturation:"Temps total de maturation",
+totalTime:"Temps total",
+tryTappingOn:"Appuyez sur un type de nourriture pour rapidement l'utiliser exclusivement.",
+typeInLevels:"Rentrer le niveau plutôt que d'utiliser un sélecteur.",
+until:"Jusqu'à",
+use:"Utiliser",
+useTextInput:"Utiliser du texte plutôt qu'un sélecteur de niveau",
+usesMeleeDamage:"Utilise les dégâts de mêlée",
+usingTheTimer:"Utilise le minuteur",
+meleeNote:"Allez dans les réglages pour changer les dégâts de mêlée du joueur.",
+suggestFeatures:"Evaluer & suggérer des fonctionnalités",
+weaponDamage:"Dégâts d'arme",
+weapons:"Armes",
+weight:"Poids",
+wikiPage:"Page Wiki",
+shortcutsLinks:"Raccourcis Wiki & Liens",
+shortcuts:""
+withBonus:"Avec le bonus de dressage",
+xpk:"XP pour tuer",
+yourCreature:"Votre créature",
+aboutStarveUntilIs:"Votre créature n'a pas assez de Valeur Max de Nourriture pour manger toute la nourriture requise d'un coup. Le minuteur \"Jusqu'à affamé\" indique quand la Nourriture de votre créature atteint 0. Lorsqu'elle est proche de 0, nourrissez-la autant qu'elle peut manger, puis continuez avec la méthode normale de dressage.",
+aboutStarveUntilIsNot:"Votre créature a une Valeur Max de Nourriture suffisante pour manger toute la nourriture requise quand elle aura assez faim. Lorsque le minuteur \"Jusqu'à affamé\" est proche de 0, commencez à la nourrir !"
+minimumTime:"",
+comparisonNote:"",
+pauseTimer:"",
+narcotics:"",
+average:"",
+belowAverage:"",
+aboveAverage:"",
+non:"",
+ratedForGathering:"",
+hide:"",
+dataAccuracy:"",
+engramPoints:"",
+wild:"",
+perLvl:"",
+patchNotes:"",
+entityIDs:"",
+hideFullDetails:"",
+beaconLocations:"",
+beaconItems:"",
+arkSteamForums:"",
+levelUpYourDodo…dex:"",
+proDescription:"",
+upgradeToPro:"",
+restorePurchases:"",
+damageXP:"",
+incrementPickerBy:"",
+serverMultiplerNote:"",
+noTimers:"",
+timerNote:""
+},
+de:{
+aboutStarveIntro:"\"Zähmen durch Aushungern\" ist eine Technik, die manche Überlebende benutzen, um das Risiko eines Ressourcenverlusts während des Zähmens zu minimieren.",
+wastedPoints:"\"Verlorene\" Punkte",
+statCalcNote:"Wilde Kreaturen bekommen einen Charakter-Punkt für jedes Level. Jeder von diesen Punkten wird einer zufälligen Eigenschaft zugewiesen. Weil Bewegungsgeschwindigkeit von wilden Kreaturen niemals erhöht wird, sind alle Punkte hierfür \"verloren\" und werden verworfen. Schwimmende Kreaturen bekommen keine Punkte auf Sauerstoff, weshalb diese Punkte ebenfalls verworfen werden.",
+about:"Über",
+aboutFeedback:"Über / Feedback",
+aboutStarve:"Über Zähmen durch Aushungern",
+add:"Hinzufügen // Add this weapon -> Füge diese (this) Waffe(weapon) hinzu.",
+addCustomWeaponName:"Füge einen eigenen Namen hinzu, um diese Waffe zu identifizieren.",
+addWeapons:"Füge deine eigenen Waffen hinzu und Kreaturen mit verändertem Schaden um Dododex KO-Zeit-Berechnungen zu personalisieren.",
+adjustMultipliers:"Verändere die Multiplikatioren für unoffizielle Servereinstellungen. (Multiplikatoren auf 1 gesetzt lassen für offizielle Server)",
+adolescent:"Jugendlicher",
+adult:"Erwachsener",
+advanced:"fortgeschritten",
+affectedBy:"betroffen von",
+alarmMins:"Alarm (min. bevor) / Wecker (min. bevor)",
+alsoImpactsGestationSpeed:"Beeinflusst auch die Schwangerschaftsgeschwindigkeit ",
+alsoPreferredBy:"Bevorzugt von",
+amountPerUse:"Menge pro Nutzung",
+appSettings:"App Einstellungen",
+baby:"Baby",
+babyMatureSpeed:"Baby-Wachstumsgeschwindkeit / Geschwindigkeit bis das Baby erwachsen ist",
+back:"Zurück",
+base:"Basis",
+benefits:"Vorteile",
+breeding:"Zucht",
+calculator:"Rechner",
+canDamage:"kann beschädigen",
+carryableBy:"Tragbar von",
+carryableCreatures:"Tragbare Kreaturen",
+carryableCreaturesChart:"Diagramm der tragbaren Kreaturen",
+chanceOfDeath:"Todeschance",
+characterSettings:"Charaktereinstellungen",
+charge:"Kopfstoß ",
+checkForNewData:"Nach neuen Daten überprüfen",
+comparison:"Vergleich",
+concious:"wach",
+consumptionSpeed:"Konsumgeschwindigkeit",
+cookingPot:"Kochtopf",
+craftedIn:"Hergestellt in",
+currentFoodValue:"Wert des hergestellen Essens",
+currentLvl:"Aktuelles Level",
+damageModifierChart:"Schadensmodifikationsdiagramm",
+delete:"Löschen",
+details:"Details",
+aboutDataUpdate:"Dododex sucht automatisch nach neuen Datenupdates für dich, aber du kannst Dododex die neusten Daten jetzt herunterladen lassen (App wird neugeladen)",
+aboutApp:"Dodoex wird in Los Angeles von Dan Leveille entwickelt. Daten und Rechnungen basieren auf dem Ark Dev Kit. Speziellen Dank an Crumplecorn.com und das Official Ark Wiki für zusätzliche Nachforschungen und Rechnungen.",
+aboutData:"Dododex Daten werden konstant geupdatet und auf ihre Richtigkeit überprüft. Das Melden von Ungenauigkeiten stellt sicher, dass Fehler schneller behoben werden und Dodox genau bleibt.",
+editWeapons:"Waffen ändern",
+eggHatchSpeed:"Ei-Schlüpfgeschwindigkeit",
+aboutStarveUsing1:"Gebe die Daten deiner Kreatur für maximale Nahrung und aktuelle Nahrung ein.",
+favouriteKibble:"Bevorzugtes Kibble",
+feedback:"Feedback",
+feedbackSuggestions:"Feedback, Vorschläge und bug reports können unterhalb mitgeteilt werden oder an @danlev auf Twitter gesendet werden. Entwicklung von neuen Features ist priorisiert und basiert auf der Menge an interessierten Nutzern.",
+followDododex:"Folge Dododex für updates, Ark: Survival Evolved Neuigkeiten und GIFs von twerkenden Dodos.",
+food:"Essen / Nahrung",
+fullChart:"Komplettes Diagramm",
+gatheringEfficiency:"Sammeleffektivität ",
+gatheringEfficiencyRatings:"Bewertungen der Sammeleffektivität",
+rateApp:"Hat Dododex dir geholfen? Hilf anderen Dododex zu finden, indem du es im App Store bewertest.",
+head:"Kopf",
+headshotsModifiers:"Kopfschüsse & Modifikatoren",
+health:"Gesundheit",
+howStarveTamingWorks:"Wie Zähmen durch Aushungern funktioniert",
+idealIncubationTemp:"Idealtemperatur für die Inkubation",
+aboutStarveBenefits:"Wenn eine Kreatur angegriffen wird während des normalen Zähmens, kann man die gesamte Nahrung, die es verzehrt hat, verlieren. Ebenso das, welches noch im Inventar liegt. Zähmen durch Aushungern verändert nicht die Effizienz des Zähmens",
+aboutStarveUntilIsNotHead:"Wenn es NICHT angezeigt wird.",
+aboutStarveUntilIsHead:"Wenn der \"Bis zum Verhungern\"-Countdown angezeigt WIRD",
+impactsMeleeWeapons:"Beeinflusst die Nahkampfwaffen",
+aboutStarveMethod:"Bei der normalen Zähmvariante schlägst du eine Kreatur bewusstlos und legst sofort die gesamte benötigte Nahrung in sein Inventar, damit die Kreatur ein Stück verzehrt, sobald sie hungrig genug ist. Mit Zähmen durch Aushungern wartest du, nachdem du die Kreatur KO geschlagen hast. Wenn die Kreatur hungrig genug ist die gesamte Nahrung auf einmal zu verzehren, fängst du an sie zu füttern.",
+incPerLvl:"Anstieg pro Level",
+incubation:"Inkubation",
+juvenile:"jugendlich",
+kibble:"Kibble",
+kibbleFlowChart:"Kibble-Flussdiagramm",
+kibbleProduced:"hergestelltes Kibble",
+knockOut:"KO schlagen",
+lvl:"Lvl",
+maps:"Karten",
+matingInterval:"Paarungsintervall",
+max:"Max",
+maxAfterTraining:"Max. nach dem Training",
+maxFoodValue:"Maximale Nahrungsmenge",
+meleeDamage:"Nahkampfschaden",
+more:"Mehr",
+multiplier:"Multiplikator",
+myWeaponsCreatures:"Meine Waffen & Kreaturen",
+name:"Name",
+narcoticsNeeded:"Benötigtes Narkosemittel",
+oxygen:"Sauerstoff",
+pauseTimer:"Timer pause",
+pregnancy:"Schwangerschaft",
+preferredBy:"",
+primary:"Primär //Primärattacke ",
+producedBy:"hergestellt von",
+pts:"Punkte / pkt",
+rate:"Rate",
+rateDododex:"Dododex bewerten",
+rateThisCreature:"Diese Kreatur bewerten",
+ratingsNote:"Bewertungen (Sterne) von fünf. Erfasst von {{x[}} Dododex Nutzern. //3 out of 5 Rating = 3 von 5 Sternen ",
+recipesDyes:"Rezepte & Farbstoffe",
+reportDataError:"Datenfehler melden",
+resetTimer:"Timer zurücksetzen",
+resumeTimer:"Timer wieder starten",
+retry:"Wiederholen",
+saddle:"Sattel",
+secondary:"sekundär",
+settings:"Einstellungen",
+settingsMultipliers:"Einstellungen / Multiplikatoren",
+severMultipliers:"Servermultiplikatoren",
+shell:"Schale",
+showFullDetails:"Komplette Details anzeigen",
+errorLoading:"",
+stamina:"Stamina",
+aboutStarveUsing2:"Starte den Timer. Dododex ist nun synchronisiert mit der Nahrungsmenge deiner Kreatur.",
+startTimer:"Timer starten",
+starveReducesRisk:"Zähmen durch Aushungern reduziert das Risiko von Ressourcenverlust dadurch, dass die Kreatur erst gefüttert wird, wenn sie hungrig genug ist, alles auf einmal zu verzehren (oder so viel wie sie kann). Sobald du die Nahrung ausgewählt hast, mit der du zähmst, gebe die aktuelle und maximale Nahrungsmenge deiner Kreatur ein und starte den Timer.",
+starveTimer:"Timer bis zum Verhungern",
+stat:"Stat",
+stats:"Stats",
+tamed:"gezähmt",
+taming:"Zähmen",
+tamingCalculator:"Zähm-Rechner",
+tamingEffectiveness:"Effektivität des Zähmens",
+tamingSpeed:"Zähmgeschwindigkeit",
+time:"Zeit",
+timers:"Timer",
+toCustomizeMult:"Um Multiplikatoren für unoffizielle Server zu ändern, benutze \"Einstellungen\" ganz unten.",
+topRatedGatherers:"Am besten bewertete Sammler",
+topResources:"Beste Ressourcen",
+torporTimer:"Trägheits-Timer",
+totalMaturation:"Gesamte benötigte Zeit bis zum Erwachsenwerden",
+totalTime:"Gesamte Zeit",
+tryTappingOn:"Klicke auf ein Nahrungsmittel unterhalb, um ausschließlich diese Nahrung zu benutzen.",
+typeInLevels:"Gebe die Level ein anstatt ein Auswahlmenü zu nutzen.",
+until:"bis",
+use:"benutze",
+useTextInput:"Benutze den Text-Input für die Levelauswahl.",
+usesMeleeDamage:"Benutzt Nahkampfschaden",
+usingTheTimer:"Den Timer benutzen.",
+meleeNote:"Einstellungen ansehen, um den Charakter-Nahkampfschaden zu ändern.",
+suggestFeatures:"Bewerte & schlage Features vor",
+weaponDamage:"Waffenschaden",
+weapons:"Waffen",
+weight:"Gewicht ",
+wikiPage:"Wiki Seite",
+shortcutsLinks:"Wiki Shortcuts & Links",
+withBonus:"Mit Zähmbonus",
+xpk:"XP fürs Töten",
+yourCreature:"Deine Kreatur",
+aboutStarveUntilIs:"Die maximale Nahrung deiner Kreatur ist nicht hoch genug, damit sie alle benötigte Nahrung auf einmal verzehrt. Der \"BIS VERHUNGERT\" countdown zeigt wann der Nahrungsmege deiner Kreatur 0 erreicht. Sobald er nahe 0 ist, füttere die Kreatur mit so viel Nahrung, wie sie verzehren kann und führe dann die normale Zähmvariante fort.",
+aboutStarveUntilIsNot:"Deine Kratur hat eine genügend hohe Maximal-Nahrungsmenge, um die benötigte Nahrung auf einmal zu verzehren. Wenn der \"BIS VERHUNGERT\"-Timer nahe 0 ist, fange an zu füttern."
+minimumTime:"",
+comparisonNote:"",
+pauseTimer:"",
+narcotics:"",
+average:"",
+belowAverage:"",
+aboveAverage:"",
+non:"",
+ratedForGathering:"",
+hide:"",
+dataAccuracy:"",
+engramPoints:"",
+wild:"",
+perLvl:"",
+patchNotes:"",
+entityIDs:"",
+hideFullDetails:"",
+beaconLocations:"",
+beaconItems:"",
+arkSteamForums:"",
+levelUpYourDodo…dex:"",
+proDescription:"",
+upgradeToPro:"",
+restorePurchases:"",
+damageXP:"",
+incrementPickerBy:"",
+serverMultiplerNote:"",
+noTimers:"",
+timerNote:""
+}}
