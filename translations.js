@@ -235,7 +235,7 @@ var translations = {
         movementSpeed: "Movement Speed",
         torpor: "Torpor",
         estData: "Estimated Data",
-        estDataNote: "estDataNote:”Taming data for this creature is based on Dododex’s own tests since the Developer Kit has not yet been released. Be sure to bring extra supplies and report any errors under “About / Feedback”.",
+        estDataNote: "Taming data for this creature is based on Dododex’s own tests since the Developer Kit has not yet been released. Be sure to bring extra supplies and report any errors under \"About / Feedback\".",
         copyrightNote: "Item and creature images copyright Studio Wildcard and used with permission.",
         xUsed: "{0} used",
         consumingX: "Consuming {0}...",
@@ -307,9 +307,9 @@ var translations = {
         drops: "",
         aboutDataUpdate: "Dododex vérifie automatiquement les nouvelles données, mais vous pouvez choisir de forcer Dododex à télécharger les dernières données maintenant (l'application se rafraîchira).",
         aboutApp: "Dododex is developed in Los Angeles by Dan Leveille. Data and calculations are based on the Ark Dev Kit. Special thanks to Crumplecorn.com and the Official Ark Wiki for the",
-        aboutData: "Dododex est développé à Los Angeles par Dan Leveille. Les données et calculs sont basées sur l'Ark Dev Kit. Remerciements à Crumplecorn.com et à l'Official Ark Wiki pour les recherches additionnelles et les calculs.",
-        edit: "Les données de Dododex sont constamment mises à jour et testées pour leur exactitude. Reportez chaque inexactitude assurera la correction de ces erreurs le plus vite possible et Dododex restera exact.Modifier",
-        editWeapons: "Modifier les armesModifier les armes",
+        aboutData: "Les données de Dododex sont constamment mises à jour et testées pour leur exactitude. Reportez chaque inexactitude assurera la correction de ces erreurs le plus vite possible et Dododex restera exact.",
+        edit: "Modifier",
+        editWeapons: "Modifier les armes",
         eggHatchSpeed: "Vitesse d'éclosion de l'œuf",
         aboutStarveUsing1: "Entrez le niveau maximum de faim et le niveau actuel de faim de votre créature.",
         favouriteKibble: "Croquette préférée",
@@ -1262,7 +1262,9 @@ var languages = {
         name:"Português (Brasil)",
         credit:[{
             name:"Will Oliveira",
-            link:"https://github.com/BiGR1pp3r"
+            link:"https://twitter.com/BiGR1pp3r"
         }]
     }
 }
+
+module.exports = {languages, translations};
