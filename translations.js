@@ -72,6 +72,7 @@ var translations = {
         favouriteKibble: "Favourite Kibble",
         feedback: "Feedback",
         feedbackSuggestions: "Feedback, suggestions, and bug reports can be shared below or tweeted to @danlev on Twitter. Development of new features is prioritized based on amount of user interest.",
+        follow: "Follow",
         followDododex: "Follow Dododex for updates, Ark: Survival Evolved news, and GIFs of dodos twerking.",
         food: "Food",
         fullChart: "Full chart",
@@ -223,7 +224,7 @@ var translations = {
         tooHighStats: "Oops. Looks like this creature's stats are too high for its level.",
         lang: "Language",
         translateNote: "Translations are in beta. Not all portions of the app have been translated, but more are coming. Dododex is translated by volunteers and sometimes by software. Help improve translations and contribute new languages!",
-        helpTranslate: "Help Translate Dododex"
+        helpTranslate: "Help Translate Dododex",
         tip: "Tip",
         primaryAttack: "Primary Attack Base Damage",
         secondaryAttack: "Secondary Attack",
@@ -255,12 +256,13 @@ var translations = {
         internetRequired: "An internet connection is required",
         timersNote: "Dododex must be running for alarm to sound. Push notifications coming soon!",
         playerDamageMultiplier: "Player Damage Multiplier",
-        XPMultiplier: "XP Multiplier"
+        XPMultiplier: "XP Multiplier",
+        translatorCredit: "Thank you, translators!"
     },
     fr: {
         aboutStarveIntro: "Le \"dressage par la faim\" est une méthode que certains survivants utilisent pour minimiser le risque de perdre des ressources lors du dressage.",
         wastedPoints: "Points \"gaspillés\"",
-        statCalcNote: "Les créatures sauvages obtiennent un point de caractéristique à chaque niveau. Chacun de ces points est assigné à une caractéristique au hasard. La Vitesse ne pouvant être améliorée à l'état sauvage, les points lui étant assignés seront perdus, "gaspillés". Pour les creatures marines, les points pour l'Oxygène n'étant pas applicables, ils seront aussi perdus.",
+        statCalcNote: "Les créatures sauvages obtiennent un point de caractéristique à chaque niveau. Chacun de ces points est assigné à une caractéristique au hasard. La Vitesse ne pouvant être améliorée à l'état sauvage, les points lui étant assignés seront perdus, \"gaspillés\". Pour les creatures marines, les points pour l'Oxygène n'étant pas applicables, ils seront aussi perdus.",
         about: "À propos",
         aboutFeedback: "À propos / Retours",
         aboutStarve: "À propos du dressage par la faim",
@@ -313,6 +315,7 @@ var translations = {
         favouriteKibble: "Croquette préférée",
         feedback: "Retours",
         feedbackSuggestions: "Retours, suggestions et reports de bugs peuvent être partagés en dessous ou tweetés à @danlev sur Twitter. Le développement de nouvelles fonctionnalitées est prioritairement basé sur l'intérêt des utilisateurs.",
+        follow: "Suivez",
         followDododex: "Suivez Dododex pour des mises à jour, des nouveautés sur Ark: Survival Evolved et des GIFs de dodos qui twerkent.",
         food: "Nourriture",
         fullChart: "Tableau complet",
@@ -351,7 +354,7 @@ var translations = {
         name: "Nom",
         narcoticsNeeded: "Narcotiques requis",
         noMultipliers: "The {0} does not have multipliers for headshots or any other areas.",
-        oxygen: "Oxygène",
+        oxygen: "Narcotiques requis",
         pauseTimer: "Pause minuterie",
         pregnancy: "Grossesse",
         preferredBy: "",
@@ -464,7 +467,7 @@ var translations = {
         tooHighStats: "",
         lang: "Langue",
         translateNote: "",
-        helpTranslate: "Aide Traduire Dododex"
+        helpTranslate: "Aide Traduire Dododex",
         tip: "",
         primaryAttack: "",
         secondaryAttack: "",
@@ -496,7 +499,8 @@ var translations = {
         internetRequired: "",
         timersNote: "",
         playerDamageMultiplier: "",
-        XPMultiplier: ""
+        XPMultiplier: "",
+        translatorCredit: ""
     },
     de: {
         aboutStarveIntro: "\"Zähmen durch Aushungern\" ist eine Technik, die manche Überlebende benutzen, um das Risiko eines Ressourcenverlusts während des Zähmens zu minimieren.",
@@ -554,6 +558,7 @@ var translations = {
         favouriteKibble: "Bevorzugtes Kibble",
         feedback: "Feedback",
         feedbackSuggestions: "Feedback, Vorschläge und bug reports können unterhalb mitgeteilt werden oder an @danlev auf Twitter gesendet werden. Entwicklung von neuen Features ist priorisiert und basiert auf der Menge an interessierten Nutzern.",
+        follow: "Folge",
         followDododex: "Folge Dododex für updates, Ark: Survival Evolved Neuigkeiten und GIFs von twerkenden Dodos.",
         food: "Essen / Nahrung",
         fullChart: "Komplettes Diagramm",
@@ -704,7 +709,7 @@ var translations = {
         tooHighStats: "",
         lang: "Sprache",
         translateNote: "",
-        helpTranslate: "Hilfe Übersetzen Dododex"
+        helpTranslate: "Hilfe Übersetzen Dododex",
         tip: "",
         primaryAttack: "",
         secondaryAttack: "",
@@ -736,7 +741,8 @@ var translations = {
         internetRequired: "",
         timersNote: "",
         playerDamageMultiplier: "",
-        XPMultiplier: ""
+        XPMultiplier: "",
+        translatorCredit: ""
     },
     it: {
         aboutStarveIntro: "\"Starve Taming\" è una tecnica che alcuni giocatori utilizzano per minimizzare il rischio di perdere risorse durante il taming di un dinosauro.",
@@ -794,6 +800,7 @@ var translations = {
         favouriteKibble: "Kibble preferito",
         feedback: "Feedback",
         feedbackSuggestions: "Feedback, suggerimenti, e segnalazione degli errori possono essere inviate qua sotto o tramite Twitter a @danlev. Lo sviluppo di nuove funzionalità sono messe in scala di priorità a seconda quella quantità degli utenti interessati.",
+        follow: "Rimani aggiornato sugli",
         followDododex: "Rimani aggiornato sugli aggiornamenti di Dododex, Ark: Survival Evolved, e GIF di dodo che fanno twerking.",
         food: "Cibo",
         fullChart: "Grafico completo",
@@ -945,7 +952,7 @@ var translations = {
         tooHighStats: "Oops. Sembra che le statistiche del tuo dinosauro siano troppo alte per il suo livello.",
         lang: "Lingua",
         translateNote: "Le traduzioni sono in beta. L'App non è tradotta integralmente, ma stiamo lavorando per completare le traduzioni. Dododex è tradotto da volontari e qualche volta da programmi. Aiutaci a migliorare le traduzioni e ad aggiungere nuove lingue!",
-        helpTranslate: "Aiuta a tradurre Dododex"
+        helpTranslate: "Aiuta a tradurre Dododex",
         tip: "",
         primaryAttack: "",
         secondaryAttack: "",
@@ -977,7 +984,8 @@ var translations = {
         internetRequired: "",
         timersNote: "",
         playerDamageMultiplier: "",
-        XPMultiplier: ""
+        XPMultiplier: "",
+        translatorCredit: ""
     },
     "pt-br":{
         aboutStarveIntro: "\"Tempo de Fome\" é uma técnica que alguns sobreviventes usam para minimizar o risco de perder recursos enquanto treinam a criatura.",
@@ -1035,6 +1043,7 @@ var translations = {
         favouriteKibble: "Ração Favorita",
         feedback: "Comentários",
         feedbackSuggestions: "Comentários, sugestões e relatos de bugs, podem ser compartilhados abaixo ou twitado para @danlev no Twitter. Desenvolvimento de novas funções são priorizados baseados na quantidade de interesses.",
+        follow: "Siga",
         followDododex: "Siga Dododex por atualizações, Ark: Survival Evolved news, and GIFs of dodos twerking.",
         food: "Comida",
         fullChart: "Grafico Completo",
@@ -1186,7 +1195,7 @@ var translations = {
         tooHighStats: "Oops. Parece que as estatísticas desta criatura são muito alta para o seu nível.",
         lang: "Idiomas",
         translateNote: "As traduções estão beta. Nem todas as partes do aplicativo foram traduzidas, mas mais estão a caminho. Dododex é traduzido por voluntários e às vezes por software. Ajude a melhorar as traduções e contribuir com novos idiomas!",
-        helpTranslate: "Ajude a traduzir o Dododex"
+        helpTranslate: "Ajude a traduzir o Dododex",
         tip: "",
         primaryAttack: "",
         secondaryAttack: "",
@@ -1218,15 +1227,42 @@ var translations = {
         internetRequired: "",
         timersNote: "",
         playerDamageMultiplier: "",
-        XPMultiplier: ""
+        XPMultiplier: "",
+        translatorCredit: ""
     }
 }
+
 /* Language names should be in native language */
 var languages = {
-	en:"English",
-	de:"Deutsche",
-	fr:"Français",
-	it:"Italiano",
-	"pt-br":"Português (Brasil)"
+    en:{
+        name:"English"
+    },
+    de:{
+        name:"Deutsche",
+        credit:[{
+            name:"Arachmeus",
+            link:"https://github.com/Arachmeus"
+        }]
+    },
+    fr:{
+        name:"Français",
+        credit:[{
+            name:"Aimeric99",
+            link:"https://github.com/Aimeric99"
+        }]
+    },
+    it:{
+        name:"Italiano", 
+        credit:[{
+            name:"Daniel Bertocci",
+            link:"https://twitter.com/DanielBertocci"
+        }]
+    },
+    "pt-br":{
+        name:"Português (Brasil)",
+        credit:[{
+            name:"Will Oliveira",
+            link:"https://github.com/BiGR1pp3r"
+        }]
+    }
 }
-module.exports = {languages, translations};
