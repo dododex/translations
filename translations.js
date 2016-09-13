@@ -1249,6 +1249,9 @@ var languages = {
         credit:[{
             name:"Aimeric99",
             link:"https://github.com/Aimeric99"
+        },{
+            name:"Fabien Morel",
+            link:"https://github.com/fabienmorel"
         }]
     },
     it:{
