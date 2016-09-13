@@ -316,7 +316,7 @@ var translations = {
         feedback:  "Retours",
         feedbackSuggestions:  "Retours, suggestions et reports de bugs peuvent être partagés en dessous ou tweetés à @danlev sur Twitter. Le développement de nouvelles fonctionnalitées est prioritairement basé sur l'intérêt des utilisateurs.",
         follow:  "Suivez",
-        followDododex:  "Suivez Dododex pour des mises à jour sur les nouveautés d'Ark"
+        followDododex:  "Suivez Dododex pour des mises à jour sur les nouveautés d'Ark",
         food:  "Nourriture",
         fullChart:  "Tableau complet",
         charts:  "Tableaux",
