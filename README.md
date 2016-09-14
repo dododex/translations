@@ -57,23 +57,23 @@ To add a new language:
 | ru | Russian              |  7.6% | 
 | nl | Dutch                |  4.0% | 
 | it | Italian              |  3.8% | Partial
-| zh | Chinese (Simplified) |  2.2% | 
 | pl | Polish               |  2.4% | 
-| sv | Swedish              |  1.0% | 
+| zh | Chinese (Simplified) |  2.2% | 
 | da | Danish               |  1.3% | 
 | tr | Turkish              |  1.2% | 
+| sv | Swedish              |  1.0% | 
 | cs | Czech                |  0.7% | 
-| hu | Hungarian            |  0.6% | 
+| nb | Norwegian            |  0.6% | 
+| hu | Hungarian            |  0.5% | 
 | th | Thai                 |  0.5% | 
-| nb | Norwegian            |  0.5% | 
-| ko | Korean               |  0.6% | 
-| fi | Finnish              |  0.3% | 
 | ar | Arabic               |  0.4% | 
+| ko | Korean               |  0.3% | 
+| fi | Finnish              |  0.3% | 
+| ja | Japanese             |  0.3% | 
 | he | Hebrew               |  0.2% | 
 | hr | Croatian             |  0.2% | 
-| ro | Romanian             |  0.2% | 
-| ja | Japanese             |  0.1% | 
-| el | Greek                |  0.3% | 
 | sk | Slovak               |  0.1% | 
+| ro | Romanian             |  0.1% | 
+| el | Greek                |  0.1% | 
 
 _*Percent of non-English Dododex users_
