@@ -149,7 +149,7 @@ var translations = {
         tamingSpeed: "Taming Speed",
         time: "Time",
         timers: "Timers",
-        toCustomizeMult: "To customize taming multipliers for unofficial servers, tap \"settings\" at the very bottom of any screen.",
+        toCustomizeMult: "Visit Settings to customize multipliers for unofficial servers.",
         topRatedGatherers: "Top rated gatherers",
         topResources: "Top resources",
         torporTimer: "Torpor Timer",
