@@ -1511,7 +1511,7 @@ var languages = {
             link:"https://twitter.com/WillOliveiraVix"
         }]
     },
-    cn:{
+    zh:{
         name:"简体中文",
         credit:[{
             name:"侏罗纪汉化组：Heavensn(波仔)、QQ南极企鹅、Benzema星",
