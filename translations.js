@@ -1286,7 +1286,7 @@ var translations = {
         favouriteKibble: "喜爱的饲料",
         feedback: "反馈",
         feedbackSuggestions: "反馈, 建议, 以及可在下面报告Bug或在对特上给 @danlev 发推。开发新功能的优先级由用户对新功能的兴趣程度决定.",
-        follow: "跟随",
+        follow: "关注",
         followDododex: "关注Dododex更新, Ark: Survival Evolved 新闻, 以及dodos twerking的GIF图片.",
         food: "食物",
         fullChart: "全部图表",
