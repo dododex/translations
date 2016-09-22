@@ -1440,7 +1440,7 @@ var translations = {
         translateNote: "本地化翻译目前处于Beta测试状态。App中并不是所有的部分都会被翻译，但其他部分即将到来。Dododex的内容由志愿者或软件进行翻译。帮助我们改进翻译和贡献新的语言!",
         helpTranslate: "帮助我们翻译Dododex",
         tip: "提示",
-        primaryAttack: "主要攻击方式基础伤害",
+        primaryAttack: "主要攻击方式的基础伤害值",
         secondaryAttack: "次要攻击方式",
         sprinting: "加速",
         ranked: "排名 #{0}",
