@@ -1471,7 +1471,7 @@ var translations = {
         timersNote: "Dododex必须在警告声音开启的情况下运行. 推送通知功能即将到来!",
         playerDamageMultiplier: "玩家伤害倍数",
         XPMultiplier: "经验倍数",
-        translatorCredit: "Thank you, translators!"
+        translatorCredit: "感谢所有的翻译者!"
     },
     ru: {
         aboutStarveIntro: "\"Голодание\" Эта техника позволяет минимизировать риск потери ресурсов при приручении существа.",
