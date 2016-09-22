@@ -1276,7 +1276,7 @@ var translations = {
         details: "细节",
         droppedBy: "掉落者",
         drops: "掉落物",
-        aboutDataUpdate: "Dododex可以为你自动检查更新数据,但你也可以强制使Dododex现在下载最后一次更新的数据(App将会刷新)。",
+        aboutDataUpdate: "Dododex可以为你自动检查更新数据,但你也可以强制使Dododex现在就下载最后一次更新的数据(App将会刷新)。",
         aboutApp: "Dododex由洛杉矶的Dan Leveille开发制作。数据和计算结果基于Ark开发者工具包。特别鸣谢Crumplecorn.com以及官方Ark Wiki的额外研究数据和计算結果。",
         aboutData: "Dododex会不断地为了数据的准确性而进行更新和测试，尽早地提交数据错误报告将会确保修正数据的效率，保证Dododex的准确性。",
         edit: "编辑",
