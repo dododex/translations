@@ -2011,7 +2011,7 @@ var languages = {
         }]
     },
     ru:{
-        name:"Russian",
+        name:"Русский",
         credit:[{
             name:"Demon",
             link:"https://instagram.com/dimahalikov/"
