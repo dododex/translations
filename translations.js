@@ -259,7 +259,7 @@ var translations = {
         XPMultiplier: "XP Multiplier",
         translatorCredit: "Thank you, translators!"
     },
-    es-es: {
+    "es-es": {
         aboutStarveIntro: "\"Starve Taming\" (Doma por hambre) es una técnica usada por algunos supervivientes para minimizar el riesgo de perder recursos durante la doma de una criatura.",
         wastedPoints: "Puntos \"perdidos\"",
         statCalcNote: "Las criaturas salvajes reciben un punto de estadística por nivel. Cada uno de esos puntos son asignados a una estadística al azar. Como la velocidad de movimiento nunca se mejora en criaturas salvajes, cualquier punto asignado a velocidad de movimiento será \"perdido\" y descartado. Para las criaturas acuáticas no afecta la estadística Oxígeno, con lo que los puntos asociados a Oxígeno también se perderán.",
@@ -1958,13 +1958,15 @@ var translations = {
         playerDamageMultiplier: "Мультипликатор урона игрока",
         XPMultiplier: "Мультипликатор опыта",
         translatorCredit: "Спасибо, переводчики!"
+    }
+}
 
 /* Language names should be in native language */
 var languages = {
     en:{
         name:"English"
     },
-    es-es:{
+    "es-es":{
         name:"Español (España)",
         credit:[{
             name:"Fernando Román Gracia Crespo"
@@ -2014,6 +2016,6 @@ var languages = {
             name:"Demon",
             link:"https://instagram.com/dimahalikov/"
         }]
-    },
-
+    }
+}
 module.exports = {languages, translations};
