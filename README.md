@@ -53,12 +53,12 @@ To add a new language:
 | de | German               | 37.4% | Partial
 | fr | French               | 19.4% | ✔
 | pt | Portuguese           |  8.4% | ✔
-| es | Spanish              |  6.1% | 
-| ru | Russian              |  7.6% | 
+| es | Spanish              |  6.1% | ✔
+| ru | Russian              |  7.6% | ✔
 | nl | Dutch                |  4.0% | 
 | it | Italian              |  3.8% | Partial
 | pl | Polish               |  2.4% | 
-| zh | Chinese (Simplified) |  2.2% | 
+| zh | Chinese (Simplified) |  2.2% | ✔
 | da | Danish               |  1.3% | 
 | tr | Turkish              |  1.2% | 
 | sv | Swedish              |  1.0% | 
