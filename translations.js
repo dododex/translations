@@ -278,10 +278,10 @@ var translations = {
         utility: "Utility",
         encountering: "Encountering",
         loadMore: "Load More",
-        noTips: "Sorry, there are no tips. Be the first to add one!"
+        noTips: "Sorry, there are no tips. Be the first to add one!",
         betaTesting: "Beta Testing",
         betaTestingDesc: "Want to try new Dododex features before everyone else? Opt-in and you'll receive new versions of Dododex when beta tests become available. You can opt-out at any time and revert to the public version.",
-        reqGoogleLogin: "(Requires Google Play login)",
+        reqGoogleLogin: "(Requires Google Play login)"
     },
     "es-es": {
         aboutStarveIntro: "\"Starve Taming\" (Doma por hambre) es una técnica usada por algunos supervivientes para minimizar el riesgo de perder recursos durante la doma de una criatura.",
@@ -524,7 +524,7 @@ var translations = {
         timersNote: "Dododex debe estar en marcha para que la alarma suene. ¡Notificaciones de movil vienen pronto!",
         playerDamageMultiplier: "Multiplicador de daño de jugador",
         XPMultiplier: "Multiplicador de experienxia",
-        translatorCredit: "¡Gracias, traductores!"
+        translatorCredit: "¡Gracias, traductores!",
         capabilities: "",
         tips: "",
         submitTip: "",
@@ -541,7 +541,7 @@ var translations = {
         betaTesting: "",
         betaTestingDesc: "",
         reqGoogleLogin: ""
-    }
+    },
     fr: {
         aboutStarveIntro:  "Le \"dressage par la faim\" est une méthode que certains survivants utilisent pour minimiser le risque de perdre des ressources lors du dressage.",
         wastedPoints:  "Points \"gaspillés\"",
@@ -783,7 +783,7 @@ var translations = {
         timersNote:  "Dododex doit être en cours d'exécution pour que les alarmes sonnent. Les notifications vont bientôt arriver !",
         playerDamageMultiplier:  "Multiplicateur de dommage du joueur",
         XPMultiplier:  "Multiplicateur d'XP",
-        translatorCredit:  "Merci aux traducteurs !"
+        translatorCredit:  "Merci aux traducteurs !",
         capabilities: "",
         tips: "",
         submitTip: "",
@@ -1041,7 +1041,7 @@ var translations = {
         timersNote: "",
         playerDamageMultiplier: "",
         XPMultiplier: "",
-        translatorCredit: ""
+        translatorCredit: "",
         capabilities: "",
         tips: "",
         submitTip: "",
@@ -1058,7 +1058,7 @@ var translations = {
         betaTesting: "",
         betaTestingDesc: "",
         reqGoogleLogin: ""
-    }
+    },
     it: {
         aboutStarveIntro: "\"Starve Taming\" è una tecnica che alcuni giocatori utilizzano per minimizzare il rischio di perdere risorse durante il taming di un dinosauro.",
         wastedPoints: "Punti \"sprecati\"",
@@ -1300,7 +1300,7 @@ var translations = {
         timersNote: "",
         playerDamageMultiplier: "",
         XPMultiplier: "",
-        translatorCredit: ""
+        translatorCredit: "",
         capabilities: "",
         tips: "",
         submitTip: "",
@@ -1559,7 +1559,7 @@ var translations = {
         timersNote: "Dododex deverá estar rodando para ouvir o som do alarme. Notificações no Push, virão em breve!",
         playerDamageMultiplier: "Multiplicador de dano do jogador",
         XPMultiplier: "Multiplicador de XP",
-        translatorCredit: "Obrigado, Tradutores!"
+        translatorCredit: "Obrigado, Tradutores!",
         capabilities: "",
         tips: "",
         submitTip: "",
@@ -1818,7 +1818,7 @@ var translations = {
         timersNote: "Dododex必须在警告声音开启的情况下运行. 推送通知功能即将到来!",
         playerDamageMultiplier: "玩家伤害倍数",
         XPMultiplier: "经验倍数",
-        translatorCredit: "感谢所有的翻译者!"
+        translatorCredit: "感谢所有的翻译者!",
         capabilities: "",
         tips: "",
         submitTip: "",
@@ -2077,7 +2077,7 @@ var translations = {
         timersNote: "Dododex должен быть запущен, для того, чтобы услышать звуки сигнала. Скоро ожидаются push уведомления!",
         playerDamageMultiplier: "Множитель урона игрока",
         XPMultiplier: "Множитель опыта",
-        translatorCredit: "Спасибо переводчикам!"
+        translatorCredit: "Спасибо переводчикам!",
         capabilities: "",
         tips: "",
         submitTip: "",
