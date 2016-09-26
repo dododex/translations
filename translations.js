@@ -13,6 +13,14 @@ tip: A helpful tip
 xToFill: "[x] narcotics are needed to fill this dinosaur's torpor."
 xUsed: "[x] narcotics have been used."
 intervals: "Feed at 30 second intervals"
+report: Report button to report innapropriate content.
+capabilities: Refers to the capabilities of each dino (flyers capabilies to carry other creatures, capability to damage wood/stone/etc)
+tips: Tips submitted by other players
+submitTip: Button to submit a tip for taming this dino.
+report: Report this content for being innapropriate.
+all: Button to show ALL content, rather than filtered content.
+utility: A section header of explaining the utility of this dino (how you can best use it, etc.)
+encountering: A section header of explaining what to do when encountering this dino (how to battle it, flee, etc.)
 */
 
 var translations = {
@@ -257,7 +265,23 @@ var translations = {
         timersNote: "Dododex must be running for alarm to sound. Push notifications coming soon!",
         playerDamageMultiplier: "Player Damage Multiplier",
         XPMultiplier: "XP Multiplier",
-        translatorCredit: "Thank you, translators!"
+        translatorCredit: "Thank you, translators!",
+        capabilities: "Capabilities",
+        tips: "Player Tips",
+        submitTip: "Submit Tip",
+        report: "Report",
+        reportThis: "Report this?",
+        reportUGC: "Report this for inappropriate content or spam?",
+        thanksReport: "Thanks for your report!",
+        all: "All",
+        tamingKO: "Taming & KO",
+        utility: "Utility",
+        encountering: "Encountering",
+        loadMore: "Load More",
+        noTips: "Sorry, there are no tips. Be the first to add one!"
+        betaTesting: "Beta Testing",
+        betaTestingDesc: "Want to try new Dododex features before everyone else? Opt-in and you'll receive new versions of Dododex when beta tests become available. You can opt-out at any time and revert to the public version.",
+        reqGoogleLogin: "(Requires Google Play login)",
     },
     "es-es": {
         aboutStarveIntro: "\"Starve Taming\" (Doma por hambre) es una técnica usada por algunos supervivientes para minimizar el riesgo de perder recursos durante la doma de una criatura.",
@@ -501,7 +525,23 @@ var translations = {
         playerDamageMultiplier: "Multiplicador de daño de jugador",
         XPMultiplier: "Multiplicador de experienxia",
         translatorCredit: "¡Gracias, traductores!"
-    },
+        capabilities: "",
+        tips: "",
+        submitTip: "",
+        report: "",
+        reportThis: "",
+        reportUGC: "",
+        thanksReport: "",
+        all: "",
+        tamingKO: "",
+        utility: "",
+        encountering: "",
+        loadMore: "",
+        noTips: "",
+        betaTesting: "",
+        betaTestingDesc: "",
+        reqGoogleLogin: ""
+    }
     fr: {
         aboutStarveIntro:  "Le \"dressage par la faim\" est une méthode que certains survivants utilisent pour minimiser le risque de perdre des ressources lors du dressage.",
         wastedPoints:  "Points \"gaspillés\"",
@@ -744,6 +784,22 @@ var translations = {
         playerDamageMultiplier:  "Multiplicateur de dommage du joueur",
         XPMultiplier:  "Multiplicateur d'XP",
         translatorCredit:  "Merci aux traducteurs !"
+        capabilities: "",
+        tips: "",
+        submitTip: "",
+        report: "",
+        reportThis: "",
+        reportUGC: "",
+        thanksReport: "",
+        all: "",
+        tamingKO: "",
+        utility: "",
+        encountering: "",
+        loadMore: "",
+        noTips: "",
+        betaTesting: "",
+        betaTestingDesc: "",
+        reqGoogleLogin: ""
     },
     de: {
         aboutStarveIntro: "\"Zähmen durch Aushungern\" ist eine Technik, die manche Überlebende benutzen, um das Risiko eines Ressourcenverlusts während des Zähmens zu minimieren.",
@@ -986,7 +1042,23 @@ var translations = {
         playerDamageMultiplier: "",
         XPMultiplier: "",
         translatorCredit: ""
-    },
+        capabilities: "",
+        tips: "",
+        submitTip: "",
+        report: "",
+        reportThis: "",
+        reportUGC: "",
+        thanksReport: "",
+        all: "",
+        tamingKO: "",
+        utility: "",
+        encountering: "",
+        loadMore: "",
+        noTips: "",
+        betaTesting: "",
+        betaTestingDesc: "",
+        reqGoogleLogin: ""
+    }
     it: {
         aboutStarveIntro: "\"Starve Taming\" è una tecnica che alcuni giocatori utilizzano per minimizzare il rischio di perdere risorse durante il taming di un dinosauro.",
         wastedPoints: "Punti \"sprecati\"",
@@ -1229,6 +1301,22 @@ var translations = {
         playerDamageMultiplier: "",
         XPMultiplier: "",
         translatorCredit: ""
+        capabilities: "",
+        tips: "",
+        submitTip: "",
+        report: "",
+        reportThis: "",
+        reportUGC: "",
+        thanksReport: "",
+        all: "",
+        tamingKO: "",
+        utility: "",
+        encountering: "",
+        loadMore: "",
+        noTips: "",
+        betaTesting: "",
+        betaTestingDesc: "",
+        reqGoogleLogin: ""
     },
     "pt-br":{
         aboutStarveIntro: "\"Tempo de Fome\" é uma técnica que alguns sobreviventes usam para minimizar o risco de perderem recursos enquanto domam sua criatura.",
@@ -1472,6 +1560,22 @@ var translations = {
         playerDamageMultiplier: "Multiplicador de dano do jogador",
         XPMultiplier: "Multiplicador de XP",
         translatorCredit: "Obrigado, Tradutores!"
+        capabilities: "",
+        tips: "",
+        submitTip: "",
+        report: "",
+        reportThis: "",
+        reportUGC: "",
+        thanksReport: "",
+        all: "",
+        tamingKO: "",
+        utility: "",
+        encountering: "",
+        loadMore: "",
+        noTips: "",
+        betaTesting: "",
+        betaTestingDesc: "",
+        reqGoogleLogin: ""
     },
     zh: {
         aboutStarveIntro: "\"饥饿驯服法\" 这项技术被很多幸存者用来最小化在驯服生物时的资源损失。",
@@ -1715,6 +1819,22 @@ var translations = {
         playerDamageMultiplier: "玩家伤害倍数",
         XPMultiplier: "经验倍数",
         translatorCredit: "感谢所有的翻译者!"
+        capabilities: "",
+        tips: "",
+        submitTip: "",
+        report: "",
+        reportThis: "",
+        reportUGC: "",
+        thanksReport: "",
+        all: "",
+        tamingKO: "",
+        utility: "",
+        encountering: "",
+        loadMore: "",
+        noTips: "",
+        betaTesting: "",
+        betaTestingDesc: "",
+        reqGoogleLogin: ""
     },
     ru: {
         aboutStarveIntro: "\"Приручение с голоданием\" - это техника приручения существ, которая помогает выжившим минимизировать риск потери ресурсов в процессе приручения.",
@@ -1958,6 +2078,22 @@ var translations = {
         playerDamageMultiplier: "Множитель урона игрока",
         XPMultiplier: "Множитель опыта",
         translatorCredit: "Спасибо переводчикам!"
+        capabilities: "",
+        tips: "",
+        submitTip: "",
+        report: "",
+        reportThis: "",
+        reportUGC: "",
+        thanksReport: "",
+        all: "",
+        tamingKO: "",
+        utility: "",
+        encountering: "",
+        loadMore: "",
+        noTips: "",
+        betaTesting: "",
+        betaTestingDesc: "",
+        reqGoogleLogin: ""
     }
 }
 
