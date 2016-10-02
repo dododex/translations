@@ -282,7 +282,7 @@ var translations = {
         betaTesting: "Beta Testing",
         betaTestingDesc: "Want to try new Dododex features before everyone else? Opt-in and you'll receive new versions of Dododex when beta tests become available. You can opt-out at any time and revert to the public version.",
         reqGoogleLogin: "(Requires Google Play login)",
-        betaTestingOptIn: "",
+        betaTestingOptIn: "Opt-in to Beta Testing",
         appName: "Dododex Taming Calculator for Ark: Survival Evolved",
         appDescShort: "Taming calculator and companion app for Ark: Survival Evolved",
         appDescSummary: "Elevate your Ark: Survival Evolved game with the Dododex taming calculator and companion app used by over {0} players. Dododex provides a comprehensive and frequently-updated guide for every creature in Ark: Survival Evolved, including taming calculations, kibble and saddle recipes, stats, timers, knock-out information for any weapon, as well as original tips and crowdsourced data from thousands of Ark players."
