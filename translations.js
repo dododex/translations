@@ -281,7 +281,11 @@ var translations = {
         noTips: "Sorry, there are no tips. Be the first to add one!",
         betaTesting: "Beta Testing",
         betaTestingDesc: "Want to try new Dododex features before everyone else? Opt-in and you'll receive new versions of Dododex when beta tests become available. You can opt-out at any time and revert to the public version.",
-        reqGoogleLogin: "(Requires Google Play login)"
+        reqGoogleLogin: "(Requires Google Play login)",
+        betaTestingOptIn: "",
+        appName: "Dododex Taming Calculator for Ark: Survival Evolved",
+        appDescShort: "Taming calculator and companion app for Ark: Survival Evolved",
+        appDescSummary: "Elevate your Ark: Survival Evolved game with the Dododex taming calculator and companion app used by over {0} players. Dododex provides a comprehensive and frequently-updated guide for every creature in Ark: Survival Evolved, including taming calculations, kibble and saddle recipes, stats, timers, knock-out information for any weapon, as well as original tips and crowdsourced data from thousands of Ark players."
     },
     "es-es": {
         aboutStarveIntro: "\"Starve Taming\" (Doma por hambre) es una técnica usada por algunos supervivientes para minimizar el riesgo de perder recursos durante la doma de una criatura.",
@@ -540,7 +544,11 @@ var translations = {
         noTips: "",
         betaTesting: "",
         betaTestingDesc: "",
-        reqGoogleLogin: ""
+        reqGoogleLogin: "",
+        betaTestingOptIn: "",
+        appName: "Dododex Calculadora de doma de Ark: Survival Evolved",
+        appDescShort: "",
+        appDescSummary: ""
     },
     fr: {
         aboutStarveIntro:  "Le \"dressage par la faim\" est une méthode que certains survivants utilisent pour minimiser le risque de perdre des ressources lors du dressage.",
@@ -799,7 +807,11 @@ var translations = {
         noTips: "Désolé, il n'y a pas d'astuce. Soyez le premier à en ajouter !",
         betaTesting: "Test Bêta",
         betaTestingDesc: "Vous voulez essayer les nouvelles fonctionnalités de Dododex avant tout le monde ? Inscrivez-vous et vous recevrez de nouvelles versions de Dododex quand des tests en bêta seront disponibles. Vous pouvez vous désinscrire à n'importe quel moment et revenir à la version publique.",
-        reqGoogleLogin: "(Nécessite une connexion à Google Play)"
+        reqGoogleLogin: "(Nécessite une connexion à Google Play)",
+        betaTestingOptIn: "",
+        appName: "Dododex pour Ark: Survival Evolved",
+        appDescShort: "",
+        appDescSummary: ""
     },
     de: {
         aboutStarveIntro: "\"Zähmen durch Aushungern\" ist eine Technik, die manche Überlebende benutzen, um das Risiko eines Ressourcenverlusts während des Zähmens zu minimieren.",
@@ -1057,7 +1069,11 @@ var translations = {
         noTips: "",
         betaTesting: "",
         betaTestingDesc: "",
-        reqGoogleLogin: ""
+        reqGoogleLogin: "",
+        betaTestingOptIn: "",
+        appName: "Dododex Taming-Rechner fürf Ark: Survival Evolved",
+        appDescShort: "",
+        appDescSummary: ""
     },
     it: {
         aboutStarveIntro: "\"Starve Taming\" è una tecnica che alcuni giocatori utilizzano per minimizzare il rischio di perdere risorse durante il taming di un dinosauro.",
@@ -1316,7 +1332,11 @@ var translations = {
         noTips: "",
         betaTesting: "",
         betaTestingDesc: "",
-        reqGoogleLogin: ""
+        reqGoogleLogin: "",
+        betaTestingOptIn: "",
+        appName: "Dododex Calcolatore del taming per Ark: Survival Evolved",
+        appDescShort: "",
+        appDescSummary: ""
     },
     "pt-br":{
         aboutStarveIntro: "\"Tempo de Fome\" é uma técnica que alguns sobreviventes usam para minimizar o risco de perderem recursos enquanto domam sua criatura.",
@@ -1575,7 +1595,11 @@ var translations = {
         noTips: "",
         betaTesting: "",
         betaTestingDesc: "",
-        reqGoogleLogin: ""
+        reqGoogleLogin: "",
+        betaTestingOptIn: "",
+        appName: "Dododex para Ark: Survival Evolved",
+        appDescShort: "",
+        appDescSummary: ""
     },
     zh: {
         aboutStarveIntro: "\"饥饿驯服法\" 这项技术被很多幸存者用来最小化在驯服生物时的资源损失。",
@@ -1834,7 +1858,11 @@ var translations = {
         noTips: "对不起，此处并没有任何建议。成为第一个添加它的人",
         betaTesting: "Beta测试",
         betaTestingDesc: "想要在其他人之前试试Dododex的新功能吗？加入后你将会在Beta测试可用时收到新版本的Dododex。你在任何时候都可以选择退出Beta测试并恢复至公共版本。",
-        reqGoogleLogin: "（需要使用Google Play账户登录）"
+        reqGoogleLogin: "（需要使用Google Play账户登录）",
+        betaTestingOptIn: "",
+        appName: "Dododex 驯服计算器 Ark: Survival Evolved",
+        appDescShort: "",
+        appDescSummary: ""
     },
     ru: {
         aboutStarveIntro: "\"Приручение с голоданием\" - это техника приручения существ, которая помогает выжившим минимизировать риск потери ресурсов в процессе приручения.",
@@ -2093,7 +2121,11 @@ var translations = {
         noTips: "",
         betaTesting: "",
         betaTestingDesc: "",
-        reqGoogleLogin: ""
+        reqGoogleLogin: "",
+        betaTestingOptIn: "",
+        appName: "Dododex Калькулятор приручения для Ark: Survival Evolved",
+        appDescShort: "",
+        appDescSummary: ""
     }
 }
 
