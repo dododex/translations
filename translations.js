@@ -1859,10 +1859,10 @@ var translations = {
         betaTesting: "Beta测试",
         betaTestingDesc: "想要在其他人之前试试Dododex的新功能吗？加入后你将会在Beta测试可用时收到新版本的Dododex。你在任何时候都可以选择退出Beta测试并恢复至公共版本。",
         reqGoogleLogin: "（需要使用Google Play账户登录）",
-        betaTestingOptIn: "",
-        appName: "Dododex 驯服计算器 Ark: Survival Evolved",
-        appDescShort: "",
-        appDescSummary: ""
+        betaTestingOptIn: "加入Beta测试",
+        appName: "",
+        appDescShort: "专为Ark: Survival Evolved设计的驯服计算器和指南应用",
+        appDescSummary: "通过使用用户已超过 {0} 人的Dododex驯服计算器和指南应用来提升Ark: Survival Evolved的游戏体验。Dododex为Ark: Survival Evolved中的每种生物提供一个综合全面以及经常保持更新的指南手册，其中包含驯服计算器、饲料和鞍的配方、生物属性、计时器、每种武器的击晕效果信息、以及独创的提示和从成千上万的ARK玩家中收集到的大数据信息。"
     },
     ru: {
         aboutStarveIntro: "\"Приручение с голоданием\" - это техника приручения существ, которая помогает выжившим минимизировать риск потери ресурсов в процессе приручения.",
