@@ -1843,7 +1843,7 @@ var translations = {
         playerDamageMultiplier: "玩家伤害倍数",
         XPMultiplier: "经验倍数",
         translatorCredit: "感谢所有的翻译者!",
-        capabilities: "功能",
+        capabilities: "能力",
         tips: "玩家建议",
         submitTip: "提交建议",
         report: "报告",
