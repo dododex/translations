@@ -1824,7 +1824,7 @@ var translations = {
         copyrightNote: "物品图片和生物图片的使用权已由其版权所有者Wildcard工作室授权",
         xUsed: "已使用 {0}",
         consumingX: "消耗中 {0}...",
-        xToFill: "用{0}来装满",
+        xToFill: "{0}个来填补",
         alarm: "警报",
         minsBeforeX: "(分钟之前{0})",
         starved: "饥饿",
