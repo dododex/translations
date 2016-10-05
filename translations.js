@@ -809,7 +809,7 @@ var translations = {
         betaTestingDesc: "Vous voulez essayer les nouvelles fonctionnalités de Dododex avant tout le monde ? Inscrivez-vous et vous recevrez de nouvelles versions de Dododex quand des tests en bêta seront disponibles. Vous pouvez vous désinscrire à n'importe quel moment et revenir à la version publique.",
         reqGoogleLogin: "(Nécessite une connexion à Google Play)",
         betaTestingOptIn: "S'inscrire au Test Bêta",
-        appName: "",
+        appName: "Dododex pour Ark: Survival Evolved",
         appDescShort: "Calculateur de dressage et application d'accompagnement pour Ark : Survival Evolved",
         appDescSummary: "Complétez votre jeu Ark : Survival Evolved avec le calculateur de dressage Dododex utilisé par plus de {0} joueurs. Dododex fournit un guide complet et fréquemment mis à jour pour chaque créature dans Ark : Survival Evolved, comprenant les calculs de dressage, recettes, selles, statistiques, minuteurs, informations d'assomage pour chaque arme, ainsi que des astuces originales et données collaboratives de milliers de joueurs d'Ark."
     },
@@ -1860,9 +1860,9 @@ var translations = {
         betaTestingDesc: "想要在其他人之前试试Dododex的新功能吗？加入后你将会在Beta测试可用时收到新版本的Dododex。你在任何时候都可以选择退出Beta测试并恢复至公共版本。",
         reqGoogleLogin: "（需要使用Google Play账户登录）",
         betaTestingOptIn: "加入Beta测试",
-        appName: "",
-        appDescShort: "专为Ark: Survival Evolved设计的驯服计算器和指南应用",
-        appDescSummary: "通过使用用户已超过 {0} 人的Dododex驯服计算器和指南应用来提升Ark: Survival Evolved的游戏体验。Dododex为Ark: Survival Evolved中的每种生物提供一个综合全面以及经常保持更新的指南手册，其中包含驯服计算器、饲料和鞍的配方、生物属性、计时器、每种武器的击晕效果信息、以及独创的提示和从成千上万的ARK玩家中收集到的大数据信息。"
+        appName: "Dododex 方舟：生存进化（Ark: Survival Evolved）驯服计算器",
+        appDescShort: "专为方舟：生存进化（Ark: Survival Evolved）设计的驯服计算器和指南应用",
+        appDescSummary: "通过使用用户已超过 {0} 人的Dododex驯服计算器和指南应用来提升方舟：生存进化的游戏体验。Dododex为方舟：生存进化中的每种生物提供一个综合全面以及经常保持更新的指南手册，其中包含驯服计算器、饲料和鞍的配方、生物属性、计时器、每种武器的击晕效果信息、以及独创的提示和从成千上万的ARK玩家中收集到的大数据信息。"
     },
     ru: {
         aboutStarveIntro: "\"Приручение с голоданием\" - это техника приручения существ, которая помогает выжившим минимизировать риск потери ресурсов в процессе приручения.",
