@@ -12,6 +12,7 @@ shell, head, spine, tail: Dinosaur body parts
 tip: A helpful tip
 xToFill: "[x] narcotics are needed to fill this dinosaur's torpor."
 xUsed: "[x] narcotics have been used."
+minsBeforeX: There is intentionally no space before the variable, in the case where there is no variable, it will simply read "(mins. before)""
 intervals: "Feed at 30 second intervals"
 report: Report button to report innapropriate content.
 capabilities: Refers to the capabilities of each dino (flyers capabilies to carry other creatures, capability to damage wood/stone/etc)
@@ -527,7 +528,7 @@ var translations = {
         consumingX: "Consumiendo {0}...",
         xToFill: "{0} para llenar",
         alarm: "Alarma",
-        minsBeforeX: "(mins. antes de {0})",
+        minsBeforeX: "(mins. antes de{0})",
         starved: "Hambriento",
         gotIt: "Entendido.",
         spoilageTimes: "Tiempos de caducidad",
@@ -804,7 +805,7 @@ var translations = {
         consumingX: "Consommation de {0} ...",
         xToFill: "{0} pour remplir",
         alarm: "Alarme",
-        minsBeforeX: "(min. avant {0})",
+        minsBeforeX: "(min. avant{0})",
         starved: "Affamé",
         gotIt: "Compris",
         spoilageTimes: "Temps avant pourrissement",
@@ -1080,7 +1081,7 @@ var translations = {
         consumingX: "",
         xToFill: "",
         alarm: "Alarm",
-        minsBeforeX: "(min. bevor {0})",
+        minsBeforeX: "(min. bevor{0})",
         starved: "",
         gotIt: "",
         spoilageTimes: "",
@@ -1357,7 +1358,7 @@ var translations = {
         consumingX: "",
         xToFill: "",
         alarm: "Alarm",
-        minsBeforeX: "(mins. before {0})",
+        minsBeforeX: "(mins. before{0})",
         starved: "",
         gotIt: "",
         spoilageTimes: "",
