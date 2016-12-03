@@ -50,7 +50,7 @@ To add a new language:
 
 | Code | Language | % of Dododex Users* | Translated |
 | ---- | -------- | ------------------- | ---------- |
-| de | German               | 37.4% | ✔
+| de | German               | 37.4% | Partial
 | fr | French               | 19.4% | ✔
 | pt | Portuguese           |  8.4% | ✔
 | es | Spanish              |  6.1% | ✔
@@ -67,7 +67,7 @@ To add a new language:
 | hu | Hungarian            |  0.5% | 
 | th | Thai                 |  0.5% | 
 | ar | Arabic               |  0.4% | 
-| ko | Korean               |  0.3% | 
+| ko | Korean               |  0.3% | Partial
 | fi | Finnish              |  0.3% | 
 | ja | Japanese             |  0.3% | 
 | he | Hebrew               |  0.2% | 
