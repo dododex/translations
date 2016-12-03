@@ -2332,7 +2332,7 @@ var translations = {
         torporNotifAlarm: "Seu {0} irá acordar em {1} minutos!",
         torporNotif: "Seu {0} acordou!",
         resourceCalculator: "Calculadora de Recursos",
-        adminCommands: "Comandos de Admin"
+        adminCommands: "Comandos de Admin",
         fitsThrough: "",
         bossArenas: "",
         recipes: "",
