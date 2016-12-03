@@ -2623,7 +2623,7 @@ var translations = {
         torporNotif: "你的{0}恢复意识了！",
         resourceCalculator: "资源计算器",
         adminCommands: "管理员指令",
-        fitsThrough: "",
+        fitsThrough: "适合通过",
         bossArenas: "Boss区域",
         recipes: "食谱",
         favorites: "喜爱",
