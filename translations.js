@@ -908,7 +908,7 @@ var translations = {
         addCustomWeaponName: "Füge einen eigenen Namen hinzu, um diese Waffe zu identifizieren.",
         addWeapons: "Füge deine eigenen Waffen hinzu und Kreaturen mit verändertem Schaden um Dododex KO-Zeit-Berechnungen zu personalisieren.",
         adjustMultipliers: "Verändere die Multiplikatioren für unoffizielle Servereinstellungen. (Multiplikatoren auf 1 gesetzt lassen für offizielle Server)",
-        adolescent: "Jugendlicher",
+        adolescent: "Heranwachsend",
         adult: "Erwachsener",
         advanced: "fortgeschritten",
         affectedBy: "betroffen von",
