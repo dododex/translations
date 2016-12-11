@@ -2608,7 +2608,7 @@ var translations = {
         betaTestingOptIn: "加入Beta测试",
         appName: "Dododex 方舟：生存进化（Ark: Survival Evolved）驯服计算器",
         appDescShort: "专为方舟：生存进化（Ark: Survival Evolved）设计的驯服计算器和指南应用",
-        appDescSummary: "通过使用用户已超过 {0} 人的Dododex驯服计算器和指南应用来提升方舟：生存进化的游戏体验。Dododex为方舟：生存进化中的每种生物提供一个综合全面以及经常保持更新的指南手册，其中包含驯服计算器、饲料和鞍的配方、生物属性、计时器、每种武器的击晕效果信息、以及独创的提示和从成千上万的ARK玩家中收集到的大数据信息。",
+        appDescSummary: "通过使用已超过 {0} 用户的Dododex驯服计算器和指南应用来提升方舟：生存进化的游戏体验。Dododex为方舟：生存进化中的每种生物提供一个综合全面以及经常保持更新的指南手册，其中包含驯服计算器、饲料和鞍的配方、生物属性、计时器、每种武器的击晕效果信息、以及独创的提示和从成千上万的ARK玩家中收集到的大数据信息。",
         view: "检视",
         ignore: "忽略",
         save: "保存",
