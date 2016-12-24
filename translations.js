@@ -2670,9 +2670,9 @@ var translations = {
         serverSettings: "服务器设置",
         officialServer: "官方服务器",
         serverDefault: "我的服务器"
-        target: "",
-        noResults: "",
-        doubleMultNote: ""
+        target: "目标",
+        noResults: "无结果",
+        doubleMultNote: "Dododex中现已包含Ark新的2倍驯服/经验倍数了。如果你是在官方服务器中，请确保Dododex中的 \"{0}\" 和 \"{1}\" 的数值设置为1"
     },
     ru: {
         aboutStarveIntro: "\"Приручение с голоданием\" - это техника приручения существ, которая помогает выжившим минимизировать риск потери ресурсов в процессе приручения.",
