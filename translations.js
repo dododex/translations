@@ -24,6 +24,7 @@ utility: A section header of explaining the utility of this dino (how you can be
 encountering: A section header of explaining what to do when encountering this dino (how to battle it, flee, etc.)
 view, ignore, save, update: Interface buttons. ("View timer", "Ignore this notification", "Save these changes", "Update this information")
 serverDefault: Default name for a saved server
+target: The target value. Ex: "This dino has 100 food, once it reaches the target of 40, you can tame it."
 */
 
 var translations = {
@@ -307,6 +308,7 @@ var translations = {
         bossArenas: "Boss Arenas",
         recipes: "Recipes",
         favorites: "Favorites",
+        noFavs: "Add items to your favorites and you'll find them here!",
         saddles: "Saddles",
         searchRecipe: "Search for a recipe...",
         selected: "Selected",
@@ -315,7 +317,10 @@ var translations = {
         saveSettings: "Save Settings...",
         serverSettings: "Server Settings",
         officialServer: "Official Server",
-        serverDefault: "My Server"
+        serverDefault: "My Server",
+        target: "Target",
+        noResults: "No results.",
+        doubleMultNote: "Dododex's estimates already include Ark's new 2x taming/XP multipliers. If you're on an official server, ensure that \"{0}\" and \"{1}\" are now set to 1 in Dododex's Settings."
     },
     "es-es": {
         aboutStarveIntro: "\"Starve Taming\" (Doma por hambre) es una técnica usada por algunos supervivientes para minimizar el riesgo de perder recursos durante la doma de una criatura.",
@@ -597,6 +602,7 @@ var translations = {
         bossArenas: "",
         recipes: "",
         favorites: "",
+        noFavs: "",
         saddles: "",
         searchRecipe: "",
         selected: "",
@@ -605,7 +611,10 @@ var translations = {
         saveSettings: "",
         serverSettings: "",
         officialServer: "",
-        serverDefault: ""
+        serverDefault: "",
+        target: "",
+        noResults: "",
+        doubleMultNote: ""
     },
     fr: {
         aboutStarveIntro: "Le \"dressage par la faim\" est une méthode que certains survivants utilisent pour minimiser le risque de perdre des ressources lors du dressage.",
@@ -887,6 +896,7 @@ var translations = {
         bossArenas: "",
         recipes: "",
         favorites: "",
+        noFavs: "",
         saddles: "",
         searchRecipe: "",
         selected: "",
@@ -895,7 +905,10 @@ var translations = {
         saveSettings: "",
         serverSettings: "",
         officialServer: "",
-        serverDefault: ""
+        serverDefault: "",
+        target: "",
+        noResults: "",
+        doubleMultNote: ""
     },
     de: {
         aboutStarveIntro: "\"Zähmen durch Aushungern\" ist eine Technik, die manche Überlebende benutzen, um das Risiko eines Ressourcenverlusts während des Zähmens zu minimieren.",
@@ -1177,6 +1190,7 @@ var translations = {
         bossArenas: "",
         recipes: "",
         favorites: "",
+        noFavs: "",
         saddles: "",
         searchRecipe: "",
         selected: "",
@@ -1185,7 +1199,10 @@ var translations = {
         saveSettings: "",
         serverSettings: "",
         officialServer: "",
-        serverDefault: ""
+        serverDefault: "",
+        target: "",
+        noResults: "",
+        doubleMultNote: ""
     },
     it: {
         aboutStarveIntro: "\"Starve Taming\" è una tecnica che alcuni giocatori utilizzano per minimizzare il rischio di perdere risorse durante il taming di un dinosauro.",
@@ -1467,6 +1484,7 @@ var translations = {
         bossArenas: "",
         recipes: "",
         favorites: "",
+        noFavs: "",
         saddles: "",
         searchRecipe: "",
         selected: "",
@@ -1475,7 +1493,10 @@ var translations = {
         saveSettings: "",
         serverSettings: "",
         officialServer: "",
-        serverDefault: ""
+        serverDefault: "",
+        target: "",
+        noResults: "",
+        doubleMultNote: ""
     },
     ko: {
         aboutStarveIntro: "\"굶겨 길들이기\". 몇몇 생존자들이 동물을 길들이기 동안 자원 손실을 최소화하기 위해 사용하는 기술입니다.",
@@ -1601,8 +1622,8 @@ var translations = {
         startTimer: "시작",
         starveReducesRisk: "Starve taming reduces the risk of losing resources by feeding a creature only once it is hungry enough to eat everything at once (or, eat as much as it can). Once you've selected the food you'll be taming with, enter the creature's current and max food values, then start the timer.",
         starveTimer: "시작",
-        stat: "Stat",
-        stats: "Stats",
+        stat: "통계량",
+        stats: "통계",
         tamed: "Tamed",
         taming: "Taming",
         tamingCalculator: "Taming calculator",
@@ -1629,11 +1650,11 @@ var translations = {
         weapons: "Weapons",
         weight: "무게",
         wikiPage: "위키 페이지",
-        shortcutsLinks: "Wiki Shortcuts & Links",
+        shortcutsLinks: "Wiki 단축키 및 모래밭",
         shortcuts: "Shortcuts",
         withBonus: "조련 보너스 적용시",
         xpk: "처치시 경험치",
-        yourCreature: "Your creature",
+        yourCreature: "당신의 생물",
         aboutStarveUntilIs: "Your creature does not have a high enough Max Food Value to eat all of its required food at once. The UNTIL STARVED countdown indicates when your creature's Food Value will reach 0. Once it is nearing 0, feed it all it can eat, and then continue with the normal method of taming.",
         aboutStarveUntilIsNot: "Your creature has a high enough Max Food Value to eat all of its required food once it's hungry enough. When the UNTIL TAMED timer is nearing 0, start feeding!",
         minimumTime: "Minimum Time",
@@ -1693,7 +1714,7 @@ var translations = {
         ranked: "랭크 #{0}",
         reportPrompt: "Find something wrong?",
         notEnoughFood: "Not enough food. Try adding:",
-        movementSpeed: "Movement Speed",
+        movementSpeed: "이동 속도",
         torpor: "Torpor",
         estData: "Estimated Data",
         estDataNote: "Taming data for this creature is based on Dododex’s own tests since the Developer Kit has not yet been released. Be sure to bring extra supplies and report any errors under \"About / Feedback\".",
@@ -1757,6 +1778,7 @@ var translations = {
         bossArenas: "",
         recipes: "",
         favorites: "",
+        noFavs: "",
         saddles: "",
         searchRecipe: "",
         selected: "",
@@ -1765,7 +1787,10 @@ var translations = {
         saveSettings: "",
         serverSettings: "",
         officialServer: "",
-        serverDefault: ""
+        serverDefault: "",
+        target: "",
+        noResults: "",
+        doubleMultNote: ""
     },
     pl:{
         aboutStarveIntro: "\"Technika Głodowania\" to technika używana przez graczy do zminimalizowania traconych surowców podczas oswajania kreatury.",
@@ -2047,6 +2072,7 @@ var translations = {
         bossArenas: "",
         recipes: "",
         favorites: "",
+        noFavs: "",
         saddles: "",
         searchRecipe: "",
         selected: "",
@@ -2055,7 +2081,10 @@ var translations = {
         saveSettings: "",
         serverSettings: "",
         officialServer: "",
-        serverDefault: ""
+        serverDefault: "",
+        target: "",
+        noResults: "",
+        doubleMultNote: ""
     },
     "pt-br":{
         aboutStarveIntro: "\"Tempo de Fome\" é uma técnica que alguns sobreviventes usam para minimizar o risco de perderem recursos enquanto domam sua criatura.",
@@ -2337,6 +2366,7 @@ var translations = {
         bossArenas: "",
         recipes: "",
         favorites: "",
+        noFavs: "",
         saddles: "",
         searchRecipe: "",
         selected: "",
@@ -2345,7 +2375,10 @@ var translations = {
         saveSettings: "",
         serverSettings: "",
         officialServer: "",
-        serverDefault: ""
+        serverDefault: "",
+        target: "",
+        noResults: "",
+        doubleMultNote: ""
     },
     zh: {
         aboutStarveIntro: "\"饥饿驯服法\" 这项技术被很多幸存者用来最小化在驯服生物时的资源损失。",
@@ -2627,6 +2660,7 @@ var translations = {
         bossArenas: "Boss区域",
         recipes: "食谱",
         favorites: "喜爱",
+        noFavs: "",
         saddles: "鞍",
         searchRecipe: "寻找食谱中...",
         selected: "已选择",
@@ -2636,6 +2670,9 @@ var translations = {
         serverSettings: "服务器设置",
         officialServer: "官方服务器",
         serverDefault: "我的服务器"
+        target: "",
+        noResults: "",
+        doubleMultNote: ""
     },
     ru: {
         aboutStarveIntro: "\"Приручение с голоданием\" - это техника приручения существ, которая помогает выжившим минимизировать риск потери ресурсов в процессе приручения.",
@@ -2917,6 +2954,7 @@ var translations = {
         bossArenas: "",
         recipes: "",
         favorites: "",
+        noFavs: "",
         saddles: "",
         searchRecipe: "",
         selected: "",
@@ -2925,7 +2963,10 @@ var translations = {
         saveSettings: "",
         serverSettings: "",
         officialServer: "",
-        serverDefault: ""
+        serverDefault: "",
+        target: "",
+        noResults: "",
+        doubleMultNote: ""
     }
 }
 
