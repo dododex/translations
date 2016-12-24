@@ -2660,7 +2660,7 @@ var translations = {
         bossArenas: "Boss区域",
         recipes: "食谱",
         favorites: "喜爱",
-        noFavs: "",
+        noFavs: "为你的收藏夹添加物品后你就可以在这里找到它们了",
         saddles: "鞍",
         searchRecipe: "寻找食谱中...",
         selected: "已选择",
