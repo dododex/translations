@@ -2669,7 +2669,7 @@ var translations = {
         saveSettings: "设置保存中...",
         serverSettings: "服务器设置",
         officialServer: "官方服务器",
-        serverDefault: "我的服务器"
+        serverDefault: "我的服务器",
         target: "",
         noResults: "",
         doubleMultNote: ""
