@@ -63,7 +63,7 @@ var translations = {
         charge: "Charge",
         checkForNewData: "Check for new data",
         comparison: "Comparison",
-        concious: "Concious",
+        concious: "Conscious",
         consumptionSpeed: "Consumption Speed",
         cookingPot: "Cooking Pot",
         craftedIn: "Crafted in",
