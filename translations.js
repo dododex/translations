@@ -1533,7 +1533,7 @@ var translations = {
         charge: "돌진",
         checkForNewData: "새로운 업데이트 확인",
         comparison: "전체 비교",
-        concious: "Concious",
+        concious: "Conscious",
         consumptionSpeed: "음식 소비 속드",
         cookingPot: "요리 냄비",
         craftedIn: "제작장소",
