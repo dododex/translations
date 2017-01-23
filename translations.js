@@ -1,5 +1,6 @@
 /*
 Context for ambiguous terms:
+charge: The Pachy's charging attack (Phrasing in app: "Pachy (Charge)") 
 consumingX: "This dinosaur is consuming [x] narcotics..."
 drops: Used as heading to show items that this creature drops
 droppedBy: "These items are dropped by these dinos..."
