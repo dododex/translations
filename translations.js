@@ -2999,8 +2999,6 @@ var languages = {
             name:"Ark France",
             link:"http://ark-france.fr"
         },{
-        name:"Français",
-        credit:[{
             name:"Aimeric99",
             link:"https://github.com/Aimeric99"
         },{
