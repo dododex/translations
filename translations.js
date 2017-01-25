@@ -2993,6 +2993,12 @@ var languages = {
         },]
     },
     fr:{
+	    
+        name:"Français",
+        credit:[{
+            name:"Ark France",
+            link:"http://ark-france.fr"
+        },{
         name:"Français",
         credit:[{
             name:"Aimeric99",
