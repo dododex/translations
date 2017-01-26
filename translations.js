@@ -1,31 +1,32 @@
 /*
-Context for ambiguous terms:
+all: Button to show ALL content, rather than filtered content.
+capabilities: Refers to the capabilities of each dino (flyers capabilies to carry other creatures, capability to damage wood/stone/etc)
 charge: The Pachy's charging attack (Phrasing in app: "Pachy (Charge)") 
 consumingX: "This dinosaur is consuming [x] narcotics..."
-drops: Used as heading to show items that this creature drops
+Context for ambiguous terms:
 droppedBy: "These items are dropped by these dinos..."
+drops: Used as heading to show items that this creature drops
 edit: Interface button ("Edit your weapons.")
 effects: The effects of consuming a recipe.
+encountering: A section header of explaining what to do when encountering this dino (how to battle it, flee, etc.)
 gotIt: Used as confirmation button ("Okay, I got it.")
+intervals: "Feed at 30 second intervals"
+minsBeforeX: There is intentionally no space before the variable, in the case where there is no variable, it will simply read "(mins. before)""
 more: Used as interface button ("Show more information")
 pts: Abbreviation of points - keep very short if possible!
+rate: The rate of depletion ("depletion" may work better in other languages)
+report: Report button to report innapropriate content.
+report: Report this content for being innapropriate.
+serverDefault: Default name for a saved server
 shell, head, spine, tail: Dinosaur body parts
+submitTip: Button to submit a tip for taming this dino.
+target: The target value. Ex: "This dino has 100 food, once it reaches the target of 40, you can tame it."
 tip: A helpful tip
+tips: Tips submitted by other players
+utility: A section header of explaining the utility of this dino (how you can best use it, etc.)
+view, ignore, save, update: Interface buttons. ("View timer", "Ignore this notification", "Save these changes", "Update this information")
 xToFill: "[x] narcotics are needed to fill this dinosaur's torpor."
 xUsed: "[x] narcotics have been used."
-minsBeforeX: There is intentionally no space before the variable, in the case where there is no variable, it will simply read "(mins. before)""
-intervals: "Feed at 30 second intervals"
-report: Report button to report innapropriate content.
-capabilities: Refers to the capabilities of each dino (flyers capabilies to carry other creatures, capability to damage wood/stone/etc)
-tips: Tips submitted by other players
-submitTip: Button to submit a tip for taming this dino.
-report: Report this content for being innapropriate.
-all: Button to show ALL content, rather than filtered content.
-utility: A section header of explaining the utility of this dino (how you can best use it, etc.)
-encountering: A section header of explaining what to do when encountering this dino (how to battle it, flee, etc.)
-view, ignore, save, update: Interface buttons. ("View timer", "Ignore this notification", "Save these changes", "Update this information")
-serverDefault: Default name for a saved server
-target: The target value. Ex: "This dino has 100 food, once it reaches the target of 40, you can tame it."
 */
 
 var translations = {
@@ -719,7 +720,7 @@ var translations = {
         primary: "Primaire",
         producedBy: "Produit par",
         pts: "Pts",
-        rate: "Noter l'application",
+        rate: "Déplétion",
         rateDododex: "Noter Dododex",
         rateThisCreature: "Noter cette créature",
         ratingsNote: "Notes sur 5. Collectées avec {0} utilisateurs de Dododex",
