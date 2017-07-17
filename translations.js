@@ -1029,7 +1029,7 @@ var translations = {
         checkForNewData: "Nach neuen Daten überprüfen",
         comparison: "Vergleich",
         concious: "wach",
-        consumptionSpeed: "Verbruachsgeschwindigkeit",
+        consumptionSpeed: "Verbrauchsgeschwindigkeit",
         cookingPot: "Kochtopf",
         craftedIn: "Hergestellt in",
         currentFoodValue: "Wert des hergestellen Essens",
