@@ -330,7 +330,7 @@ var translations = {
         currentWeight: "Current Weight",
         maxWeight: "Max Weight",
         info: "Info",
-        torporClass: "Creature Torpor Drop Rate",
+        torporClass: "Torpor Drain Rate",
         extremelyHigh: "Extremely High",
         high: "High",
         low: "Low",
