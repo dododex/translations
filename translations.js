@@ -3291,7 +3291,7 @@ var translations = {
         forgeCalc: "熔炉计算器",
         statCalcDesc: "输入一个野生 {0} 的状态来决定他们是如何随意分散的。",
         statCalcUntamed: "并且注意，状态计算器仅可以对未被驯服的生物使用。",
-        noDataForCreature: "这个生物暂无可用数据。"
+        noDataForCreature: "这个生物暂无可用数据。",
         ranked: "排名位于",
         noWM: "",
         chanceOfTwins: "",
