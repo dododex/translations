@@ -1330,13 +1330,13 @@ var translations = {
         statCalcDesc: "Gib die Statuswerte eines wilden {0} ein um deren zufällige Verteilung zu bestimmen.",
         statCalcUntamed: "Beachte, dass der Statuswerte Rechner nur bei ungezähmten Kreaturen funktioniert.",
         noDataForCreature: "Keine verfügbaren Daten zu dieser Kreatur",
-        ranked: "",
+        ranked: "Rang",
         noWM: "Diese Kreatur kann keine Punkte verlieren",
         chanceOfTwins: "Chance auf Zwillinge",
         chanceOfTriplets: "Chance auf Drillinge",
         maturation: "Erwachsenwerden",
         usps: "Benutze Singleplayer Einstellungen",
-        uspsNote: "Aktivieren, falls es in deinen Ark Einstellungen aktiviert ist (unter \"Erweiterte Einstellungen\"). Das wird all deine Multiplikatoren erhöhen."
+        uspsNote: "Aktivieren, falls es in deinen Ark Einstellungen aktiviert ist (unter \"Erweiterte Einstellungen\"). Dies wird all deine Multiplikatoren erhöhen."
     },
     it: {
         aboutStarveIntro: "\"Starve Taming\" è una tecnica che alcuni giocatori utilizzano per minimizzare il rischio di perdere risorse durante il taming di un dinosauro.",
