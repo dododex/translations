@@ -169,7 +169,6 @@ var translations = {
         torporTimer: "Torpor Timer",
         totalMaturation: "Total maturation",
         totalTime: "Total Time",
-        tryTappingOn: "Try tapping on any food item below to quickly use that food exclusively.",
         typeInLevels: "Type in levels rather than using a picker.",
         until: "Until",
         use: "Use",
@@ -349,7 +348,14 @@ var translations = {
         forgeCalc: "Forge Calculator",
         statCalcDesc: "Enter the stats of a wild {0} to determine how they were randomly distributed.",
         statCalcUntamed: "Also note that stat calculators can only be used on untamed creatures.",
-        noDataForCreature: "No data available for this creature."
+        noDataForCreature: "No data available for this creature.",
+        ranked: "Ranked",
+        noWM: "This creature will never have wasted points.",
+        chanceOfTwins: "Chance of Twins",
+        chanceOfTriplets: "Chance of Triplets",
+        maturation: "Maturation",
+        usps:"Use Single Player Settings",
+        uspsNote:"Enable this if it's enabled in your Ark settings (under \"Advanced\"). This will increase all of your multipliers."
     },
     "es-es": {
         aboutStarveIntro: "\"Starve Taming\" (Doma por hambre) es una técnica usada por algunos supervivientes para minimizar el riesgo de perder recursos durante la doma de una criatura.",
@@ -490,7 +496,6 @@ var translations = {
         torporTimer: "Temporizador de inconsciencia",
         totalMaturation: "Maduración total",
         totalTime: "Tiempo total",
-        tryTappingOn: "Prueba a presionar en cualquier comida para rápidamente usar únicamente esa comida.",
         typeInLevels: "Teclear el nivel en lugar de usar un selector.",
         until: "Hasta",
         use: "Usar",
@@ -670,7 +675,14 @@ var translations = {
         forgeCalc: "",
         statCalcDesc: "",
         statCalcUntamed: "",
-        noDataForCreature: ""
+        noDataForCreature: "",
+        ranked: "",
+        noWM: "",
+        chanceOfTwins: "",
+        chanceOfTriplets: "",
+        maturation: "",
+        usps: "",
+        uspsNote: ""
     },
     fr: {
         aboutStarveIntro: "Le \"dressage par la faim\" est une méthode que certains survivants utilisent pour minimiser le risque de perdre des ressources lors du dressage.",
@@ -811,7 +823,6 @@ var translations = {
         torporTimer: "Minuteur de torpeur",
         totalMaturation: "Temps total de maturation",
         totalTime: "Temps total",
-        tryTappingOn: "Appuyez sur un type de nourriture ci-dessous pour n'utiliser que celle-ci.",
         typeInLevels: "Rentrer le niveau plutôt que d'utiliser un sélecteur.",
         until: "Jusqu'à",
         use: "Utiliser",
@@ -991,7 +1002,14 @@ var translations = {
         forgeCalc: "",
         statCalcDesc: "",
         statCalcUntamed: "",
-        noDataForCreature: ""
+        noDataForCreature: "",
+        ranked: "",
+        noWM: "",
+        chanceOfTwins: "",
+        chanceOfTriplets: "",
+        maturation: "",
+        usps: "",
+        uspsNote: ""
     },
     de: {
         aboutStarveIntro: "\"Zähmen durch Aushungern\" ist eine Technik, die manche Überlebende benutzen, um das Risiko eines Ressourcenverlusts während des Zähmens zu minimieren.",
@@ -1132,7 +1150,6 @@ var translations = {
         torporTimer: "Betäubungs-Timer",
         totalMaturation: "Gesamte Zeit bis zum Erwachsenwerden",
         totalTime: "Gesamte Zeit",
-        tryTappingOn: "Klicke auf ein Nahrungsmittel unterhalb, um ausschließlich diese Nahrung zu benutzen.",
         typeInLevels: "Gebe den Level ein anstatt ein Auswahlmenü zu nutzen.",
         until: "Bis",
         use: "Nutze",
@@ -1312,7 +1329,14 @@ var translations = {
         forgeCalc: "Schmelzofen Rechner",
         statCalcDesc: "Gib die Statuswerte eines wilden {0} ein um deren zufällige Verteilung zu bestimmen.",
         statCalcUntamed: "Beachte, dass der Statuswerte Rechner nur bei ungezähmten Kreaturen funktioniert.",
-        noDataForCreature: "Keine verfügbaren Daten zu dieser Kreatur"
+        noDataForCreature: "Keine verfügbaren Daten zu dieser Kreatur",
+        ranked: "",
+        noWM: "",
+        chanceOfTwins: "",
+        chanceOfTriplets: "",
+        maturation: "",
+        usps: "",
+        uspsNote: ""
     },
     it: {
         aboutStarveIntro: "\"Starve Taming\" è una tecnica che alcuni giocatori utilizzano per minimizzare il rischio di perdere risorse durante il taming di un dinosauro.",
@@ -1453,7 +1477,6 @@ var translations = {
         torporTimer: "Timer torpore",
         totalMaturation: "Maturazione totale",
         totalTime: "Tempo totale",
-        tryTappingOn: "Premi su uno dei cibi qua sotto per scegliere rapidamente con che cibo nutrire il tuo dinosauro.",
         typeInLevels: "Scrivi il livello del dinosauro a mano piuttosto che utilizzare il menu a tendina.",
         until: "Fino a",
         use: "Usa",
@@ -1633,7 +1656,14 @@ var translations = {
         forgeCalc: "",
         statCalcDesc: "",
         statCalcUntamed: "",
-        noDataForCreature: ""
+        noDataForCreature: "",
+        ranked: "",
+        noWM: "",
+        chanceOfTwins: "",
+        chanceOfTriplets: "",
+        maturation: "",
+        usps: "",
+        uspsNote: ""
     },
     ja: {
         aboutStarveIntro: "\"空腹テイム\"は、資源を失うリスクを最小限に抑えるためにサバイバー達が使う技法です。",
@@ -1774,7 +1804,6 @@ var translations = {
         torporTimer: "気絶値タイマー",
         totalMaturation: "合計成熟",
         totalTime: "合計時間",
-        tryTappingOn: "下の食品をタップして、その食品のみをすぐに使用してみて下さい。",
         typeInLevels: "ピッカーを使用してレベルを入力します",
         until: "期限",
         use: "使用",
@@ -1954,7 +1983,14 @@ var translations = {
         forgeCalc: "精錬計算",
         statCalcDesc: "野生の{0}の統計情報を入力して、それらがどのように分布するのか判断します。",
         statCalcUntamed: "また、ステータス計算は、テイム前の生物にしか使用できないことに注意してください。",
-        noDataForCreature: "生物のデータがありません。"
+        noDataForCreature: "生物のデータがありません。",
+        ranked: "",
+        noWM: "",
+        chanceOfTwins: "",
+        chanceOfTriplets: "",
+        maturation: "",
+        usps: "",
+        uspsNote: ""
     },
     ko: {
         aboutStarveIntro: "\"굶겨 길들이기\". 몇몇 생존자들이 동물을 길들이기 동안 자원 손실을 최소화하기 위해 사용하는 기술입니다.",
@@ -2095,7 +2131,6 @@ var translations = {
         torporTimer: "기절치 타이머",
         totalMaturation: "성장 시간",
         totalTime: "총 소모시간",
-        tryTappingOn: "Try tapping on any food item below to quickly use that food exclusively.",
         typeInLevels: "Type in levels rather than using a picker.",
         until: "남음",
         use: "소모량",
@@ -2275,7 +2310,14 @@ var translations = {
         forgeCalc: "",
         statCalcDesc: "",
         statCalcUntamed: "",
-        noDataForCreature: ""
+        noDataForCreature: "",
+        ranked: "",
+        noWM: "",
+        chanceOfTwins: "",
+        chanceOfTriplets: "",
+        maturation: "",
+        usps: "",
+        uspsNote: ""
     },
     pl:{
         aboutStarveIntro: "\"Technika Głodowania\" to technika używana przez graczy do zminimalizowania traconych surowców podczas oswajania kreatury.",
@@ -2416,7 +2458,6 @@ var translations = {
         torporTimer: "Licznik Ogłuszenia",
         totalMaturation: "Suma Czasu Dojrzewania",
         totalTime: "Suma Czasu",
-        tryTappingOn: "Spróbuj dotknąć jedzenia,aby szybko i efektywnie go użyć.",
         typeInLevels: "Wpisz poziomy,zamiast używać zamiennika.",
         until: "Do",
         use: "Użyj",
@@ -2596,7 +2637,14 @@ var translations = {
         forgeCalc: "",
         statCalcDesc: "",
         statCalcUntamed: "",
-        noDataForCreature: ""
+        noDataForCreature: "",
+        ranked: "",
+        noWM: "",
+        chanceOfTwins: "",
+        chanceOfTriplets: "",
+        maturation: "",
+        usps: "",
+        uspsNote: ""
     },
     "pt-br":{
         aboutStarveIntro: "\"Tempo de Fome\" é uma técnica que alguns sobreviventes usam para minimizar o risco de perderem recursos enquanto domam sua criatura.",
@@ -2737,7 +2785,6 @@ var translations = {
         torporTimer: "Tempo de Entorpecimento",
         totalMaturation: "Maturação Total",
         totalTime: "Tempo Total",
-        tryTappingOn: "Tente tocar em qualquer alimento abaixo para utilizar os alimentos exclusivos rapidamente.",
         typeInLevels: "Digite um nível ao invés de usar um selecionador",
         until: "Até",
         use: "Uso",
@@ -2917,7 +2964,14 @@ var translations = {
         forgeCalc: "",
         statCalcDesc: "",
         statCalcUntamed: "",
-        noDataForCreature: ""
+        noDataForCreature: "",
+        ranked: "",
+        noWM: "",
+        chanceOfTwins: "",
+        chanceOfTriplets: "",
+        maturation: "",
+        usps: "",
+        uspsNote: ""
     },
     zh: {
         aboutStarveIntro: "\"饥饿驯服法\" 这项技术被很多幸存者用来最小化在驯服生物时的资源损失。",
@@ -3058,7 +3112,6 @@ var translations = {
         torporTimer: "麻醉计时器",
         totalMaturation: "总成长时间",
         totalTime: "总时间",
-        tryTappingOn: "试着轻敲下面任意一种食物物品来快速使用指定的食物.",
         typeInLevels: "输入级别而不是使用选择器.",
         until: "前",
         use: "使用",
@@ -3239,6 +3292,13 @@ var translations = {
         statCalcDesc: "输入一个野生 {0} 的状态来决定他们是如何随意分散的。",
         statCalcUntamed: "并且注意，状态计算器仅可以对未被驯服的生物使用。",
         noDataForCreature: "这个生物暂无可用数据。"
+        ranked: "排名位于",
+        noWM: "",
+        chanceOfTwins: "",
+        chanceOfTriplets: "",
+        maturation: "",
+        usps: "",
+        uspsNote: ""
     },
     ru: {
         aboutStarveIntro: "\"Приручение с голоданием\" - это техника приручения существ, которая помогает выжившим минимизировать риск потери ресурсов в процессе приручения.",
@@ -3379,7 +3439,6 @@ var translations = {
         torporTimer: "Таймер оглушения",
         totalMaturation: "Полное взросление",
         totalTime: "Общее время",
-        tryTappingOn: "Попробуйте понажимать на любом варианте еды ниже, чтобы быстро выбрать единственную используемую еду.",
         typeInLevels: "Вводите уровень с клавиатуры, вместо выбора из списка.",
         until: "До",
         use: "Использовать",
@@ -3559,7 +3618,14 @@ var translations = {
         forgeCalc: "",
         statCalcDesc: "",
         statCalcUntamed: "",
-        noDataForCreature: ""
+        noDataForCreature: "",
+        ranked: "",
+        noWM: "",
+        chanceOfTwins: "",
+        chanceOfTriplets: "",
+        maturation: "",
+        usps: "",
+        uspsNote: ""
     },
     ro: {
         aboutStarveIntro: "\"Îmblânzirea prin înfometare\" este o tehnică pe care unii supravieţuitori o folosesc pentru a minimiza riscul de a pierde resurse în timpul îmblânzirii unei creaturi.",
@@ -3700,7 +3766,6 @@ var translations = {
         torporTimer: "Cronometru de Amorţeală ",
         totalMaturation: "Maturare Totală",
         totalTime: "Timp Total",
-        tryTappingOn: "Încearcă să atingi orice element de mâncare de mai jos pentru a utiliza rapid acea mâncare în mod exclusiv.",
         typeInLevels: "Scrie nivele în loc să folosești un selector.",
         until: "Până",
         use: "Folosește",
@@ -3880,7 +3945,14 @@ var translations = {
         forgeCalc: "",
         statCalcDesc: "",
         statCalcUntamed: "",
-        noDataForCreature: ""
+        noDataForCreature: "",
+        ranked: "",
+        noWM: "",
+        chanceOfTwins: "",
+        chanceOfTriplets: "",
+        maturation: "",
+        usps: "",
+        uspsNote: ""
     }
 
 }
