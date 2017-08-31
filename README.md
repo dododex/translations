@@ -19,6 +19,8 @@ This will be submitted as a [pull request](https://help.github.com/articles/usin
 
 > (If you have any trouble with these instructions, but still want to help, please contact me at dan14lev at gmail.com!)
 
+## [Join the Translator Chat!](https://discord.gg/KvmRSSV)
+
 ## NOTES
 
 ### Phrasing & Punctuation
@@ -43,7 +45,7 @@ Some phrases have variables in them where a term will be inserted into the sente
 To add a new language: 
 
 1. Copy and paste the entire English section ("en").
-2. Change the "en" to your language's code (<a href=\"https://sites.google.com/site/tomihasa/google-language-codes\">list of language codes</a>). (Regional languages (`es-mx` vs. `es`) are only recommended if the translations will have a noticable difference. When possible, try to translate for the general language to simplify the project.)
+2. Change the "en" to your language's code ([list of language codes](https://sites.google.com/site/tomihasa/google-language-codes))). (Regional languages (`es-mx` vs. `es`) are only recommended if the translations will have a noticable difference. When possible, try to translate for the general language to simplify the project.)
 3. Translate each of the phrases.
 
 ## LIST OF LANGUAGES
