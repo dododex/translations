@@ -1,9 +1,9 @@
 /*
+Context for ambiguous terms:
 all: Button to show ALL content, rather than filtered content.
 capabilities: Refers to the capabilities of each dino (flyers capabilies to carry other creatures, capability to damage wood/stone/etc)
 charge: The Pachy's charging attack (Phrasing in app: "Pachy (Charge)") 
 consumingX: "This dinosaur is consuming [x] narcotics..."
-Context for ambiguous terms:
 droppedBy: "These items are dropped by these dinos..."
 drops: Used as heading to show items that this creature drops
 edit: Interface button ("Edit your weapons.")
@@ -13,6 +13,7 @@ gotIt: Used as confirmation button ("Okay, I got it.")
 intervals: "Feed at 30 second intervals"
 minsBeforeX: There is intentionally no space before the variable, in the case where there is no variable, it will simply read "(mins. before)""
 more: Used as interface button ("Show more information")
+open: Used as a interface button ("Open" button to open the Troodon calculator.)
 pts: Abbreviation of points - keep very short if possible!
 rate: The rate of depletion ("depletion" may work better in other languages)
 report: Report button to report innapropriate content.
