@@ -67,7 +67,7 @@ To add a new language:
 | cs | Czech                |  0.7% | 
 | nb | Norwegian            |  0.6% | 
 | hu | Hungarian            |  0.5% | 
-| th | Thai                 |  0.5% | 
+| th | Thai                 |  0.5% | ✔
 | ar | Arabic               |  0.4% | 
 | ko | Korean               |  0.3% | Partial
 | fi | Finnish              |  0.3% | 
