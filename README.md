@@ -62,9 +62,9 @@ To add a new language:
 | pl | Polish               |  2.4% | ✔
 | zh | Chinese (Simplified) |  2.2% | ✔
 | da | Danish               |  1.3% | 
-| tr | Turkish              |  1.2% | 
+| tr | Turkish              |  1.2% | ✔
 | sv | Swedish              |  1.0% | 
-| cs | Czech                |  0.7% | 
+| cs | Czech                |  0.7% | ✔
 | nb | Norwegian            |  0.6% | 
 | hu | Hungarian            |  0.5% | 
 | th | Thai                 |  0.5% | ✔
