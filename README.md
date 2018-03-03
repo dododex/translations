@@ -21,6 +21,12 @@ This will be submitted as a [pull request](https://help.github.com/articles/usin
 
 ## [Join the Translator Chat!](https://discord.gg/KvmRSSV)
 
+## TRANSLATING CREATURE NAMES
+* Open [creatures.json](creatures.json) and click "Edit."
+* Add translated names in your language. Please keep languages in alphabetical order, according to their language code.
+* If a creature does not have a translation, simply omit it. Do not create a copy of the English translation, as Dododex will automatically fall back on the English translations. However, please consider transliterating if you think it would be more helpful to speakers of your language. 
+* IMPORTANT: Dialetcs (For example: Brazilian Portuguese / PT-BR) are not supported. Only two-letter country codes can be used (For example: PT). If there are any discrepencies between dialets, please open an issue on Github so it can be logged.
+
 ## NOTES
 
 ### Phrasing & Punctuation
