@@ -1,407 +1,675 @@
 {"creatures":{
 	"achatina":{
-		"name_t":{}
+		"name_t":{
+			"ru":"ахатина"
+		},
 	},
 	"allosaurus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"аллозавр"
+		},
 	},
 	"ammonite":{
-		"name_t":{}
+		"name_t":{
+			"ru":"аммонит"
+		},
 	},
 	"angler":{
-		"name_t":{}
+		"name_t":{
+			"ru":"удильщик"
+		},
 	},
 	"ankylosaurus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"анкилозавр"
+		},
 	},
 	"araneo":{
-		"name_t":{}
+		"name_t":{
+			"ru":"аранео"
+		},
 	},
 	"archaeopteryx":{
-		"name_t":{}
+		"name_t":{
+			"ru":"археоптерикс"
+		},
 	},
 	"argentavis":{
-		"name_t":{}
+		"name_t":{
+			"ru":"аргентавис"
+		},
 	},
 	"arthropluera":{
-		"name_t":{}
+		"name_t":{
+			"ru":"артроплевра"
+		},
 	},
 	"attackdrone":{
-		"name_t":{}
+		"name_t":{
+			"ru":"атакующий дрон"
+		},
 	},
 	"baryonyx":{
-		"name_t":{}
+		"name_t":{
+			"ru":"барионикс"
+		},
 	},
 	"basilisk":{
-		"name_t":{}
+		"name_t":{
+			"ru":"василиск"
+		},
 	},
 	"basilosaurus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"базилозавр"
+		},
 	},
 	"beelzebufo":{
-		"name_t":{}
+		"name_t":{
+			"ru":"жаба"
+		},
 	},
 	"bulbdog":{
-		"name_t":{}
+		"name_t":{
+			"ru":"лампадог"
+		},
 	},
 	"brontosaurus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"бронтозавр"
+		},
 	},
 	"broodmotherlysrix":{
-		"name_t":{}
+		"name_t":{
+			"ru":"праматерь"
+		},
 	},
 	"carbonemys":{
-		"name_t":{}
+		"name_t":{
+			"ru":"карбонемис"
+		},
 	},
 	"carnotaurus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"карнотавр"
+		},
 	},
 	"castoroides":{
-		"name_t":{}
+		"name_t":{
+			"ru":"кастороидес"
+		},
 	},
 	"chalicotherium":{
-		"name_t":{}
+		"name_t":{
+			"ru":"халикотерий"
+		},
 	},
 	"cnidaria":{
-		"name_t":{}
+		"name_t":{
+			"ru":"книдария"
+		},
 	},
 	"coelacanth":{
-		"name_t":{}
+		"name_t":{
+			"ru":"целакант"
+		},
 	},
 	"compy":{
-		"name_t":{}
+		"name_t":{
+			"ru":"компсогнат"
+		},
 	},
 	"daeodon":{
-		"name_t":{}
+		"name_t":{
+			"ru":"деодон"
+		},
 	},
 	"deathworm":{
-		"name_t":{}
+		"name_t":{
+			"ru":"червь смерти"
+		},
 	},
 	"defenseunit":{
-		"name_t":{}
+		"name_t":{
+			"ru":"защитный дрон"
+		},
 	},
 	"dilophosaur":{
-		"name_t":{}
+		"name_t":{
+			"ru":"дилофозавр"
+		},
 	},
 	"dimetrodon":{
-		"name_t":{}
+		"name_t":{
+			"ru":"диметродон"
+		},
 	},
 	"dimorphodon":{
-		"name_t":{}
+		"name_t":{
+			"ru":"диморфодон"
+		},
 	},
 	"diplocaulus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"диплокаулус"
+		},
 	},
 	"diplodocus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"диплодок"
+		},
 	},
 	"direbear":{
-		"name_t":{}
+		"name_t":{
+			"ru":"ужасный медведь"
+		},
 	},
 	"direwolf":{
-		"name_t":{}
+		"name_t":{
+			"ru":"лютоволк"
+		},
 	},
 	"dodo":{
-		"name_t":{}
+		"name_t":{
+			"ru":"додо"
+		},
 	},
 	"doedicurus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"дедикурус"
+		},
 	},
 	"dragon":{
-		"name_t":{}
+		"name_t":{
+			"ru":"дракон"
+		},
 	},
 	"dungbeetle":{
-		"name_t":{}
+		"name_t":{
+			"ru":"скарабей"
+		},
 	},
 	"dunkleosteus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"дунклеостей"
+		},
 	},
 	"electrophorus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"электрофорус"
+		},
 	},
 	"equus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"эквус"
+		},
 	},
 	"eurypterid":{
-		"name_t":{}
+		"name_t":{
+			"ru":"эвриптерид"
+		},
 	},
 	"featherlight":{
-		"name_t":{}
+		"name_t":{
+			"ru":"яснокрыл"
+		},
 	},
 	"gallimimus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"галлимим"
+		},
 	},
 	"giantbee":{
-		"name_t":{}
+		"name_t":{
+			"ru":"гигантская пчела"
+		},
 	},
 	"giganotosaurus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"гиганотозавр"
+		},
 	},
 	"gigantopithecus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"гигантопитек"
+		},
 	},
 	"glowbug":{
-		"name_t":{}
+		"name_t":{
+			"ru":"светлячок"
+		},
 	},
 	"glowtail":{
-		"name_t":{}
+		"name_t":{
+			"ru":"лучехвост"
+		},
 	},
 	"griffin":{
-		"name_t":{}
+		"name_t":{
+			"ru":"грифон"
+		},
 	},
 	"hesperornis":{
-		"name_t":{}
+		"name_t":{
+			"ru":"гесперорнис"
+		},
 	},
 	"hyaenodon":{
-		"name_t":{}
+		"name_t":{
+			"ru":"гиенодон"
+		},
 	},
 	"ichthyornis":{
-		"name_t":{}
+		"name_t":{
+			"ru":"ихтиорнис"
+		},
 	},
 	"ichthyosaurus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"ихтиозавр"
+		},
 	},
 	"iguanodon":{
-		"name_t":{}
+		"name_t":{
+			"ru":"игуанодон"
+		},
 	},
 	"jerboa":{
-		"name_t":{}
+		"name_t":{
+			"ru":"тушканчик"
+		},
 	},
 	"kairuku":{
-		"name_t":{}
+		"name_t":{
+			"ru":"кайруку"
+		},
 	},
 	"kaprosuchus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"капрозух"
+		},
 	},
 	"karkinos":{
-		"name_t":{}
+		"name_t":{
+			"ru":"каркинос"
+		},
 	},
 	"kentrosaurus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"кентрозавр"
+		},
 	},
 	"lamprey":{
-		"name_t":{}
+		"name_t":{
+			"ru":"минога"
+		},
 	},
 	"leedsichthys":{
-		"name_t":{}
+		"name_t":{
+			"ru":"лидсихтис"
+		},
 	},
 	"liopleurodon":{
-		"name_t":{}
+		"name_t":{
+			"ru":"лиоплевродон"
+		},
 	},
 	"lymantria":{
-		"name_t":{}
+		"name_t":{
+			"ru":"шелкопряд"
+		},
 	},
 	"lystrosaurus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"листрозавр"
+		},
 	},
 	"mammoth":{
-		"name_t":{}
+		"name_t":{
+			"ru":"мамонт"
+		},
 	},
 	"manta":{
-		"name_t":{}
+		"name_t":{
+			"ru":"манта"
+		},
 	},
 	"manticore":{
-		"name_t":{}
+		"name_t":{
+			"ru":"мантикора"
+		},
 	},
 	"mantis":{
-		"name_t":{}
+		"name_t":{
+			"ru":"богомол"
+		},
 	},
 	"megalania":{
-		"name_t":{}
+		"name_t":{
+			"ru":"мегалания"
+		},
 	},
 	"megaloceros":{
-		"name_t":{}
+		"name_t":{
+			"ru":"большерогий олень"
+		},
 	},
 	"megalodon":{
-		"name_t":{}
+		"name_t":{
+			"ru":"мегалодон"
+		},
 	},
 	"megalosaurus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"мегалозавр"
+		},
 	},
 	"megapithecus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"мегапитек"
+		},
 	},
 	"megatherium":{
-		"name_t":{}
+		"name_t":{
+			"ru":"мегатерий"
+		},
 	},
 	"mesopithecus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"мезопитек"
+		},
 	},
 	"microraptor":{
-		"name_t":{}
+		"name_t":{
+			"ru":"микрораптор"
+		},
 	},
 	"morellatops":{
-		"name_t":{}
+		"name_t":{
+			"ru":"мореллатопс"
+		},
 	},
 	"mosasaurus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"мозазавр"
+		},
 	},
 	"moschops":{
-		"name_t":{}
+		"name_t":{
+			"ru":"мосхопс"
+		},
 	},
 	"nameless":{
-		"name_t":{}
+		"name_t":{
+			"ru":"безымянный"
+		},
 	},
 	"onyc":{
-		"name_t":{}
+		"name_t":{
+			"ru":"оникониктерис"
+		},
 	},
 	"otter":{
 		"name_t":{
 			"ko":"수달아과"
 		},
+		{
+			"ru":"выдра"
+		},
 	},
 	"overseer":{
-		"name_t":{}
+		"name_t":{
+			"ru":"надзиратель"
+		},
 	},
 	"oviraptor":{
 		"name_t":{
 			"ko":"오비랍토르"
+		},
+		{
+			"ru":"овираптор"
 		},
 	},
 	"ovis":{
 		"name_t":{
 			"ko":"양속"
 		},
+		{
+			"ru":"овис"
+		},
 	},
 	"pachy":{
 		"name_t":{
 			"ko":"파키케팔로사우루스"
+		},
+		{
+			"ru":"пахицефалозавр"
 		},
 	},
 	"pachyrhinosaurus":{
 		"name_t":{
 			"ko":"파키리노사우루스"
 		},
+		{
+			"ru":"пахиринозавр"
+		},
 	},
 	"paracer":{
 		"name_t":{
 			"ko":"인드리코티어"
 		},
+		{
+			"ru":"парацератерий"
+		},
 	},
 	"parasaur":{
-		"name_t":{}
+		"name_t":{
+			"ru":"паразауролоф"
+		},
 	},
 	"pegomastax":{
-		"name_t":{}
+		"name_t":{
+			"ru":"пегомастакс"
+		},
 	},
 	"pelagornis":{
-		"name_t":{}
+		"name_t":{
+			"ru":"пелагорнис"
+		},
 	},
 	"phoenix":{
-		"name_t":{}
+		"name_t":{
+			"ru":"феникс"
+		},
 	},
 	"phiomia":{
-		"name_t":{}
+		"name_t":{
+			"ru":"фиомия"
+		},
 	},
 	"piranha":{
-		"name_t":{}
+		"name_t":{
+			"ru":"пиранья"
+		},
 	},
 	"plesiosaur":{
-		"name_t":{}
+		"name_t":{
+			"ru":"плезиозавр"
+		},
 	},
 	"procoptodon":{
-		"name_t":{}
+		"name_t":{
+			"ru":"прокоптодон"
+		},
 	},
 	"pteranodon":{
-		"name_t":{}
+		"name_t":{
+			"ru":"птеранодон"
+		},
 	},
 	"pulmonoscorpius":{
-		"name_t":{}
+		"name_t":{
+			"ru":"скорпион"
+		},
 	},
 	"purlovia":{
-		"name_t":{}
+		"name_t":{
+			"ru":"пурловия"
+		},
 	},
 	"quetzal":{
-		"name_t":{}
+		"name_t":{
+			"ru":"кетцалькоатль"
+		},
 	},
 	"raptor":{
-		"name_t":{}
+		"name_t":{
+			"ru":"раптор"
+		},
 	},
 	"ravager":{
-		"name_t":{}
+		"name_t":{
+			"ru":"опустошитель"
+		},
 	},
 	"reaper":{
-		"name_t":{}
+		"name_t":{
+			"ru":"жнец"
+		},
 	},
 	"rex":{
-		"name_t":{}
+		"name_t":{
+			"ru":"тираннозавр"
+		},
 	},
 	"rockdrake":{
-		"name_t":{}
+		"name_t":{
+			"ru":"скальный дрейк"
+		},
 	},
 	"rockelemental":{
-		"name_t":{}
+		"name_t":{
+			"ru":"горный элементаль"
+		},
 	},
 	"rollrat":{
-		"name_t":{}
+		"name_t":{
+			"ru":"кротокрыс"
+		},
 	},
 	"sabertooth":{
-		"name_t":{}
+		"name_t":{
+			"ru":"саблезуб"
+		},
 	},
 	"sabertoothsalmon":{
-		"name_t":{}
+		"name_t":{
+			"ru":"саблезубый лосось"
+		},
 	},
 	"sarco":{
-		"name_t":{}
+		"name_t":{
+			"ru":"саркозух"
+		},
 	},
 	"seeker":{
-		"name_t":{}
+		"name_t":{
+			"ru":"искатель"
+		},
 	},
 	"shinehorn":{
-		"name_t":{}
+		"name_t":{
+			"ru":"светорог"
+		},
 	},
 	"spinosaur":{
-		"name_t":{}
+		"name_t":{
+			"ru":"спинозавр"
+		},
 	},
 	"stegosaurus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"стегозавр"
+		},
 	},
 	"tapejara":{
-		"name_t":{}
+		"name_t":{
+			"ru":"тапежара"
+		},
 	},
 	"terrorbird":{
-		"name_t":{}
+		"name_t":{
+			"ru":"ужасная птица"
+		},
 	},
 	"therizinosaurus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"теризинозавр"
+		},
 	},
 	"thornydragon":{
-		"name_t":{}
+		"name_t":{
+			"ru":"шипастый дракон"
+		},
 	},
 	"thylacoleo":{
-		"name_t":{}
+		"name_t":{
+			"ru":"тилаколев"
+		},
 	},
 	"titanoboa":{
-		"name_t":{}
+		"name_t":{
+			"ru":"титанобоа"
+		},
 	},
 	"titanosaur":{
-		"name_t":{}
+		"name_t":{
+			"ru":"титанозавр"
+		},
 	},
 	"triceratops":{
-		"name_t":{}
+		"name_t":{
+			"ru":"трицератопс"
+		},
 	},
 	"trilobite":{
-		"name_t":{}
+		"name_t":{
+			"ru":"трилобит"
+		},
 	},
 	"troodon":{
-		"name_t":{}
+		"name_t":{
+			"ru":"тродоон"
+		},
 	},
 	"tusoteuthis":{
-		"name_t":{}
+		"name_t":{
+			"ru":"тусотеутис"
+		},
 	},
 	"vulture":{
-		"name_t":{}
+		"name_t":{
+			"ru":"гриф"
+		},
 	},
 	"woollyrhino":{
-		"name_t":{}
+		"name_t":{
+			"ru":"шерстистый носорог"
+		},
 	},
 	"wyvern":{
-		"name_t":{}
+		"name_t":{
+			"ru":"виверна"
+		},
 	},
 	"yeti":{
-		"name_t":{}
+		"name_t":{
+			"ru":"йети"
+		},
 	},
 	"yutyrannus":{
-		"name_t":{}
+		"name_t":{
+			"ru":"ютираннус"
+		},
 	}
 }}
