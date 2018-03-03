@@ -246,25 +246,37 @@
 		"name_t":{}
 	},
 	"otter":{
-		"name_t":{"ko":"수달아과"},
+		"name_t":{
+			"ko":"수달아과"
+		},
 	},
 	"overseer":{
 		"name_t":{}
 	},
 	"oviraptor":{
-		"name_t":{"ko":"오비랍토르"},
+		"name_t":{
+			"ko":"오비랍토르"
+		},
 	},
 	"ovis":{
-		"name_t":{"ko":"양속"},
+		"name_t":{
+			"ko":"양속"
+		},
 	},
 	"pachy":{
-		"name_t":{"ko":"파키케팔로사우루스"},
+		"name_t":{
+			"ko":"파키케팔로사우루스"
+		},
 	},
 	"pachyrhinosaurus":{
-		"name_t":{"ko":"파키리노사우루스"},
+		"name_t":{
+			"ko":"파키리노사우루스"
+		},
 	},
 	"paracer":{
-		"name_t":{"ko":"인드리코티어"},
+		"name_t":{
+			"ko":"인드리코티어"
+		},
 	},
 	"parasaur":{
 		"name_t":{}
