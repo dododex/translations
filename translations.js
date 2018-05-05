@@ -5439,6 +5439,9 @@ var languages = {
         },{
             name:"Demon",
             link:"https://instagram.com/dimahalikov/"
+        },{
+            name:"NickGYVER",
+            link:"http://steamcommunity.com/id/nekit9532/"
         }]
     },
     th:{
