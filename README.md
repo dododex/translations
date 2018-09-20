@@ -54,34 +54,35 @@ To add a new language:
 2. Change the "en" to your language's code ([list of language codes](https://sites.google.com/site/tomihasa/google-language-codes))). (Regional languages (`es-mx` vs. `es`) are only recommended if the translations will have a noticable difference. When possible, try to translate for the general language to simplify the project.)
 3. Translate each of the phrases.
 
-## LIST OF LANGUAGES
+## TRANSLATION PROGRESS
 
-| Code | Language | % of Dododex Users* | Translated |
-| ---- | -------- | ------------------- | ---------- |
-| de | German               | 37.4% | ✔
-| fr | French               | 19.4% | ✔
-| pt | Portuguese           |  8.4% | ✔
-| es | Spanish              |  6.1% | ✔
-| ru | Russian              |  7.6% | ✔
-| nl | Dutch                |  4.0% | ✔
-| it | Italian              |  3.8% | Partial
-| pl | Polish               |  2.4% | ✔
-| zh | Chinese (Simplified) |  2.2% | ✔
-| da | Danish               |  1.3% | 
-| tr | Turkish              |  1.2% | ✔
-| sv | Swedish              |  1.0% | 
-| cs | Czech                |  0.7% | ✔
-| nb | Norwegian            |  0.6% | 
-| hu | Hungarian            |  0.5% | 
-| th | Thai                 |  0.5% | ✔
-| ar | Arabic               |  0.4% | 
-| ko | Korean               |  0.3% | Partial
-| fi | Finnish              |  0.3% | 
-| ja | Japanese             |  0.3% | ✔
-| he | Hebrew               |  0.2% | 
-| hr | Croatian             |  0.2% | 
-| sk | Slovak               |  0.1% | 
-| ro | Romanian             |  0.1% | ✔
-| el | Greek                |  0.1% | 
+| Code | Language | % of Users* | Interface | Creatures |
+| ---- | -------- | ----------- | ---------- | -------------------- |
+| de | German               | 37.4% | ✅ |
+| fr | French               | 19.4% | ✅ |
+| pt | Portuguese           |  8.4% | ✅ |
+| es | Spanish              |  6.1% | ✅ |
+| ru | Russian              |  7.6% | ✅ | ✅
+| nl | Dutch                |  4.0% | ✅ |
+| it | Italian              |  3.8% | Partial |
+| pl | Polish               |  2.4% | ✅ |
+| zh | Chinese (Simplified) |  2.2% | ✅ | Partial
+| da | Danish               |  1.3% |   | Partial
+| tr | Turkish              |  1.2% | ✅ |
+| sv | Swedish              |  1.0% |   |
+| cs | Czech                |  0.7% | ✅ |
+| nb | Norwegian            |  0.6% |   |
+| hu | Hungarian            |  0.5% |   |
+| th | Thai                 |  0.5% | ✅ |
+| ar | Arabic               |  0.4% |   |
+| ko | Korean               |  0.3% | Partial |
+| fi | Finnish              |  0.3% |   |
+| ja | Japanese             |  0.3% | ✅ |
+| he | Hebrew               |  0.2% |   |
+| hr | Croatian             |  0.2% |   |
+| sk | Slovak               |  0.1% |   |
+| ro | Romanian             |  0.1% | ✅ |
+| el | Greek                |  0.1% |   |
+
 
 _*Percent of non-English Dododex users_
