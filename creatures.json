@@ -1,3 +1,4 @@
+/* NOTE: This file is intentionally an invalid JSON file. It is merged with another file using a script. Please do not adjust the format/structure of the file (including commas, brackets, tabs, or spacing) */
 {"creatures":{
 	"achatina":{
 		"name_t":{
@@ -774,7 +775,7 @@
 	},
 	"troodon":{
 		"name_t":{
-			"ru":"тродоон"
+			"ru":"троодон"
 		},
 	},
 	"tusoteuthis":{
