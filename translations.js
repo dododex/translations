@@ -4227,7 +4227,7 @@ var translations = {
         consumingX: "Потребляет {0} ...",
         xToFill: "{0} для заполнения",
         alarm: "Сигнал",
-        minsBeforeX: "(мин. до{0})",
+        minsBeforeX: "(мин. до {0})",
         starved: "Кормления",
         gotIt: "Понял.",
         spoilageTimes: "Время гниения",
