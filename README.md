@@ -21,12 +21,14 @@ The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com
 1. **Add your name to the list of translators.** If you'd like, feel free to add your name and (optionally) a URL the bottom of the file.
 1. **Submit your changes** This will be submitted as a [pull request](https://help.github.com/articles/using-pull-requests/) and will be approved. You
 
-> (If you have any trouble with these instructions, but still want to help, please contact me at dan14lev at gmail.com!)
+*(If you have any trouble with these instructions, but still want to help, please contact me at dan14lev at gmail.com or [Join the Translator Chat!](https://discord.gg/KvmRSSV)!)*
 
 ## 2. TRANSLATING CREATURE NAMES
 1. **Open [creatures.json](creatures.json) and click "Edit."**
-2. **Add translated names in your language.**
+1. **Add translated names in your language.**
+
    Please keep languages in alphabetical order, according to their language code.
+
    If a creature does not have a translation, simply omit it. Do not create a copy of the English translation, as Dododex will automatically fall back on the English translations. However, please consider transliterating if you think it would be more helpful to speakers of your language. IMPORTANT: Dialetcs (For example: Brazilian Portuguese / PT-BR) are not supported. Only two-letter country codes can be used (For example: PT). If there are any discrepencies between dialets, please open an issue on Github so it can be logged.
 
 ## NOTES
