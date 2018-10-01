@@ -74,7 +74,7 @@ Some phrases have variables in them where a term will be inserted into the sente
 | ar | Arabic               |  0.4% |   |
 | ko | Korean               |  0.3% | Partial |
 | fi | Finnish              |  0.3% |   |
-| ja | Japanese             |  0.3% | ✅ |
+| ja | Japanese             |  0.3% | ✅ | ✅
 | he | Hebrew               |  0.2% |   |
 | hr | Croatian             |  0.2% |   |
 | sk | Slovak               |  0.1% |   |
