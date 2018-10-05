@@ -365,7 +365,7 @@ var translations = {
         translate: "Translate",
         recent: "Recent",
         categories: "Categories",
-        search: "Search"
+        search: "Search..."
     },
     cs: {
         aboutStarveIntro: "\"Starve Taming\" je technika, kterou někteří přeživší používají k minimalizaci rizika ztráty zdrojů při ochočování stvoření.",
