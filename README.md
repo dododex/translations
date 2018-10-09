@@ -1,25 +1,35 @@
-The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com) is being translated into every language and your help is needed!
+The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com) is being translated into every language and your help is needed! Translations are crowdsourced — edits made to this Github project will be included in a future version of the app. Continued edits and new languages will be added through Github.
+
+[Join the Translator Chat!](https://discord.gg/KvmRSSV)
 
 ![Translate Dododex](https://raw.githubusercontent.com/dododex/translations/master/translate.png?2)
 
-Translations are crowdsourced — edits made to this Github project will be included in a future version of the app. Continued edits and new languages will be added through Github.
+## 1. TRANSLATING DODODEX
 
-## HOW TO CONTRIBUTE
+1. **Open [translations.js](translations.js) and click "Edit."**
+1. **If your language is not there, add it.**
 
-### 1. Open [translations.js](translations.js) and click "Edit."
-### 2. Add translations
-Look at the English version of a phrase, and then add a translation to the corresponding section for your language (language codes are listed below). It's best to translate from English to your language, as other languages may not yet be verified.
+   1. To add a new language, copy and paste the entire English section ("en").
+   1. Change the "en" to your language's code ([list of language codes](https://sites.google.com/site/tomihasa/google-language-codes))). (Regional languages (`es-mx` vs. `es`) are only recommended if the translations will have a noticable difference. When possible, try to translate for the general language to simplify the project.)
+   1. Translate each of the phrases.
+1. **Translate the phrases into your language.** 
 
-If you are unsure of any translation, please keep it blank so someone else can add it later. Do not add notes to your translation, or add multiple translations. Instead, open an Issue (detailed below) to discuss the correct translation. 
+   Look at the English version of a phrase, and then add a translation to the corresponding section for your language (language codes are listed below). It's best to translate from English to your language, as other languages may not yet be verified.
 
-If you'd like, feel free to add your name and (optionally) a URL the bottom of the file.
+   If you are unsure of any translation, please keep it blank so someone else can add it later. Do not add notes to your translation, or add multiple translations. Instead, open an Issue (detailed below) to discuss the correct translation. 
 
-### 3. Submit your changes
-This will be submitted as a [pull request](https://help.github.com/articles/using-pull-requests/) and will be approved. You
+1. **Add your name to the list of translators.** If you'd like, feel free to add your name and (optionally) a URL the bottom of the file.
+1. **Submit your changes** This will be submitted as a [pull request](https://help.github.com/articles/using-pull-requests/) and will be approved. You
 
-> (If you have any trouble with these instructions, but still want to help, please contact me at dan14lev at gmail.com!)
+*(If you have any trouble with these instructions, but still want to help, please contact me at dan14lev at gmail.com or [Join the Translator Chat!](https://discord.gg/KvmRSSV)!)*
 
-## [Join the Translator Chat!](https://discord.gg/KvmRSSV)
+## 2. TRANSLATING CREATURE NAMES
+1. **Open [creatures.json](creatures.json) and click "Edit."**
+1. **Add translated names in your language.**
+
+   Please keep languages in alphabetical order, according to their language code.
+
+   If a creature does not have a translation, simply omit it. Do not create a copy of the English translation, as Dododex will automatically fall back on the English translations. However, please consider transliterating if you think it would be more helpful to speakers of your language. IMPORTANT: Dialetcs (For example: Brazilian Portuguese / PT-BR) are not supported. Only two-letter country codes can be used (For example: PT). If there are any discrepencies between dialets, please open an issue on Github so it can be logged.
 
 ## NOTES
 
@@ -41,41 +51,35 @@ If you're unsure of any translations, have questions about a phrase or its conte
 ### Variables
 Some phrases have variables in them where a term will be inserted into the sentence. These are indicated with a `{0}`. For example, `There are {0} creatures` could become `There are 50 creatures` and the number would increment as more creatures are added. All translations must include this variable. If phrasing in your language can vary depending on what the variable actually is (for example, grammatical gender), please do your best to accomidate what the variable could be. If appropriate, rephrase so the line works better in your language.
 
-### Adding A Missing Language
-To add a new language: 
+## TRANSLATION PROGRESS
 
-1. Copy and paste the entire English section ("en").
-2. Change the "en" to your language's code ([list of language codes](https://sites.google.com/site/tomihasa/google-language-codes))). (Regional languages (`es-mx` vs. `es`) are only recommended if the translations will have a noticable difference. When possible, try to translate for the general language to simplify the project.)
-3. Translate each of the phrases.
+| Code | Language | % of Users* | Interface | Creatures |
+| ---- | -------- | ----------- | ---------- | -------------------- |
+| de | German               | 37.4% | ✅ |
+| fr | French               | 19.4% | ✅ |
+| pt | Portuguese           |  8.4% | ✅ |
+| es | Spanish              |  6.1% | ✅ |
+| ru | Russian              |  7.6% | ✅ | ✅
+| nl | Dutch                |  4.0% | ✅ |
+| it | Italian              |  3.8% | Partial |
+| pl | Polish               |  2.4% | ✅ |
+| zh | Chinese (Simplified) |  2.2% | ✅ | Partial
+| da | Danish               |  1.3% |   | Partial
+| tr | Turkish              |  1.2% | ✅ |
+| sv | Swedish              |  1.0% |   |
+| cs | Czech                |  0.7% | ✅ |
+| nb | Norwegian            |  0.6% |   |
+| hu | Hungarian            |  0.5% |   |
+| th | Thai                 |  0.5% | ✅ |
+| ar | Arabic               |  0.4% |   |
+| ko | Korean               |  0.3% | Partial |
+| fi | Finnish              |  0.3% |   |
+| ja | Japanese             |  0.3% | ✅ | ✅
+| he | Hebrew               |  0.2% |   |
+| hr | Croatian             |  0.2% |   |
+| sk | Slovak               |  0.1% |   |
+| ro | Romanian             |  0.1% | ✅ |
+| el | Greek                |  0.1% |   |
 
-## LIST OF LANGUAGES
-
-| Code | Language | % of Dododex Users* | Translated |
-| ---- | -------- | ------------------- | ---------- |
-| de | German               | 37.4% | ✔
-| fr | French               | 19.4% | ✔
-| pt | Portuguese           |  8.4% | ✔
-| es | Spanish              |  6.1% | ✔
-| ru | Russian              |  7.6% | ✔
-| nl | Dutch                |  4.0% | ✔
-| it | Italian              |  3.8% | Partial
-| pl | Polish               |  2.4% | ✔
-| zh | Chinese (Simplified) |  2.2% | ✔
-| da | Danish               |  1.3% | 
-| tr | Turkish              |  1.2% | 
-| sv | Swedish              |  1.0% | 
-| cs | Czech                |  0.7% | 
-| nb | Norwegian            |  0.6% | 
-| hu | Hungarian            |  0.5% | 
-| th | Thai                 |  0.5% | 
-| ar | Arabic               |  0.4% | 
-| ko | Korean               |  0.3% | Partial
-| fi | Finnish              |  0.3% | 
-| ja | Japanese             |  0.3% | ✔
-| he | Hebrew               |  0.2% | 
-| hr | Croatian             |  0.2% | 
-| sk | Slovak               |  0.1% | 
-| ro | Romanian             |  0.1% | ✔
-| el | Greek                |  0.1% | 
 
 _*Percent of non-English Dododex users_
