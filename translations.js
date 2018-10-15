@@ -2332,7 +2332,7 @@ var translations = {
         selected: "Selezionato",
         load: "Caricamento",
         loadSettings: "Caricamento impostazioni...",
-        saveSettings: "salvataggio impostazioni...",
+        saveSettings: "Salvataggio impostazioni...",
         serverSettings: "Impostazioni server",
         officialServer: "Server ufficiali",
         serverDefault: "Mio server",
@@ -2377,11 +2377,11 @@ var translations = {
         maxTip: "Tocca il numero nella colonna \"{0}\" per passare rapidamente a quel cibo.",
         qty: "Qtà",
         dismiss: "Abbandonare",
-        cloningCalculator: "",
-        translate: "",
-        recent: "",
-        categories: "",
-        search: ""
+        cloningCalculator: "Calcolatore clonazione",
+        translate: "Traduci",
+        recent: "Recente",
+        categories: "Categorie",
+        search: "Cerca..."
     },
     ja: {
         aboutStarveIntro: "\"空腹テイム\"は、資源を失うリスクを最小限に抑えるためにサバイバー達が使う技法です。",
