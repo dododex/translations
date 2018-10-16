@@ -4,7 +4,8 @@
 		"1":{
 			"n":"New",
 			"nt":{
-				"de":"Neu"
+				"de":"Neu",
+				"it":"Nuovo"
 			}
 		},
 		"2":{
@@ -38,136 +39,163 @@
 		"9":{
 			"n":"Terrestrial",
 			"nt":{},
+			"it":"Terrestre",
 			"p":3
 		},
 		"10":{
 			"n":"Aerial",
 			"nt":{},
+			"it":"Aereo",
 			"p":3
 		},
 		"11":{
 			"n":"Aquatic",
 			"nt":{},
+			"it":"Acquatico",
 			"p":3
 		},
 		"12":{
 			"n":"Rideable",
 			"nt":{},
+			"it":"Cavalcabile",
 			"p":4
 		},
 		"13":{
 			"n":"Utility Saddle",
 			"nt":{},
+			"it":"Sella utilità",
 			"p":4
 		},
 		"14":{
 			"n":"Platform Saddle",
 			"nt":{},
+			"it":"Sella piattaforma",
 			"p":4
 		},
 		"15":{
 			"n":"Multi-Passenger",
 			"nt":{},
+			"it":"Multi passeggero",
 			"p":4
 		},
 		"16":{
 			"n":"Tek Saddle",
 			"nt":{},
+			"it":"Sella Tek",
 			"p":4
 		},
 		"17":{
 			"n":"Shoulder Mounts",
 			"nt":{},
+			"it":"Supporto spalla",
 			"p":4
 		},
 		"18":{
 			"n":"Tamable",
 			"nt":{},
+			"it":"Addomesticabile",
 			"p":5
 		},
 		"19":{
 			"n":"Non-tamable",
 			"nt":{},
+			"it":"Non domabile",
 			"p":5
 		},
 		"20":{
 			"n":"Knockout Taming",
 			"nt":{},
+			"it":"Domazione con incoscio",
 			"p":5
 		},
 		"21":{
 			"n":"Passive Taming",
 			"nt":{},
+			"it":"Domazione passiva",
 			"p":5
 		},
 		"22":{
 			"n":"Quick & Easy Taming",
 			"nt":{},
+			"it":"Domazione facile e veloce",
 			"p":5
 		},
 		"23":{
 			"n":"Carnivores",
 			"nt":{},
+			"it":"Carnivori",
 			"p":6
 		},
 		"24":{
 			"n":"Herbivores",
 			"nt":{},
+			"it":"Erbivori",
 			"p":6
 		},
 		"25":{
 			"n":"Omnivores",
 			"nt":{},
+			"it":"Onnivori",
 			"p":6
 		},
 		"26":{
 			"n":"Piscivores",
 			"nt":{},
+			"it":"Piscivori",
 			"p":6
 		},
 		"27":{
 			"n":"Battle Creatures",
 			"nt":{},
+			"it":"Creature da combattimento",
 			"p":7
 		},
 		"28":{
 			"n":"Gatherers",
 			"nt":{},
+			"it":"Raccoglitori",
 			"p":7
 		},
 		"29":{
 			"n":"Pack Mules",
 			"nt":{},
+			"it":"Trasportatori",
 			"p":7
 		},
 		"30":{
 			"n":"Fast Creatures",
 			"nt":{},
+			"it":"Creature veloci",
 			"p":7
 		},
 		"31":{
 			"n":"Breedable",
 			"nt":{},
+			"it":"Allevabile",
 			"p":8
 		},
 		"32":{
 			"n":"Early Game",
 			"nt":{},
+			"it":"Inizio partita",
 			"p":8
 		},
 		"33":{
 			"n":"Midgame",
 			"nt":{},
+			"it":"Metà partita",
 			"p":8
 		},
 		"34":{
 			"n":"Endgame",
 			"nt":{},
+			"it":"Fine partita",
 			"p":8
 		},
 		"35":{
 			"n":"Bosses",
 			"nt":{},
+			"it":"Boss",
 			"p":8
 		},
 		"36":{
@@ -179,11 +207,13 @@
 	"categoriesP":{
 		"1":{
 			"n":"Map",
-			"nt":{}
+			"nt":{},
+			"it":"Mappa"
 		},
 		"2":{
 			"n":"Expansion Pack Exclusive",
-			"nt":{}
+			"nt":{},
+			"it":"Pacco d'espansione esclusivo"
 		},
 		"3":{
 			"n":"Habitat",
@@ -191,22 +221,27 @@
 		},
 		"4":{
 			"n":"Ridability",
-			"nt":{}
+			"nt":{},
+			"it":"Guidabilità"
 		},
 		"5":{
 			"n":"Taming",
-			"nt":{}
+			"nt":{},
+			"it":"Domazione"
 		},
 		"6":{
 			"n":"Diet",
-			"nt":{}
+			"nt":{},
+			"it":"Dieta"
 		},
 		"7":{
 			"n":"Utility",
-			"nt":{}
+			"nt":{},
+			"it":"Utilità"
 		},
 		"8":{
 			"n":"More",
+			"it":"Di più",
 			"nt":{},
 		}
 	}
