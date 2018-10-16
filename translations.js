@@ -5441,7 +5441,10 @@ var languages = {
         },{
             name:"ArkForum.de",
             link:"https://www.arkforum.de"
-        },]
+        },{
+            name:"Nebel",
+			link:"https://github.com/NebelKreis"
+        }]
     },
     fr:{
         name:"Français",
