@@ -475,6 +475,10 @@
 			"it":"Gerboa"
 		},
 	},
+	"jugbug":{
+		"name_t":{
+		},
+	},
 	"kairuku":{
 		"name_t":{
 			"ru":"Кайруку",
@@ -515,6 +519,17 @@
 			"ja":"ランプリィ",
 			"fr":"Lamproie",
 			"it":"Lampreda"
+		},
+	},
+	"leech":{
+		"name_t":{
+			"da":"Igle",
+			"ru":"Пиявки",
+			"zh":"蚂蟥",
+			"ja":"蛭",
+			"ko":"거머리",
+			"fr":"Hirudinea",
+			"it":"Hirudinea"
 		},
 	},
 	"leedsichthys":{
@@ -613,6 +628,10 @@
 			"ja":"メガロサウルス",
 			"fr":"Megalosaure",
 			"it":"Megalosauro"
+		},
+	},
+	"meganeura":{
+		"name_t":{
 		},
 	},
 	"megapithecus":{
@@ -1024,6 +1043,13 @@
 		},
 	},
 	"titanoboa":{
+		"name_t":{
+			"ru":"Титанобоа",
+			"zh":"泰坦巨蟒",
+			"ja":"ティタノボア"
+		},
+	},
+	"titanomyrma":{
 		"name_t":{
 			"ru":"Титанобоа",
 			"zh":"泰坦巨蟒",
