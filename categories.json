@@ -91,12 +91,12 @@
 			"p":5
 		},
 		"20":{
-			"n":"Passive Taming",
+			"n":"Knockout Taming",
 			"nt":{},
 			"p":5
 		},
 		"21":{
-			"n":"Knock Out Taming",
+			"n":"Passive Taming",
 			"nt":{},
 			"p":5
 		},
@@ -146,27 +146,27 @@
 			"p":7
 		},
 		"31":{
-			"n":"Early Game",
+			"n":"Breedable",
 			"nt":{},
 			"p":8
 		},
 		"32":{
-			"n":"Midgame",
+			"n":"Early Game",
 			"nt":{},
 			"p":8
 		},
 		"33":{
-			"n":"Endgame",
+			"n":"Midgame",
 			"nt":{},
 			"p":8
 		},
 		"34":{
-			"n":"Bosses",
+			"n":"Endgame",
 			"nt":{},
 			"p":8
 		},
 		"35":{
-			"n":"Breedable",
+			"n":"Bosses",
 			"nt":{},
 			"p":8
 		},
