@@ -57,10 +57,10 @@ Some phrases have variables in them where a term will be inserted into the sente
 
 ## TRANSLATION PROGRESS
 
-| Code | Language | % of Users* | Interface | Creatures |
-| ---- | -------- | ----------- | ---------- | -------------------- |
+| Code | Language | % of Users* | [Interface](translations.js) | [Creatures](creatures.json) | [Categories](categories.json) |
+| ---- | -------- | ----------- | --------- | --------- | ---------- |
 | de | German               | 37.4% | ✅ |
-| fr | French               | 19.4% | ✅ |
+| fr | French               | 19.4% | ✅ | ✅
 | pt | Portuguese           |  8.4% | ✅ |
 | es | Spanish              |  6.1% | ✅ |
 | ru | Russian              |  7.6% | ✅ | ✅
