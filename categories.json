@@ -1,0 +1,213 @@
+/* Please do not edit any other properties other than "nt". If translation is not needed, please omit translation and Dododex will fallback to English version. */
+"APPDATA":{
+	"categories":{
+		"1":{
+			"n":"New",
+			"nt":{
+				"de":"Neu"
+			}
+		},
+		"2":{
+			"n":"The Island",
+			"p":1
+		},
+		"3":{
+			"n":"The Center",
+			"p":1
+		},
+		"4":{
+			"n":"Scorched Earth",
+			"p":1
+		},
+		"5":{
+			"n":"Ragnarok",
+			"p":1
+		},
+		"6":{
+			"n":"Aberration",
+			"p":1
+		},
+		"7":{
+			"n":"Scorched Earth",
+			"p":2
+		},
+		"8":{
+			"n":"Aberration",
+			"p":2
+		},
+		"9":{
+			"n":"Terrestrial",
+			"nt":{},
+			"p":3
+		},
+		"10":{
+			"n":"Aerial",
+			"nt":{},
+			"p":3
+		},
+		"11":{
+			"n":"Aquatic",
+			"nt":{},
+			"p":3
+		},
+		"12":{
+			"n":"Rideable",
+			"nt":{},
+			"p":4
+		},
+		"13":{
+			"n":"Utility Saddle",
+			"nt":{},
+			"p":4
+		},
+		"14":{
+			"n":"Platform Saddle",
+			"nt":{},
+			"p":4
+		},
+		"15":{
+			"n":"Multi-Passenger",
+			"nt":{},
+			"p":4
+		},
+		"16":{
+			"n":"Tek Saddle",
+			"nt":{},
+			"p":4
+		},
+		"17":{
+			"n":"Shoulder Mounts",
+			"nt":{},
+			"p":4
+		},
+		"18":{
+			"n":"Tamable",
+			"nt":{},
+			"p":5
+		},
+		"19":{
+			"n":"Non-tamable",
+			"nt":{},
+			"p":5
+		},
+		"20":{
+			"n":"Passive Taming",
+			"nt":{},
+			"p":5
+		},
+		"21":{
+			"n":"Knock Out Taming",
+			"nt":{},
+			"p":5
+		},
+		"22":{
+			"n":"Quick & Easy Taming",
+			"nt":{},
+			"p":5
+		},
+		"23":{
+			"n":"Carnivores",
+			"nt":{},
+			"p":6
+		},
+		"24":{
+			"n":"Herbivores",
+			"nt":{},
+			"p":6
+		},
+		"25":{
+			"n":"Omnivores",
+			"nt":{},
+			"p":6
+		},
+		"26":{
+			"n":"Piscivores",
+			"nt":{},
+			"p":6
+		},
+		"27":{
+			"n":"Battle Creatures",
+			"nt":{},
+			"p":7
+		},
+		"28":{
+			"n":"Gatherers",
+			"nt":{},
+			"p":7
+		},
+		"29":{
+			"n":"Pack Mules",
+			"nt":{},
+			"p":7
+		},
+		"30":{
+			"n":"Fast Creatures",
+			"nt":{},
+			"p":7
+		},
+		"31":{
+			"n":"Early Game",
+			"nt":{},
+			"p":8
+		},
+		"32":{
+			"n":"Midgame",
+			"nt":{},
+			"p":8
+		},
+		"33":{
+			"n":"Endgame",
+			"nt":{},
+			"p":8
+		},
+		"34":{
+			"n":"Bosses",
+			"nt":{},
+			"p":8
+		},
+		"35":{
+			"n":"Breedable",
+			"nt":{},
+			"p":8
+		},
+		"36":{
+			"n":"ARK Mobile",
+			"nt":{},
+			"p":8,
+		}
+	},
+	"categoriesP":{
+		"1":{
+			"n":"Map",
+			"nt":{}
+		},
+		"2":{
+			"n":"Expansion Pack Exclusive",
+			"nt":{}
+		},
+		"3":{
+			"n":"Habitat",
+			"nt":{}
+		},
+		"4":{
+			"n":"Ridability",
+			"nt":{}
+		},
+		"5":{
+			"n":"Taming",
+			"nt":{}
+		},
+		"6":{
+			"n":"Diet",
+			"nt":{}
+		},
+		"7":{
+			"n":"Utility",
+			"nt":{}
+		},
+		"8":{
+			"n":"More",
+			"nt":{},
+		}
+	}
+}
