@@ -32,6 +32,8 @@ The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com
    Please keep languages in alphabetical order, according to their language code.
 
    If a creature does not have a translation, simply omit it. Do not create a copy of the English translation, as Dododex will automatically fall back on the English translations. However, please consider transliterating if you think it would be more helpful to speakers of your language. IMPORTANT: Dialetcs (For example: Brazilian Portuguese / PT-BR) are not supported. Only two-letter country codes can be used (For example: PT). If there are any discrepencies between dialets, please open an issue on Github so it can be logged.
+   
+   All creature names should be in Title Case (Example: "Attack Drone" not "attack drone").
 
 ## NOTES
 
