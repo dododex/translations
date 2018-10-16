@@ -26,7 +26,7 @@ The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com
 *(If you have any trouble with these instructions, but still want to help, please contact me at dan14lev at gmail.com or [Join the Translator Chat!](https://discord.gg/KvmRSSV)!)*
 
 ## 2. TRANSLATING CREATURE NAMES & CREATURE CATEGORIES
-1. **Open [creatures.json](creatures.json) or [categories.json](creatures.json) and click "Edit."**
+1. **Open [creatures.json](creatures.json) or [categories.json](categories.json) and click "Edit."**
 1. **Add translated names in your language.**
 
    Please keep languages in alphabetical order, according to their language code.
