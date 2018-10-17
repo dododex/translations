@@ -1,4 +1,3 @@
-/* Please do not edit any other properties other than "nt". If translation is not needed, please omit translation and Dododex will fallback to English version. */
 "APPDATA":{
 	"categories":{
 		"1":{
@@ -38,182 +37,211 @@
 		},
 		"9":{
 			"n":"Terrestrial",
-			"nt":{},
-			"it":"Terrestre",
+			"nt":{
+				"it":"Terrestre"
+			},
 			"p":3
 		},
 		"10":{
 			"n":"Aerial",
-			"nt":{},
-			"it":"Aereo",
+			"nt":{
+				"it":"Aereo"
+			},
 			"p":3
 		},
 		"11":{
 			"n":"Aquatic",
-			"nt":{},
-			"it":"Acquatico",
+			"nt":{
+				"it":"Acquatico"
+			},
 			"p":3
 		},
 		"12":{
 			"n":"Rideable",
-			"nt":{},
-			"it":"Cavalcabile",
+			"nt":{
+				"it":"Cavalcabile"
+			},
 			"p":4
 		},
 		"13":{
 			"n":"Utility Saddle",
-			"nt":{},
-			"it":"Sella utilità",
+			"nt":{
+				"it":"Sella utilità"
+			},
 			"p":4
 		},
 		"14":{
 			"n":"Platform Saddle",
-			"nt":{},
-			"it":"Sella piattaforma",
+			"nt":{
+				"it":"Sella piattaforma"
+			},
 			"p":4
 		},
 		"15":{
 			"n":"Multi-Passenger",
-			"nt":{},
-			"it":"Multi passeggero",
+			"nt":{
+				"it":"Multi passeggero"
+			},
 			"p":4
 		},
 		"16":{
 			"n":"Tek Saddle",
-			"nt":{},
-			"it":"Sella Tek",
+			"nt":{
+				"it":"Sella Tek"
+			},
 			"p":4
 		},
 		"17":{
 			"n":"Shoulder Mounts",
-			"nt":{},
-			"it":"Supporto spalla",
+			"nt":{
+				"it":"Supporto spalla"
+			},
 			"p":4
 		},
 		"18":{
 			"n":"Tamable",
-			"nt":{},
-			"it":"Addomesticabile",
+			"nt":{
+				"it":"Addomesticabile"
+			},
 			"p":5
 		},
 		"19":{
 			"n":"Non-tamable",
-			"nt":{},
-			"it":"Non domabile",
+			"nt":{
+				"it":"Non domabile"
+			},
 			"p":5
 		},
 		"20":{
 			"n":"Knockout Taming",
-			"nt":{},
-			"it":"Domazione con incoscio",
+			"nt":{
+				"it":"Domazione con incoscio"
+			},
 			"p":5
 		},
 		"21":{
 			"n":"Passive Taming",
-			"nt":{},
-			"it":"Domazione passiva",
+			"nt":{
+				"it":"Domazione passiva"
+			},
 			"p":5
 		},
 		"22":{
 			"n":"Quick & Easy Taming",
-			"nt":{},
-			"it":"Domazione facile e veloce",
+			"nt":{
+				"it":"Domazione facile e veloce"
+			},
 			"p":5
 		},
 		"23":{
 			"n":"Carnivores",
-			"nt":{},
-			"it":"Carnivori",
+			"nt":{
+				"it":"Carnivori"
+			},
 			"p":6
 		},
 		"24":{
 			"n":"Herbivores",
-			"nt":{},
-			"it":"Erbivori",
+			"nt":{
+				"it":"Erbivori"
+			},
 			"p":6
 		},
 		"25":{
 			"n":"Omnivores",
-			"nt":{},
-			"it":"Onnivori",
+			"nt":{
+				"it":"Onnivori"
+			},
 			"p":6
 		},
 		"26":{
 			"n":"Piscivores",
-			"nt":{},
-			"it":"Piscivori",
+			"nt":{
+				"it":"Piscivori"
+			},
 			"p":6
 		},
 		"27":{
 			"n":"Battle Creatures",
-			"nt":{},
-			"it":"Creature da combattimento",
+			"nt":{
+				"it":"Creature da combattimento"
+			},
 			"p":7
 		},
 		"28":{
 			"n":"Gatherers",
-			"nt":{},
-			"it":"Raccoglitori",
+			"nt":{
+				"it":"Raccoglitori"
+			},
 			"p":7
 		},
 		"29":{
 			"n":"Pack Mules",
-			"nt":{},
-			"it":"Trasportatori",
+			"nt":{
+				"it":"Trasportatori"
+			},
 			"p":7
 		},
 		"30":{
 			"n":"Fast Creatures",
-			"nt":{},
-			"it":"Creature veloci",
+			"nt":{
+				"it":"Creature veloci"
+			},
 			"p":7
 		},
 		"31":{
 			"n":"Breedable",
-			"nt":{},
-			"it":"Allevabile",
+			"nt":{
+				"it":"Allevabile"
+			},
 			"p":8
 		},
 		"32":{
 			"n":"Early Game",
-			"nt":{},
-			"it":"Inizio partita",
+			"nt":{
+				"it":"Inizio partita"
+			},
 			"p":8
 		},
 		"33":{
 			"n":"Midgame",
-			"nt":{},
-			"it":"Metà partita",
+			"nt":{
+				"it":"Metà partita"
+			},
 			"p":8
 		},
 		"34":{
 			"n":"Endgame",
-			"nt":{},
-			"it":"Fine partita",
+			"nt":{
+				"it":"Fine partita"
+			},
 			"p":8
 		},
 		"35":{
 			"n":"Bosses",
-			"nt":{},
-			"it":"Boss",
+			"nt":{
+				"it":"Boss"
+			},
 			"p":8
 		},
 		"36":{
 			"n":"ARK Mobile",
 			"nt":{},
-			"p":8,
+			"p":8
 		}
 	},
 	"categoriesP":{
 		"1":{
 			"n":"Map",
-			"nt":{},
-			"it":"Mappa"
+			"nt":{
+				"it":"Mappa"
+			}
 		},
 		"2":{
 			"n":"Expansion Pack Exclusive",
-			"nt":{},
-			"it":"Pacco d'espansione esclusivo"
+			"nt":{
+				"it":"Pacco d'espansione esclusivo"
+			}
 		},
 		"3":{
 			"n":"Habitat",
@@ -221,28 +249,75 @@
 		},
 		"4":{
 			"n":"Ridability",
-			"nt":{},
-			"it":"Guidabilità"
+			"nt":{
+				"it":"Guidabilità"
+			}
 		},
 		"5":{
 			"n":"Taming",
-			"nt":{},
-			"it":"Domazione"
+			"nt":{
+				"cs":"Ochočování",
+				"da":"Tæmning",
+				"es":"Domando",
+				"fr":"Apprivoisement",
+				"de":"Zähmen",
+				"it":"Domazione",
+				"ja":"Taming",
+				"ko":"조련",
+				"pl":"Oswajanie",
+				"br":"Domando",
+				"zh":"驯服",
+				"ru":"Приручение",
+				"ro":"Îmblânzire",
+				"th":"การจับ",
+				"tr":"Evcilleştirme"
+			}
 		},
 		"6":{
 			"n":"Diet",
-			"nt":{},
-			"it":"Dieta"
+			"nt":{
+				"it":"Dieta"
+			}
 		},
 		"7":{
 			"n":"Utility",
-			"nt":{},
-			"it":"Utilità"
+			"nt":{
+				"cs":"Užitečnost",
+				"da":"Anvendelse",
+				"es":"Utilidad",
+				"fr":"Utilité",
+				"de":"Dienstprogramm",
+				"it":"Utilità",
+				"ja":"ユーティリティ",
+				"ko":"활용",
+				"pl":"Umiejętność Ostateczna",
+				"br":"Utilidade",
+				"zh":"实用功能",
+				"ru":"Полезность",
+				"ro":"Utilitate",
+				"th":"สิ่งที่มีประโยชน์",
+				"tr":"Faydaları"
+			}
 		},
 		"8":{
 			"n":"More",
-			"it":"Di più",
-			"nt":{},
+			"nt":{
+				"cs":"Více",
+				"da":"Mere",
+				"es":"Más",
+				"fr":"Autre",
+				"de":"Mehr",
+				"it":"Di più",
+				"ja":"More",
+				"ko":"추가정보",
+				"pl":"Więcej",
+				"br":"Mais",
+				"zh":"更多",
+				"ru":"больше",
+				"ro":"Mai mult",
+				"th":"เพิ่มเติม",
+				"tr":"Daha Fazla"
+			}
 		}
 	}
 }
