@@ -477,6 +477,7 @@
 	},
 	"jugbug":{
 		"name_t":{
+			"it":"Insetto brocca"
 		},
 	},
 	"kairuku":{
@@ -529,7 +530,7 @@
 			"ja":"蛭",
 			"ko":"거머리",
 			"fr":"Hirudinea",
-			"it":"Hirudinea"
+			"it":"Sanguisuga"
 		},
 	},
 	"leedsichthys":{
