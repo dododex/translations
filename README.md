@@ -64,7 +64,7 @@ Some phrases have variables in them where a term will be inserted into the sente
 | pt | Portuguese           |  8.4% | ✅ |
 | es | Spanish              |  6.1% | ✅ |
 | ru | Russian              |  7.6% | ✅ | ✅
-| nl | Dutch                |  4.0% | ✅ |
+| nl | Dutch                |  4.0% |   |
 | it | Italian              |  3.8% | ✅ | ✅
 | pl | Polish               |  2.4% | ✅ |
 | zh | Chinese (Simplified) |  2.2% | ✅ | ✅
