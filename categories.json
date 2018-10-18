@@ -1,5 +1,25 @@
 "APPDATA":{
 	"categories":{
+		"0":{
+			"n":"All",
+			"nt":{
+				"cs":"Vše",
+				"da":"Alle",
+				"es":"Todos",
+				"fr":"Tout voir",
+				"de":"Alle",
+				"it":"Tutti",
+				"ja":"全て",
+				"ko":"모든",
+				"pl":"Wszystko",
+				"br":"Tudo",
+				"zh":"全部",
+				"ru":"Все",
+				"ro":"Toate",
+				"th":"ทั้งหมด",
+				"tr":"Tümü"
+			}
+		},
 		"1":{
 			"n":"New",
 			"nt":{
