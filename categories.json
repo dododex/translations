@@ -25,6 +25,7 @@
 			"nt":{
 				"de":"Neu",
 				"it":"Nuovo"
+				"es":"Nuevo"
 			}
 		},
 		"2":{
@@ -60,6 +61,7 @@
 			"nt":{
 				"de":"Land",
 				"it":"Terrestre"
+				"es":"Terrestre"
 			},
 			"p":3
 		},
@@ -68,6 +70,7 @@
 			"nt":{
 				"de":"Luft",
 				"it":"Aereo"
+				"es":"Aéreo"
 			},
 			"p":3
 		},
@@ -76,6 +79,7 @@
 			"nt":{
 				"de":"Wasser",
 				"it":"Acquatico"
+				"es":"Acuático"
 			},
 			"p":3
 		},
@@ -84,6 +88,7 @@
 			"nt":{
 				"de":"Reitbar",
 				"it":"Cavalcabile"
+				"es":"Manejable"
 			},
 			"p":4
 		},
@@ -92,6 +97,7 @@
 			"nt":{
 				"de":"Nutzsattel",
 				"it":"Sella utilità"
+				"es":"Montura utilitaria"
 			},
 			"p":4
 		},
@@ -100,6 +106,7 @@
 			"nt":{
 				"de":"Plattformsattel",
 				"it":"Sella piattaforma"
+				"es":"Montura plataforma"
 			},
 			"p":4
 		},
@@ -108,6 +115,7 @@
 			"nt":{
 				"de":"Multi-Passagier",
 				"it":"Multi passeggero"
+				"es":"Multi pasajero"
 			},
 			"p":4
 		},
@@ -116,6 +124,7 @@
 			"nt":{
 				"de":"Tek Sattel",
 				"it":"Sella Tek"
+				"es":"Montura Tek"
 			},
 			"p":4
 		},
@@ -124,6 +133,7 @@
 			"nt":{
 				"de":"Schulteraufsitzer",
 				"it":"Supporto spalla"
+				"es":"Monta a hombros"
 			},
 			"p":4
 		},
@@ -132,6 +142,7 @@
 			"nt":{
 				"de":"Zähmbar",
 				"it":"Addomesticabile"
+				"es":"Domesticable"
 			},
 			"p":5
 		},
@@ -140,6 +151,7 @@
 			"nt":{
 				"de":"Unzähmbar",
 				"it":"Non domabile"
+				"es":"No domesticable"
 			},
 			"p":5
 		},
@@ -148,6 +160,7 @@
 			"nt":{
 				"de":"Beteubungs-Zähmen",
 				"it":"Domazione con incoscio"
+				"es":"Doma inconsciente"
 			},
 			"p":5
 		},
@@ -156,6 +169,7 @@
 			"nt":{
 				"de":"Passives Zähmen",
 				"it":"Domazione passiva"
+				"es":"Doma pasiva"
 			},
 			"p":5
 		},
@@ -164,6 +178,7 @@
 			"nt":{
 				"de":"Schnell & Einfaches Zähmen",
 				"it":"Domazione facile e veloce"
+				"es":"Doma rápida y fácil"
 			},
 			"p":5
 		},
@@ -172,6 +187,7 @@
 			"nt":{
 				"de":"Fleischfresser",
 				"it":"Carnivori"
+				"es":"Carnívoros"
 			},
 			"p":6
 		},
@@ -180,6 +196,7 @@
 			"nt":{
 				"de":"Pflanzenfresser",
 				"it":"Erbivori"
+				"es":"Herbívoros"
 			},
 			"p":6
 		},
@@ -188,6 +205,7 @@
 			"nt":{
 				"de":"Allesfresser",
 				"it":"Onnivori"
+				"es":"Omnívoros"
 			},
 			"p":6
 		},
@@ -196,6 +214,7 @@
 			"nt":{
 				"de":"Fischfresser",
 				"it":"Piscivori"
+				"es":"Piscívoros"
 			},
 			"p":6
 		},
@@ -204,6 +223,7 @@
 			"nt":{
 				"de":"Kampfkreaturen",
 				"it":"Creature da combattimento"
+				"es":"Criaturas de combate"
 			},
 			"p":7
 		},
@@ -212,6 +232,7 @@
 			"nt":{
 				"de":"Sammler",
 				"it":"Raccoglitori"
+				"es":"Recolectores"
 			},
 			"p":7
 		},
@@ -220,6 +241,7 @@
 			"nt":{
 				"de":"Packesel",
 				"it":"Trasportatori"
+				"es":"Mulas de carga"
 			},
 			"p":7
 		},
@@ -228,6 +250,7 @@
 			"nt":{
 				"de":"Schnelle Kreaturen",
 				"it":"Creature veloci"
+				"es":"Criaturas rápidas"
 			},
 			"p":7
 		},
@@ -236,6 +259,7 @@
 			"nt":{
 				"de":"Züchtbar",
 				"it":"Allevabile"
+				"es":"Reproducible"
 			},
 			"p":8
 		},
@@ -244,6 +268,7 @@
 			"nt":{
 				"de":"Spielanfang",
 				"it":"Inizio partita"
+				"es":"Inicio de partida"
 			},
 			"p":8
 		},
@@ -252,6 +277,7 @@
 			"nt":{
 				"de":"Spielmitte",
 				"it":"Metà partita"
+				"es":"Mitad de partida"
 			},
 			"p":8
 		},
@@ -260,6 +286,7 @@
 			"nt":{
 				"de":"Spielende",
 				"it":"Fine partita"
+				"es":"Final de partida"
 			},
 			"p":8
 		},
@@ -268,6 +295,7 @@
 			"nt":{
 				"de":"Bosse",
 				"it":"Boss"
+				"es":"Jefes"
 			},
 			"p":8
 		},
@@ -283,6 +311,7 @@
 			"nt":{
 				"de":"Karte",
 				"it":"Mappa"
+				"es":"Mapa"
 			}
 		},
 		"2":{
@@ -290,12 +319,14 @@
 			"nt":{
 				"de":"Inklusive Erweiterungen",
 				"it":"Pacco d'espansione esclusivo"
+				"es":"Paquete de expansión exclusivo"
 			}
 		},
 		"3":{
 			"n":"Habitat",
 			"nt":{
 				"de":"Lebensraum"
+				"es":"Hábitat"
 			}
 		},
 		"4":{
@@ -303,6 +334,7 @@
 			"nt":{
 				"de":"Reitbarkeit",
 				"it":"Guidabilità"
+				"es":"Manejo"
 			}
 		},
 		"5":{
@@ -330,6 +362,7 @@
 			"nt":{
 				"de":"Diät",
 				"it":"Dieta"
+				"es":"Dieta"
 			}
 		},
 		"7":{
