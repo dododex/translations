@@ -28,6 +28,7 @@
 	"angler":{
 		"name_t":{
 			"da":"Klumpangler",
+			"de":"Anglerfisch",
 			"ru":"Удильщик",
 			"zh":"鮟鱇鱼",
 			"ja":"アンコウ",
@@ -68,6 +69,7 @@
 	},
 	"arthropluera":{
 		"name_t":{
+			"de":"Tausendfüßer",
 			"ru":"Артроплевра",
 			"zh":"节胸蜈蚣",
 			"ja":"アースロプレウラ",
@@ -77,6 +79,7 @@
 	"attackdrone":{
 		"name_t":{
 			"da":"Angrebsdrone",
+			"de":"Angriffsdrone",
 			"ru":"Атакующий Дрон",
 			"zh":"无人攻击机",
 			"ja":"アタックドローン"
@@ -135,6 +138,7 @@
 	},
 	"broodmotherlysrix":{
 		"name_t":{
+			"de":"Brutmutter Lysrix",
 			"ru":"Праматерь",
 			"zh":"孕母蜘蛛",
 			"ja":"ブルードマザー",
@@ -208,6 +212,7 @@
 	"deathworm":{
 		"name_t":{
 			"da":"Gigant Sandorm",
+			"de":"Todeswurm",
 			"ru":"Червь Смерти",
 			"zh":"死亡沙虫",
 			"ja":"デスワーム",
@@ -218,6 +223,7 @@
 	"defenseunit":{
 		"name_t":{
 			"da":"Forsvars Enhed",
+			"de":"Verteidigungseinheit",
 			"ru":"Защитный Дрон",
 			"zh":"监工者",
 			"ja":"ディフェンスユニット"
@@ -226,6 +232,7 @@
 	"dilophosaur":{
 		"name_t":{
 			"da":"Dilophosaurus",
+			"de":"Dilophosaurus",
 			"ru":"Дилофозавр",
 			"zh":"双脊龙",
 			"ja":"ディロフォサウルス",
@@ -268,6 +275,7 @@
 	"direbear":{
 		"name_t":{
 			"da":"Direbjørn",
+			"de":"Bär",
 			"ru":"Ужасный Медведь",
 			"zh":"恐熊",
 			"ja":"ショートフェイスベア",
@@ -278,6 +286,7 @@
 	"direwolf":{
 		"name_t":{
 			"da":"Direulv",
+			"de":"Wolf",
 			"ru":"Лютоволк",
 			"zh":"恐狼",
 			"ja":"ダイアウルフ",
@@ -303,6 +312,7 @@
 	"dragon":{
 		"name_t":{
 			"da":"Drage",
+			"de":"Drache",
 			"ru":"Дракон",
 			"zh":"喷火龙",
 			"ja":"ドラゴン",
@@ -311,6 +321,7 @@
 	"dungbeetle":{
 		"name_t":{
 			"da":"Gødningsbille",
+			"de":"Mistkäfer",
 			"ru":"Скарабей",
 			"zh":"蜣螂",
 			"ja":"フンコロガシ",
@@ -336,6 +347,7 @@
 	},
 	"equus":{
 		"name_t":{
+			"de":"Pferd",
 			"ru":"Эквус",
 			"zh":"庞马",
 			"ja":"エクウス"
@@ -371,6 +383,7 @@
 	"giantbee":{
 		"name_t":{
 			"da":"Kæmpe Bi",
+			"de":"Gigantische Biene",
 			"ru":"Гигантская Пчела",
 			"zh":"巨蜂",
 			"ja":"ジャイアントビー",
@@ -399,6 +412,7 @@
 	"glowbug":{
 		"name_t":{
 			"da":"Ildflue",
+			"de":"Leuchtkäfer",
 			"ru":"Светлячок",
 			"zh":"发光虫",
 			"ja":"グロウバグ",
@@ -418,6 +432,7 @@
 	},
 	"griffin":{
 		"name_t":{
+			"de":"Greif",
 			"ru":"Грифон",
 			"zh":"狮鹫",
 			"ja":"グリフィン",
@@ -525,6 +540,7 @@
 	"leech":{
 		"name_t":{
 			"da":"Igle",
+			"de":"Blutegel",
 			"ru":"Пиявки",
 			"zh":"蚂蟥",
 			"ja":"蛭",
@@ -568,6 +584,7 @@
 	},
 	"mammoth":{
 		"name_t":{
+			"de":"Mammut",
 			"da":"Mammut",
 			"ru":"Мамонт",
 			"zh":"猛犸象",
@@ -585,6 +602,7 @@
 	},
 	"manticore":{
 		"name_t":{
+			"de":"Mantikor",
 			"ru":"Мантикора",
 			"zh":"蝎尾狮",
 			"ja":"マンティコア",
@@ -632,8 +650,7 @@
 		},
 	},
 	"meganeura":{
-		"name_t":{
-		},
+		"name_t":{},
 	},
 	"megapithecus":{
 		"name_t":{
@@ -661,6 +678,7 @@
 	},
 	"microraptor":{
 		"name_t":{
+			"de":"Mikroraptor",
 			"da":"Mikroraptor",
 			"ru":"Микрораптор",
 			"zh":"小盗龙",
@@ -723,6 +741,7 @@
 	"overseer":{
 		"name_t":{
 			"da":"Opsynsmand",
+			"de":"Aufseher",
 			"ru":"Надзиратель",
 			"zh":"监视者",
 			"ja":"監視者",
@@ -739,6 +758,7 @@
 	},
 	"ovis":{
 		"name_t":{
+			"de":"Schaf",
 			"ko":"양속",
 			"ru":"Овис",
 			"zh":"棉羊",
@@ -800,6 +820,7 @@
 	"phoenix":{
 		"name_t":{
 			"da":"Føniks",
+			"de":"Phönix",
 			"ru":"Феникс",
 			"zh":"凤凰",
 			"ja":"フェニックス",
@@ -917,6 +938,7 @@
 	"rockelemental":{
 		"name_t":{
 			"da":"Sten Golem",
+			"de":"Stein-Elementar",
 			"ru":"Горный Элементаль",
 			"zh":"岩石巨人",
 			"ja":"ロックエレメンタル",
@@ -927,6 +949,7 @@
 	"rollrat":{
 		"name_t":{
 			"da":"Rulle Rotte",
+			"de":"Roll Ratte",
 			"ru":"Кротокрыс",
 			"zh":"翻滚鼠",
 			"ja":"ロールラット",
@@ -937,6 +960,7 @@
 	"sabertooth":{
 		"name_t":{
 			"da":"Sabeltands Tiger",
+			"de":"Säbelzahn Tiger",
 			"ru":"Саблезуб",
 			"zh":"剑齿虎",
 			"ja":"セイバートゥース",
@@ -947,6 +971,7 @@
 	"sabertoothsalmon":{
 		"name_t":{
 			"da":"Sabeltandslaks",
+			"de":"Säbelzahn Lachs",
 			"ru":"Саблезубый Лосось",
 			"zh":"剑齿鲑鱼",
 			"ja":"セイバートゥース・サーモン",
@@ -983,6 +1008,7 @@
 	},
 	"spinosaur":{
 		"name_t":{
+			"de":"Spino",
 			"ru":"Спинозавр",
 			"zh":"棘背龙",
 			"ja":"スピノサウルス",
@@ -1009,6 +1035,7 @@
 	"terrorbird":{
 		"name_t":{
 			"da":"Terrorfugl",
+			"de":"Terrorvogel",
 			"ru":"Ужасная Птица",
 			"zh":"恐鸟",
 			"ja":"テラーバード",
@@ -1045,6 +1072,7 @@
 	},
 	"titanoboa":{
 		"name_t":{
+			"de":"Titanboa",
 			"ru":"Титанобоа",
 			"zh":"泰坦巨蟒",
 			"ja":"ティタノボア"
@@ -1052,6 +1080,7 @@
 	},
 	"titanomyrma":{
 		"name_t":{
+			"de":"Titanomyrma Drohne",
 			"ru":"Титанобоа",
 			"zh":"泰坦巨蟒",
 			"ja":"ティタノボア"
@@ -1059,6 +1088,7 @@
 	},
 	"titanosaur":{
 		"name_t":{
+			"de":"Titanosaurus",
 			"ru":"Титанозавр",
 			"zh":"泰坦龙",
 			"ja":"ティタノサウルス",
@@ -1101,6 +1131,7 @@
 	"vulture":{
 		"name_t":{
 			"da":"Grib",
+			"de":"Geier",
 			"ru":"Гриф",
 			"zh":"秃鹰",
 			"ja":"ハゲタカ",
@@ -1111,6 +1142,7 @@
 	"woollyrhino":{
 		"name_t":{
 			"da":"Uldent Næsehorn",
+			"de":"Wollnashorn",
 			"ru":"Шерстистый Носорог",
 			"zh":"披毛犀",
 			"ja":"ケブカサイ",
