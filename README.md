@@ -59,7 +59,7 @@ Some phrases have variables in them where a term will be inserted into the sente
 
 | Code | Language | % of Users* | [Interface](translations.js) | [Creatures](creatures.json) | [Categories](categories.json) |
 | ---- | -------- | ----------- | --------- | --------- | ---------- |
-| de | German               | 37.4% | ✅ |
+| de | German               | 37.4% | ✅ | ✅ | ✅
 | fr | French               | 19.4% | ✅ | ✅
 | pt | Portuguese           |  8.4% | ✅ |
 | es | Spanish              |  6.1% | ✅ |
@@ -80,7 +80,7 @@ Some phrases have variables in them where a term will be inserted into the sente
 | fi | Finnish              |  0.3% |   |
 | ja | Japanese             |  0.3% | ✅ | ✅
 | he | Hebrew               |  0.2% |   |
-| hr | Croatian             |  0.2% |   |
+| hr | Croatian             |  0.2% | ✅ |
 | sk | Slovak               |  0.1% |   |
 | ro | Romanian             |  0.1% | ✅ |
 | el | Greek                |  0.1% |   |
