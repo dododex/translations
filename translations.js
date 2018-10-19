@@ -5863,6 +5863,9 @@ var languages = {
         },{
             name:"NickGYVER",
             link:"http://steamcommunity.com/id/nekit9532/"
+        },{
+            name:"NiranV",
+            link:"https://steamcommunity.com/profiles/76561197971307159/"
         }]
     },
     th:{
