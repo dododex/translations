@@ -15,7 +15,7 @@ fa:
 fi:
 fr: Le "dressage par la faim" est une méthode que certains survivants utilisent pour minimiser le risque de perdre des ressources lors du dressage.
 hr:
-hu:
+hu: "éheztetős szelidítés" ez egy olyan technika amikor a túlélő megpróbálja a nyersanyag vesztést kiküszöbölni szelidítés közben.
 hi:
 it:
 he:
@@ -55,7 +55,7 @@ fa:
 fi:
 fr: Points "gaspillés"
 hr:
-hu:
+hu: "Elpazarolt" pontok
 hi:
 it:
 he:
@@ -95,7 +95,7 @@ fa:
 fi:
 fr: Les créatures sauvages obtiennent un point de caractéristique à chaque niveau. Chacun de ces points est assigné à une caractéristique au hasard. La Vitesse ne pouvant être améliorée à l'état sauvage, les points lui étant assignés seront perdus, "gaspillés". Pour les creatures marines, les points pour l'Oxygène n'étant pas applicables, ils seront aussi perdus.
 hr:
-hu:
+hu: A vad élőlények minden szinten kapnak egy stat pontot. Mindegyik a pontok közül egy véletlenszerű stathoz kerülnek. Mivel a sebesség soha nem fejlődik a vadonban , ezért az ehhez hozzárendelt pontok "elpazarolódnak" és törlésre kerülnek. Vízi élőlények számára,az oxigén nem felhasználható, ezért ezek a pontok is törlésre kerülnek.
 hi:
 it:
 he:
@@ -135,7 +135,7 @@ fa:
 fi:
 fr: À propos
 hr:
-hu:
+hu: Körülbelül
 hi:
 it:
 he:
@@ -175,7 +175,7 @@ fa:
 fi:
 fr: À propos / Retours
 hr:
-hu:
+hu: Körülbelül / Visszajelzés
 hi:
 it:
 he:
@@ -215,7 +215,7 @@ fa:
 fi:
 fr: À propos du dressage par la faim
 hr:
-hu:
+hu: Az kiéheztetős szelidítésről
 hi:
 it:
 he:
@@ -255,7 +255,7 @@ fa:
 fi:
 fr: Ajouter
 hr:
-hu:
+hu: Hozzáadás // Fegyver hozzáadása
 hi:
 it:
 he:
@@ -295,7 +295,7 @@ fa:
 fi:
 fr: Ajoutez un nom personnalisé pour identifier cette arme.
 hr:
-hu:
+hu: Adj meg egy saját nevet, hogy meg tudd különböztetni ezt a fegyvert.
 hi:
 it:
 he:
@@ -335,7 +335,7 @@ fa:
 fi:
 fr: Ajoutez vos propres armes et créatures avec des dommages personnalisés pour personnaliser les estimations de KO de Dododex.
 hr:
-hu:
+hu: Add hozzá a saját fegyvered és élőlényed sebzését, hogy személyre szabhasd a Dododex saját kiütési becsléseit.
 hi:
 it:
 he:
@@ -375,7 +375,7 @@ fa:
 fi:
 fr: Ajustez les multiplicateurs pour les reglages des serveurs non-officiels. (Gardez les multiplicateurs à 1 pour les serveurs officiels.)
 hr:
-hu:
+hu: Állítsd be a nem hivatalos szerver szorzóinak beállításait. (Hagyd 1-en a szorzókat ha hivatalos szervereken játszol.)
 hi:
 it:
 he:
@@ -415,7 +415,7 @@ fa:
 fi:
 fr: Adolescent
 hr:
-hu:
+hu: Kamasz
 hi:
 it:
 he:
@@ -455,7 +455,7 @@ fa:
 fi:
 fr: Adult
 hr:
-hu:
+hu: Felnőtt
 hi:
 it:
 he:
@@ -495,7 +495,7 @@ fa:
 fi:
 fr: Avancé
 hr:
-hu:
+hu: Fejlett
 hi:
 it:
 he:
@@ -535,7 +535,7 @@ fa:
 fi:
 fr: Affecté par
 hr:
-hu:
+hu: Érintett ez által 
 hi:
 it:
 he:
@@ -575,7 +575,7 @@ fa:
 fi:
 fr: Alarme (min. avant)
 hr:
-hu:
+hu: Riasztás (min. előtt)
 hi:
 it:
 he:
@@ -615,7 +615,7 @@ fa:
 fi:
 fr: Impacte aussi sur la vitesse de gestation
 hr:
-hu:
+hu: Szintén hatással van a vemhességi sebességre
 hi:
 it:
 he:
@@ -655,7 +655,7 @@ fa:
 fi:
 fr: Aussi préféré par
 hr:
-hu:
+hu: Szintén előnyben részesíti a(z)
 hi:
 it:
 he:
@@ -695,7 +695,7 @@ fa:
 fi:
 fr: Quantité par utilisation
 hr:
-hu:
+hu: Mennyiség felhasználásonként
 hi:
 it:
 he:
@@ -735,7 +735,7 @@ fa:
 fi:
 fr: Réglages de l'application
 hr:
-hu:
+hu: Alaklmazás beállításai
 hi:
 it:
 he:
@@ -775,7 +775,7 @@ fa:
 fi:
 fr: Bébé
 hr:
-hu:
+hu: Baba
 hi:
 it:
 he:
@@ -815,7 +815,7 @@ fa:
 fi:
 fr: Vitesse de maturation des bébés
 hr:
-hu:
+hu: Baba fenővési sebesség
 hi:
 it:
 he:
@@ -855,7 +855,7 @@ fa:
 fi:
 fr: Retour
 hr:
-hu:
+hu: Vissza
 hi:
 it:
 he:
@@ -895,7 +895,7 @@ fa:
 fi:
 fr: Initial
 hr:
-hu:
+hu: Alap
 hi:
 it:
 he:
@@ -935,7 +935,7 @@ fa:
 fi:
 fr: Avantages
 hr:
-hu:
+hu: Előnyök
 hi:
 it:
 he:
@@ -975,7 +975,7 @@ fa:
 fi:
 fr: Élevage
 hr:
-hu:
+hu: Tenyésztés
 hi:
 it:
 he:
@@ -1015,7 +1015,7 @@ fa:
 fi:
 fr: Élevage
 hr:
-hu:
+hu: Tenyésztés
 hi:
 it:
 he:
@@ -1055,7 +1055,7 @@ fa:
 fi:
 fr: Calculateur
 hr:
-hu:
+hu: Számoló
 hi:
 it:
 he:
@@ -1095,7 +1095,7 @@ fa:
 fi:
 fr: Peut endommager
 hr:
-hu:
+hu: Meg tud sebezni
 hi:
 it:
 he:
@@ -1135,7 +1135,7 @@ fa:
 fi:
 fr: Transportable par
 hr:
-hu:
+hu: Szállítható ezek által
 hi:
 it:
 he:
@@ -1175,7 +1175,7 @@ fa:
 fi:
 fr: Créatures transportables
 hr:
-hu:
+hu: Szállítható lény
 hi:
 it:
 he:
@@ -1215,7 +1215,7 @@ fa:
 fi:
 fr: Tableau des créatures transportables
 hr:
-hu:
+hu: Szállítható lények táblázata
 hi:
 it:
 he:
@@ -1255,7 +1255,7 @@ fa:
 fi:
 fr: Risque de mort
 hr:
-hu:
+hu: Halál esélye 
 hi:
 it:
 he:
@@ -1295,7 +1295,7 @@ fa:
 fi:
 fr: Réglages du joueur
 hr:
-hu:
+hu: Karakter beállítások
 hi:
 it:
 he:
@@ -1335,7 +1335,7 @@ fa:
 fi:
 fr: Charge
 hr:
-hu:
+hu: Nekirohanás
 hi:
 it:
 he:
@@ -1375,7 +1375,7 @@ fa:
 fi:
 fr: Vérifier les nouvelles données
 hr:
-hu:
+hu: Új adatok ellenőrzése
 hi:
 it:
 he:
@@ -1415,7 +1415,7 @@ fa:
 fi:
 fr: Comparaison
 hr:
-hu:
+hu: Összehasonlítás
 hi:
 it:
 he:
@@ -1455,7 +1455,7 @@ fa:
 fi:
 fr: Conscient
 hr:
-hu:
+hu: Tudatánál van 
 hi:
 it:
 he:
@@ -1495,7 +1495,7 @@ fa:
 fi:
 fr: Vitesse de consommation
 hr:
-hu:
+hu: Felhasználási sebesség
 hi:
 it:
 he:
@@ -1535,7 +1535,7 @@ fa:
 fi:
 fr: Marmite
 hr:
-hu:
+hu: Kondér
 hi:
 it:
 he:
@@ -1575,7 +1575,7 @@ fa:
 fi:
 fr: Conçu dans
 hr:
-hu:
+hu: Készített
 hi:
 it:
 he:
@@ -1615,7 +1615,7 @@ fa:
 fi:
 fr: Niveau actuel de faim
 hr:
-hu:
+hu: Jelenlegi tápláltsági szint
 hi:
 it:
 he:
@@ -1655,7 +1655,7 @@ fa:
 fi:
 fr: Niveau actuel
 hr:
-hu:
+hu: Jelenlegi szint
 hi:
 it:
 he:
@@ -1695,7 +1695,7 @@ fa:
 fi:
 fr: Tableau des modififications de dégâts
 hr:
-hu:
+hu: Sérülésmódosító táblázat
 hi:
 it:
 he:
@@ -1735,7 +1735,7 @@ fa:
 fi:
 fr: Supprimer
 hr:
-hu:
+hu: Törlés
 hi:
 it:
 he:
@@ -1775,7 +1775,7 @@ fa:
 fi:
 fr: Détails
 hr:
-hu:
+hu: Részletek
 hi:
 it:
 he:
@@ -1815,7 +1815,7 @@ fa:
 fi:
 fr: Dododex vérifie automatiquement les nouvelles données, mais vous pouvez choisir de forcer Dododex à télécharger les dernières données maintenant (l'application se rafraîchira).
 hr:
-hu:
+hu: 
 hi:
 it:
 he:
