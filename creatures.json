@@ -225,7 +225,7 @@
 			"da":"Forsvars Enhed",
 			"de":"Verteidigungseinheit",
 			"ru":"Защитный Дрон",
-			"zh":"监工者",
+			"zh":"抵御者",
 			"ja":"ディフェンスユニット"
 		},
 	},
@@ -234,7 +234,7 @@
 			"da":"Dilophosaurus",
 			"de":"Dilophosaurus",
 			"ru":"Дилофозавр",
-			"zh":"双脊龙",
+			"zh":"双嵴龙",
 			"ja":"ディロフォサウルス",
 			"fr":"Dilophosaure",
 			"it":"Dilofosauro"
@@ -243,7 +243,7 @@
 	"dimetrodon":{
 		"name_t":{
 			"ru":"Диметродон",
-			"zh":"异齿龙",
+			"zh":"异齿兽",
 			"ja":"ディメトロドン",
 			"it":"Dimetrodonte"
 		},
@@ -251,7 +251,7 @@
 	"dimorphodon":{
 		"name_t":{
 			"ru":"Диморфодон",
-			"zh":"双齿翼龙",
+			"zh":"真双型齿翼龙",
 			"ja":"ディモルフォドン",
 			"it":"Dimorfodonte"
 		},
@@ -366,7 +366,7 @@
 		"name_t":{
 			"da":"Neonfjer",
 			"ru":"Яснокрыл",
-			"zh":"轻羽鸟",
+			"zh":"光羽鸟",
 			"ja":"フェザーライト",
 			"fr":"Plumineux",
 			"it":"Piumalucente"
@@ -424,7 +424,7 @@
 		"name_t":{
 			"da":"Glødehale",
 			"ru":"Лучехвост",
-			"zh":"耀尾兽",
+			"zh":"耀尾蜥",
 			"ja":"グロウテール",
 			"fr":"Gecko Luisant",
 			"it":"Lucciocoda"
@@ -451,7 +451,7 @@
 	"hyaenodon":{
 		"name_t":{
 			"ru":"Гиенодон",
-			"zh":"鬣狗",
+			"zh":"鬣齿兽",
 			"ja":"ヒエノドン",
 			"fr":"Hyene",
 			"it":"Ienodonte"
@@ -492,13 +492,14 @@
 	},
 	"jugbug":{
 		"name_t":{
-			"it":"Insetto brocca"
+			"it":"Insetto brocca",
+			"zh":"壶虫"
 		},
 	},
 	"kairuku":{
 		"name_t":{
 			"ru":"Кайруку",
-			"zh":"远古企鹅",
+			"zh":"凯鲁库企鹅",
 			"ja":"カイルクペンギン"
 		},
 	},
@@ -521,7 +522,7 @@
 	"kentrosaurus":{
 		"name_t":{
 			"ru":"Кентрозавр",
-			"zh":"肯氏龙",
+			"zh":"钉状龙",
 			"ja":"ケントロサウルス",
 			"fr":"Kentrosaure",
 			"it":"Kentrosauro"
@@ -531,7 +532,7 @@
 		"name_t":{
 			"da":"Lampret",
 			"ru":"Минога",
-			"zh":"七星鳗",
+			"zh":"七鳃鳗",
 			"ja":"ランプリィ",
 			"fr":"Lamproie",
 			"it":"Lampreda"
@@ -542,7 +543,7 @@
 			"da":"Igle",
 			"de":"Blutegel",
 			"ru":"Пиявки",
-			"zh":"蚂蟥",
+			"zh":"水蛭",
 			"ja":"蛭",
 			"ko":"거머리",
 			"fr":"Hirudinea",
@@ -552,7 +553,7 @@
 	"leedsichthys":{
 		"name_t":{
 			"ru":"Лидсихтис",
-			"zh":"利兹鱼",
+			"zh":"利兹鲲",
 			"ja":"リードシクティス"
 		},
 	},
@@ -567,7 +568,7 @@
 	"lymantria":{
 		"name_t":{
 			"ru":"Шелкопряд",
-			"zh":"飞蛾",
+			"zh":"荒漠毒蛾",
 			"ja":"マイマイガ",
 			"fr":"Papillon Geant",
 			"it":"Limantria"
@@ -612,7 +613,7 @@
 	"mantis":{
 		"name_t":{
 			"ru":"Богомол",
-			"zh":"螳螂",
+			"zh":"锥头螳螂",
 			"ja":"カマキリ",
 			"it":"Mantide"
 		},
@@ -650,7 +651,9 @@
 		},
 	},
 	"meganeura":{
-		"name_t":{},
+		"name_t":{
+			"zh":"巨脉蜻蜓"
+		},
 	},
 	"megapithecus":{
 		"name_t":{
@@ -688,7 +691,7 @@
 	"morellatops":{
 		"name_t":{
 			"ru":"Мореллатопс",
-			"zh":"驼峰兽",
+			"zh":"莫雷拉角龙",
 			"ja":"モレラトプス",
 			"it":"Morellatopo"
 		},
@@ -705,7 +708,7 @@
 	"moschops":{
 		"name_t":{
 			"ru":"Мосхопс",
-			"zh":"莫雷拉角龙",
+			"zh":"麝足兽",
 			"ja":"モスコプス",
 			"it":"Mosasauro"
 		},
@@ -722,7 +725,7 @@
 	"onyc":{
 		"name_t":{
 			"ru":"Оник",
-			"zh":"蝙蝠",
+			"zh":"爪蝠",
 			"ja":"オニコニクテリス",
 			"it":"Pipistrello"
 		},
@@ -789,7 +792,7 @@
 		"name_t":{
 			"ko":"인드리코티어",
 			"ru":"Парацератерий",
-			"zh":"巨犀",
+			"zh":"副巨犀",
 			"ja":"パラケラテリウム",
 			"it":"Paraceraterio"
 		},
@@ -951,7 +954,7 @@
 			"da":"Rulle Rotte",
 			"de":"Roll Ratte",
 			"ru":"Кротокрыс",
-			"zh":"翻滚鼠",
+			"zh":"翻滚鼹鼠",
 			"ja":"ロールラット",
 			"fr":"Rat Des Profondeurs",
 			"it":"Ratto Arrotolatore"
@@ -962,7 +965,7 @@
 			"da":"Sabeltands Tiger",
 			"de":"Säbelzahn Tiger",
 			"ru":"Саблезуб",
-			"zh":"剑齿虎",
+			"zh":"刃齿虎",
 			"ja":"セイバートゥース",
 			"fr":"Smilodon",
 			"it":"Smilodonte"
@@ -982,7 +985,7 @@
 	"sarco":{
 		"name_t":{
 			"ru":"Саркозух",
-			"zh":"帝王鳄",
+			"zh":"帝鳄",
 			"ja":"サルコスクス",
 			"it":"Sarcoduco"
 		},
@@ -1010,7 +1013,7 @@
 		"name_t":{
 			"de":"Spino",
 			"ru":"Спинозавр",
-			"zh":"棘背龙",
+			"zh":"棘龙",
 			"ja":"スピノサウルス",
 			"fr":"Spinosaure",
 			"it":"Spinosauro"
@@ -1037,7 +1040,7 @@
 			"da":"Terrorfugl",
 			"de":"Terrorvogel",
 			"ru":"Ужасная Птица",
-			"zh":"恐鸟",
+			"zh":"骇鸟",
 			"ja":"テラーバード",
 			"fr":"Oiseau Terreur",
 			"it":"Uccello Del Terrore"
@@ -1074,7 +1077,7 @@
 		"name_t":{
 			"de":"Titanboa",
 			"ru":"Титанобоа",
-			"zh":"泰坦巨蟒",
+			"zh":"泰坦巨蚺",
 			"ja":"ティタノボア"
 		},
 	},
@@ -1082,7 +1085,7 @@
 		"name_t":{
 			"de":"Titanomyrma Drohne",
 			"ru":"Титанобоа",
-			"zh":"泰坦巨蟒",
+			"zh":"泰坦巨蚁",
 			"ja":"ティタノボア"
 		},
 	},
@@ -1133,7 +1136,7 @@
 			"da":"Grib",
 			"de":"Geier",
 			"ru":"Гриф",
-			"zh":"秃鹰",
+			"zh":"秃鹫",
 			"ja":"ハゲタカ",
 			"fr":"Vautour",
 			"it":"Avvoltoio"
