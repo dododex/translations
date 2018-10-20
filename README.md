@@ -36,7 +36,7 @@ The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com
    All creature names and categories should be in Title Case (Example: "Attack Drone" not "attack drone").
 
    Please keep languages in alphabetical order, according to their language code.
-1. Add your name to [translations.js](translations.js) if 
+1. Add your name to [translations.js](translations.js) if you'd like to be credited!
 
 ## NOTES
 
