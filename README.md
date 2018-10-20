@@ -21,39 +21,31 @@ The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com
    If you are unsure of any translation, please keep it blank so someone else can add it later. Do not add notes to your translation, or add multiple translations. Instead, open an Issue (detailed below) to discuss the correct translation. 
 
 1. **Add your name to the list of translators.** If you'd like, feel free to add your name and (optionally) a URL the bottom of the file.
-1. **Submit your changes** This will be submitted as a [pull request](https://help.github.com/articles/using-pull-requests/) and will be approved. You
+1. **Submit your changes** This will be submitted as a [pull request](https://help.github.com/articles/using-pull-requests/) and will be approved. 
 
 *(If you have any trouble with these instructions, but still want to help, please contact me at dan14lev at gmail.com or [Join the Translator Chat!](https://discord.gg/KvmRSSV)!)*
 
-## 2. TRANSLATING CREATURE NAMES & CREATURE CATEGORIES
+## 2. TRANSLATING CREATURE NAMES & CATEGORIES
 1. **Open [creatures.json](creatures.json) or [categories.json](categories.json) and click "Edit."**
 1. **Add translated names in your language.**
-
-   Please keep languages in alphabetical order, according to their language code.
-
-   If a creature does not have a translation, simply omit it. Do not create a copy of the English translation, as Dododex will automatically fall back on the English translations. However, please consider transliterating if you think it would be more helpful to speakers of your language. IMPORTANT: Dialetcs (For example: Brazilian Portuguese / PT-BR) are not supported. Only two-letter country codes can be used (For example: PT). If there are any discrepencies between dialets, please open an issue on Github so it can be logged.
+   
+   If a creature (or entire language) is not officially translated in-game, it's recommended to not translate it, so Dododex will fallback to the English version. The goal is to make the creature names accessible, but expected -- don't translate JUST to translate. If "Ovis" is not translated in-game, it's probably not a good idea to just translate it to "Sheep" in your language, as users would likely look for "Ovis" on Dododex. If a creature does not have a translation, simply omit it rather than creating a copy of the English translation. However, for not-Latin characters please consider transliterating if you think it would be more helpful to speakers of your language. 
+   
+   IMPORTANT: Dialetcs (For example: Brazilian Portuguese / "PT-BR") are not supported. Only two-letter country codes can be used (For example: PT). If there are any discrepencies between dialets, please open an issue on Github so it can be logged.
    
    All creature names and categories should be in Title Case (Example: "Attack Drone" not "attack drone").
 
+   Please keep languages in alphabetical order, according to their language code.
+1. Add your name to [translations.js](translations.js) if 
+
 ## NOTES
 
-### Phrasing & Punctuation
-If the English phrase includes characters like exclaimation points, parenthases, colons, ellipses, be sure these are included if they are applicable in your language. If you are unsure, try to understand the context of the phrase and try your best to match it in your language.
-
-### Abbreviations & Long Words
-Some English terms are intentionally abbreviated because of a lack of interface space ("pts.", "mins."). If possible, please try to abbreviate these in your language into something short that people would understand. In addition, there are some terms in English that are already short and also need to fit in a small space. For example, "Use" and "Max" are headings on the main taming table that need to fit in a small column. If possible, try to keep these words short. Abbreviate if necessary. A different, shorter word may be used if it its meaning is still applicable. 
-
-### Special Characters
-Special (non-Latin) characters such as ä or 渡 can be inserted into the file directly without translating them to HTML entities (don't use `&auml;` or `&#x6E21;`). If you add a double quote, please escape it with a backslash: `\"`.
-
-### Submit Your Progress
-If you don't have much time to volunteer and prefer to translate these phrases over many days, it's best to submit your progress ocassionally in case someone else submits translations for that same language.
-
-### Starting A Discussion
-If you're unsure of any translations, have questions about a phrase or its context, or think that a translation is incorrect, start a discussion by [creating an issue](https://github.com/dododex/translations/issues/new). Please include the language in the title of the issue.
-
-### Variables
-Some phrases have variables in them where a term will be inserted into the sentence. These are indicated with a `{0}`. For example, `There are {0} creatures` could become `There are 50 creatures` and the number would increment as more creatures are added. All translations must include this variable. If phrasing in your language can vary depending on what the variable actually is (for example, grammatical gender), please do your best to accomidate what the variable could be. If appropriate, rephrase so the line works better in your language.
+* **Phrasing & Punctuation:** If the English phrase includes characters like exclaimation points, parenthases, colons, ellipses, be sure these are included if they are applicable in your language. If you are unsure, try to understand the context of the phrase and try your best to match it in your language.
+* **Abbreviations & Long Words:** Some English terms are intentionally abbreviated because of a lack of interface space ("pts.", "mins."). If possible, please try to abbreviate these in your language into something short that people would understand. In addition, there are some terms in English that are already short and also need to fit in a small space. For example, "Use" and "Max" are headings on the main taming table that need to fit in a small column. If possible, try to keep these words short. Abbreviate if necessary. A different, shorter word may be used if it its meaning is still applicable. 
+* **Special Characters:** Special (non-Latin) characters such as ä or 渡 can be inserted into the file directly without translating them to HTML entities (don't use `&auml;` or `&#x6E21;`). If you add a double quote, please escape it with a backslash: `\"`.
+* **Submit Your Progress:** If you don't have much time to volunteer and prefer to translate these phrases over many days, it's best to submit your progress ocassionally in case someone else submits translations for that same language.
+* **Starting A Discussion:** If you're unsure of any translations, have questions about a phrase or its context, or think that a translation is incorrect, start a discussion by [creating an issue](https://github.com/dododex/translations/issues/new). Please include the language in the title of the issue.
+* **Variables:** Some phrases have variables in them where a term will be inserted into the sentence. These are indicated with a `{0}`. For example, `There are {0} creatures` could become `There are 50 creatures` and the number would increment as more creatures are added. All translations must include this variable. If phrasing in your language can vary depending on what the variable actually is (for example, grammatical gender), please do your best to accomidate what the variable could be. If appropriate, rephrase so the line works better in your language.
 
 ## TRANSLATION PROGRESS
 
