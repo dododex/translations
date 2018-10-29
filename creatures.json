@@ -152,7 +152,7 @@
 	"broodmotherlysrix":{
 		"name_t":{
 			"de":"Brutmutter Lysrix",
-			"es":"Lysrix progenitora"
+			"es":"Lysrix progenitora",
 			"it":"Reginaragno",
 			"ja":"ブルードマザー",
 			"ru":"Праматерь",
@@ -476,7 +476,7 @@
 	"griffin":{
 		"name_t":{
 			"de":"Greif",
-			"es":"Grifo"
+			"es":"Grifo",
 			"fr":"Griffon",
 			"it":"Grifone",
 			"ja":"グリフィン",
@@ -540,9 +540,9 @@
 	},
 	"jugbug":{
 		"name_t":{
-			"es":"Pulga cantimplora"
+			"es":"Pulga cantimplora",
 			"it":"Insetto brocca",
-			"zh":"壶虫",
+			"zh":"壶虫"
 		},
 	},
 	"kairuku":{
@@ -729,7 +729,7 @@
 	"megatherium":{
 		"name_t":{
 			"es":"Megaterio",
-			"it":"Megaterio"
+			"it":"Megaterio",
 			"ja":"メガテリウム",
 			"ru":"Мегатерий",
 			"zh":"大地懒"
@@ -739,7 +739,7 @@
 		"name_t":{
 			"es":"Mesopiteco",
 			"fr":"Mesopitheque",
-			"it":"Mesopiteco"
+			"it":"Mesopiteco",
 			"ja":"メソピテクス",
 			"ru":"Мезопитек",
 			"zh":"中猴"
@@ -805,7 +805,7 @@
 			"da":"Odder",
 			"es":"Nutria",
 			"fr":"Loutre",
-			"it":"Lontra"
+			"it":"Lontra",
 			"ja":"オッター",
 			"ko":"수달아과",
 			"ru":"Выдра",
@@ -903,7 +903,7 @@
 			"de":"Phönix",
 			"es":"Fénix",
 			"fr":"Phenix",
-			"it":"Fenice"
+			"it":"Fenice",
 			"ja":"フェニックス",
 			"ru":"Феникс",
 			"zh":"凤凰"
@@ -983,7 +983,7 @@
 		"name_t":{
 			"ja":"ユタラプトル",
 			"ru":"Раптор",
-			"zh":"犹他盗龙"
+			"zh":"迅猛龙"
 		},
 	},
 	"ravager":{
