@@ -54,7 +54,7 @@ The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com
 | de | German               | 37.4% | ✅ | ✅ | ✅
 | fr | French               | 19.4% | ✅ | ✅
 | pt | Portuguese           |  8.4% | ✅ |
-| es | Spanish              |  6.1% | ✅ |
+| es | Spanish              |  6.1% | ✅ | ✅ | ✅
 | ru | Russian              |  7.6% | ✅ | ✅
 | nl | Dutch                |  4.0% |   |
 | it | Italian              |  3.8% | ✅ | ✅
