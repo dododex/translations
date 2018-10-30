@@ -6796,7 +6796,7 @@ var languages = {
     es:{
         name:"Español (España)",
         credit:[{
-            name:"Fernando Román Gracia Crespo"
+            name:"Jesus Fernandez Castillo"
         }]
     },
     fi:{
