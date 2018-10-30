@@ -6785,11 +6785,14 @@ var languages = {
         },{
             name:"Nebel",
             link:"https://github.com/NebelKreis"
+        },{
+            name:"Lady Xiahou",
+            link:"https://twitter.com/ladyxiahou"
         }]
     },
     gr:{
         name: "Ελληνικά"
-    }
+    },
     es:{
         name:"Español (España)",
         credit:[{
