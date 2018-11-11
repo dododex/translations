@@ -24,8 +24,9 @@
 			"n":"New",
 			"nt":{
 				"de":"Neu",
-				"it":"Nuovo"
-				"es":"Nuevo"
+				"it":"Nuovo",
+				"es":"Nuevo",
+				"ru":"Новый"
 			}
 		},
 		"2":{
@@ -60,8 +61,9 @@
 			"n":"Terrestrial",
 			"nt":{
 				"de":"Land",
-				"it":"Terrestre"
-				"es":"Terrestre"
+				"it":"Terrestre",
+				"es":"Terrestre",
+				"ru":"Сухопутный"
 			},
 			"p":3
 		},
@@ -69,8 +71,9 @@
 			"n":"Aerial",
 			"nt":{
 				"de":"Luft",
-				"it":"Aereo"
-				"es":"Aéreo"
+				"it":"Aereo",
+				"es":"Aéreo",
+				"ru":"Воздушный"
 			},
 			"p":3
 		},
@@ -78,8 +81,9 @@
 			"n":"Aquatic",
 			"nt":{
 				"de":"Wasser",
-				"it":"Acquatico"
-				"es":"Acuático"
+				"it":"Acquatico",
+				"es":"Acuático",
+				"ru":"Водный"
 			},
 			"p":3
 		},
@@ -87,8 +91,9 @@
 			"n":"Rideable",
 			"nt":{
 				"de":"Reitbar",
-				"it":"Cavalcabile"
-				"es":"Manejable"
+				"it":"Cavalcabile",
+				"es":"Manejable",
+				"ru":"Ездовой"
 			},
 			"p":4
 		},
@@ -96,8 +101,9 @@
 			"n":"Utility Saddle",
 			"nt":{
 				"de":"Nutzsattel",
-				"it":"Sella utilità"
-				"es":"Montura utilitaria"
+				"it":"Sella utilità",
+				"es":"Montura utilitaria",
+				"ru":"Обычное седло"
 			},
 			"p":4
 		},
@@ -105,8 +111,9 @@
 			"n":"Platform Saddle",
 			"nt":{
 				"de":"Plattformsattel",
-				"it":"Sella piattaforma"
-				"es":"Montura plataforma"
+				"it":"Sella piattaforma",
+				"es":"Montura plataforma",
+				"ru":"Седло-платформа"
 			},
 			"p":4
 		},
@@ -114,8 +121,9 @@
 			"n":"Multi-Passenger",
 			"nt":{
 				"de":"Multi-Passagier",
-				"it":"Multi passeggero"
-				"es":"Multi pasajero"
+				"it":"Multi passeggero",
+				"es":"Multi pasajero",
+				"ru":"Многоместный"
 			},
 			"p":4
 		},
@@ -123,8 +131,9 @@
 			"n":"Tek Saddle",
 			"nt":{
 				"de":"Tek Sattel",
-				"it":"Sella Tek"
-				"es":"Montura Tek"
+				"it":"Sella Tek",
+				"es":"Montura Tek",
+				"ru":"Тек-седло"
 			},
 			"p":4
 		},
@@ -132,8 +141,9 @@
 			"n":"Shoulder Mounts",
 			"nt":{
 				"de":"Schulteraufsitzer",
-				"it":"Supporto spalla"
-				"es":"Monta a hombros"
+				"it":"Supporto spalla",
+				"es":"Monta a hombros",
+				"ru":"Плечевой упор"
 			},
 			"p":4
 		},
@@ -141,8 +151,9 @@
 			"n":"Tamable",
 			"nt":{
 				"de":"Zähmbar",
-				"it":"Addomesticabile"
-				"es":"Domesticable"
+				"it":"Addomesticabile",
+				"es":"Domesticable",
+				"ru":"Приручаемый"
 			},
 			"p":5
 		},
@@ -150,8 +161,9 @@
 			"n":"Non-tamable",
 			"nt":{
 				"de":"Unzähmbar",
-				"it":"Non domabile"
-				"es":"No domesticable"
+				"it":"Non domabile",
+				"es":"No domesticable",
+				"ru":"Не приручаемый"
 			},
 			"p":5
 		},
@@ -159,8 +171,9 @@
 			"n":"Knockout Taming",
 			"nt":{
 				"de":"Beteubungs-Zähmen",
-				"it":"Domazione con incoscio"
-				"es":"Doma inconsciente"
+				"it":"Domazione con incoscio",
+				"es":"Doma inconsciente",
+				"ru":"Приручение оглушением"
 			},
 			"p":5
 		},
@@ -168,8 +181,9 @@
 			"n":"Passive Taming",
 			"nt":{
 				"de":"Passives Zähmen",
-				"it":"Domazione passiva"
-				"es":"Doma pasiva"
+				"it":"Domazione passiva",
+				"es":"Doma pasiva",
+				"ru":"Пассивное приручение"
 			},
 			"p":5
 		},
@@ -177,8 +191,9 @@
 			"n":"Quick & Easy Taming",
 			"nt":{
 				"de":"Schnell & Einfaches Zähmen",
-				"it":"Domazione facile e veloce"
-				"es":"Doma rápida y fácil"
+				"it":"Domazione facile e veloce",
+				"es":"Doma rápida y fácil",
+				"ru":"Быстрое и лёгкое приручение"
 			},
 			"p":5
 		},
@@ -186,8 +201,9 @@
 			"n":"Carnivores",
 			"nt":{
 				"de":"Fleischfresser",
-				"it":"Carnivori"
-				"es":"Carnívoros"
+				"it":"Carnivori",
+				"es":"Carnívoros",
+				"ru":"Плотоядные"
 			},
 			"p":6
 		},
@@ -195,8 +211,9 @@
 			"n":"Herbivores",
 			"nt":{
 				"de":"Pflanzenfresser",
-				"it":"Erbivori"
-				"es":"Herbívoros"
+				"it":"Erbivori",
+				"es":"Herbívoros",
+				"ru":"Травоядные"
 			},
 			"p":6
 		},
@@ -204,8 +221,9 @@
 			"n":"Omnivores",
 			"nt":{
 				"de":"Allesfresser",
-				"it":"Onnivori"
-				"es":"Omnívoros"
+				"it":"Onnivori",
+				"es":"Omnívoros",
+				"ru":"Всеядные"
 			},
 			"p":6
 		},
@@ -213,8 +231,9 @@
 			"n":"Piscivores",
 			"nt":{
 				"de":"Fischfresser",
-				"it":"Piscivori"
-				"es":"Piscívoros"
+				"it":"Piscivori",
+				"es":"Piscívoros",
+				"ru":"Ихтиофаги"
 			},
 			"p":6
 		},
@@ -222,8 +241,9 @@
 			"n":"Battle Creatures",
 			"nt":{
 				"de":"Kampfkreaturen",
-				"it":"Creature da combattimento"
-				"es":"Criaturas de combate"
+				"it":"Creature da combattimento",
+				"es":"Criaturas de combate",
+				"ru":"Боевые существа"
 			},
 			"p":7
 		},
@@ -231,8 +251,9 @@
 			"n":"Gatherers",
 			"nt":{
 				"de":"Sammler",
-				"it":"Raccoglitori"
-				"es":"Recolectores"
+				"it":"Raccoglitori",
+				"es":"Recolectores",
+				"ru":"Собиратели"
 			},
 			"p":7
 		},
@@ -240,8 +261,9 @@
 			"n":"Pack Mules",
 			"nt":{
 				"de":"Packesel",
-				"it":"Trasportatori"
-				"es":"Mulas de carga"
+				"it":"Trasportatori",
+				"es":"Mulas de carga",
+				"ru":"Транспортировщики"
 			},
 			"p":7
 		},
@@ -249,8 +271,9 @@
 			"n":"Fast Creatures",
 			"nt":{
 				"de":"Schnelle Kreaturen",
-				"it":"Creature veloci"
-				"es":"Criaturas rápidas"
+				"it":"Creature veloci",
+				"es":"Criaturas rápidas",
+				"ru":"Быстрые существа"
 			},
 			"p":7
 		},
@@ -258,8 +281,9 @@
 			"n":"Breedable",
 			"nt":{
 				"de":"Züchtbar",
-				"it":"Allevabile"
-				"es":"Reproducible"
+				"it":"Allevabile",
+				"es":"Reproducible",
+				"ru":"Разводимые существа"
 			},
 			"p":8
 		},
@@ -267,8 +291,9 @@
 			"n":"Early Game",
 			"nt":{
 				"de":"Spielanfang",
-				"it":"Inizio partita"
-				"es":"Inicio de partida"
+				"it":"Inizio partita",
+				"es":"Inicio de partida",
+				"ru":"Ранняя стадия игры"
 			},
 			"p":8
 		},
@@ -276,8 +301,9 @@
 			"n":"Midgame",
 			"nt":{
 				"de":"Spielmitte",
-				"it":"Metà partita"
-				"es":"Mitad de partida"
+				"it":"Metà partita",
+				"es":"Mitad de partida",
+				"ru":"Средняя стадия игры"
 			},
 			"p":8
 		},
@@ -285,8 +311,9 @@
 			"n":"Endgame",
 			"nt":{
 				"de":"Spielende",
-				"it":"Fine partita"
-				"es":"Final de partida"
+				"it":"Fine partita",
+				"es":"Final de partida",
+				"ru":"Конечная стадия игры"
 			},
 			"p":8
 		},
@@ -294,8 +321,9 @@
 			"n":"Bosses",
 			"nt":{
 				"de":"Bosse",
-				"it":"Boss"
-				"es":"Jefes"
+				"it":"Boss",
+				"es":"Jefes",
+				"ru":"Боссы"
 			},
 			"p":8
 		},
@@ -310,31 +338,35 @@
 			"n":"Map",
 			"nt":{
 				"de":"Karte",
-				"it":"Mappa"
-				"es":"Mapa"
+				"it":"Mappa",
+				"es":"Mapa",
+				"ru":"Карта"
 			}
 		},
 		"2":{
 			"n":"Expansion Pack Exclusive",
 			"nt":{
 				"de":"Inklusive Erweiterungen",
-				"it":"Pacco d'espansione esclusivo"
-				"es":"Paquete de expansión exclusivo"
+				"it":"Pacco d'espansione esclusivo",
+				"es":"Paquete de expansión exclusivo",
+				"ru":"Эксклюзивный пакет расширения"
 			}
 		},
 		"3":{
 			"n":"Habitat",
 			"nt":{
-				"de":"Lebensraum"
-				"es":"Hábitat"
+				"de":"Lebensraum",
+				"es":"Hábitat",
+				"ru":"Среда обитания"
 			}
 		},
 		"4":{
 			"n":"Ridability",
 			"nt":{
 				"de":"Reitbarkeit",
-				"it":"Guidabilità"
-				"es":"Manejo"
+				"it":"Guidabilità",
+				"es":"Manejo",
+				"ru":"Управляемость"
 			}
 		},
 		"5":{
@@ -361,8 +393,9 @@
 			"n":"Diet",
 			"nt":{
 				"de":"Diät",
-				"it":"Dieta"
-				"es":"Dieta"
+				"it":"Dieta",
+				"es":"Dieta",
+				"ru":"Рацион"
 			}
 		},
 		"7":{
@@ -399,7 +432,7 @@
 				"pl":"Więcej",
 				"br":"Mais",
 				"zh":"更多",
-				"ru":"больше",
+				"ru":"Больше",
 				"ro":"Mai mult",
 				"th":"เพิ่มเติม",
 				"tr":"Daha Fazla"
