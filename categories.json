@@ -60,9 +60,9 @@
 		"9":{
 			"n":"Terrestrial",
 			"nt":{
-				"de":"Land",
-				"it":"Terrestre",
-				"es":"Terrestre",
+				"de":"Terrestrisch",
+				"it":"Terrestre"
+				"es":"Terrestre"
 				"ru":"Сухопутный"
 			},
 			"p":3
@@ -70,7 +70,7 @@
 		"10":{
 			"n":"Aerial",
 			"nt":{
-				"de":"Luft",
+				"de":"Fliegend",
 				"it":"Aereo",
 				"es":"Aéreo",
 				"ru":"Воздушный"
@@ -80,7 +80,7 @@
 		"11":{
 			"n":"Aquatic",
 			"nt":{
-				"de":"Wasser",
+				"de":"Aquatisch",
 				"it":"Acquatico",
 				"es":"Acuático",
 				"ru":"Водный"
@@ -140,11 +140,11 @@
 		"17":{
 			"n":"Shoulder Mounts",
 			"nt":{
-				"de":"Schulteraufsitzer",
-				"it":"Supporto spalla",
-				"es":"Monta a hombros",
+				"de":"Schulter-Begleiter",
+				"it":"Supporto spalla"
+				"es":"Monta a hombros"
 				"ru":"Плечевой упор"
-			},
+      },
 			"p":4
 		},
 		"18":{
@@ -170,7 +170,7 @@
 		"20":{
 			"n":"Knockout Taming",
 			"nt":{
-				"de":"Beteubungs-Zähmen",
+				"de":"Betäubungs-Zähmen",
 				"it":"Domazione con incoscio",
 				"es":"Doma inconsciente",
 				"ru":"Приручение оглушением"
@@ -190,7 +190,7 @@
 		"22":{
 			"n":"Quick & Easy Taming",
 			"nt":{
-				"de":"Schnell & Einfaches Zähmen",
+				"de":"Schnelles & Einfaches Zähmen",
 				"it":"Domazione facile e veloce",
 				"es":"Doma rápida y fácil",
 				"ru":"Быстрое и лёгкое приручение"
@@ -290,9 +290,9 @@
 		"32":{
 			"n":"Early Game",
 			"nt":{
-				"de":"Spielanfang",
-				"it":"Inizio partita",
-				"es":"Inicio de partida",
+				"de":"Spielbeginn",
+				"it":"Inizio partita"
+				"es":"Inicio de partida"
 				"ru":"Ранняя стадия игры"
 			},
 			"p":8
@@ -392,9 +392,9 @@
 		"6":{
 			"n":"Diet",
 			"nt":{
-				"de":"Diät",
-				"it":"Dieta",
-				"es":"Dieta",
+				"de":"Ernährung",
+				"it":"Dieta"
+				"es":"Dieta"
 				"ru":"Рацион"
 			}
 		},
@@ -405,7 +405,7 @@
 				"da":"Anvendelse",
 				"es":"Utilidad",
 				"fr":"Utilité",
-				"de":"Dienstprogramm",
+				"de":"Nützlichkeit",
 				"it":"Utilità",
 				"ja":"ユーティリティ",
 				"ko":"활용",
