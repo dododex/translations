@@ -7134,7 +7134,7 @@ var languages = {
         }]
     },
     fi:{
-        name:"Suomalainen",
+        name:"Suomi",
         credit:[{
             name:"Rasmus Mielonen"
         }]
