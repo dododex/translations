@@ -2719,7 +2719,7 @@ var translations = {
         categories: "",
         search: ""
     },
-    gr: {
+    el: {
         aboutStarveIntro: "\Χαληναγώγηση της πείνας\" Είναι μια τεχνική που μερικοί επιζώντες χρησημοποιούν για να μειώσουν το ρίσκο του να χάσουν προμήθειες όταν εξημερώνουν ένα πλάσμα.",
         wastedPoints: "\"Άχρηστοι\" Πόντοι",
         statCalcNote: "Τα άγρια πλάσματα δίνονται με τους αρχικούς πόντους για κάθε επίπεδο. Κάθε ένας από αυτούς τους πόντους αντιστοιχεί σε ένα τυχαίο στατιστικό. Εφόσον η ταχύτητα κίνησης δεν αναβαθμίζεται στη φύση, καθένας από τους πόντους που θα προστείθεται θα είναι \"χαμένος\" και θα απορρίπτεται. Για τα πλάσματα του νερού, το Οξυγόνο δεν μπορεί να αναβαθμηστεί, οπότε αυτά τα στατιστικά επίσης θα απορρίπτονται.",
@@ -7426,6 +7426,9 @@ var languages = {
     },
     ar:{
         name:"العَرَبِيَّة"
+        credit:[{
+            name:"Mohammad M"
+        }]
     },
     cs:{
         name:"Čeština",
@@ -7460,8 +7463,12 @@ var languages = {
             link:"https://twitter.com/ladyxiahou"
         }]
     },
-    gr:{
+    el:{
         name: "Ελληνικά"
+        credit:[{
+            name:"Black Rainbow Sandy",
+            link:"https://www.facebook.com/sandy.kamelotsalvatore"
+        }]
     },
     es:{
         name:"Español (España)",
@@ -7524,6 +7531,13 @@ var languages = {
             name:"Semmy M"
         }]
     },
+    nb:{
+        name:"Norsk",
+        credit:[{
+            name:"annikenaus",
+            link:"http://www.instagram.com/annikenaus/"
+        }]
+    },
     pl:{
         name:"Polski",
         credit:[{
@@ -7584,12 +7598,6 @@ var languages = {
             name:"侏罗纪汉化组：Heavensn(波仔)、QQ南极企鹅、Benzema星、睡鲨",
             link:"http://www.playarkcn.com/"
         }]
-    },
-    nb:{
-        name:"Norsk",
-        credit:[{
-            name:"annikenaus",
-            link:"http://www.instagram.com/annikenaus/"
-     
+    }     
 }
 module.exports = {languages, translations};
