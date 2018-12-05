@@ -253,7 +253,8 @@
 		},
 	},
 	"deserttitan":{
-		"name_t":{}
+		"name_t":{"it":"Titano del deserto"
+		}
 	},
 	"dilophosaur":{
 		"name_t":{
@@ -384,7 +385,7 @@
 		},
 	},
 	"enforcer":{
-		"name_t":{
+		"name_t":{"it":"Esecutore"
 
 		}
 	},
@@ -419,7 +420,8 @@
 		},
 	},
 	"foresttitan":{
-		"name_t":{},
+		"name_t":{"it":"Titano della foresta"
+		},
 	},
 	"gacha":{
 		"name_t":{},
@@ -434,7 +436,8 @@
 		},
 	},
 	"gasbags":{
-		"name_t":{},
+		"name_t":{"it":"Gasinsetto"
+		},
 	},
 	"giantbee":{
 		"name_t":{
@@ -521,7 +524,8 @@
 		},
 	},
 	"icetitan":{
-		"name_t":{},
+		"name_t":{"it":"Titano del ghiaccio"
+		},
 	},
 	"ichthyornis":{
 		"name_t":{
@@ -1138,7 +1142,8 @@
 		},
 	},
 	"snowowl":{
-		"name_t":{},
+		"name_t":{"it":"Gufo delle nevi"
+		},
 	},
 	"spinosaur":{
 		"name_t":{
@@ -1276,7 +1281,8 @@
 		},
 	},
 	"velonasaur":{
-		"name_t":{},
+		"name_t":{"it":"Velonasauro"
+		},
 	},
 	"vulture":{
 		"name_t":{
