@@ -1,4 +1,4 @@
-/* NOTE: This file is intentionally an invalid JSON file. It is merged with another file using a script. Please do not adjust the format/structure of the file (including commas, brackets, tabs, or spacing) */
+/* NOTE: This file is intentionally an invalid JSON file. It is merged with another file using a script. Please do not adjust the format/structure of the file (including commas, brackets, tabs, or spacing) */	
 {"creatures":{
 	"achatina":{
 		"name_t":{
@@ -164,7 +164,7 @@
 			"es":"Carbonemis",
 			"ja":"カルボネミス",
 			"ru":"Карбонемис",
-			"zh":"淡水碳龟",
+			"zh":"淡水碳龟"
 		},
 	},
 	"carnotaurus":{
@@ -252,6 +252,9 @@
 			"zh":"抵御者"
 		},
 	},
+	"deserttitan":{
+		"name_t":{}
+	},
 	"dilophosaur":{
 		"name_t":{
 			"da":"Dilophosaurus",
@@ -293,6 +296,7 @@
 	},
 	"diplodocus":{
 		"name_t":{
+
 			"it":"Diplodoco",
 			"ja":"ディプロドクス",
 			"ru":"Диплодок",
@@ -379,13 +383,18 @@
 			"zh":"电鳗"
 		},
 	},
+	"enforcer":{
+		"name_t":{
+
+		}
+	},
 	"equus":{
 		"name_t":{
 			"de":"Pferd",
 			"es":"Caballo",
 			"ja":"エクウス",
 			"ru":"Эквус",
-			"zh":"庞马",
+			"zh":"庞马"
 		},
 	},
 	"eurypterid":{
@@ -409,6 +418,12 @@
 			"zh":"光羽鸟"
 		},
 	},
+	"foresttitan":{
+		"name_t":{},
+	},
+	"gacha":{
+		"name_t":{},
+	},
 	"gallimimus":{
 		"name_t":{
 			"es":"Gallimimo",
@@ -417,6 +432,9 @@
 			"ru":"Галлимим",
 			"zh":"似鸡龙"
 		},
+	},
+	"gasbags":{
+		"name_t":{},
 	},
 	"giantbee":{
 		"name_t":{
@@ -501,6 +519,9 @@
 			"ru":"Гиенодон",
 			"zh":"鬣齿兽"
 		},
+	},
+	"icetitan":{
+		"name_t":{},
 	},
 	"ichthyornis":{
 		"name_t":{
@@ -628,7 +649,7 @@
 			"it":"Limantria",
 			"ja":"マイマイガ",
 			"ru":"Шелкопряд",
-			"zh":"荒漠毒蛾",
+			"zh":"荒漠毒蛾"
 		},
 	},
 	"lystrosaurus":{
@@ -653,6 +674,9 @@
 			"zh":"猛犸象"
 		},
 	},
+	"managarmr":{
+		"name_t":{},
+	},
 	"manta":{
 		"name_t":{
 			"es":"Manta",
@@ -676,7 +700,7 @@
 			"it":"Mantide",
 			"ja":"カマキリ",
 			"ru":"Богомол",
-			"zh":"锥头螳螂",
+			"zh":"锥头螳螂"
 		},
 	},
 	"megalania":{
@@ -713,6 +737,9 @@
 			"zh":"巨齿龙"
 		},
 	},
+	"megamek":{
+		"name_t":{},
+	},
 	"meganeura":{
 		"name_t":{
 			"zh":"巨脉蜻蜓"
@@ -734,6 +761,9 @@
 			"ru":"Мегатерий",
 			"zh":"大地懒"
 		},
+	},
+	"mek":{
+		"name_t":{}
 	},
 	"mesopithecus":{
 		"name_t":{
@@ -775,6 +805,7 @@
 	},
 	"moschops":{
 		"name_t":{
+
 			"it":"Moscope",
 			"ja":"モスコプス",
 			"ru":"Мосхопс",
@@ -870,7 +901,7 @@
 			"ja":"パラケラテリウム",
 			"ko":"인드리코티어",
 			"ru":"Парацератерий",
-			"zh":"副巨犀",
+			"zh":"副巨犀"
 		},
 	},
 	"parasaur":{
@@ -911,6 +942,7 @@
 	},
 	"phiomia":{
 		"name_t":{
+
 			"it":"Fiomia",
 			"ja":"フィオミア",
 			"ru":"Фиомия",
@@ -1046,8 +1078,7 @@
 			"zh":"翻滚鼹鼠",
 			"ja":"ロールラット",
 			"fr":"Rat Des Profondeurs",
-			"it":"Ratto Arrotolatore"
-		},
+			"it":"Ratto Arrotolatore"},
 	},
 	"sabertooth":{
 		"name_t":{
@@ -1082,6 +1113,9 @@
 			"zh":"帝鳄"
 		},
 	},
+	"scout":{
+		"name_t":{}
+	},
 	"seeker":{
 		"name_t":{
 			"es":"Buscador",
@@ -1102,6 +1136,9 @@
 			"ru":"Светорог",
 			"zh":"耀角鹿"
 		},
+	},
+	"snowowl":{
+		"name_t":{},
 	},
 	"spinosaur":{
 		"name_t":{
@@ -1204,6 +1241,7 @@
 	},
 	"triceratops":{
 		"name_t":{
+
 			"it":"Triceratopo",
 			"ja":"トリケラトプス",
 			"ru":"Трицератопс",
@@ -1230,11 +1268,15 @@
 	},
 	"tusoteuthis":{
 		"name_t":{
+
 			"it":"Tusoteutide",
 			"ja":"トゥソテウティス",
 			"ru":"Тусотеутис",
 			"zh":"托斯特巨鱿"
 		},
+	},
+	"velonasaur":{
+		"name_t":{},
 	},
 	"vulture":{
 		"name_t":{
