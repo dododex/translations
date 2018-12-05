@@ -6,7 +6,7 @@
 				"cs":"Vše",
 				"da":"Alle",
 				"es":"Todos",
-				"fr":"Tout voir",
+				"fr":"Tous",
 				"de":"Alle",
 				"it":"Tutti",
 				"ja":"全て",
@@ -26,7 +26,8 @@
 				"de":"Neu",
 				"it":"Nuovo",
 				"es":"Nuevo",
-				"ru":"Новый"
+				"ru":"Новый",
+				"fr":"Nouveau"
 			}
 		},
 		"2":{
@@ -62,6 +63,7 @@
 			"nt":{
 				"de":"Terrestrisch",
 				"it":"Terrestre",
+				"fr":"Terrestre",
 				"es":"Terrestre",
 				"ru":"Сухопутный"
 			},
@@ -72,6 +74,7 @@
 			"nt":{
 				"de":"Fliegend",
 				"it":"Aereo",
+				"fr":"Aérien",
 				"es":"Aéreo",
 				"ru":"Воздушный"
 			},
@@ -82,6 +85,7 @@
 			"nt":{
 				"de":"Aquatisch",
 				"it":"Acquatico",
+				"fr":"Aquatique",
 				"es":"Acuático",
 				"ru":"Водный"
 			},
@@ -92,6 +96,7 @@
 			"nt":{
 				"de":"Reitbar",
 				"it":"Cavalcabile",
+				"fr":"Chevauchable",
 				"es":"Manejable",
 				"ru":"Ездовой"
 			},
@@ -102,6 +107,7 @@
 			"nt":{
 				"de":"Nutzsattel",
 				"it":"Sella utilità",
+				"fr":"Selle utilisable",
 				"es":"Montura utilitaria",
 				"ru":"Обычное седло"
 			},
@@ -112,6 +118,7 @@
 			"nt":{
 				"de":"Plattformsattel",
 				"it":"Sella piattaforma",
+				"fr":"Selle avec plateforme",
 				"es":"Montura plataforma",
 				"ru":"Седло-платформа"
 			},
@@ -122,6 +129,7 @@
 			"nt":{
 				"de":"Multi-Passagier",
 				"it":"Multi passeggero",
+				"fr":"Multi passager",
 				"es":"Multi pasajero",
 				"ru":"Многоместный"
 			},
@@ -132,6 +140,7 @@
 			"nt":{
 				"de":"Tek Sattel",
 				"it":"Sella Tek",
+				"fr":"Selle Tek",
 				"es":"Montura Tek",
 				"ru":"Тек-седло"
 			},
@@ -142,6 +151,7 @@
 			"nt":{
 				"de":"Schulter-Begleiter",
 				"it":"Supporto spalla",
+				"fr":"Monte sur l'épaule",
 				"es":"Monta a hombros",
 				"ru":"Плечевой упор"
       },
@@ -152,6 +162,7 @@
 			"nt":{
 				"de":"Zähmbar",
 				"it":"Addomesticabile",
+				"fr":"Apprivoisable",
 				"es":"Domesticable",
 				"ru":"Приручаемый"
 			},
@@ -162,6 +173,7 @@
 			"nt":{
 				"de":"Unzähmbar",
 				"it":"Non domabile",
+				"fr":"Non apprivoisable",
 				"es":"No domesticable",
 				"ru":"Не приручаемый"
 			},
@@ -172,6 +184,7 @@
 			"nt":{
 				"de":"Betäubungs-Zähmen",
 				"it":"Domazione con incoscio",
+				"fr":"Apprivoisement par assommement",
 				"es":"Doma inconsciente",
 				"ru":"Приручение оглушением"
 			},
@@ -182,6 +195,7 @@
 			"nt":{
 				"de":"Passives Zähmen",
 				"it":"Domazione passiva",
+				"fr":"Apprivoisement passif",
 				"es":"Doma pasiva",
 				"ru":"Пассивное приручение"
 			},
@@ -192,6 +206,7 @@
 			"nt":{
 				"de":"Schnelles & Einfaches Zähmen",
 				"it":"Domazione facile e veloce",
+				"fr":"Apprivoisement facile et rapide",
 				"es":"Doma rápida y fácil",
 				"ru":"Быстрое и лёгкое приручение"
 			},
@@ -242,6 +257,7 @@
 			"nt":{
 				"de":"Kampfkreaturen",
 				"it":"Creature da combattimento",
+				"fr":"Créatures de combat",
 				"es":"Criaturas de combate",
 				"ru":"Боевые существа"
 			},
@@ -252,6 +268,7 @@
 			"nt":{
 				"de":"Sammler",
 				"it":"Raccoglitori",
+				"fr":"Cueilleurs",
 				"es":"Recolectores",
 				"ru":"Собиратели"
 			},
@@ -262,6 +279,7 @@
 			"nt":{
 				"de":"Packesel",
 				"it":"Trasportatori",
+				"fr":"Transporteur",
 				"es":"Mulas de carga",
 				"ru":"Транспортировщики"
 			},
@@ -272,6 +290,7 @@
 			"nt":{
 				"de":"Schnelle Kreaturen",
 				"it":"Creature veloci",
+				"fr":"Créature rapide",
 				"es":"Criaturas rápidas",
 				"ru":"Быстрые существа"
 			},
@@ -282,6 +301,7 @@
 			"nt":{
 				"de":"Züchtbar",
 				"it":"Allevabile",
+				"fr":"Reproductable",
 				"es":"Reproducible",
 				"ru":"Разводимые существа"
 			},
@@ -292,6 +312,7 @@
 			"nt":{
 				"de":"Spielbeginn",
 				"it":"Inizio partita",
+				"fr":"Début de partie",
 				"es":"Inicio de partida",
 				"ru":"Ранняя стадия игры"
 			},
@@ -302,6 +323,7 @@
 			"nt":{
 				"de":"Spielmitte",
 				"it":"Metà partita",
+				"fr":"Milieu de partie",
 				"es":"Mitad de partida",
 				"ru":"Средняя стадия игры"
 			},
@@ -312,6 +334,7 @@
 			"nt":{
 				"de":"Spielende",
 				"it":"Fine partita",
+				"fr":"Fin de partie",
 				"es":"Final de partida",
 				"ru":"Конечная стадия игры"
 			},
@@ -339,6 +362,7 @@
 			"nt":{
 				"de":"Karte",
 				"it":"Mappa",
+				"fr":"Carte",
 				"es":"Mapa",
 				"ru":"Карта"
 			}
@@ -348,6 +372,7 @@
 			"nt":{
 				"de":"Inklusive Erweiterungen",
 				"it":"Pacco d'espansione esclusivo",
+				"fr":"Contenu additionnel exclusif",
 				"es":"Paquete de expansión exclusivo",
 				"ru":"Эксклюзивный пакет расширения"
 			}
@@ -394,6 +419,7 @@
 			"nt":{
 				"de":"Ernährung",
 				"it":"Dieta",
+				"fr":"Régime alimentaire",
 				"es":"Dieta",
 				"ru":"Рацион"
 			}
