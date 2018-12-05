@@ -61,8 +61,8 @@
 			"n":"Terrestrial",
 			"nt":{
 				"de":"Terrestrisch",
-				"it":"Terrestre"
-				"es":"Terrestre"
+				"it":"Terrestre",
+				"es":"Terrestre",
 				"ru":"Сухопутный"
 			},
 			"p":3
@@ -141,8 +141,8 @@
 			"n":"Shoulder Mounts",
 			"nt":{
 				"de":"Schulter-Begleiter",
-				"it":"Supporto spalla"
-				"es":"Monta a hombros"
+				"it":"Supporto spalla",
+				"es":"Monta a hombros",
 				"ru":"Плечевой упор"
       },
 			"p":4
@@ -291,8 +291,8 @@
 			"n":"Early Game",
 			"nt":{
 				"de":"Spielbeginn",
-				"it":"Inizio partita"
-				"es":"Inicio de partida"
+				"it":"Inizio partita",
+				"es":"Inicio de partida",
 				"ru":"Ранняя стадия игры"
 			},
 			"p":8
@@ -393,8 +393,8 @@
 			"n":"Diet",
 			"nt":{
 				"de":"Ernährung",
-				"it":"Dieta"
-				"es":"Dieta"
+				"it":"Dieta",
+				"es":"Dieta",
 				"ru":"Рацион"
 			}
 		},
