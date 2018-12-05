@@ -246,6 +246,7 @@
 		"name_t":{
 			"da":"Forsvars Enhed",
 			"de":"Verteidigungseinheit",
+			"fr":"Unité de defense",
 			"es":"Unidad de defensa",
 			"ja":"ディフェンスユニット",
 			"ru":"Защитный Дрон",
@@ -385,7 +386,9 @@
 		},
 	},
 	"enforcer":{
-		"name_t":{"it":"Esecutore"
+		"name_t":{
+			"it":"Esecutore",
+			"fr":"Exécuteur"
 
 		}
 	},
@@ -436,7 +439,9 @@
 		},
 	},
 	"gasbags":{
-		"name_t":{"it":"Gasinsetto"
+		"name_t":{
+			"it":"Gasinsetto",
+			"fr":"Sacagaz"
 		},
 	},
 	"giantbee":{
@@ -1118,7 +1123,9 @@
 		},
 	},
 	"scout":{
-		"name_t":{}
+		"name_t":{
+			"fr":"Eclaireur"
+		},
 	},
 	"seeker":{
 		"name_t":{
@@ -1142,7 +1149,9 @@
 		},
 	},
 	"snowowl":{
-		"name_t":{"it":"Gufo delle nevi"
+		"name_t":{
+			"it":"Gufo delle nevi",
+			"fr":"Harfang des neiges"
 		},
 	},
 	"spinosaur":{
@@ -1281,7 +1290,9 @@
 		},
 	},
 	"velonasaur":{
-		"name_t":{"it":"Velonasauro"
+		"name_t":{
+			"it":"Velonasauro",
+			"fr":"Vélonasaure"
 		},
 	},
 	"vulture":{
