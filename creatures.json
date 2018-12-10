@@ -276,7 +276,7 @@
 			"it":"Dimetrodonte",
 			"ja":"ディメトロドン",
 			"ru":"Диметродон",
-			"zh":"异齿兽"
+			"zh":"异齿龙"
 		},
 	},
 	"dimorphodon":{
@@ -419,13 +419,13 @@
 			"it":"Piumalucente",
 			"ja":"フェザーライト",
 			"ru":"Яснокрыл",
-			"zh":"光羽鸟"
+			"zh":"轻羽鸟"
 		},
 	},
 	"foresttitan":{
 		"name_t":{
 			"it":"Titano della foresta",
-			"zh":""
+			"zh":"森林泰坦"
 		},
 	},
 	"gacha":{
@@ -500,7 +500,7 @@
 			"it":"Lucciocoda",
 			"ja":"グロウテール",
 			"ru":"Лучехвост",
-			"zh":"耀尾蜥"
+			"zh":"耀尾兽"
 		},
 	},
 	"griffin":{
@@ -613,7 +613,7 @@
 			"it":"Kentrosauro",
 			"ja":"ケントロサウルス",
 			"ru":"Кентрозавр",
-			"zh":"肯特龙"
+			"zh":"肯氏龙"
 		},
 	},
 	"lamprey":{
@@ -780,7 +780,9 @@
 		},
 	},
 	"mek":{
-		"name_t":{}
+		"name_t":{
+			"zh":"机甲"
+		},
 	},
 	"mesopithecus":{
 		"name_t":{
