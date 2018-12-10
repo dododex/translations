@@ -64,6 +64,7 @@
 				"it":"Terrestre",
 				"es":"Terrestre",
 				"ru":"Сухопутный"
+				"zh":"陆生"
 			},
 			"p":3
 		},
@@ -74,6 +75,7 @@
 				"it":"Aereo",
 				"es":"Aéreo",
 				"ru":"Воздушный"
+				"zh":"飞行"
 			},
 			"p":3
 		},
@@ -84,6 +86,7 @@
 				"it":"Acquatico",
 				"es":"Acuático",
 				"ru":"Водный"
+				"zh":"水生"
 			},
 			"p":3
 		},
@@ -94,6 +97,7 @@
 				"it":"Cavalcabile",
 				"es":"Manejable",
 				"ru":"Ездовой"
+				"zh":"可骑乘"
 			},
 			"p":4
 		},
@@ -104,6 +108,7 @@
 				"it":"Sella utilità",
 				"es":"Montura utilitaria",
 				"ru":"Обычное седло"
+				"zh":"工具鞍"
 			},
 			"p":4
 		},
@@ -114,6 +119,7 @@
 				"it":"Sella piattaforma",
 				"es":"Montura plataforma",
 				"ru":"Седло-платформа"
+				"zh":"平台鞍"
 			},
 			"p":4
 		},
@@ -124,6 +130,7 @@
 				"it":"Multi passeggero",
 				"es":"Multi pasajero",
 				"ru":"Многоместный"
+				"zh":"多乘员"
 			},
 			"p":4
 		},
@@ -134,6 +141,7 @@
 				"it":"Sella Tek",
 				"es":"Montura Tek",
 				"ru":"Тек-седло"
+				"zh":"泰克鞍"
 			},
 			"p":4
 		},
@@ -144,6 +152,7 @@
 				"it":"Supporto spalla",
 				"es":"Monta a hombros",
 				"ru":"Плечевой упор"
+				"zh":"可拾起"
       },
 			"p":4
 		},
@@ -154,6 +163,7 @@
 				"it":"Addomesticabile",
 				"es":"Domesticable",
 				"ru":"Приручаемый"
+				"zh":"可驯服"
 			},
 			"p":5
 		},
@@ -164,6 +174,7 @@
 				"it":"Non domabile",
 				"es":"No domesticable",
 				"ru":"Не приручаемый"
+				"zh":"不可驯服"
 			},
 			"p":5
 		},
@@ -174,6 +185,7 @@
 				"it":"Domazione con incoscio",
 				"es":"Doma inconsciente",
 				"ru":"Приручение оглушением"
+				"zh":"击晕驯服"
 			},
 			"p":5
 		},
@@ -184,6 +196,7 @@
 				"it":"Domazione passiva",
 				"es":"Doma pasiva",
 				"ru":"Пассивное приручение"
+				"zh":"和平驯服"
 			},
 			"p":5
 		},
@@ -204,6 +217,7 @@
 				"it":"Carnivori",
 				"es":"Carnívoros",
 				"ru":"Плотоядные"
+				"zh":"肉食性"
 			},
 			"p":6
 		},
@@ -214,6 +228,7 @@
 				"it":"Erbivori",
 				"es":"Herbívoros",
 				"ru":"Травоядные"
+				"zh":"草食性"
 			},
 			"p":6
 		},
@@ -224,6 +239,7 @@
 				"it":"Onnivori",
 				"es":"Omnívoros",
 				"ru":"Всеядные"
+				"zh":"杂食性"
 			},
 			"p":6
 		},
@@ -234,6 +250,7 @@
 				"it":"Piscivori",
 				"es":"Piscívoros",
 				"ru":"Ихтиофаги"
+				"zh":"食鱼性"
 			},
 			"p":6
 		},
@@ -244,6 +261,7 @@
 				"it":"Creature da combattimento",
 				"es":"Criaturas de combate",
 				"ru":"Боевые существа"
+				"zh":"战斗"
 			},
 			"p":7
 		},
@@ -254,6 +272,7 @@
 				"it":"Raccoglitori",
 				"es":"Recolectores",
 				"ru":"Собиратели"
+				"zh":"采集"
 			},
 			"p":7
 		},
@@ -264,6 +283,7 @@
 				"it":"Trasportatori",
 				"es":"Mulas de carga",
 				"ru":"Транспортировщики"
+				"zh":"高负重"
 			},
 			"p":7
 		},
@@ -274,6 +294,7 @@
 				"it":"Creature veloci",
 				"es":"Criaturas rápidas",
 				"ru":"Быстрые существа"
+				"zh":"敏捷"
 			},
 			"p":7
 		},
@@ -284,6 +305,7 @@
 				"it":"Allevabile",
 				"es":"Reproducible",
 				"ru":"Разводимые существа"
+				"zh":"可繁殖"
 			},
 			"p":8
 		},
@@ -294,6 +316,7 @@
 				"it":"Inizio partita",
 				"es":"Inicio de partida",
 				"ru":"Ранняя стадия игры"
+				"zh":"早期"
 			},
 			"p":8
 		},
@@ -304,6 +327,7 @@
 				"it":"Metà partita",
 				"es":"Mitad de partida",
 				"ru":"Средняя стадия игры"
+				"zh":"中期"
 			},
 			"p":8
 		},
@@ -314,6 +338,7 @@
 				"it":"Fine partita",
 				"es":"Final de partida",
 				"ru":"Конечная стадия игры"
+				"zh":"后期"
 			},
 			"p":8
 		},
@@ -324,6 +349,7 @@
 				"it":"Boss",
 				"es":"Jefes",
 				"ru":"Боссы"
+				"zh":"Boss"
 			},
 			"p":8
 		},
@@ -341,6 +367,7 @@
 				"it":"Mappa",
 				"es":"Mapa",
 				"ru":"Карта"
+				"zh":"地图"
 			}
 		},
 		"2":{
@@ -350,6 +377,7 @@
 				"it":"Pacco d'espansione esclusivo",
 				"es":"Paquete de expansión exclusivo",
 				"ru":"Эксклюзивный пакет расширения"
+				"zh":"扩展包限定"
 			}
 		},
 		"3":{
@@ -358,6 +386,7 @@
 				"de":"Lebensraum",
 				"es":"Hábitat",
 				"ru":"Среда обитания"
+				"zh":"居住地"
 			}
 		},
 		"4":{
@@ -396,6 +425,7 @@
 				"it":"Dieta",
 				"es":"Dieta",
 				"ru":"Рацион"
+				"zh":"饮食"
 			}
 		},
 		"7":{
