@@ -26,35 +26,57 @@
 				"de":"Neu",
 				"it":"Nuovo",
 				"es":"Nuevo",
-				"ru":"Новый"
+				"ru":"Новый",
+				"zh":"新的"
 			}
 		},
 		"2":{
 			"n":"The Island",
+			"nt":{
+				"zh":"The Island(孤岛)"
+			}
 			"p":1
 		},
 		"3":{
 			"n":"The Center",
+			"nt":{
+				"zh":"The Center(中心岛)"
+			}
 			"p":1
 		},
 		"4":{
 			"n":"Scorched Earth",
+			"nt":{
+				"zh":"Scorched Earth(焦土)"
+			}
 			"p":1
 		},
 		"5":{
 			"n":"Ragnarok",
+			"nt":{
+				"zh":"Ragnarok(仙境)"
+			}
 			"p":1
 		},
 		"6":{
 			"n":"Aberration",
+			"nt":{
+				"zh":"Aberration(畸变)"
+			}
 			"p":1
 		},
 		"7":{
 			"n":"Scorched Earth",
+			"nt":{
+				"zh":"Scorched Earth(焦土)"
+			}
 			"p":2
 		},
 		"8":{
 			"n":"Aberration",
+			"nt":{
+				"zh":"Aberration(畸变)"
+			}
 			"p":2
 		},
 		"9":{
@@ -63,8 +85,8 @@
 				"de":"Terrestrisch",
 				"it":"Terrestre",
 				"es":"Terrestre",
-				"ru":"Сухопутный"
-				"zh":"陆生"
+				"ru":"Сухопутный",
+				"zh":"陆地"
 			},
 			"p":3
 		},
@@ -74,8 +96,8 @@
 				"de":"Fliegend",
 				"it":"Aereo",
 				"es":"Aéreo",
-				"ru":"Воздушный"
-				"zh":"飞行"
+				"ru":"Воздушный",
+				"zh":"空中"
 			},
 			"p":3
 		},
@@ -85,8 +107,8 @@
 				"de":"Aquatisch",
 				"it":"Acquatico",
 				"es":"Acuático",
-				"ru":"Водный"
-				"zh":"水生"
+				"ru":"Водный",
+				"zh":"水中"
 			},
 			"p":3
 		},
@@ -96,7 +118,7 @@
 				"de":"Reitbar",
 				"it":"Cavalcabile",
 				"es":"Manejable",
-				"ru":"Ездовой"
+				"ru":"Ездовой",
 				"zh":"可骑乘"
 			},
 			"p":4
@@ -107,7 +129,7 @@
 				"de":"Nutzsattel",
 				"it":"Sella utilità",
 				"es":"Montura utilitaria",
-				"ru":"Обычное седло"
+				"ru":"Обычное седло",
 				"zh":"工具鞍"
 			},
 			"p":4
@@ -118,7 +140,7 @@
 				"de":"Plattformsattel",
 				"it":"Sella piattaforma",
 				"es":"Montura plataforma",
-				"ru":"Седло-платформа"
+				"ru":"Седло-платформа",
 				"zh":"平台鞍"
 			},
 			"p":4
@@ -129,8 +151,8 @@
 				"de":"Multi-Passagier",
 				"it":"Multi passeggero",
 				"es":"Multi pasajero",
-				"ru":"Многоместный"
-				"zh":"多乘员"
+				"ru":"Многоместный",
+				"zh":"多座位"
 			},
 			"p":4
 		},
@@ -140,7 +162,7 @@
 				"de":"Tek Sattel",
 				"it":"Sella Tek",
 				"es":"Montura Tek",
-				"ru":"Тек-седло"
+				"ru":"Тек-седло",
 				"zh":"泰克鞍"
 			},
 			"p":4
@@ -151,7 +173,7 @@
 				"de":"Schulter-Begleiter",
 				"it":"Supporto spalla",
 				"es":"Monta a hombros",
-				"ru":"Плечевой упор"
+				"ru":"Плечевой упор",
 				"zh":"可拾起"
       },
 			"p":4
@@ -162,7 +184,7 @@
 				"de":"Zähmbar",
 				"it":"Addomesticabile",
 				"es":"Domesticable",
-				"ru":"Приручаемый"
+				"ru":"Приручаемый",
 				"zh":"可驯服"
 			},
 			"p":5
@@ -173,7 +195,7 @@
 				"de":"Unzähmbar",
 				"it":"Non domabile",
 				"es":"No domesticable",
-				"ru":"Не приручаемый"
+				"ru":"Не приручаемый",
 				"zh":"不可驯服"
 			},
 			"p":5
@@ -184,8 +206,8 @@
 				"de":"Betäubungs-Zähmen",
 				"it":"Domazione con incoscio",
 				"es":"Doma inconsciente",
-				"ru":"Приручение оглушением"
-				"zh":"击晕驯服"
+				"ru":"Приручение оглушением",
+				"zh":"麻醉驯服"
 			},
 			"p":5
 		},
@@ -195,7 +217,7 @@
 				"de":"Passives Zähmen",
 				"it":"Domazione passiva",
 				"es":"Doma pasiva",
-				"ru":"Пассивное приручение"
+				"ru":"Пассивное приручение",
 				"zh":"和平驯服"
 			},
 			"p":5
@@ -206,7 +228,8 @@
 				"de":"Schnelles & Einfaches Zähmen",
 				"it":"Domazione facile e veloce",
 				"es":"Doma rápida y fácil",
-				"ru":"Быстрое и лёгкое приручение"
+				"ru":"Быстрое и лёгкое приручение",
+				"zh":"容易驯服"
 			},
 			"p":5
 		},
@@ -216,7 +239,7 @@
 				"de":"Fleischfresser",
 				"it":"Carnivori",
 				"es":"Carnívoros",
-				"ru":"Плотоядные"
+				"ru":"Плотоядные",
 				"zh":"肉食性"
 			},
 			"p":6
@@ -227,7 +250,7 @@
 				"de":"Pflanzenfresser",
 				"it":"Erbivori",
 				"es":"Herbívoros",
-				"ru":"Травоядные"
+				"ru":"Травоядные",
 				"zh":"草食性"
 			},
 			"p":6
@@ -238,7 +261,7 @@
 				"de":"Allesfresser",
 				"it":"Onnivori",
 				"es":"Omnívoros",
-				"ru":"Всеядные"
+				"ru":"Всеядные",
 				"zh":"杂食性"
 			},
 			"p":6
@@ -249,7 +272,7 @@
 				"de":"Fischfresser",
 				"it":"Piscivori",
 				"es":"Piscívoros",
-				"ru":"Ихтиофаги"
+				"ru":"Ихтиофаги",
 				"zh":"食鱼性"
 			},
 			"p":6
@@ -260,7 +283,7 @@
 				"de":"Kampfkreaturen",
 				"it":"Creature da combattimento",
 				"es":"Criaturas de combate",
-				"ru":"Боевые существа"
+				"ru":"Боевые существа",
 				"zh":"战斗"
 			},
 			"p":7
@@ -271,8 +294,8 @@
 				"de":"Sammler",
 				"it":"Raccoglitori",
 				"es":"Recolectores",
-				"ru":"Собиратели"
-				"zh":"采集"
+				"ru":"Собиратели",
+				"zh":"资源采集"
 			},
 			"p":7
 		},
@@ -282,7 +305,7 @@
 				"de":"Packesel",
 				"it":"Trasportatori",
 				"es":"Mulas de carga",
-				"ru":"Транспортировщики"
+				"ru":"Транспортировщики",
 				"zh":"高负重"
 			},
 			"p":7
@@ -293,8 +316,8 @@
 				"de":"Schnelle Kreaturen",
 				"it":"Creature veloci",
 				"es":"Criaturas rápidas",
-				"ru":"Быстрые существа"
-				"zh":"敏捷"
+				"ru":"Быстрые существа",
+				"zh":"高机动性"
 			},
 			"p":7
 		},
@@ -304,7 +327,7 @@
 				"de":"Züchtbar",
 				"it":"Allevabile",
 				"es":"Reproducible",
-				"ru":"Разводимые существа"
+				"ru":"Разводимые существа",
 				"zh":"可繁殖"
 			},
 			"p":8
@@ -315,7 +338,7 @@
 				"de":"Spielbeginn",
 				"it":"Inizio partita",
 				"es":"Inicio de partida",
-				"ru":"Ранняя стадия игры"
+				"ru":"Ранняя стадия игры",
 				"zh":"早期"
 			},
 			"p":8
@@ -326,7 +349,7 @@
 				"de":"Spielmitte",
 				"it":"Metà partita",
 				"es":"Mitad de partida",
-				"ru":"Средняя стадия игры"
+				"ru":"Средняя стадия игры",
 				"zh":"中期"
 			},
 			"p":8
@@ -337,7 +360,7 @@
 				"de":"Spielende",
 				"it":"Fine partita",
 				"es":"Final de partida",
-				"ru":"Конечная стадия игры"
+				"ru":"Конечная стадия игры",
 				"zh":"后期"
 			},
 			"p":8
@@ -348,8 +371,8 @@
 				"de":"Bosse",
 				"it":"Boss",
 				"es":"Jefes",
-				"ru":"Боссы"
-				"zh":"Boss"
+				"ru":"Боссы",
+				"zh":"BOSS"
 			},
 			"p":8
 		},
@@ -366,7 +389,7 @@
 				"de":"Karte",
 				"it":"Mappa",
 				"es":"Mapa",
-				"ru":"Карта"
+				"ru":"Карта",
 				"zh":"地图"
 			}
 		},
@@ -376,8 +399,8 @@
 				"de":"Inklusive Erweiterungen",
 				"it":"Pacco d'espansione esclusivo",
 				"es":"Paquete de expansión exclusivo",
-				"ru":"Эксклюзивный пакет расширения"
-				"zh":"扩展包限定"
+				"ru":"Эксклюзивный пакет расширения",
+				"zh":"扩展资料片限定"
 			}
 		},
 		"3":{
@@ -385,8 +408,8 @@
 			"nt":{
 				"de":"Lebensraum",
 				"es":"Hábitat",
-				"ru":"Среда обитания"
-				"zh":"居住地"
+				"ru":"Среда обитания",
+				"zh":"栖息地"
 			}
 		},
 		"4":{
@@ -395,7 +418,8 @@
 				"de":"Reitbarkeit",
 				"it":"Guidabilità",
 				"es":"Manejo",
-				"ru":"Управляемость"
+				"ru":"Управляемость",
+				"zh":"骑乘性"
 			}
 		},
 		"5":{
@@ -424,7 +448,7 @@
 				"de":"Ernährung",
 				"it":"Dieta",
 				"es":"Dieta",
-				"ru":"Рацион"
+				"ru":"Рацион",
 				"zh":"饮食"
 			}
 		},
@@ -441,7 +465,7 @@
 				"ko":"활용",
 				"pl":"Umiejętność Ostateczna",
 				"br":"Utilidade",
-				"zh":"实用功能",
+				"zh":"实用性",
 				"ru":"Полезность",
 				"ro":"Utilitate",
 				"th":"สิ่งที่มีประโยชน์",
