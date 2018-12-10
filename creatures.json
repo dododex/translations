@@ -253,7 +253,9 @@
 		},
 	},
 	"deserttitan":{
-		"name_t":{"it":"Titano del deserto"
+		"name_t":{
+			"it":"Titano del deserto",
+			"zh":"沙漠泰坦"
 		}
 	},
 	"dilophosaur":{
@@ -385,8 +387,9 @@
 		},
 	},
 	"enforcer":{
-		"name_t":{"it":"Esecutore"
-
+		"name_t":{
+			"it":"Esecutore",
+			"zh":"执行者"
 		}
 	},
 	"equus":{
@@ -421,7 +424,8 @@
 	},
 	"foresttitan":{
 		"name_t":{
-			"it":"Titano della foresta"
+			"it":"Titano della foresta",
+			"zh":""
 		},
 	},
 	"gacha":{
@@ -439,7 +443,9 @@
 		},
 	},
 	"gasbags":{
-		"name_t":{"it":"Gasinsetto"
+		"name_t":{
+			"it":"Gasinsetto",
+			"zh":"气囊虫"
 		},
 	},
 	"giantbee":{
@@ -527,7 +533,9 @@
 		},
 	},
 	"icetitan":{
-		"name_t":{"it":"Titano del ghiaccio"
+		"name_t":{
+			"it":"Titano del ghiaccio",
+			"zh":"冰原泰坦"
 		},
 	},
 	"ichthyornis":{
@@ -1125,6 +1133,7 @@
 	},
 	"scout":{
 		"name_t":{
+			"zh":"侦察机"
 		},
 	},
 	"seeker":{
@@ -1150,7 +1159,7 @@
 	},
 	"snowowl":{
 		"name_t":{
-			"it":"Gufo delle nevi"
+			"it":"Gufo delle nevi",
 			"zh":"雪鸮"
 		},
 	},
@@ -1290,7 +1299,7 @@
 	},
 	"velonasaur":{
 		"name_t":{
-			"it":"Velonasauro"
+			"it":"Velonasauro",
 			"zh":"刺面龙"
 		},
 	},
