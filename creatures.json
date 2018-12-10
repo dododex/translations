@@ -420,11 +420,14 @@
 		},
 	},
 	"foresttitan":{
-		"name_t":{"it":"Titano della foresta"
+		"name_t":{
+			"it":"Titano della foresta"
 		},
 	},
 	"gacha":{
-		"name_t":{},
+		"name_t":{
+			"zh":"嘎查"
+		},
 	},
 	"gallimimus":{
 		"name_t":{
@@ -1079,10 +1082,11 @@
 			"de":"Roll Ratte",
 			"es":"Rata apisonadora",
 			"ru":"Кротокрыс",
-			"zh":"翻滚鼹鼠",
+			"zh":"翻滚鼠",
 			"ja":"ロールラット",
 			"fr":"Rat Des Profondeurs",
-			"it":"Ratto Arrotolatore"},
+			"it":"Ratto Arrotolatore"
+		},
 	},
 	"sabertooth":{
 		"name_t":{
@@ -1118,7 +1122,8 @@
 		},
 	},
 	"scout":{
-		"name_t":{}
+		"name_t":{
+		},
 	},
 	"seeker":{
 		"name_t":{
@@ -1142,7 +1147,9 @@
 		},
 	},
 	"snowowl":{
-		"name_t":{"it":"Gufo delle nevi"
+		"name_t":{
+			"it":"Gufo delle nevi"
+			"zh":"雪鸮"
 		},
 	},
 	"spinosaur":{
@@ -1273,7 +1280,6 @@
 	},
 	"tusoteuthis":{
 		"name_t":{
-
 			"it":"Tusoteutide",
 			"ja":"トゥソテウティス",
 			"ru":"Тусотеутис",
@@ -1281,7 +1287,9 @@
 		},
 	},
 	"velonasaur":{
-		"name_t":{"it":"Velonasauro"
+		"name_t":{
+			"it":"Velonasauro"
+			"zh":"刺面龙"
 		},
 	},
 	"vulture":{
