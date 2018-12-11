@@ -233,7 +233,6 @@
 	"deathworm":{
 		"name_t":{
 			"da":"Gigant Sandorm",
-			"de":"Todeswurm",
 			"es":"Gusano de la muerte",
 			"fr":"Ver Des Sables",
 			"it":"Verme Della Morte",
@@ -307,7 +306,6 @@
 	"direbear":{
 		"name_t":{
 			"da":"Direbjørn",
-			"de":"Bär",
 			"es":"Oso terrible",
 			"fr":"Ours Sinistre",
 			"it":"Metaorso",
@@ -319,7 +317,6 @@
 	"direwolf":{
 		"name_t":{
 			"da":"Direulv",
-			"de":"Wolf",
 			"es":"Lobo terrible",
 			"fr":"Loup Sinistre",
 			"it":"Metalupo",
@@ -357,7 +354,6 @@
 	"dungbeetle":{
 		"name_t":{
 			"da":"Gødningsbille",
-			"de":"Mistkäfer",
 			"es":"Escarabajo pelotero",
 			"fr":"Bousier",
 			"it":"Scarabeo Stercorario",
@@ -391,7 +387,6 @@
 	},
 	"equus":{
 		"name_t":{
-			"de":"Pferd",
 			"es":"Caballo",
 			"ja":"エクウス",
 			"ru":"Эквус",
@@ -496,7 +491,6 @@
 	},
 	"griffin":{
 		"name_t":{
-			"de":"Greif",
 			"es":"Grifo",
 			"fr":"Griffon",
 			"it":"Grifone",
@@ -668,7 +662,6 @@
 	},
 	"mammoth":{
 		"name_t":{
-			"de":"Mammut",
 			"da":"Mammut",
 			"es":"Mamut",
 			"fr":"Mammouth",
@@ -691,7 +684,6 @@
 	},
 	"manticore":{
 		"name_t":{
-			"de":"Mantikor",
 			"es":"Mantícora",
 			"it":"Manticora",
 			"ja":"マンティコア",
@@ -781,7 +773,6 @@
 	},
 	"microraptor":{
 		"name_t":{
-			"de":"Mikroraptor",
 			"da":"Mikroraptor",
 			"ja":"ミクロラプトル",
 			"ru":"Микрораптор",
@@ -850,7 +841,6 @@
 	"overseer":{
 		"name_t":{
 			"da":"Opsynsmand",
-			"de":"Aufseher",
 			"es":"Vigilante",
 			"it":"Sorvegliante",
 			"ja":"監視者",
@@ -868,7 +858,6 @@
 	},
 	"ovis":{
 		"name_t":{
-			"de":"Schaf",
 			"es":"Oveja",
 			"ja":"ヒツジ",
 			"ko":"양속",
@@ -910,6 +899,7 @@
 	},
 	"parasaur":{
 		"name_t":{
+			"de":"Parasaurus",
 			"es":"Parasaurio",
 			"fr":"Parasaure",
 			"it":"Parasauro",
@@ -935,7 +925,6 @@
 	"phoenix":{
 		"name_t":{
 			"da":"Føniks",
-			"de":"Phönix",
 			"es":"Fénix",
 			"fr":"Phenix",
 			"it":"Fenice",
@@ -964,6 +953,7 @@
 	},
 	"plesiosaur":{
 		"name_t":{
+			"de":"Plesiosaurus",
 			"es":"Plesiosaurio",
 			"fr":"Plesiosaure",
 			"it":"Plesiosauro",
@@ -1076,7 +1066,6 @@
 	"rollrat":{
 		"name_t":{
 			"da":"Rulle Rotte",
-			"de":"Roll Ratte",
 			"es":"Rata apisonadora",
 			"ru":"Кротокрыс",
 			"zh":"翻滚鼹鼠",
@@ -1087,7 +1076,6 @@
 	"sabertooth":{
 		"name_t":{
 			"da":"Sabeltands Tiger",
-			"de":"Säbelzahn Tiger",
 			"es":"Dientes de sable",
 			"fr":"Smilodon",
 			"it":"Smilodonte",
@@ -1099,7 +1087,6 @@
 	"sabertoothsalmon":{
 		"name_t":{
 			"da":"Sabeltandslaks",
-			"de":"Säbelzahn Lachs",
 			"es":"Salmón dientes de sable",
 			"fr":"Saumon",
 			"it":"Salmone Dai Denti a sciabola",
@@ -1176,7 +1163,7 @@
 	"terrorbird":{
 		"name_t":{
 			"da":"Terrorfugl",
-			"de":"Terrorvogel",
+			"de":"Terror Bird",
 			"es":"Fororrácido",
 			"fr":"Oiseau Terreur",
 			"it":"Uccello Del Terrore",
@@ -1287,7 +1274,6 @@
 	"vulture":{
 		"name_t":{
 			"da":"Grib",
-			"de":"Geier",
 			"es":"Buitre",
 			"fr":"Vautour",
 			"it":"Avvoltoio",
@@ -1299,7 +1285,7 @@
 	"woollyrhino":{
 		"name_t":{
 			"da":"Uldent Næsehorn",
-			"de":"Wollnashorn",
+			"de":"Woolly Rhino",
 			"es":"Rinoceronte lanudo",
 			"fr":"Rhinoceros Laineux",
 			"it":"Rinoceronte Lanoso",
