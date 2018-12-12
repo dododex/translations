@@ -97,7 +97,7 @@
 				"it":"Aereo",
 				"es":"Aéreo",
 				"ru":"Воздушный",
-				"zh":"空中"
+				"zh":"飞行"
 			},
 			"p":3
 		},
@@ -229,7 +229,7 @@
 				"it":"Domazione facile e veloce",
 				"es":"Doma rápida y fácil",
 				"ru":"Быстрое и лёгкое приручение",
-				"zh":"容易驯服的"
+				"zh":"快速/简易驯服"
 			},
 			"p":5
 		},
@@ -273,7 +273,7 @@
 				"it":"Piscivori",
 				"es":"Piscívoros",
 				"ru":"Ихтиофаги",
-				"zh":"食鱼性"
+				"zh":"鱼食性"
 			},
 			"p":6
 		},
@@ -284,7 +284,7 @@
 				"it":"Creature da combattimento",
 				"es":"Criaturas de combate",
 				"ru":"Боевые существа",
-				"zh":"战斗"
+				"zh":"战斗用"
 			},
 			"p":7
 		},
