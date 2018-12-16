@@ -290,7 +290,7 @@
 			"nt":{
 				"de":"Schnelle Kreaturen",
 				"it":"Creature veloci",
-				"fr":"Créature rapide",
+				"fr":"Créatures rapide",
 				"es":"Criaturas rápidas",
 				"ru":"Быстрые существа"
 			},
@@ -301,7 +301,7 @@
 			"nt":{
 				"de":"Züchtbar",
 				"it":"Allevabile",
-				"fr":"Reproductable",
+				"fr":"Reproductible",
 				"es":"Reproducible",
 				"ru":"Разводимые существа"
 			},
