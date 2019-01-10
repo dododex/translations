@@ -8,7 +8,7 @@ The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com
 
 ## 1. TRANSLATING DODODEX
 
-1. **Open [translations.js](translations.js) and click "Edit."**
+1. **Open [translations.js](translations.js) and click "Edit"**
 1. **If your language is not there, add it.**
 
    1. To add a new language, copy and paste the entire English section ("en").
@@ -31,9 +31,9 @@ The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com
    
    If a creature (or entire language) is not officially translated in-game, DO NOT translate it, Dododex will fallback to the English version. The goal is to make the creature names accessible, but expected -- don't translate JUST to translate. If "Ovis" is not translated in-game, do not translate it to "Sheep" in your language, as users would likely look for "Ovis" on Dododex. If a creature does not have a translation, simply omit it rather than creating a copy of the English translation. However, for not-Latin characters please consider transliterating if you think it would be more helpful to speakers of your language. 
    
-   IMPORTANT: Dialetcs (For example: Brazilian Portuguese / "PT-BR") are not supported. Only two-letter country codes can be used (For example: PT). If there are any discrepencies between dialets, please open an issue on Github so it can be logged.
+   **IMPORTANT**: Dialetcs (For example: Brazilian Portuguese / "PT-BR") are not supported. Only two-letter country codes can be used (For example: PT). If there are any discrepencies between dialets, please open an issue on Github so it can be logged.
    
-   All creature names and categories should be in Title Case (Example: "Attack Drone" not "attack drone").
+   All creature names and categories should be in Title Case (_Example_: "Attack Drone" not "attack drone").
 
    Please keep languages in alphabetical order, according to their language code.
 1. Add your name to [translations.js](translations.js) if you'd like to be credited!
