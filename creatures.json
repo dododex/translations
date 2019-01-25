@@ -36,7 +36,7 @@
 			"de":"Anglerfisch",
 			"es":"Rape abisal",
 			"fr":"Baudroie Abyssale",
-			"it":"Rana Pescatrice",
+			"it":"Rana pescatrice",
 			"ja":"アンコウ",
 			"ru":"Удильщик",
 			"zh":"鮟鱇鱼"
@@ -126,7 +126,7 @@
 	"beelzebufo":{
 		"name_t":{
 			"es":"Rana Diablo",
-			"it":"Rana Diavolo",
+			"it":"Rana diavolo",
 			"ja":"ベールゼブフォ",
 			"ru":"Жаба",
 			"zh":"魔鬼蛙"
@@ -154,7 +154,7 @@
 		"name_t":{
 			"de":"Brutmutter Lysrix",
 			"es":"Lysrix progenitora",
-			"it":"Reginaragno",
+			"it":"Regina ragno",
 			"ja":"ブルードマザー",
 			"ru":"Праматерь",
 			"zh":"孕母蜘蛛"
@@ -236,7 +236,7 @@
 			"da":"Gigant Sandorm",
 			"es":"Gusano de la muerte",
 			"fr":"Ver Des Sables",
-			"it":"Verme Della Morte",
+			"it":"Verme della morte",
 			"ja":"デスワーム",
 			"ru":"Червь Смерти",
 			"zh":"死亡沙虫"
@@ -254,7 +254,8 @@
 		},
 	},
 	"deserttitan":{
-		"name_t":{"it":"Titano del deserto"
+		"name_t":{
+			"it":"Titano del deserto"
 		}
 	},
 	"dilophosaur":{
@@ -310,7 +311,7 @@
 			"da":"Direbjørn",
 			"es":"Oso terrible",
 			"fr":"Ours Sinistre",
-			"it":"Metaorso",
+			"it":"Meta-orso",
 			"ja":"ショートフェイスベア",
 			"ru":"Ужасный Медведь",
 			"zh":"恐熊"
@@ -321,7 +322,7 @@
 			"da":"Direulv",
 			"es":"Lobo terrible",
 			"fr":"Loup Sinistre",
-			"it":"Metalupo",
+			"it":"Meta-lupo",
 			"ja":"ダイアウルフ",
 			"ru":"Лютоволк",
 			"zh":"恐狼"
@@ -358,7 +359,7 @@
 			"da":"Gødningsbille",
 			"es":"Escarabajo pelotero",
 			"fr":"Bousier",
-			"it":"Scarabeo Stercorario",
+			"it":"Scarabeo stercorario",
 			"ja":"フンコロガシ",
 			"ru":"Скарабей",
 			"zh":"蜣螂"
@@ -401,7 +402,7 @@
 		"name_t":{
 			"es":"Euriptérido",
 			"fr":"Eurypteride",
-			"it":"Scorpione Di Mare",
+			"it":"Euripteride",
 			"ja":"ウミサソリ",
 			"ru":"Эвриптерид",
 			"zh":"广翅鲎"
@@ -419,7 +420,8 @@
 		},
 	},
 	"foresttitan":{
-		"name_t":{"it":"Titano della foresta"
+		"name_t":{
+			"it":"Titano della foresta"
 		},
 	},
 	"gacha":{
@@ -446,7 +448,7 @@
 			"de":"Gigantische Biene",
 			"es":"Abeja gigante",
 			"fr":"Abeille Geante",
-			"it":"Ape Gigante",
+			"it":"Ape gigante",
 			"ja":"ジャイアントビー",
 			"ru":"Гигантская Пчела",
 			"zh":"巨蜂"
@@ -524,7 +526,8 @@
 		},
 	},
 	"icetitan":{
-		"name_t":{"it":"Titano del ghiaccio"
+		"name_t":{
+			"it":"Titano del ghiaccio"
 		},
 	},
 	"ichthyornis":{
@@ -740,7 +743,9 @@
 		},
 	},
 	"megamek":{
-		"name_t":{},
+		"name_t":{
+		"it":"MegaMek"
+		},
 	},
 	"meganeura":{
 		"name_t":{
@@ -1051,7 +1056,7 @@
 			"da":"Klippe Drage",
 			"es":"Dragón de roca",
 			"fr":"Dragon Rocheux",
-			"it":"Drago Di Roccia",
+			"it":"Drago di roccia",
 			"ja":"ロックドレイク",
 			"ru":"Скальный Дрейк",
 			"zh":"岩龙"
@@ -1063,7 +1068,7 @@
 			"de":"Stein-Elementar",
 			"es":"Elemental de piedra",
 			"fr":"Golem De Pierre",
-			"it":"Elementale Di Roccia",
+			"it":"Elementale di roccia",
 			"ja":"ロックエレメンタル",
 			"ru":"Горный Элементаль",
 			"zh":"岩石巨人"
@@ -1077,14 +1082,14 @@
 			"zh":"翻滚鼹鼠",
 			"ja":"ロールラット",
 			"fr":"Rat Des Profondeurs",
-			"it":"Ratto Arrotolatore"},
+			"it":"Ratto arrotolatore"},
 	},
 	"sabertooth":{
 		"name_t":{
 			"da":"Sabeltands Tiger",
 			"es":"Dientes de sable",
 			"fr":"Smilodon",
-			"it":"Tigre Dai Denti a sciabola",
+			"it":"Smilodonte",
 			"ja":"セイバートゥース",
 			"ru":"Саблезуб",
 			"zh":"刃齿虎"
@@ -1176,7 +1181,7 @@
 			"de":"Terror Bird",
 			"es":"Fororrácido",
 			"fr":"Oiseau Terreur",
-			"it":"Uccello Del Terrore",
+			"it":"Uccello del terrore",
 			"ja":"テラーバード",
 			"ru":"Ужасная Птица",
 			"zh":"骇鸟"
@@ -1197,7 +1202,7 @@
 			"da":"Tornet Drage",
 			"es":"Dragón espinoso",
 			"fr":"Lezard Epineux",
-			"it":"Drago Spinoso",
+			"it":"Drago spinoso",
 			"ja":"モロクトカゲ",
 			"ru":"Шипастый Дракон",
 			"zh":"射手魔蜥"
@@ -1206,7 +1211,7 @@
 	"thylacoleo":{
 		"name_t":{
 			"es":"León marsupial",
-			"it":"Leone Marsupiale",
+			"it":"Leone marsupiale",
 			"ja":"ティラコレオ",
 			"ru":"Сумчатый Лев",
 			"zh":"袋狮"
@@ -1300,7 +1305,7 @@
 			"de":"Woolly Rhino",
 			"es":"Rinoceronte lanudo",
 			"fr":"Rhinoceros Laineux",
-			"it":"Rinoceronte Lanoso",
+			"it":"Rinoceronte lanoso",
 			"ja":"ケブカサイ",
 			"ru":"Шерстистый Носорог",
 			"zh":"披毛犀"
