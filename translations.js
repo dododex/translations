@@ -4397,7 +4397,7 @@ it: {
 	proThanks: "Grazie per aver supportato lo sviluppo di Dododex.",
 	new: "Nuovo",
 	presets: "Predefinito",
-	breedingDesc: ""
+	breedingDesc: "Inserisci lo stato attuale del tuo cucciolo per calcolare quando raggiungerà ogni stadio di maturazione."
 },
 ja: {
 	aboutStarveIntro: "\"空腹テイム\"は、資源を失うリスクを最小限に抑えるためにサバイバー達が使う技法です。",
