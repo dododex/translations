@@ -39,7 +39,7 @@
 			"de":"Anglerfisch",
 			"es":"Rape abisal",
 			"fr":"Baudroie Abyssale",
-			"it":"Rana Pescatrice",
+			"it":"Rana pescatrice",
 			"ja":"アンコウ",
 			"ko":"앵글러피쉬",
 			"ru":"Удильщик",
@@ -138,7 +138,7 @@
 	"beelzebufo":{
 		"name_t":{
 			"es":"Rana Diablo",
-			"it":"Rana Diavolo",
+			"it":"Rana diavolo",
 			"ja":"ベールゼブフォ",
 			"ko":"벨저부포",
 			"ru":"Жаба",
@@ -169,7 +169,7 @@
 		"name_t":{
 			"de":"Brutmutter Lysrix",
 			"es":"Lysrix progenitora",
-			"it":"Reginaragno",
+			"it":"Regina ragno",
 			"ja":"ブルードマザー",
 			"ko":"브루드마더라이스릭스",
 			"ru":"Праматерь",
@@ -260,7 +260,7 @@
 			"da":"Gigant Sandorm",
 			"es":"Gusano de la muerte",
 			"fr":"Ver Des Sables",
-			"it":"Verme Della Morte",
+			"it":"Verme della morte",
 			"ja":"デスワーム",
 			"ko":"데스웜",
 			"ru":"Червь Смерти",
@@ -280,7 +280,8 @@
 		},
 	},
 	"deserttitan":{
-		"name_t":{"it":"Titano del deserto"
+		"name_t":{
+			"it":"Titano del deserto"
 		}
 	},
 	"dilophosaur":{
@@ -341,7 +342,7 @@
 			"da":"Direbjørn",
 			"es":"Oso terrible",
 			"fr":"Ours Sinistre",
-			"it":"Metaorso",
+			"it":"Meta-orso",
 			"ja":"ショートフェイスベア",
 			"ko":"다이어베어",
 			"ru":"Ужасный Медведь",
@@ -353,7 +354,7 @@
 			"da":"Direulv",
 			"es":"Lobo terrible",
 			"fr":"Loup Sinistre",
-			"it":"Metalupo",
+			"it":"Meta-lupo",
 			"ja":"ダイアウルフ",
 			"ko":"다이어울프",
 			"ru":"Лютоволк",
@@ -394,7 +395,7 @@
 			"da":"Gødningsbille",
 			"es":"Escarabajo pelotero",
 			"fr":"Bousier",
-			"it":"Scarabeo Stercorario",
+			"it":"Scarabeo stercorario",
 			"ja":"フンコロガシ",
 			"ko":"쇠똥구리",
 			"ru":"Скарабей",
@@ -441,7 +442,7 @@
 		"name_t":{
 			"es":"Euriptérido",
 			"fr":"Eurypteride",
-			"it":"Scorpione Di Mare",
+			"it":"Euripteride",
 			"ja":"ウミサソリ",
 			"ko":"바다전갈",
 			"ru":"Эвриптерид",
@@ -461,7 +462,8 @@
 		},
 	},
 	"foresttitan":{
-		"name_t":{"it":"Titano della foresta"
+		"name_t":{
+			"it":"Titano della foresta"
 		},
 	},
 	"gacha":{
@@ -491,7 +493,7 @@
 			"de":"Gigantische Biene",
 			"es":"Abeja gigante",
 			"fr":"Abeille Geante",
-			"it":"Ape Gigante",
+			"it":"Ape gigante",
 			"ja":"ジャイアントビー",
 			"ko":"거대벌",
 			"ru":"Гигантская Пчела",
@@ -576,7 +578,8 @@
 		},
 	},
 	"icetitan":{
-		"name_t":{"it":"Titano del ghiaccio"
+		"name_t":{
+			"it":"Titano del ghiaccio"
 		},
 	},
 	"ichthyornis":{
@@ -813,7 +816,9 @@
 		},
 	},
 	"megamek":{
-		"name_t":{},
+		"name_t":{
+		"it":"MegaMek"
+		},
 	},
 	"meganeura":{
 		"name_t":{
@@ -1151,7 +1156,7 @@
 			"da":"Klippe Drage",
 			"es":"Dragón de roca",
 			"fr":"Dragon Rocheux",
-			"it":"Drago Di Roccia",
+			"it":"Drago di roccia",
 			"ja":"ロックドレイク",
 			"ko":"락드레이크",
 			"ru":"Скальный Дрейк",
@@ -1164,7 +1169,7 @@
 			"de":"Stein-Elementar",
 			"es":"Elemental de piedra",
 			"fr":"Golem De Pierre",
-			"it":"Elementale Di Roccia",
+			"it":"Elementale di roccia",
 			"ja":"ロックエレメンタル",
 			"ko":"바위정령",
 			"ru":"Горный Элементаль",
@@ -1180,14 +1185,14 @@
 			"ja":"ロールラット",
 			"ko":"룰렛",
 			"fr":"Rat Des Profondeurs",
-			"it":"Ratto Arrotolatore"},
+			"it":"Ratto arrotolatore"},
 	},
 	"sabertooth":{
 		"name_t":{
 			"da":"Sabeltands Tiger",
 			"es":"Dientes de sable",
 			"fr":"Smilodon",
-			"it":"Tigre Dai Denti a sciabola",
+			"it":"Smilodonte",
 			"ja":"セイバートゥース",
 			"ko":"검치호",
 			"ru":"Саблезуб",
@@ -1287,7 +1292,7 @@
 			"de":"Terror Bird",
 			"es":"Fororrácido",
 			"fr":"Oiseau Terreur",
-			"it":"Uccello Del Terrore",
+			"it":"Uccello del terrore",
 			"ja":"テラーバード",
 			"ko":"테러버드",
 			"ru":"Ужасная Птица",
@@ -1310,7 +1315,7 @@
 			"da":"Tornet Drage",
 			"es":"Dragón espinoso",
 			"fr":"Lezard Epineux",
-			"it":"Drago Spinoso",
+			"it":"Drago spinoso",
 			"ja":"モロクトカゲ",
 			"ko":"가시드레곤",
 			"ru":"Шипастый Дракон",
@@ -1320,7 +1325,7 @@
 	"thylacoleo":{
 		"name_t":{
 			"es":"León marsupial",
-			"it":"Leone Marsupiale",
+			"it":"Leone marsupiale",
 			"ja":"ティラコレオ",
 			"ko":"틸라콜레오",
 			"ru":"Сумчатый Лев",
@@ -1420,7 +1425,7 @@
 			"de":"Woolly Rhino",
 			"es":"Rinoceronte lanudo",
 			"fr":"Rhinoceros Laineux",
-			"it":"Rinoceronte Lanoso",
+			"it":"Rinoceronte lanoso",
 			"ja":"ケブカサイ",
 			"ko":"울리라이노",
 			"ru":"Шерстистый Носорог",
