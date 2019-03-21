@@ -282,6 +282,7 @@
 	"deserttitan":{
 		"name_t":{
 			"it":"Titano del deserto",
+			"ru":"Пустынный Титан",
 			"zh":"沙漠泰坦"
 		}
 	},
@@ -426,7 +427,8 @@
 	"enforcer":{
 		"name_t":{
 			"it":"Esecutore",
-			"zh":"执行者"
+			"zh":"执行者",
+			"ru":"Инфорсер",
 			"fr":"Exécuteur"
 		}
 	},
@@ -465,13 +467,15 @@
 	"foresttitan":{
 		"name_t":{
 			"it":"Titano della foresta",
+			"ru":"Лесной Титан",
 			"zh":"森林泰坦"
 		},
 	},
 	"gacha":{
 		"name_t":{
 		  "ko":"가챠",
-			"zh":"嘎查"
+			"zh":"嘎查",
+			"ru":"Гача"
 		},
 	},
 	"gallimimus":{
@@ -489,6 +493,7 @@
 			"it":"Gasinsetto",
 			"zh":"气囊虫"
 			"ko":"가스백",
+			"ru":"Газбагс",
 			"fr":"Sacagaz"
 		},
 	},
@@ -585,6 +590,7 @@
 	"icetitan":{
 		"name_t":{
 			"it":"Titano del ghiaccio",
+			"ru":"Ледяной Титан",
 			"zh":"冰原泰坦"
 		},
 	},
@@ -633,6 +639,7 @@
 			"es":"Pulga cantimplora",
 			"it":"Insetto brocca",
 			"ko":"물병벌레",
+			"ru":"Жук-кувшинчик",
 			"zh":"壶虫"
 		},
 	},
@@ -754,7 +761,8 @@
 	},
 	"managarmr":{
 		"name_t":{
-			"zh":"玛纳加尔姆"
+			"zh":"玛纳加尔姆",
+			"ru":"Манагарм"
 		},
 	},
 	"manta":{
@@ -825,13 +833,15 @@
 	},
 	"megamek":{
 		"name_t":{
-		"it":"MegaMek"
+		"it":"MegaMek",
+			"ru":"Мега Мех"
 		},
 	},
 	"meganeura":{
 		"name_t":{
 			"ko":"메가네우라",
-			"zh":"巨脉蜻蜓"
+			"zh":"巨脉蜻蜓",
+			"ru":"Меганевра"
 		},
 	},
 	"megapithecus":{
@@ -855,7 +865,8 @@
 	},
 	"mek":{
 		"name_t":{
-			"zh":"机甲"
+			"zh":"机甲",
+			"ru":"Мех"
 		},
 	},
 	"mesopithecus":{
@@ -1217,7 +1228,7 @@
 			"fr":"Saumon",
 			"it":"Salmone Dai Denti a sciabola",
 			"ja":"セイバートゥース・サーモン",
-			"ru":"Саблезубый Лосось",
+			"ru":"Саблезубый лосось",
 			"zh":"剑齿鲑鱼"
 		},
 	},
@@ -1234,7 +1245,8 @@
 	"scout":{
 		"name_t":{
 			"zh":"侦察机"
-			"fr":"Eclaireur"
+			"fr":"Eclaireur",
+			"ru":"Разведчик"
 		},
 	},
 	"seeker":{
@@ -1265,7 +1277,8 @@
 			"it":"Gufo delle nevi",
 			"zh":"雪鸮",
 			"ko":"눈부엉이",
-			"fr":"Harfang des neiges"
+			"fr":"Harfang des neiges",
+			"ru":"Снежная сова"
 		},
 	},
 	"spinosaur":{
@@ -1361,7 +1374,7 @@
 			"es":"Hormiga titán",
 			"ja":"ティタノボア",
 			"ko":"티타노미르마",
-			"ru":"Титанобоа",
+			"ru":"Титаномуравей",
 			"zh":"泰坦巨蚁"
 		},
 	},
@@ -1418,6 +1431,7 @@
 			"it":"Velonasauro",
 			"zh":"刺面龙",
 			"ko":"투소테오티스",
+			"ru":"Велоназавр",
 			"fr":"Vélonasaure"
 		},
 	},
@@ -1441,7 +1455,7 @@
 			"it":"Rinoceronte lanoso",
 			"ja":"ケブカサイ",
 			"ko":"울리라이노",
-			"ru":"Шерстистый Носорог",
+			"ru":"Шерстистый носорог",
 			"zh":"披毛犀"
 		},
 	},
