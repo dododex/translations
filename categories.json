@@ -17,7 +17,7 @@
 				"ru":"Все",
 				"ro":"Toate",
 				"th":"ทั้งหมด",
-				"tr":"Tümü"
+				"tr":"Tümü",
 				"nl":"Alles"
 			}
 		},
@@ -28,8 +28,8 @@
 				"it":"Nuovo",
 				"es":"Nuevo",
 				"ru":"Новый",
-				"zh":"新的"
-				"fr":"Nouveau"
+				"zh":"新的",
+				"fr":"Nouveau",
 				"nl":"Nieuw"
 			}
 		},
@@ -69,7 +69,7 @@
 				"fr":"Terrestre",
 				"es":"Terrestre",
 				"ru":"Сухопутный",
-				"zh":"陆生"
+				"zh":"陆生",
 				"nl":"Aards"
 			},
 			"p":3
@@ -82,7 +82,7 @@
 				"fr":"Aérien",
 				"es":"Aéreo",
 				"ru":"Воздушный",
-				"zh":"飞行"
+				"zh":"飞行",
 				"nl":"Vliegend"
 				
 			},
@@ -96,7 +96,7 @@
 				"fr":"Aquatique",
 				"es":"Acuático",
 				"ru":"Водный",
-				"zh":"水生"
+				"zh":"水生",
 				"nl":"Aquatisch"
 			},
 			"p":3
@@ -109,7 +109,7 @@
 				"fr":"Chevauchable",
 				"es":"Manejable",
 				"ru":"Ездовой",
-				"zh":"可骑乘"
+				"zh":"可骑乘",
 				"nl":"Rijdbaar"
 			},
 			"p":4
@@ -122,7 +122,7 @@
 				"fr":"Selle utilisable",
 				"es":"Montura utilitaria",
 				"ru":"Обычное седло",
-				"zh":"工具鞍"
+				"zh":"工具鞍",
 				"nl":"Bruikbaar Zadel"
 			},
 			"p":4
@@ -135,7 +135,7 @@
 				"fr":"Selle avec plateforme",
 				"es":"Montura plataforma",
 				"ru":"Седло-платформа",
-				"zh":"平台鞍"
+				"zh":"平台鞍",
 				"nl":"Platform Zadel"
 			},
 			"p":4
@@ -148,7 +148,7 @@
 				"fr":"Multi passager",
 				"es":"Multi pasajero",
 				"ru":"Многоместный",
-				"zh":"多座位"
+				"zh":"多座位",
 				"nl":"Meerdere-Passagiers"
 			},
 			"p":4
@@ -161,7 +161,7 @@
 				"fr":"Selle Tek",
 				"es":"Montura Tek",
 				"ru":"Тек-седло",
-				"zh":"泰克鞍"
+				"zh":"泰克鞍",
 				"nl":"Tek Zadel"
 			},
 			"p":4
@@ -174,7 +174,7 @@
 				"fr":"Monte sur l'épaule",
 				"es":"Monta a hombros",
 				"ru":"Плечевой упор",
-				"zh":"可拾起"
+				"zh":"可拾起",
 				"nl":"Schouder Metgezel"
       },
 			"p":4
@@ -187,7 +187,7 @@
 				"fr":"Apprivoisable",
 				"es":"Domesticable",
 				"ru":"Приручаемый",
-				"zh":"可驯服"
+				"zh":"可驯服",
 				"nl":"Tembaar"
 			},
 			"p":5
@@ -200,7 +200,7 @@
 				"fr":"Non apprivoisable",
 				"es":"No domesticable",
 				"ru":"Не приручаемый",
-				"zh":"不可驯服"
+				"zh":"不可驯服",
 				"nl":"Niet Tembaar"
 			},
 			"p":5
@@ -213,7 +213,7 @@
 				"fr":"Apprivoisement par assommement",
 				"es":"Doma inconsciente",
 				"ru":"Приручение оглушением",
-				"zh":"麻醉驯服"
+				"zh":"麻醉驯服",
 				"nl":"Temmen door bewusteloosheid"
 			},
 			"p":5
@@ -226,7 +226,7 @@
 				"fr":"Apprivoisement passif",
 				"es":"Doma pasiva",
 				"ru":"Пассивное приручение",
-				"zh":"和平驯服"
+				"zh":"和平驯服",
 				"nl":"Passief temmen"
 			},
 			"p":5
@@ -239,7 +239,7 @@
 				"fr":"Apprivoisement facile et rapide",
 				"es":"Doma rápida y fácil",
 				"ru":"Быстрое и лёгкое приручение",
-				"zh":"快速/简易驯服"
+				"zh":"快速/简易驯服",
 				"nl":"Snel & Makkelijk te temmen"
 			},
 			"p":5
@@ -251,7 +251,7 @@
 				"it":"Carnivori",
 				"es":"Carnívoros",
 				"ru":"Плотоядные",
-				"zh":"肉食性"
+				"zh":"肉食性",
 				"nl":"Carnivoren"
 			},
 			"p":6
@@ -263,7 +263,7 @@
 				"it":"Erbivori",
 				"es":"Herbívoros",
 				"ru":"Травоядные",
-				"zh":"草食性"
+				"zh":"草食性",
 				"nl":"Herbivoren"
 			},
 			"p":6
@@ -275,7 +275,7 @@
 				"it":"Onnivori",
 				"es":"Omnívoros",
 				"ru":"Всеядные",
-				"zh":"杂食性"
+				"zh":"杂食性",
 				"nl":"Omnivoren"
 			},
 			"p":6
@@ -287,7 +287,7 @@
 				"it":"Piscivori",
 				"es":"Piscívoros",
 				"ru":"Ихтиофаги",
-				"zh":"鱼食性"
+				"zh":"鱼食性",
 				"nl":"Viseters"
 			},
 			"p":6
@@ -300,7 +300,7 @@
 				"fr":"Créatures de combat",
 				"es":"Criaturas de combate",
 				"ru":"Боевые существа",
-				"zh":"战斗用"
+				"zh":"战斗用",
 				"nl":"Gevechts schepsels"
 			},
 			"p":7
@@ -313,7 +313,7 @@
 				"fr":"Cueilleurs",
 				"es":"Recolectores",
 				"ru":"Собиратели",
-				"zh":"资源采集"
+				"zh":"资源采集",
 				"nl":"Verzamelaars"
 			},
 			"p":7
@@ -326,7 +326,7 @@
 				"fr":"Transporteur",
 				"es":"Mulas de carga",
 				"ru":"Транспортировщики",
-				"zh":"高负重"
+				"zh":"高负重",
 				"nl":"Werk Ezel"
 			},
 			"p":7
@@ -339,7 +339,7 @@
 				"fr":"Créatures rapide",
 				"es":"Criaturas rápidas",
 				"ru":"Быстрые существа",
-				"zh":"高机动性"
+				"zh":"高机动性",
 				"nl":"Snelle schepsels"
 			},
 			"p":7
@@ -352,7 +352,7 @@
 				"fr":"Reproductible",
 				"es":"Reproducible",
 				"ru":"Разводимые существа",
-				"zh":"可繁殖"
+				"zh":"可繁殖",
 				"nl":"Broedbaar"
 			},
 			"p":8
@@ -365,7 +365,7 @@
 				"fr":"Début de partie",
 				"es":"Inicio de partida",
 				"ru":"Ранняя стадия игры",
-				"zh":"早期"
+				"zh":"早期",
 				"nl":"Begin spel"
 			},
 			"p":8
@@ -378,7 +378,7 @@
 				"fr":"Milieu de partie",
 				"es":"Mitad de partida",
 				"ru":"Средняя стадия игры",
-				"zh":"中期"
+				"zh":"中期",
 				"nl":"Midden spel"
 			},
 			"p":8
@@ -391,7 +391,7 @@
 				"fr":"Fin de partie",
 				"es":"Final de partida",
 				"ru":"Конечная стадия игры",
-				"zh":"后期"
+				"zh":"后期",
 				"nl":"Eind spel"
 			},
 			"p":8
@@ -403,7 +403,7 @@
 				"it":"Boss",
 				"es":"Jefes",
 				"ru":"Боссы",
-				"zh":"BOSS"
+				"zh":"BOSS",
 				"nl":"Bazen"
 			},
 			"p":8
@@ -423,7 +423,7 @@
 				"fr":"Carte",
 				"es":"Mapa",
 				"ru":"Карта",
-				"zh":"地图"
+				"zh":"地图",
 				"nl":"Kaart"
 			}
 		},
@@ -435,7 +435,7 @@
 				"fr":"Contenu additionnel exclusif",
 				"es":"Paquete de expansión exclusivo",
 				"ru":"Эксклюзивный пакет расширения",
-				"zh":"扩展资料片限定"
+				"zh":"扩展资料片限定",
 				"nl":"Alleen vekrijgbaar met uibreidings paket"
 			}
 		},
@@ -445,7 +445,7 @@
 				"de":"Lebensraum",
 				"es":"Hábitat",
 				"ru":"Среда обитания",
-				"zh":"栖息地"
+				"zh":"栖息地",
 				"nl":"Habitat"
 			}
 		},
@@ -456,7 +456,7 @@
 				"it":"Guidabilità",
 				"es":"Manejo",
 				"ru":"Управляемость",
-				"zh":"骑乘性"
+				"zh":"骑乘性",
 				"nl":"Rijdbaarheid"
 			}
 		},
@@ -477,7 +477,7 @@
 				"ru":"Приручение",
 				"ro":"Îmblânzire",
 				"th":"การจับ",
-				"tr":"Evcilleştirme"
+				"tr":"Evcilleştirme",
 				"nl":"Temmen"
 			}
 		},
@@ -489,7 +489,7 @@
 				"fr":"Régime alimentaire",
 				"es":"Dieta",
 				"ru":"Рацион",
-				"zh":"饮食"
+				"zh":"饮食",
 				"nl":"Dieët"
 			}
 		},
@@ -510,7 +510,7 @@
 				"ru":"Полезность",
 				"ro":"Utilitate",
 				"th":"สิ่งที่มีประโยชน์",
-				"tr":"Faydaları"
+				"tr":"Faydaları",
 				"nl":"Nuttigheid"
 			}
 		},
@@ -531,7 +531,7 @@
 				"ru":"Больше",
 				"ro":"Mai mult",
 				"th":"เพิ่มเติม",
-				"tr":"Daha Fazla"
+				"tr":"Daha Fazla",
 				"nl":"Meer"
 			}
 		}
