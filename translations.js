@@ -8448,6 +8448,9 @@ var languages = {
 		},{
 			name:"Fabien Morel",
 			link:"https://github.com/fabienmorel"
+		},{	
+			name:"The_Playen",
+			link:"https://github.com/ThePlayen"
 		}]
 	},
 	he: {
