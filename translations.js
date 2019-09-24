@@ -8559,7 +8559,7 @@ var languages = {
 	zh:{
 		name:"简体中文",
 		credit:[{
-			name:"侏罗纪汉化组：Heavensn(波仔)、QQ南极企鹅、Benzema星、睡鲨",
+			name:"侏罗纪汉化组：Heavensn(波仔)、QQ南极企鹅、Benzema星、睡鲨、失足（污力毓）",
 			link:"http://www.playarkcn.com/"
 		}]
 	}     
