@@ -231,7 +231,6 @@
 	},
 	"cnidaria":{
 		"name_t":{
-			"fr":"
 			"ja":"クラゲ",
 			"ko":"크리다니아",
 			"ru":"Книдария",
@@ -1130,7 +1129,7 @@
 	"piranha":{
 		"name_t":{
 			"es":"Piraña",
-			"fr":"Megapiranha
+			"fr":"Megapiranha",
 			"it":"Piragna",
 			"ja":"ピラニア",
 			"ko":"피라냐",
