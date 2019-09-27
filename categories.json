@@ -250,6 +250,7 @@
 				"de":"Fleischfresser",
 				"it":"Carnivori",
 				"es":"Carnívoros",
+				"fr":"Carnivore",
 				"ru":"Плотоядные",
 				"zh":"肉食性",
 				"nl":"Carnivoren"
@@ -262,6 +263,7 @@
 				"de":"Pflanzenfresser",
 				"it":"Erbivori",
 				"es":"Herbívoros",
+				"fr":"Herbivore",
 				"ru":"Травоядные",
 				"zh":"草食性",
 				"nl":"Herbivoren"
@@ -274,6 +276,7 @@
 				"de":"Allesfresser",
 				"it":"Onnivori",
 				"es":"Omnívoros",
+				"fr":"Omnivore",
 				"ru":"Всеядные",
 				"zh":"杂食性",
 				"nl":"Omnivoren"
@@ -286,6 +289,7 @@
 				"de":"Fischfresser",
 				"it":"Piscivori",
 				"es":"Piscívoros",
+				"fr"."Piscivore",
 				"ru":"Ихтиофаги",
 				"zh":"鱼食性",
 				"nl":"Viseters"
@@ -402,6 +406,7 @@
 				"de":"Bosse",
 				"it":"Boss",
 				"es":"Jefes",
+				"fr":"Boss",
 				"ru":"Боссы",
 				"zh":"BOSS",
 				"nl":"Bazen"
@@ -422,6 +427,7 @@
 				"it":"Mappa",
 				"fr":"Carte",
 				"es":"Mapa",
+				"fr":"Monde",
 				"ru":"Карта",
 				"zh":"地图",
 				"nl":"Kaart"
@@ -444,6 +450,7 @@
 			"nt":{
 				"de":"Lebensraum",
 				"es":"Hábitat",
+				"fr":"Habitat",
 				"ru":"Среда обитания",
 				"zh":"栖息地",
 				"nl":"Habitat"
@@ -455,6 +462,7 @@
 				"de":"Reitbarkeit",
 				"it":"Guidabilità",
 				"es":"Manejo",
+				"fr":"Maniement",
 				"ru":"Управляемость",
 				"zh":"骑乘性",
 				"nl":"Rijdbaarheid"
