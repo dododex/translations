@@ -408,7 +408,7 @@
 			"da":"Drage",
 			"de":"Drache",
 			"es":"Dragón",
-			"fr":"Dragon";
+			"fr":"Dragon",
 			"it":"Drago",
 			"ja":"ドラゴン",
 			"ko":"드레곤",
@@ -441,7 +441,7 @@
 	"electrophorus":{
 		"name_t":{
 			"es":"Anguila eléctrica",
-			"fr":"Anguille electrique
+			"fr":"Anguille electrique",
 			"it":"Elettroforo",
 			"ja":"電気ウナギ",
 			"ko":"전기뱀장어",
