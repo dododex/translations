@@ -329,7 +329,7 @@
 	"Dimorphodon":{
 		"name_t":{
 			"es":"Dimorfodón",
-			"fr":"Dimorphodon";
+			"fr":"Dimorphodon",
 			"it":"Dimorfodonte",
 			"ja":"ディモルフォドン",
 			"ko":"디몰포돈",
@@ -451,7 +451,7 @@
 	},
 	"enforcer":{
 		"name_t":{
-			"fr":"Exécuteur"
+			"fr":"Exécuteur",
 			"it":"Esecutore",
 			"zh":"执行者",
 			"ru":"Инфорсер",
@@ -460,7 +460,7 @@
 	"equus":{
 		"name_t":{
 			"es":"Caballo",
-			"fr":"Equus
+			"fr":"Equus",
 			"ja":"エクウス",
 		        "ko":"에쿠스",    
 			"ru":"Эквус",
@@ -519,9 +519,9 @@
 	},
 	"gasbags":{
 		"name_t":{
-			"fr":"Sacagaz"
+			"fr":"Sacagaz",
 			"it":"Gasinsetto",
-			"zh":"气囊虫"
+			"zh":"气囊虫",
 			"ko":"가스백",
 			"ru":"Газбагс"
 		},
@@ -1317,7 +1317,7 @@
 	},
 	"scout":{
 		"name_t":{
-			"zh":"侦察机"
+			"zh":"侦察机",
 			"fr":"Eclaireur",
 			"ru":"Разведчик"
 		},
@@ -1509,7 +1509,7 @@
 	},
 	"velonasaur":{
 		"name_t":{
-			"fr":"Velonasaur";
+			"fr":"Velonasaur",
 			"it":"Velonasauro",
 			"zh":"刺面龙",
 			"ko":"투소테오티스",
