@@ -294,6 +294,13 @@
 			"zh":"抵御者"
 		},
 	},
+	"deinonychus":{
+		"name_t":{
+			"ja":"デイノニクス",
+			"ko":"데이노니쿠스",
+			"zh":"恐爪龙"
+		},
+	},
 	"deserttitan":{
 		"name_t":{
 			"fr":"Titan du desert",
@@ -1282,6 +1289,17 @@
 			"it":"Ratto Arrotolatore"
 		},
 	},
+	"royalgriffon":{
+		"name_t":{
+			"de":"Königs Griffon",
+			"es":"Real Griffon",
+			"it":"Reale Griffon",
+			"ja":"ロイヤル・グリフォン",
+			"ko":"로얄 그리폰",
+			"ru":"Королевский Грифон",
+			"zh":"皇家狮鹫"
+		},
+	},
 	"sabertooth":{
 		"name_t":{
 			"da":"Sabeltands Tiger",
@@ -1506,6 +1524,19 @@
 			"ja":"トゥソテウティス",
 			"ru":"Тусотеутис",
 			"zh":"托斯特巨鱿"
+		},
+	},
+	"unicorn":{
+		"name_t":{
+			"da":"enhjørning",
+			"de":"Einhorn",
+			"es":"Unicornio",
+			"fr":"Licorne",
+			"it":"Unicorno",
+			"ja":"ユニコーン",
+			"ko":"일각수",
+			"ru":"единорог",
+			"zh":"独角兽"
 		},
 	},
 	"velonasaur":{
