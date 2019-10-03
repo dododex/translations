@@ -153,16 +153,6 @@
 			"zh":"魔鬼蛙"
 		},
 	},
-	"bulbdog":{
-		"name_t":{
-			"fr":"bulbdog",
-			"it":"Canbulbo",
-			"ja":"バルブドッグ",
-	                "ko":"벌브독",
-			"ru":"Лампадог",
-			"zh":"灯泡犬"
-		},
-	},
 	"brontosaurus":{
 		"name_t":{
 			"es":"Brontosaurio",
@@ -184,6 +174,16 @@
 			"ko":"브루드마더라이스릭스",
 			"ru":"Праматерь",
 			"zh":"育母蜘蛛"
+		},
+	},
+	"bulbdog":{
+		"name_t":{
+			"fr":"bulbdog",
+			"it":"Canbulbo",
+			"ja":"バルブドッグ",
+			"ko":"벌브독",
+			"ru":"Лампадог",
+			"zh":"灯泡犬"
 		},
 	},
 	"carbonemys":{
@@ -357,7 +357,6 @@
 	},
 	"diplodocus":{
 		"name_t":{
-
 			"it":"Diplodoco",
 			"fr":"Diplodocus",
 			"ja":"ディプロドクス",
@@ -422,6 +421,7 @@
 			"ru":"Дракон",
 			"zh":"喷火龙"
 		},
+	},
 	"dungbeetle":{
 		"name_t":{
 			"da":"Gødningsbille",
@@ -469,7 +469,7 @@
 			"es":"Caballo",
 			"fr":"Equus",
 			"ja":"エクウス",
-		        "ko":"에쿠스",    
+			"ko":"에쿠스",
 			"ru":"Эквус",
 			"zh":"庞马"
 		},
@@ -906,7 +906,7 @@
 			"es":"Megapiteco",
 			"fr":"Megapithecus",
 			"it":"Megapiteco",
-	                "ko":"메가피테쿠스",
+			"ko":"메가피테쿠스",
 			"ru":"Мегапитек",
 			"zh":"大金刚"
 		},
@@ -1043,7 +1043,6 @@
 			"es":"Oveja",
 			"fr":"Ovis",
 			"ja":"ヒツジ",
-			"ko":"",
 			"ru":"Овис",
 			"zh":"绵羊"
 		},
@@ -1112,6 +1111,16 @@
 			"zh":"伪齿鸟"
 		},
 	},
+	"phiomia":{
+		"name_t":{
+			"fr":"Phiomia",
+			"it":"Fiomia",
+			"ja":"フィオミア",
+			"ko":"피오미아",
+			"ru":"Фиомия",
+			"zh":"渐新象"
+		},
+	},
 	"phoenix":{
 		"name_t":{
 			"da":"Føniks",
@@ -1122,16 +1131,6 @@
 			"ko":"불새",
 			"ru":"Феникс",
 			"zh":"凤凰"
-		},
-	},
-	"phiomia":{
-		"name_t":{
-			"fr":"Phiomia",
-			"it":"Fiomia",
-			"ja":"フィオミア",
-			"ko":"피오미아",
-			"ru":"Фиомия",
-			"zh":"渐新象"
 		},
 	},
 	"piranha":{
