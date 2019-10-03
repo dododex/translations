@@ -368,7 +368,6 @@
 	"direbear":{
 		"name_t":{
 			"da":"Direbjørn",
-			"es":"Oso terrible",
 			"fr":"Ours Sinistre",
 			"it":"Meta-orso",
 			"ja":"ショートフェイスベア",
@@ -696,7 +695,6 @@
 	},
 	"kaprosuchus":{
 		"name_t":{
-			"es":"Kaprosuco",
 			"fr":"Kaprosuchus",
 			"it":"Caprosuco",
 			"ja":"カプロスクス",
@@ -1443,7 +1441,6 @@
 	},
 	"thylacoleo":{
 		"name_t":{
-			"es":"León marsupial",
 			"fr":"Thylacoleo",
 			"it":"Leone marsupiale",
 			"ja":"ティラコレオ",
