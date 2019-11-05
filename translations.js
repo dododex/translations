@@ -393,7 +393,18 @@ en: {
 	proThanks: "Thank you for supporting the development of Dododex.",
 	new: "New",
 	presets: "Presets",
-	breedingDesc: "Enter the current progress of your baby to calculate when it'll reach each stage of maturation."
+	breedingDesc: "Enter the current progress of your baby to calculate when it'll reach each stage of maturation.",
+    secsBetweenHits:"",
+    wiki:"Wiki",
+    creatureMap:"Creature Map",
+    resourceMap:"Resource Map",
+    explorerMap:"Explorer Map",
+    weightReduction:"Weight Reduction",
+    hitsUntilFlee:"Hits Until Flee",
+    tapForMoreInfo:"Tap for more info",
+    addedForAccuracy:"Added for additional accuracy",
+	ratedForWR: "Rated #{0} for weight reduction",
+	secsBetweenHitsNote: "A creature's torpor naturally depletes over time. Longer time gaps between hits will give more time for its torpor to deplete, increasing the required number of hits. Time gaps will have more significance on creatures with a higher torpor depletion rate. Some weapons pause torpor depletion as they inflict torpor over several seconds. Dododex also factors this in."
 },
 ar: {
 	aboutStarveIntro: "\الترويض بلتجويع\" انها طريقة يستعملها بعض الاعبين لكي يقللوا من خسائر الموارد المستخدمة في ترويض المخلوقات.",
@@ -757,7 +768,18 @@ ar: {
 	proThanks: "",
 	new: "",
 	presets: "المسبقة",
-	breedingDesc: ""
+	breedingDesc: "",
+	secsBetweenHits:"",
+	secsBetweenHitsNote:"",
+	wiki:"",
+	creatureMap:"",
+	resourceMap:"",
+	explorerMap:"",
+	weightReduction:"",
+	hitsUntilFlee:"",
+	tapForMoreInfo:"",
+	addedForAccuracy:"",
+	ratedForWR:""
 },
 cs: {
 	aboutStarveIntro: "\"Starve Taming\" je technika, kterou někteří přeživší používají k minimalizaci rizika ztráty zdrojů při ochočování stvoření.",
@@ -1121,7 +1143,18 @@ cs: {
 	proThanks: "",
 	new: "",
 	presets: "",
-	breedingDesc: ""
+	breedingDesc: "",
+	secsBetweenHits:"",
+	secsBetweenHitsNote:"",
+	wiki:"",
+	creatureMap:"",
+	resourceMap:"",
+	explorerMap:"",
+	weightReduction:"",
+	hitsUntilFlee:"",
+	tapForMoreInfo:"",
+	addedForAccuracy:"",
+	ratedForWR:""
 },
 da: {
 	aboutStarveIntro: "\"Tæmning ved udsultning\" er en teknik, som nogle overlevende anvender for at minimere risikoen for at minimere risikoen for tab af ressourcer under tæmning.",
@@ -1485,7 +1518,18 @@ da: {
 	proThanks: "",
 	new: "",
 	presets: "",
-	breedingDesc: ""
+	breedingDesc: "",
+	secsBetweenHits:"",
+	secsBetweenHitsNote:"",
+	wiki:"",
+	creatureMap:"",
+	resourceMap:"",
+	explorerMap:"",
+	weightReduction:"",
+	hitsUntilFlee:"",
+	tapForMoreInfo:"",
+	addedForAccuracy:"",
+	ratedForWR:""
 },
 de: {
 	aboutStarveIntro: "\"Zähmen durch Aushungern\" ist eine Technik, die manche Überlebende benutzen, um das Risiko eines Ressourcenverlusts während des Zähmens zu minimieren.",
@@ -1849,7 +1893,18 @@ de: {
 	proThanks: "",
 	new: "neu",
 	presets: "Voreinstellungen",
-	breedingDesc: ""
+	breedingDesc: "",
+	secsBetweenHits:"",
+	secsBetweenHitsNote:"",
+	wiki:"",
+	creatureMap:"",
+	resourceMap:"",
+	explorerMap:"",
+	weightReduction:"",
+	hitsUntilFlee:"",
+	tapForMoreInfo:"",
+	addedForAccuracy:"",
+	ratedForWR:""
 },
 es: {
 	aboutStarveIntro: "La \"doma por hambre\" es una técnica usada por algunos supervivientes para minimizar el riesgo de perder recursos durante la doma de una criatura.",
@@ -2213,7 +2268,18 @@ es: {
 	proThanks: "",
 	new: "",
 	presets: "",
-	breedingDesc: ""
+	breedingDesc: "",
+	secsBetweenHits:"",
+	secsBetweenHitsNote:"",
+	wiki:"",
+	creatureMap:"",
+	resourceMap:"",
+	explorerMap:"",
+	weightReduction:"",
+	hitsUntilFlee:"",
+	tapForMoreInfo:"",
+	addedForAccuracy:"",
+	ratedForWR:""
 },
 fi: {
 	aboutStarveIntro: "\"Näännytys kesyttäminen\" Tekniikka jota jotkut selviytyjät käyttävät minimoidakseen riskin menettää resursseja kesyttämisen aikana.",
@@ -2577,7 +2643,18 @@ fi: {
 	proThanks: "",
 	new: "",
 	presets: "",
-	breedingDesc: ""
+	breedingDesc: "",
+	secsBetweenHits:"",
+	secsBetweenHitsNote:"",
+	wiki:"",
+	creatureMap:"",
+	resourceMap:"",
+	explorerMap:"",
+	weightReduction:"",
+	hitsUntilFlee:"",
+	tapForMoreInfo:"",
+	addedForAccuracy:"",
+	ratedForWR:""
 },
 fr: {
 	aboutStarveIntro: "Le \"dressage par la faim\" est une méthode que certains survivants utilisent pour minimiser le risque de perdre des ressources lors du dressage.",
@@ -2870,7 +2947,7 @@ fr: {
 	serverDefault: "Serveur Par défaut",
 	target: "Cible",
 	noResults: "Aucun résultat",
-	doubleMultNote: "Les estimations de Dododex incluent déjà les nouveaux multiplicateurs 2x apprivoisement/multiplicateur d'xp. Si vous êtes sur un serveur officiel, assurez-vous que \ "{0} \" et \ "{1} \" sont maintenant définis sur 1 dans les paramètres de Dododex.",
+	doubleMultNote: "Les estimations de Dododex incluent déjà les nouveaux multiplicateurs 2x apprivoisement/multiplicateur d'xp. Si vous êtes sur un serveur officiel, assurez-vous que \"{0} \" et \"{1}\" sont maintenant définis sur 1 dans les paramètres de Dododex.",
 	open: "ouvrir",
 	remaining: "restant(e)",
 	start: "début",
@@ -2941,7 +3018,18 @@ fr: {
 	proThanks: "Merci de soutenir le développement de Dododex.",
 	new: "Nouveau",
 	presets: "Préréglages",
-	breedingDesc: "Enter the current progress of your baby to calculate when it'll reach each stage of maturation."
+	breedingDesc: "Enter the current progress of your baby to calculate when it'll reach each stage of maturation.",
+	secsBetweenHits:"",
+	secsBetweenHitsNote:"",
+	wiki:"",
+	creatureMap:"",
+	resourceMap:"",
+	explorerMap:"",
+	weightReduction:"",
+	hitsUntilFlee:"",
+	tapForMoreInfo:"",
+	addedForAccuracy:"",
+	ratedForWR:""
 },
 el: {
 	aboutStarveIntro: "\Χαληναγώγηση της πείνας\" Είναι μια τεχνική που μερικοί επιζώντες χρησημοποιούν για να μειώσουν το ρίσκο του να χάσουν προμήθειες όταν εξημερώνουν ένα πλάσμα.",
@@ -3305,7 +3393,18 @@ el: {
 	proThanks: "",
 	new: "",
 	presets: "",
-	breedingDesc: ""
+	breedingDesc: "",
+	secsBetweenHits:"",
+	secsBetweenHitsNote:"",
+	wiki:"",
+	creatureMap:"",
+	resourceMap:"",
+	explorerMap:"",
+	weightReduction:"",
+	hitsUntilFlee:"",
+	tapForMoreInfo:"",
+	addedForAccuracy:"",
+	ratedForWR:""
 },
 he: {
 	aboutStarveIntro: "\"אילוף בהרעבה\" היא טכניקה שחלק מהשורדים משתמשים בה כדי לצמצם את הסיכון של לאבד משאבים בזמן אילוף יצור.",
@@ -3669,7 +3768,18 @@ he: {
 	proThanks: "תודה לך על התמיכה בפיתוח דודודקס",
 	new: "חדש",
 	presets: "הגדרות קבועות מראש",
-	breedingDesc: "הזן את ההתקדמות הנוכחית של התינוק שלך כדי לחשב מתי זה יגיע לכל שלב של התבגרות"
+	breedingDesc: "הזן את ההתקדמות הנוכחית של התינוק שלך כדי לחשב מתי זה יגיע לכל שלב של התבגרות",
+	secsBetweenHits:"",
+	secsBetweenHitsNote:"",
+	wiki:"",
+	creatureMap:"",
+	resourceMap:"",
+	explorerMap:"",
+	weightReduction:"",
+	hitsUntilFlee:"",
+	tapForMoreInfo:"",
+	addedForAccuracy:"",
+	ratedForWR:""
 },
 hr: {
 	aboutStarveIntro: "\"Pripitomljavanje izgladnjivanjem\" je tehnika koju neki preživljavači koriste kako bi minimalizirali rizik od gubljenja resurasa dok pripitomljavaju stvorenje.",
@@ -4033,7 +4143,18 @@ hr: {
 	proThanks: "",
 	new: "",
 	presets: "",
-	breedingDesc: ""
+	breedingDesc: "",
+	secsBetweenHits:"",
+	secsBetweenHitsNote:"",
+	wiki:"",
+	creatureMap:"",
+	resourceMap:"",
+	explorerMap:"",
+	weightReduction:"",
+	hitsUntilFlee:"",
+	tapForMoreInfo:"",
+	addedForAccuracy:"",
+	ratedForWR:""
 },
 it: {
 	aboutStarveIntro: "\"Starve Taming\" è una tecnica che alcuni giocatori utilizzano per minimizzare il rischio di perdere risorse durante la domazione",
@@ -4397,7 +4518,18 @@ it: {
 	proThanks: "Grazie per aver supportato lo sviluppo di Dododex.",
 	new: "Nuovo",
 	presets: "Predefinito",
-	breedingDesc: "Inserisci lo stato attuale del tuo cucciolo per calcolare quando raggiungerà ogni stadio di maturazione."
+	breedingDesc: "Inserisci lo stato attuale del tuo cucciolo per calcolare quando raggiungerà ogni stadio di maturazione.",
+	secsBetweenHits:"",
+	secsBetweenHitsNote:"",
+	wiki:"",
+	creatureMap:"",
+	resourceMap:"",
+	explorerMap:"",
+	weightReduction:"",
+	hitsUntilFlee:"",
+	tapForMoreInfo:"",
+	addedForAccuracy:"",
+	ratedForWR:""
 },
 ja: {
 	aboutStarveIntro: "\"空腹テイム\"は、資源を失うリスクを最小限に抑えるためにサバイバー達が使う技法です。",
@@ -4729,7 +4861,18 @@ ja: {
 	maxTip:  "\"{0}\"をタップすると、素早くその食料に切り替わります。",
 	qty:  "数量",
 	dismiss:  "閉じる",
-	cloningCalculator: "克隆计算器"
+	cloningCalculator: "克隆计算器",
+	secsBetweenHits:"",
+	secsBetweenHitsNote:"",
+	wiki:"",
+	creatureMap:"",
+	resourceMap:"",
+	explorerMap:"",
+	weightReduction:"",
+	hitsUntilFlee:"",
+	tapForMoreInfo:"",
+	addedForAccuracy:"",
+	ratedForWR:""
 },
 ko: {
 	aboutStarveIntro: "\"굶주림 조련\". 몇몇 생존자들이 생물을 길들이기 동안 음식 손실을 최소화하기 위해 사용하는 기술입니다.",
@@ -5093,7 +5236,18 @@ ko: {
 	proThanks: "Dododex 의 개발에 도움을 주셔 감사합니다.",
 	new: "New",
 	presets: "프리셋",
-	breedingDesc: "언제 성숙에 다다르는지 계산하기 위해 새끼의 현재상황을 입력하세요."
+	breedingDesc: "언제 성숙에 다다르는지 계산하기 위해 새끼의 현재상황을 입력하세요.",
+	secsBetweenHits:"",
+	secsBetweenHitsNote:"",
+	wiki:"",
+	creatureMap:"",
+	resourceMap:"",
+	explorerMap:"",
+	weightReduction:"",
+	hitsUntilFlee:"",
+	tapForMoreInfo:"",
+	addedForAccuracy:"",
+	ratedForWR:""
 },
 nb: {
 	aboutStarveIntro: "\"Sultetemming\" er en teknikk overlevende bruker for å minimalisere risken for å miste ressurser mens de temmer en skapning.",
@@ -5457,7 +5611,18 @@ nb: {
 	proThanks: "",
 	new: "",
 	presets: "",
-	breedingDesc: ""
+	breedingDesc: "",
+	secsBetweenHits:"",
+	secsBetweenHitsNote:"",
+	wiki:"",
+	creatureMap:"",
+	resourceMap:"",
+	explorerMap:"",
+	weightReduction:"",
+	hitsUntilFlee:"",
+	tapForMoreInfo:"",
+	addedForAccuracy:"",
+	ratedForWR:""
 },
 nl: {
 	aboutStarveIntro: "\"Uitgehongerd Temmen\" Is een techniek die sommige overlevers gebruiken om zo min mogelijk risico te lopen om hun spullen te verliezen tijdens het temmen van een dino.",
@@ -5821,7 +5986,18 @@ nl: {
 	proThanks: "Bedankt voor het supporten van de ontwikkeling van Dododex.",
 	new: "Nieuw",
 	presets: "presets",
-	breedingDesc: "Vul de vooruitgang van je baby om te berekenen wanneer de baby de volgende stadium van opgroeien bereikt."
+	breedingDesc: "Vul de vooruitgang van je baby om te berekenen wanneer de baby de volgende stadium van opgroeien bereikt.",
+	secsBetweenHits:"",
+	secsBetweenHitsNote:"",
+	wiki:"",
+	creatureMap:"",
+	resourceMap:"",
+	explorerMap:"",
+	weightReduction:"",
+	hitsUntilFlee:"",
+	tapForMoreInfo:"",
+	addedForAccuracy:"",
+	ratedForWR:""
 },
 pl:{
 	aboutStarveIntro: "\"Technika Głodowania\" to technika używana przez graczy do zminimalizowania traconych surowców podczas oswajania kreatury.",
@@ -6185,7 +6361,18 @@ pl:{
 	proThanks: "",
 	new: "",
 	presets: "",
-	breedingDesc: ""
+	breedingDesc: "",
+	secsBetweenHits:"",
+	secsBetweenHitsNote:"",
+	wiki:"",
+	creatureMap:"",
+	resourceMap:"",
+	explorerMap:"",
+	weightReduction:"",
+	hitsUntilFlee:"",
+	tapForMoreInfo:"",
+	addedForAccuracy:"",
+	ratedForWR:""
 },
 "pt-br":{
 	aboutStarveIntro: "\"Tempo de Fome\" é uma técnica que alguns sobreviventes usam para minimizar o risco de perderem recursos enquanto domam sua criatura.",
@@ -6549,7 +6736,18 @@ pl:{
 	proThanks: "Muito obrugado pela ajuda ao desenvolvimento do Dododex.",
 	new: "Novo",
 	presets: "Predefinições",
-	breedingDesc: "Entre com o atualo progresso do seu filhote para calcular qualquer estágio de Maturação."
+	breedingDesc: "Entre com o atualo progresso do seu filhote para calcular qualquer estágio de Maturação.",
+	secsBetweenHits:"",
+	secsBetweenHitsNote:"",
+	wiki:"",
+	creatureMap:"",
+	resourceMap:"",
+	explorerMap:"",
+	weightReduction:"",
+	hitsUntilFlee:"",
+	tapForMoreInfo:"",
+	addedForAccuracy:"",
+	ratedForWR:""
 },
 ro: {
 	aboutStarveIntro: "\"Îmblânzirea prin înfometare\" este o tehnică pe care unii supravieţuitori o folosesc pentru a minimiza riscul de a pierde resurse în timpul îmblânzirii unei creaturi.",
@@ -6913,7 +7111,18 @@ ro: {
 	proThanks: "",
 	new: "",
 	presets: "",
-	breedingDesc: ""
+	breedingDesc: "",
+	secsBetweenHits:"",
+	secsBetweenHitsNote:"",
+	wiki:"",
+	creatureMap:"",
+	resourceMap:"",
+	explorerMap:"",
+	weightReduction:"",
+	hitsUntilFlee:"",
+	tapForMoreInfo:"",
+	addedForAccuracy:"",
+	ratedForWR:""
 },
 ru: {
 	aboutStarveIntro: "\"Приручение с голоданием\" - это техника приручения существ, которая помогает выжившим минимизировать риск потери ресурсов в процессе приручения.",
@@ -7277,7 +7486,18 @@ ru: {
 	proThanks: "Спасибо за поддержку Dododex.",
 	new: "Новое",
 	presets: "Шаблоны",
-	breedingDesc: "Укажите текущий прогресс вашего детеныша, чтобы рассчитать время достижения каждого этапа взросления."
+	breedingDesc: "Укажите текущий прогресс вашего детеныша, чтобы рассчитать время достижения каждого этапа взросления.",
+	secsBetweenHits:"",
+	secsBetweenHitsNote:"",
+	wiki:"",
+	creatureMap:"",
+	resourceMap:"",
+	explorerMap:"",
+	weightReduction:"",
+	hitsUntilFlee:"",
+	tapForMoreInfo:"",
+	addedForAccuracy:"",
+	ratedForWR:""
 },
 th: {
 	aboutStarveIntro: "\"การจับแบบอดอาหาร\" คือเทคนิคที่ผู้เล่นบางคนใช้เพื่อลดความเสี่ยงของการสูญเสียทรัพยากรณ์ในขณะจับไดโน",
@@ -7641,7 +7861,18 @@ th: {
 	proThanks: "ขอบคุณอย่างสูงที่สนับสนุนการพัฒนา Dododex!",
 	new: "ใหม่",
 	presets: "การตั้งค่าล่วงหน้า",
-	breedingDesc: "ไส่ความคืบหน้าปัจจุบันของวัยแรกเกิดเพื่อคำนวณเวลาเข้าสู่วัยเติบโต"
+	breedingDesc: "ไส่ความคืบหน้าปัจจุบันของวัยแรกเกิดเพื่อคำนวณเวลาเข้าสู่วัยเติบโต",
+	secsBetweenHits:"",
+	secsBetweenHitsNote:"",
+	wiki:"",
+	creatureMap:"",
+	resourceMap:"",
+	explorerMap:"",
+	weightReduction:"",
+	hitsUntilFlee:"",
+	tapForMoreInfo:"",
+	addedForAccuracy:"",
+	ratedForWR:""
 },
 tr: {
 	aboutStarveIntro: "\"Aç Bırakmak\" evcilleştirme sırasında açlık değerinin düşmesini bekleyerek, kaynak kaybetme riskini en aza indirgemek için kullanılan bir yöntemdir.",
@@ -8005,7 +8236,18 @@ tr: {
 	proThanks: "",
 	new: "",
 	presets: "",
-	breedingDesc: ""
+	breedingDesc: "",
+	secsBetweenHits:"",
+	secsBetweenHitsNote:"",
+	wiki:"",
+	creatureMap:"",
+	resourceMap:"",
+	explorerMap:"",
+	weightReduction:"",
+	hitsUntilFlee:"",
+	tapForMoreInfo:"",
+	addedForAccuracy:"",
+	ratedForWR:""
 },
 zh: {
 	aboutStarveIntro: "\"饥饿驯服法\" 这项技术被很多幸存者用来最小化在驯服生物时的资源损失。",
