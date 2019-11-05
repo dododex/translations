@@ -394,7 +394,7 @@ en: {
 	new: "New",
 	presets: "Presets",
 	breedingDesc: "Enter the current progress of your baby to calculate when it'll reach each stage of maturation.",
-	secsBetweenHits:"",
+	secsBetweenHits:"Seconds Between Hits",
 	wiki:"Wiki",
 	creatureMap:"Creature Map",
 	resourceMap:"Resource Map",
