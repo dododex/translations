@@ -1,4 +1,5 @@
 /*
+EXPLANATION ON AMBIGUOUS PHRASES:
 all: Button to show ALL content, rather than filtered content.
 capabilities: Refers to the capabilities of each dino (flyers capabilies to carry other creatures, capability to damage wood/stone/etc)
 charge: The Pachy's charging attack (Phrasing in app: "Pachy (Charge)") 
@@ -2289,7 +2290,7 @@ es: {
 	tapForMoreInfo:"Toca para más información",
 	addedForAccuracy:"Añadido para mayor precisión",
 	ratedForWR: "Calificado #{0} para reducción de peso",
-	secsBetweenHitsNote: "La inconsciencia de una criatura se agota de forma natural según pasa el tiempo. Un mayor espacio de tiempo entre golpes hará que tarde más en agotarse esa inconsciencia, incrementando el número de golpes. Los espacios de tiempo tienen más efecto en criaturas con un mayor ratio de agotamiento de inconsciencia. Algunas armas detienen el agotamiento de inconsciencia durante unos segundos. Dododex también tiene en cuenta esto."
+	secsBetweenHitsNote: "La inconsciencia de una criatura se agota de forma natural según pasa el tiempo. Un mayor espacio de tiempo entre golpes hará que tarde más en agotarse esa inconsciencia, incrementando el número de golpes. Los espacios de tiempo tienen más efecto en criaturas con un mayor ratio de agotamiento de inconsciencia. Algunas armas detienen el agotamiento de inconsciencia durante unos segundos. Dododex también tiene en cuenta esto.",
 	wiki: null,
 	creatureMap: null,
 	resourceMap: null,
@@ -8839,8 +8840,6 @@ var languages = {
 		credit:[{
 			name:"AsH",
 			link:"https://twitter.com/heroez_ru"
-			name:"emovouc",
-			link:"https://twitter.com/cnemirhn"
 		},{
 			name:"Daladin",
 			link:"http://heroez.ru/ark"
@@ -8856,7 +8855,11 @@ var languages = {
 		},{
 			name:"Ego",
 			link:"https://twitter.com/EgoSilentium"
+		},{
+			name:"emovouc",
+			link:"https://twitter.com/cnemirhn"
 		}]
+
 	},
 	th:{
 		name:"ภาษาไทย",
@@ -8870,9 +8873,10 @@ var languages = {
 		credit: [{
 			name:"Mustafa İdeko",
 			link:"http://steamcommunity.com/id/mustafaidk/"
+		},{
 			name:"emovouc",
 			link:"https://twitter.com/cnemirhn"
-			}]
+		}]
 	},
 	zh:{
 		name:"简体中文",
