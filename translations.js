@@ -1,165 +1,165 @@
 /*
 EXPLANATION ON AMBIGUOUS PHRASES:
-all: Button to show ALL content, rather than filtered content.
-capabilities: Refers to the capabilities of each dino (flyers capabilies to carry other creatures, capability to damage wood/stone/etc)
-charge: The Pachy's charging attack (Phrasing in app: "Pachy (Charge)") 
-consumingX: "This dinosaur is consuming [x] narcotics..."
+all: Tombol untuk memunculkan semua konten, dari pada konten yang di filter.
+capabilities: Mengacu pada kemampuan masing-masing dino (kemampuan terbang untuk membawa makhluk lain, kemampuan untuk merusak kayu / batu / dll)
+
+charge: Serangan pengisi daya Pachy (Phrasing in app: "Pachy (Mengisi)") 
+consumingX: "Dinasaorus ini mengkonsumsi [x] narkotika..."
 Context for ambiguous terms:
-droppedBy: "These items are dropped by these dinos..."
-drops: Used as heading to show items that this creature drops
-edit: Interface button ("Edit your weapons.")
-effects: The effects of consuming a recipe.
-encountering: A section header of explaining what to do when encountering this dino (how to battle it, flee, etc.)
-gotIt: Used as confirmation button ("Okay, I got it.")
-intervals: "Feed at 30 second intervals"
-minsBeforeX: There is intentionally no space before the variable, in the case where there is no variable, it will simply read "(mins. before)"
-more: Used as interface button ("Show more information")
-pts: Abbreviation of points - keep very short if possible!
-qty: Quantity abbreviated - keep very short (under 4 chars if possible)
-rate: The rate of depletion ("depletion" may work better in other languages)
-report: Report button to report innapropriate content.
-report: Report this content for being innapropriate.
-serverDefault: Default name for a saved server
-shell, head, spine, tail: Dinosaur body parts
-submitTip: Button to submit a tip for taming this dino.
-target: The target value. Ex: "This dino has 100 food, once it reaches the target of 40, you can tame it."
-tip: A helpful tip
-tips: Tips submitted by other players
-utility: A section header of explaining the utility of this dino (how you can best use it, etc.)
-view, ignore, save, update: Interface buttons. ("View timer", "Ignore this notification", "Save these changes", "Update this information")
-xToFill: "[x] narcotics are needed to fill this dinosaur's torpor."
-xUsed: "[x] narcotics have been used."
+droppedBy: "Item ini di dapatkan dari hewan ini..."
+drops: Digunakan untuk menunjukan item tersebut di dapat dari hewan itu
+edit: Tombol antarmuka ("Edit senjatamu.")
+effects: Efek dari mengkonsumsi resep itu.
+encountering: Sesi yang menjelaskan  apa yang harus dilakukan ketika menghadapi dino ini (bagaimana cara bertarung, melarikan diri, dll.)
+gotIt: Di gunakan untuk mengkonfirmasi tombol ("Oke, Saya Mengerti.")
+intervals: "Umpan pada selang detik ke 30"
+minsBeforeX: Tidak sengaja ada spasi sebelum variabel, dalam kasus di mana tidak ada variabel, itu hanya akan membaca "(menit sebelum)"
+more: Digunakan sebagai tombol antarmuka ("Tampilkan informasi lebih lanjut")
+pts: Singkatan poin - jaga tetap singkat jika memungkinkan!
+qty: Jumlah disingkat - jaga tetap singkat (di bawah 4 karakter jika memungkinkan)
+rate: Tingkat penipisan ("penipisan" dapat bekerja lebih baik dalam bahasa lain)
+report: Tombol laporan untuk melaporkan konten yang tidak pantas.
+report: Laporkan konten ini karena tidak pantas.
+serverDefault: Nama default untuk server yang disimpan
+shell, head, spine, tail: Bagian tubuh dinosaurus
+submitTip: Tombol untuk mengirim saran untuk menjinakkan dino ini.
+target: Nilai target. Contoh: "Dino ini memiliki 100 makanan, setelah mencapai target 40, Anda bisa menjinakkannya."
+tip: Tips yang berguna 
+tips: Tips yang di berikan player lain
+utility: Bagian untuk menjelaskan kegunaan dino ini (cara terbaik untuk menggunakannya, dll.)
+view, ignore, save, update: Tombol antarmuka. ("Lihat penghitung waktu", "Abaikan pemberitahuan ini", "Simpan perubahan ini", "Perbarui informasi ini")
+xToFill: "[x] narkotika yang diperlukan untuk mengisi kesadaran dinosaurus ini."
+xUsed: "[x] narkotika yang telah di gunakan."
 */
 
 var translations = {
-en: {
-	aboutStarveIntro: "\"Starve Taming\" is a technique some survivors use to minimize risk of losing resources while taming a creature.",
-	wastedPoints: "\"Wasted\" Points",
-	statCalcNote: "Wild creatures are given a stat point for each level. Each of these points are assigned to a random stat. Since Movement Speed is never upgraded in the wild, any points assigned to it will be \"wasted\" and discarded. For swimming creatures, Oxygen is not applicable, so these stats will also be discarded.",
-	about: "About",
-	aboutFeedback: "About / Feedback",
-	aboutStarve: "About Starve Taming",
-	add: "Add",
-	addCustomWeaponName: "Add a custom name to identify this weapon.",
-	addWeapons: "Add your own weapons and creatures with custom damage to personalize Dododex's knock out estimates.",
-	adjustMultipliers: "Adjust multipliers for unofficial server settings. (Keep multipliers at 1 for official servers.)",
-	adolescent: "Adolescent",
-	adult: "Adult",
-	advanced: "Advanced",
-	affectedBy: "Affected by",
-	alsoImpactsGestationSpeed: "Also impacts gestation speed",
-	alsoPreferredBy: "Also Preferred By",
-	amountPerUse: "Amount Per Use",
-	appSettings: "App Settings",
-	baby: "Baby",
-	babyMatureSpeed: "Baby Mature Speed",
-	back: "Back",
-	base: "Base",
-	benefits: "Benefits",
-	breeding: "Breeding",
-	calculator: "Calculator",
-	canDamage: "Can damage",
-	carryableBy: "Carryable by",
-	carryableCreatures: "Carryable Creatures",
-	carryableCreaturesChart: "Carryable creatures chart",
-	chanceOfDeath: "Chance of Death",
-	characterSettings: "Character Settings",
-	charge: "Charge",
-	checkForNewData: "Check for new data",
-	comparison: "Comparison",
-	concious: "Conscious",
-	consumptionSpeed: "Consumption Speed",
-	cookingPot: "Cooking Pot",
-	craftedIn: "Crafted in",
-	currentFoodValue: "Current food value",
-	currentLvl: "Current lvl",
-	damageModifierChart: "Damage modifier chart",
-	delete: "Delete",
-	details: "Details",
-	droppedBy: "Dropped by",
-	drops: "Drops",
-	aboutDataUpdate: "Dododex automatically checks for data updates for you, but you can choose to force Dododex to download the latest data right now (app will refresh).",
-	aboutApp: "Dododex is developed in Los Angeles by Dan Leveille. Data and calculations are based on the Ark Dev Kit. Special thanks to Crumplecorn.com and the Official Ark Wiki for the additional research and calculations.",
-	aboutData: "Dododex's data is constantly updated and tested for accuracy. Reporting any inaccuracies will ensure that errors are fixed more quickly and Dododex stays accurate.",
+id: {
+	aboutStarveIntro: "\"Penjinakkan\" adalah teknik yang digunakan beberapa penyintas untuk meminimalkan risiko kehilangan sumber daya saat menjinakkan hewan. ",
+	wastedPoints: "\"Poin\" Terbuang",
+	statCalcNote: "Makhluk liar diberi poin stat untuk setiap tingkat. Masing-masing poin ini ditugaskan ke stat acak. Karena Kecepatan Gerakan tidak pernah ditingkatkan di alam liar, setiap poin yang ditetapkan untuk itu akan \" terbuang \ "dan dibuang. Untuk berenang Makhluk, Oksigen tidak berlaku, jadi statistik ini juga akan dibuang. ",	
+	about: "Tentang",
+	aboutFeedback: "Saran / Tentang",
+	aboutStarve: "Tentang penjinakkan",
+	add: "Tambah",
+	addCustomWeaponName: "Tambahkan nama khusus untuk mengidentifikasi senjata ini.",
+	addWeapons: "Tambahkan senjata dan hewanmu sendiri dengan kerusakan khusus untuk mempersonalisasi perkiraan pingsan Dododex.",
+	adjustMultipliers: "Sesuaikan pengganda untuk pengaturan server tidak resmi. (Simpan pengganda pada 1 untuk server resmi.)",
+	adolescent: "Remaja",
+	adult: "Dewasa",
+	advanced: "Lanjut usia",
+	affectedBy: "Dipengaruhi oleh",
+	alsoImpactsGestationSpeed: "Juga berdampak pada kecepatan kehamilan",
+	alsoPreferredBy: "Juga Disukai Oleh",
+	amountPerUse: "JUmlah pakai",
+	appSettings: "Pengaturan",
+	baby: "Bayi",
+	babyMatureSpeed: "Kecepatan Pertumbuhan Bayi",
+	back: "kembali",
+	base: "Markas",
+	benefits: "Manfaat",
+	breeding: "pembiakkan",
+	calculator: "kalkulator",
+	canDamage: "Dapat merusak",
+	carryableBy: "Dapat dibawa oleh",
+	carryableCreatures: "Hewan yang bisa dibawa",
+	carryableCreaturesChart: "Bagan hewan yang bisa dibawa",
+	chanceOfDeath: "Peluang kematian",
+	characterSettings: "Pengaturan karakter",
+	charge: "Mengisi",
+	checkForNewData: "Cek untuk data baru",
+	comparison: "Perbandingan",
+	concious: "Sadar",
+	consumptionSpeed: "Kecepatan Konsumsi",
+	cookingPot: "Panci memasak",
+	craftedIn: "Dibuat di",
+	currentFoodValue: "JUmlah makanan saat ini",
+	currentLvl: "Lvl saat ini",
+	damageModifierChart: "Bagan pengubah kerusakan",
+	delete: "Hapus",
+	details: "Ditel",
+	droppedBy: "Di jatuhkan oleh",
+	drops: "Jatuh",
+	aboutDataUpdate: "Dododex secara otomatis memeriksa pembaruan data untuk Anda, tetapi Anda dapat memilih untuk memaksa Dododex untuk mengunduh data terbaru saat ini (aplikasi akan menyegarkan). ",	aboutApp: "Dododex is developed in Los Angeles by Dan Leveille. Data and calculations are based on the Ark Dev Kit. Special thanks to Crumplecorn.com and the Official Ark Wiki for the additional research and calculations.",
+	aboutData: "Data Dododex terus diperbarui dan diuji keakuratannya. Melaporkan segala ketidakakuratan akan memastikan bahwa kesalahan diperbaiki lebih cepat dan Dododex tetap akurat.",
 	edit: "Edit",
-	editWeapons: "Edit Weapons",
-	eggHatchSpeed: "Egg Hatch Speed",
-	aboutStarveUsing1: "Enter your creature's Max Food Value and Current Food Value.",
-	favouriteKibble: "Favourite Kibble",
-	feedback: "Feedback",
-	feedbackSuggestions: "Feedback, suggestions, and bug reports can be shared below or tweeted to @danlev on Twitter. Development of new features is prioritized based on amount of user interest.",
+	editWeapons: "Edit senjata",
+	eggHatchSpeed: "Kecepatan Penetasan Telur",
+	aboutStarveUsing1: "Masukkan Nilai Makanan Maksimum hewan Anda dan Nilai Makanan Saat Ini.",
+	favouriteKibble: "Kibble favorit",
+	feedback: "Saran",
+	feedbackSuggestions: "Umpan balik, saran, dan laporan bug dapat dibagikan di bawah ini atau tweet ke @danlev di Twitter. Pengembangan fitur baru diprioritaskan berdasarkan jumlah minat pengguna.",
 	follow: "Follow",
-	followDododex: "Follow Dododex for updates, Ark: Survival Evolved news, and GIFs of dodos twerking.",
-	food: "Food",
-	fullChart: "Full chart",
-	charts: "Charts",
-	gathers: "Gathers",
-	gatheringEfficiency: "Gathering Efficiency",
-	gatheringEfficiencyRatings: "Gathering Efficiency Ratings",
-	rateApp: "Has Dododex helped you? Help others find Dododex by ratings the app in the App Store.",
-	head: "Head",
-	headshotsModifiers: "Headshots & Modifiers",
-	health: "Health",
-	howStarveTamingWorks: "How starve taming works",
-	idealIncubationTemp: "Ideal incubation temperature",
-	aboutStarveBenefits: "If a creature is attacked in the middle of the normal taming method, you could lose all of the food that it had consumed as well as whatever was in its inventory. Starve taming does not impact Taming Effectiveness.",
-	aboutStarveUntilIsNotHead: "If it IS NOT displayed",
-	aboutStarveUntilIsHead: "If the UNTIL STARVED countdown IS displayed",
-	impactsMeleeWeapons: "Impacts melee weapons.",
-	aboutStarveMethod: "In the normal taming method, you knock a creature out and immediately place all of the required food in its inventory and it will eat one at a time as it gets hungry enough. With starve taming, once the creature is knocked out, you simply wait before feeding it any food or Narcotics. Once the creature is hungry enough to eat all of the food at once, then you begin feeding it.",
-	incPerLvl: "Inc. per lvl",
-	incubation: "Incubation",
-	juvenile: "Juvenile",
+	followDododex: "Ikuti Dododex untuk pembaruan, Ark: Kelangsungan hidup berevolusi berita, dan GIF twodking dodos.",
+	food: "Makanan",
+	fullChart: "Status penuh",
+	charts: "Status",
+	gathers: "mengumpulkan",
+	gatheringEfficiency: "Efesiensi Mengumpulkan",
+	gatheringEfficiencyRatings: "Penilaian Efesiensi Mengumpulkan",
+	rateApp: "Apakah Dododex membantu Anda? Bantu orang lain menemukan Dododex dengan memberi peringkat aplikasi di App Store.",
+	head: "Kepala",
+	headshotsModifiers: "Tembakan di kepala & Modifikasi",
+	health: "Darah",
+	howStarveTamingWorks: "Cara kerja penjinakan ",
+	idealIncubationTemp: "Suhu inkubasi ideal",
+	aboutStarveBenefits: "Jika seekor makhluk diserang di tengah metode penjinakan normal, Anda bisa kehilangan semua makanan yang telah dikonsumsi serta apa pun yang ada dalam persediaannya. Penjinakkan kelaparan tidak memengaruhi Keefektifan Penjinakkan.",
+	aboutStarveUntilIsNotHead: "Jika tidak ada yng di tampilkan",
+	aboutStarveUntilIsHead: "Jika hitungan mundur SAMPAI LAPAR ditampilkan",
+	impactsMeleeWeapons: "Dampak senjata jarak dekat.",
+	aboutStarveMethod: "Dalam metode penjinakan normal, Anda menjatuhkan makhluk dan segera menempatkan semua makanan yang diperlukan dalam persediaan dan itu akan memakannya satu per satu karena cukup lapar. Dengan penjinakan kelaparan, begitu makhluk itu tersingkir, Anda cukup menunggu sebelum memberi makan makanan atau narkotika. Begitu makhluk itu cukup lapar untuk memakan semua makanan sekaligus, maka Anda mulai memberinya makan. ",	
+	incPerLvl: "Inlubasi. per lvl",
+	incubation: "Inkubasi",
+	juvenile: "Remaja",
 	kibble: "Kibble",
-	kibbleFlowChart: "Kibble flow chart",
-	kibbleProduced: "Kibble Produced",
-	knockOut: "Knock out",
+	kibbleFlowChart: "Proses Kibble",
+	kibbleProduced: "Produksi kibble",
+	knockOut: "Pingsan",
 	lvl: "Lvl",
-	maps: "Maps",
-	matingInterval: "Mating Interval",
+	maps: "Peta",
+	matingInterval: "Interval Perkawinan",
 	max: "Max",
-	maxAfterTraining: "Max after training",
-	maxFoodValue: "Max food value",
-	meleeDamage: "Melee damage",
-	more: "More",
-	multiplier: "Multiplier",
-	myWeaponsCreatures: "My weapons & creatures",
-	name: "Name",
-	narcoticsNeeded: "Narcotics needed",
-	noMultipliers: "The {0} does not have multipliers for headshots or any other areas.",
-	oxygen: "Oxygen",
-	pauseTimer: "Pause Timer",
-	pregnancy: "Pregnancy",
-	preferredBy: "Preferred By",
-	primary: "Primary",
-	producedBy: "Produced By",
+	maxAfterTraining: "Max setelah berlatih",
+	maxFoodValue: "Max jumlah makanan",
+	meleeDamage: "kerusakan jarak dekat",
+	more: "Lagi",
+	multiplier: "Multipemain",
+	myWeaponsCreatures: "Senjata & hewan",
+	name: "Nama",
+	narcoticsNeeded: "Narkotika yang di perlukan",
+	noMultipliers: "{0} tidak memiliki pengganda untuk tembak kan kepala atau area lainnya.",
+	oxygen: "Oksigenn",
+	pauseTimer: "Jeda Waktu",
+	pregnancy: "Kehamilan",
+	preferredBy: "Diutamakan oleh",
+	primary: "Utama",
+	producedBy: "Di produksi oleh",
 	pts: "pts",
-	rate: "Rate",
-	rateDododex: "Rate Dododex",
-	rateThisCreature: "Rate this creature",
-	ratingsNote: "Ratings out of 5. Collected from {0} Dododex users.",
-	recipesDyes: "Recipes & Dyes",
-	reportDataError: "Report Data Error",
+	rate: "Nilai",
+	rateDododex: "Nilai Dododex",
+	rateThisCreature: "Nilai hewan ini",
+	ratingsNote: "Peringkat di luar 5. Dikumpulkan dari {0} pengguna Dododex.",
+	recipesDyes: "Resep & warna",
+	reportDataError: "Lapor data eror",
 	resetTimer: "Reset timer",
-	resumeTimer: "Resume timer",
-	retry: "Retry",
-	saddle: "Saddle",
-	secondary: "Secondary",
-	settings: "Settings",
-	settingsMultipliers: "Settings / Multipliers",
-	serverMultipliers: "Server Multipliers",
-	shell: "Shell",
-	showFullDetails: "Show Full Details",
-	errorLoading: "Sorry, there was an issue loading Dododex's creature data. Please check your network connection or try again in a few moments.",
+	resumeTimer: "Lanjutkan timer",
+	retry: "Coba lagi",
+	saddle: "Pelana",
+	secondary: "Ke dua",
+	settings: "Pengaturan",
+	settingsMultipliers: "Pengaturan / Multipemain",
+	serverMultipliers: "Server Multipemain",
+	shell: "Tempurung",
+	showFullDetails: "Tampilkan Detail Lengkap",
+	errorLoading: "Maaf, ada masalah saat memuat data makhluk Dododex. Silakan periksa koneksi jaringan Anda atau coba lagi dalam beberapa saat.",
 	stamina: "Stamina",
-	aboutStarveUsing2: "Start the timer. Dododex is now synced with your creature's food value.",
-	startTimer: "Start timer",
-	starveReducesRisk: "Starve taming reduces the risk of losing resources by feeding a creature only once it is hungry enough to eat everything at once (or, eat as much as it can). Once you've selected the food you'll be taming with, enter the creature's current and max food values, then start the timer.",
-	starveTimer: "Starve Timer",
-	stat: "Stat",
-	stats: "Stats",
-	tamed: "Tamed",
-	taming: "Taming",
+	aboutStarveUsing2: "Mulai timer. Dododex sekarang disinkronkan dengan nilai makanan hewan Anda.",
+	startTimer: "Mulai timer",
+	starveReducesRisk: "Menjinakkan mengurangi risiko kehilangan sumber daya dengan memberi makan seekor hewan hanya setelah cukup lapar untuk memakan semuanya sekaligus (atau, makan sebanyak yang dia bisa). Setelah Anda memilih makanan yang akan dijinakkan, masukkan nilai makanan saat ini dan maksimum makanan, lalu mulai timer.",
+	starveTimer: "Waktu lapar",
+	stat: "Statistik",
+	stats: "Statistik",
+	tamed: "Terjinakkan",
+	taming: "Penjinakkan",
 	tamingCalculator: "Taming calculator",
 	tamingEffectiveness: "Taming Effectiveness",
 	tamingSpeed: "Taming Speed",
