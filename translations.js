@@ -7924,7 +7924,7 @@ th: {
 	addedForAccuracy: null,
 	ratedForWR: null,
 	wsps: null,
-	comingSoon: null
+	comingSoon: null 
 },
 tr: {
 	aboutStarveIntro: "\"Aç Bırakmak\" evcilleştirme sırasında açlık değerinin düşmesini bekleyerek, kaynak kaybetme riskini en aza indirgemek için kullanılan bir yöntemdir.",
@@ -8883,6 +8883,13 @@ var languages = {
 		credit:[{
 			name:"侏罗纪汉化组：Heavensn(波仔)、QQ南极企鹅、Benzema星、睡鲨、失足（污力毓）",
 			link:"http://www.playarkcn.com/"
+		}]
+	},
+	id:{
+		name:"Indonesia",
+		credit:[{
+			name:"Wahyu Siruah",
+			link:"https://www.instagram.com/wahyu_siruah/"
 		}]
 	}     
 }
