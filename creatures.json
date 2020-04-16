@@ -96,6 +96,11 @@
 			"zh":"古马路"
 		},
 	},
+	"astrocetus":{
+		"name_t":{
+
+		}
+	},
 	"attackdrone":{
 		"name_t":{
 			"da":"Angrebsdrone",
@@ -147,6 +152,17 @@
 			"ru":"Жаба",
 			"zh":"魔鬼蛙"
 		},
+	},
+	"bladewasp":{
+		"NOTE":"Please ignore the term 'Blade Wasp'. It is not a public-facing name. The English name is actually 'Insect Swarm'."
+		"name_t":{
+
+		}
+	},
+	"bloodstalker":{
+		"name_t":{
+
+		}
 	},
 	"brontosaurus":{
 		"name_t":{
@@ -480,6 +496,11 @@
 			"zh":"轻羽鸟"
 		},
 	},
+	"ferox":{
+		"name_t":{
+
+		}
+	},
 	"foresttitan":{
 		"name_t":{
 			"fr":"Titan de la foret",
@@ -704,6 +725,11 @@
 			"zh":"肯氏龙"
 		},
 	},
+	"kingtitan":{
+		"name_t":{
+			
+		},
+	},
 	"lamprey":{
 		"name_t":{
 			"da":"Lampret",
@@ -769,6 +795,11 @@
 			"zh":"水龙兽"
 		},
 	},
+	"magmasaur":{
+		"name_t":{
+			
+		},
+	},
 	"mammoth":{
 		"name_t":{
 			"da":"Mammut",
@@ -818,6 +849,11 @@
 			"ru":"Богомол",
 			"zh":"螳螂"
 		},
+	},
+	"megachelon":{
+		"name_t":{
+
+		}
 	},
 	"megalania":{
 		"name_t":{
@@ -921,6 +957,11 @@
 			"ru":"Микрораптор",
 			"zh":"小盗龙"
 		},
+	},
+	"moeder":{
+		"name_t":{
+
+		}
 	},
 	"morellatops":{
 		"name_t":{
@@ -1046,6 +1087,11 @@
 			"ru":"Парацератерий",
 			"zh":"巨犀"
 		},
+	},
+	"parakeetfishschool":{
+		"name_t":{
+
+		}
 	},
 	"parasaur":{
 		"name_t":{
@@ -1235,6 +1281,11 @@
 			"ko":"바위정령",
 			"ru":"Горный Элементаль",
 			"zh":"岩石巨人"
+		},
+	},
+	"rockwell":{
+		"name_t":{
+			
 		},
 	},
 	"rollrat":{
