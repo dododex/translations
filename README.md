@@ -68,7 +68,7 @@ The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com
 | hu | Hungarian            |  0.5% |   |
 | th | Thai                 |  0.5% | ✅ | 
 | ar | Arabic               |  0.4% | ✅ |
-| ko | Korean               |  0.3% | Partial |
+| ko | Korean               |  0.3% | ✅ |
 | fi | Finnish              |  0.3% | ✅ |
 | ja | Japanese             |  0.3% | ✅ | ✅
 | he | Hebrew               |  0.2% | ✅ |
@@ -76,6 +76,7 @@ The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com
 | sk | Slovak               |  0.1% |   |
 | ro | Romanian             |  0.1% | ✅ |
 | el | Greek                |  0.1% | ✅ |
+| id | Indonesian           | <0.1% | ✅ |
 
 
 _*Percent of non-English Dododex users_
