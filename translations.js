@@ -2225,7 +2225,7 @@ es: {
 	pause: "Pausar",
 	currentWeight: "Peso actual",
 	maxWeight: "Peso máximo",
-	info: "Información",
+	info: "Info",
 	torporClass: "Ratio de descenso de inconsciencia",
 	extremelyHigh: "Extremadamente alto",
 	high: "Alto",
