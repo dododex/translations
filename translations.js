@@ -408,6 +408,8 @@ en: {
 	ratedForWR: "Rated #{0} for weight reduction",
 	wsps: "With Single Player Settings",
 	comingSoon: "Coming soon!",
+	supportTheDeveloper: "Support the Developer",
+	incEnTips: "Include English Tips"
 },
 ar: {
 	aboutStarveIntro: "\الترويض بلتجويع\" انها طريقة يستعملها بعض الاعبين لكي يقللوا من خسائر الموارد المستخدمة في ترويض المخلوقات.",
@@ -784,7 +786,9 @@ ar: {
 	addedForAccuracy: null,
 	ratedForWR: null,
 	wsps: null,
-	comingSoon: null
+	comingSoon: null,
+	supportTheDeveloper: null,
+	incEnTips: null
 },
 cs: {
 	aboutStarveIntro: "\"Starve Taming\" je technika, kterou někteří přeživší používají k minimalizaci rizika ztráty zdrojů při ochočování stvoření.",
@@ -1161,7 +1165,9 @@ cs: {
 	addedForAccuracy: null,
 	ratedForWR: null,
 	wsps: null,
-	comingSoon: null
+	comingSoon: null,
+	supportTheDeveloper: null,
+	incEnTips: null
 },
 da: {
 	aboutStarveIntro: "\"Tæmning ved udsultning\" er en teknik, som nogle overlevende anvender for at minimere risikoen for at minimere risikoen for tab af ressourcer under tæmning.",
@@ -1538,7 +1544,9 @@ da: {
 	addedForAccuracy: null,
 	ratedForWR: null,
 	wsps: null,
-	comingSoon: null
+	comingSoon: null,
+	supportTheDeveloper: null,
+	incEnTips: null
 },
 de: {
 	aboutStarveIntro: "\"Zähmen durch Aushungern\" ist eine Technik, die manche Überlebende benutzen, um das Risiko eines Ressourcenverlusts während des Zähmens zu minimieren.",
@@ -1915,7 +1923,9 @@ de: {
 	addedForAccuracy:"Hinzugefügt für bessere Genauigkeit.",
 	ratedForWR:"Mit {0} für Gewichtserleichterung bewertet.",
 	wsps: "Mit Einzelspieler-Einstllungen",
-	comingSoon: "Demnächst verfügbar"
+	comingSoon: "Demnächst verfügbar",
+	supportTheDeveloper: "Unterstützen Sie den Entwickler",
+	incEnTips: "Enthält englische Tipps"
 },
 es: {
 	aboutStarveIntro: "La \"doma por hambre\" es una técnica usada por algunos supervivientes para minimizar el riesgo de perder recursos durante la doma de una criatura.",
@@ -2301,7 +2311,9 @@ es: {
 	addedForAccuracy: null,
 	ratedForWR: null,
 	wsps: null,
-	comingSoon: null
+	comingSoon: null,
+	supportTheDeveloper: null,
+	incEnTips: null
 },
 fi: {
 	aboutStarveIntro: "\"Näännytys kesyttäminen\" Tekniikka jota jotkut selviytyjät käyttävät minimoidakseen riskin menettää resursseja kesyttämisen aikana.",
@@ -2678,7 +2690,9 @@ fi: {
 	addedForAccuracy: null,
 	ratedForWR: null,
 	wsps: null,
-	comingSoon: null
+	comingSoon: null,
+	supportTheDeveloper: null,
+	incEnTips: null
 },
 fr: {
 	aboutStarveIntro: "Le \"dressage par la faim\" est une méthode que certains survivants utilisent pour minimiser le risque de perdre des ressources lors du dressage.",
@@ -3055,7 +3069,9 @@ fr: {
 	addedForAccuracy: null,
 	ratedForWR: null,
 	wsps: null,
-	comingSoon: null
+	comingSoon: null,
+	supportTheDeveloper: "Soutenir Le Développeur",
+	incEnTips: "Inclure des conseils en anglais"
 },
 el: {
 	aboutStarveIntro: "\Χαληναγώγηση της πείνας\" Είναι μια τεχνική που μερικοί επιζώντες χρησημοποιούν για να μειώσουν το ρίσκο του να χάσουν προμήθειες όταν εξημερώνουν ένα πλάσμα.",
@@ -3432,7 +3448,9 @@ el: {
 	addedForAccuracy: null,
 	ratedForWR: null,
 	wsps: null,
-	comingSoon: null
+	comingSoon: null,
+	supportTheDeveloper: null,
+	incEnTips: null
 },
 he: {
 	aboutStarveIntro: "\"אילוף בהרעבה\" היא טכניקה שחלק מהשורדים משתמשים בה כדי לצמצם את הסיכון של לאבד משאבים בזמן אילוף יצור.",
@@ -3809,7 +3827,9 @@ he: {
 	addedForAccuracy: null,
 	ratedForWR: null,
 	wsps: null,
-	comingSoon: null
+	comingSoon: null,
+	supportTheDeveloper: null,
+	incEnTips: null
 },
 hr: {
 	aboutStarveIntro: "\"Pripitomljavanje izgladnjivanjem\" je tehnika koju neki preživljavači koriste kako bi minimalizirali rizik od gubljenja resurasa dok pripitomljavaju stvorenje.",
@@ -4186,7 +4206,9 @@ hr: {
 	addedForAccuracy: null,
 	ratedForWR: null,
 	wsps: null,
-	comingSoon: null
+	comingSoon: null,
+	supportTheDeveloper: null,
+	incEnTips: null
 },
 id: {
 	aboutStarveIntro: "\"Penjinakkan\" adalah teknik yang digunakan beberapa penyintas untuk meminimalkan risiko kehilangan sumber daya saat menjinakkan hewan. ",
@@ -4234,7 +4256,8 @@ id: {
 	details: "Ditel",
 	droppedBy: "Di jatuhkan oleh",
 	drops: "Jatuh",
-	aboutDataUpdate: "Dododex secara otomatis memeriksa pembaruan data untuk Anda, tetapi Anda dapat memilih untuk memaksa Dododex untuk mengunduh data terbaru saat ini (aplikasi akan menyegarkan). ",	aboutApp: "Dododex is developed in Los Angeles by Dan Leveille. Data and calculations are based on the Ark Dev Kit. Special thanks to Crumplecorn.com and the Official Ark Wiki for the additional research and calculations.",
+	aboutDataUpdate: "Dododex secara otomatis memeriksa pembaruan data untuk Anda, tetapi Anda dapat memilih untuk memaksa Dododex untuk mengunduh data terbaru saat ini (aplikasi akan menyegarkan). ",
+	aboutApp: "Dododex is developed in Los Angeles by Dan Leveille. Data and calculations are based on the Ark Dev Kit. Special thanks to Crumplecorn.com and the Official Ark Wiki for the additional research and calculations.",
 	aboutData: "Data Dododex terus diperbarui dan diuji keakuratannya. Melaporkan segala ketidakakuratan akan memastikan bahwa kesalahan diperbaiki lebih cepat dan Dododex tetap akurat.",
 	edit: "Edit",
 	editWeapons: "Edit senjata",
@@ -4275,7 +4298,7 @@ id: {
 	max: "Max",
 	maxAfterTraining: "Max setelah berlatih",
 	maxFoodValue: "Max jumlah makanan",
-	meleeDamage: "kerusakan jarak dekat",
+	meleeDamage: "Kerusakan jarak dekat",
 	more: "Lagi",
 	multiplier: "Multipemain",
 	myWeaponsCreatures: "Senjata & hewan",
@@ -4562,7 +4585,9 @@ id: {
 	addedForAccuracy:"Ditambahkan untuk akurasi tambahan",
 	ratedForWR: "Dinilai # {0} untuk pengurangan berat badan",
 	wsps: "Dengan Pengaturan Single Player",
-	comingSoon: "Segera hadir!"
+	comingSoon: "Segera hadir!",
+	supportTheDeveloper: null,
+	incEnTips: null
 },
 it: {
 	aboutStarveIntro: "\"Starve Taming\" è una tecnica che alcuni giocatori utilizzano per minimizzare il rischio di perdere risorse durante la domazione",
@@ -4939,7 +4964,9 @@ it: {
 	addedForAccuracy: null,
 	ratedForWR: null,
 	wsps: null,
-	comingSoon: null
+	comingSoon: null,
+	supportTheDeveloper: null,
+	incEnTips: null
 },
 ja: {
 	aboutStarveIntro: "\"空腹テイム\"は、資源を失うリスクを最小限に抑えるためにサバイバー達が使う技法です。",
@@ -5284,7 +5311,9 @@ ja: {
 	addedForAccuracy: null,
 	ratedForWR: null,
 	wsps: null,
-	comingSoon: null
+	comingSoon: null,
+	supportTheDeveloper: null,
+	incEnTips: null
 },
 ko: {
 	aboutStarveIntro: "\"굶주림 조련\". 몇몇 생존자들이 생물을 길들이기 동안 음식 손실을 최소화하기 위해 사용하는 기술입니다.",
@@ -5661,7 +5690,9 @@ ko: {
 	addedForAccuracy: null,
 	ratedForWR: null,
 	wsps: null,
-	comingSoon: null
+	comingSoon: null,
+	supportTheDeveloper: null,
+	incEnTips: null
 },
 nb: {
 	aboutStarveIntro: "\"Sultetemming\" er en teknikk overlevende bruker for å minimalisere risken for å miste ressurser mens de temmer en skapning.",
@@ -6038,7 +6069,9 @@ nb: {
 	addedForAccuracy: null,
 	ratedForWR: null,
 	wsps: null,
-	comingSoon: null
+	comingSoon: null,
+	supportTheDeveloper: null,
+	incEnTips: null
 },
 nl: {
 	aboutStarveIntro: "\"Uitgehongerd Temmen\" Is een techniek die sommige overlevers gebruiken om zo min mogelijk risico te lopen om hun spullen te verliezen tijdens het temmen van een dino.",
@@ -6415,7 +6448,9 @@ nl: {
 	addedForAccuracy: null,
 	ratedForWR: null,
 	wsps: null,
-	comingSoon: null
+	comingSoon: null,
+	supportTheDeveloper: null,
+	incEnTips: null
 },
 pl:{
 	aboutStarveIntro: "\"Technika Głodowania\" to technika używana przez graczy do zminimalizowania traconych surowców podczas oswajania kreatury.",
@@ -6792,7 +6827,9 @@ pl:{
 	addedForAccuracy: null,
 	ratedForWR: null,
 	wsps: null,
-	comingSoon: null
+	comingSoon: null,
+	supportTheDeveloper: null,
+	incEnTips: null
 },
 "pt-br":{
 	aboutStarveIntro: "\"Tempo de Fome\" é uma técnica que alguns sobreviventes usam para minimizar o risco de perderem recursos enquanto domam sua criatura.",
@@ -7169,7 +7206,9 @@ pl:{
 	addedForAccuracy: "Adicionado para precisão Adicional",
 	ratedForWR: "Classificado como #{0} para redução de peso.",
 	wsps: "Com Configurações para jogador Solo",
-	comingSoon: "Em Breve!"
+	comingSoon: "Em Breve!",
+	supportTheDeveloper: "Apoie o Desenvolvedor",
+	incEnTips: "Incluir Dicas De Inglês"
 },
 ro: {
 	aboutStarveIntro: "\"Îmblânzirea prin înfometare\" este o tehnică pe care unii supravieţuitori o folosesc pentru a minimiza riscul de a pierde resurse în timpul îmblânzirii unei creaturi.",
@@ -7546,7 +7585,9 @@ ro: {
 	addedForAccuracy: null,
 	ratedForWR: null,
 	wsps: null,
-	comingSoon: null
+	comingSoon: null,
+	supportTheDeveloper: null,
+	incEnTips: null
 },
 ru: {
 	aboutStarveIntro: "\"Приручение с голоданием\" - это техника приручения существ, которая помогает выжившим минимизировать риск потери ресурсов в процессе приручения.",
@@ -7923,7 +7964,9 @@ ru: {
 	addedForAccuracy: null,
 	ratedForWR: null,
 	wsps: "С настройками для одного игрока",
-	comingSoon: "Скоро будет"
+	comingSoon: "Скоро будет",
+	supportTheDeveloper: null,
+	incEnTips: null
 },
 th: {
 	aboutStarveIntro: "\"การจับแบบอดอาหาร\" คือเทคนิคที่ผู้เล่นบางคนใช้เพื่อลดความเสี่ยงของการสูญเสียทรัพยากรณ์ในขณะจับไดโน",
@@ -8300,7 +8343,9 @@ th: {
 	addedForAccuracy: null,
 	ratedForWR: null,
 	wsps: null,
-	comingSoon: null
+	comingSoon: null,
+	supportTheDeveloper: null,
+	incEnTips: null
 },
 tr: {
 	aboutStarveIntro: "\"Aç Bırakmak\" evcilleştirme sırasında açlık değerinin düşmesini bekleyerek, kaynak kaybetme riskini en aza indirgemek için kullanılan bir yöntemdir.",
@@ -8677,7 +8722,9 @@ tr: {
 	addedForAccuracy: "Daha fazla tutarlılık için eklendi.",
 	ratedForWR: "Yük azaltma için #{0} hesaplandı.",
 	wsps: "Tek oyunculu ayarlarla",
-	comingSoon: "Yakında..."
+	comingSoon: "Yakında...",
+	supportTheDeveloper: null,
+	incEnTips: null
 },
 zh: {
 	aboutStarveIntro: "\"饥饿驯服法\" 这项技术被很多幸存者用来最小化在驯服生物时的资源损失。",
@@ -9054,7 +9101,9 @@ zh: {
 	addedForAccuracy: null,
 	ratedForWR: null,
 	wsps: null,
-	comingSoon: null
+	comingSoon: null,
+	supportTheDeveloper: null,
+	incEnTips: null
 }}
 
 /* Language names should be in native language */
