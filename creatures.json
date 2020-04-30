@@ -115,7 +115,6 @@
 	"baryonyx":{
 		"name_t":{
 			"fr":"baryonyx",
-			"zh":"重爪龙",
 			"it":"Barionice",
 			"ko":"바리오닉스",
 			"ru":"Барионикс",
@@ -154,7 +153,7 @@
 		},
 	},
 	"bladewasp":{
-		"NOTE":"Please ignore the term 'Blade Wasp'. It is not a public-facing name. The English name is actually 'Insect Swarm'."
+		"NOTE":"Please ignore the term 'Blade Wasp'. It is not a public-facing name. The English name is actually 'Insect Swarm'.",
 		"name_t":{
 
 		}
@@ -461,7 +460,7 @@
 			"fr":"Exécuteur",
 			"it":"Esecutore",
 			"zh":"执行者",
-			"ru":"Инфорсер",
+			"ru":"Инфорсер"
 		}
 	},
 	"equus":{
@@ -537,6 +536,19 @@
 		},
 	},
 	"giantbee":{
+		"name_t":{
+			"da":"Kæmpe Bi",
+			"de":"Gigantische Biene",
+			"es":"Abeja gigante",
+			"fr":"Abeille Geante",
+			"it":"Ape gigante",
+			"ja":"ジャイアントビー",
+			"ko":"거대벌",
+			"ru":"Гигантская Пчела",
+			"zh":"巨蜂"
+		},
+	},
+	"gianttortoise":{
 		"name_t":{
 			"da":"Kæmpe Bi",
 			"de":"Gigantische Biene",
@@ -660,7 +672,7 @@
 			"zh":"禽龙",
 			"ja":"イグアノドン",
 			"ko":"이구아나돈",
-			"it":"Iguanodonte",
+			"it":"Iguanodonte"
 		},
 	},
 	"jerboa":{
@@ -1097,7 +1109,6 @@
 		"name_t":{
 			"de":"Parasaurus",
 			"es":"Parasaurio",
-			"fr":"Parasaur",
 			"fr":"Parasaure",
 			"it":"Parasauro",
 			"ja":"パラサウロロフス",
