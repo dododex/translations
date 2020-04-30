@@ -549,16 +549,8 @@
 		},
 	},
 	"gianttortoise":{
+		"NOTE":"IGNORE. DO NOT TRANSLATE. WILL BE REMOVED.",
 		"name_t":{
-			"da":"Kæmpe Bi",
-			"de":"Gigantische Biene",
-			"es":"Abeja gigante",
-			"fr":"Abeille Geante",
-			"it":"Ape gigante",
-			"ja":"ジャイアントビー",
-			"ko":"거대벌",
-			"ru":"Гигантская Пчела",
-			"zh":"巨蜂"
 		},
 	},
 	"giganotosaurus":{
