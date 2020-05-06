@@ -9078,13 +9078,13 @@ zh: {
 	perItem: "每项",
 	maxTip: "点击\“{0}\”栏目中的数字可以快速切换到食物",
 	qty: "数量",
-	dismiss: "解散",
+	dismiss: "消除",
 	cloningCalculator: "繁殖计算器",
 	translate: "翻译",
 	recent: "最近",
 	categories: "类别",
 	search: "搜索…",
-	merch: "货物",
+	merch: "周边商品",
 	human: "人类",
 	wallGap: "{0}可以穿过{1}墙的缝隙",
 	mustEat: "必须吃{0}食物才能被驯服。",
@@ -9092,7 +9092,7 @@ zh: {
 	help: "帮助",
 	kibbleRecipe: "饲料食谱",
 	creatureInfo: "生物信息",
-	arkMobile: "ARK 移动",
+	arkMobile: "ARK 移动端",
 	share: "分享",
 	ratingPromptTitle: "Dododex有用吗?",
 	ratingPromptDesc: "你好!我叫丹，是Dododex的开发者。我的应用程序对你有帮助吗?",
@@ -9112,21 +9112,21 @@ zh: {
 	new: "新",
 	presets: "预设",
 	breedingDesc: "输入您的宠物目前的进展，以计算何时它将达到每个成熟阶段",
-	secsBetweenHits: null,
-	secsBetweenHitsNote: null,
-	wiki: null,
-	creatureMap: null,
-	resourceMap: null,
-	explorerMap: null,
-	weightReduction: null,
-	hitsUntilFlee: null,
-	tapForMoreInfo: null,
-	addedForAccuracy: null,
-	ratedForWR: null,
-	wsps: null,
-	comingSoon: null,
-	supportTheDeveloper: null,
-	incEnTips: null
+	secsBetweenHits: "两次击打间隔秒数",
+	secsBetweenHitsNote: "生物的麻醉度会随着时间自然耗尽。更长的击打间隔将会给它更多时间消耗麻醉度，而增加所需击打的次数。时间间隔对那些麻醉度流逝速度高的生物来说更有重要性。一些武器可以暂停麻醉度流逝因为它们在几秒内施加了麻醉。Dododex也把这些因素考虑了进去。",
+	wiki: "百科",
+	creatureMap: "生物地图",
+	resourceMap: "资源地图",
+	explorerMap: "探险家地图",
+	weightReduction: "减轻负重",
+	hitsUntilFlee: "逃跑击打次数",
+	tapForMoreInfo: "点击获取更多信息",
+	addedForAccuracy: "添加以获得额外准确度",
+	ratedForWR: "减轻负重排名为 #{0}",
+	wsps: "使用单人游戏设置",
+	comingSoon: "即将到来",
+	supportTheDeveloper: "支持开发者",
+	incEnTips: "包含英语提示"
 }}
 
 /* Language names should be in native language */
@@ -9337,6 +9337,10 @@ var languages = {
 		credit:[{
 			name:"侏罗纪汉化组：Heavensn(波仔)、QQ南极企鹅、Benzema星、睡鲨、失足（污力毓）",
 			link:"http://www.playarkcn.com/"
+		},
+		{
+			name:"包子侯爵(baoziii)",
+			link:"https://steamcommunity.com/id/baoziii/"
 		}]
 	}     
 }
