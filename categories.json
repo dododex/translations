@@ -19,6 +19,7 @@
 				"th":"ทั้งหมด",
 				"tr":"Tümü",
 				"nl":"Alles"
+				"ar":"الكل"
 			}
 		},
 		"1":{
@@ -32,6 +33,7 @@
 				"fr":"Nouveau",
 				"nl":"Nieuw",
 				"br":"Novo"
+				"ar":"جديد"
 			}
 		},
 		"2":{
@@ -73,6 +75,7 @@
 				"zh":"陆生",
 				"nl":"Aards",
 				"br":"Terrestre"
+				"ar":"أنسان"
 			},
 			"p":3
 		},
@@ -87,6 +90,7 @@
 				"zh":"飞行",
 				"nl":"Vliegend",
 				"br":"Aéreo"
+				"ar":"جوي"
 				
 			},
 			"p":3
@@ -102,6 +106,7 @@
 				"zh":"水生",
 				"nl":"Aquatisch",
 				"br":"Aquático"
+				"ar":"مائي"
 			},
 			"p":3
 		},
@@ -116,6 +121,8 @@
 				"zh":"可骑乘",
 				"nl":"Rijdbaar",
 				"br":"Montável"
+				"ar":"قابل للتخلص منه"
+			
 			},
 			"p":4
 		},
@@ -130,6 +137,7 @@
 				"zh":"工具鞍",
 				"nl":"Bruikbaar Zadel",
 				"br":"Sela Utilitária"
+				"ar":"سرج مفيد"
 			},
 			"p":4
 		},
@@ -144,6 +152,7 @@
 				"zh":"平台鞍",
 				"nl":"Platform Zadel",
 				"br":"Sela Plataforma"
+				"ar":"منصة السرج"
 			},
 			"p":4
 		},
@@ -158,6 +167,7 @@
 				"zh":"多座位",
 				"nl":"Meerdere-Passagiers",
 				"br":"Multi-Passageiros"
+				"ar":"متعدد الركاب"
 			},
 			"p":4
 		},
@@ -172,6 +182,7 @@
 				"zh":"泰克鞍",
 				"nl":"Tek Zadel",
 				"br":"Sela Tecnológica"
+			         "ar":"سرج تيك"
 			},
 			"p":4
 		},
@@ -186,6 +197,7 @@
 				"zh":"可拾起",
 				"nl":"Schouder Metgezel",
 				"br":"Montar nos Ombros"
+				"ar":"يوضع على الكتف"
       },
 			"p":4
 		},
@@ -200,6 +212,7 @@
 				"zh":"可驯服",
 				"nl":"Tembaar",
 				"br":"Domesticável"
+				"ar":"قابل للترويض"
 			},
 			"p":5
 		},
@@ -214,6 +227,7 @@
 				"zh":"不可驯服",
 				"nl":"Niet Tembaar",
 				"br":"Não Domesticável"
+				"ar":"غير قابل للترويض"
 			},
 			"p":5
 		},
@@ -228,6 +242,7 @@
 				"zh":"麻醉驯服",
 				"nl":"Temmen door bewusteloosheid",
 				"br":"Domável Inconsciente"
+				"ar":"ترويض عبر التخدير"
 			},
 			"p":5
 		},
@@ -242,6 +257,7 @@
 				"zh":"和平驯服",
 				"nl":"Passief temmen",
 				"br":"Domesticação passiva"
+				"ar":"ترويض سلمي"
 			},
 			"p":5
 		},
@@ -256,6 +272,7 @@
 				"zh":"快速/简易驯服",
 				"nl":"Snel & Makkelijk te temmen",
 				"br":"Domesticação rápida e tranquila"
+				"ar":"ترويض سريع / سهل"
 			},
 			"p":5
 		},
@@ -270,6 +287,7 @@
 				"zh":"肉食性",
 				"nl":"Carnivoren",
 				"br":"Carnívoros"
+				"ar":"آكل لحوم"
 			},
 			"p":6
 		},
@@ -284,6 +302,7 @@
 				"zh":"草食性",
 				"nl":"Herbivoren",
 				"br":"Herbívoros"
+				"ar":"آكل أعشاب"
 			},
 			"p":6
 		},
@@ -298,6 +317,7 @@
 				"zh":"杂食性",
 				"nl":"Omnivoren",
 				"br":"Onívoros"
+				"ar":"قارت"
 			},
 			"p":6
 		},
@@ -312,6 +332,7 @@
 				"zh":"鱼食性",
 				"nl":"Viseters",
 				"br":"Piscívoros"
+				"ar":"حشرات"
 			},
 			"p":6
 		},
@@ -326,6 +347,7 @@
 				"zh":"战斗用",
 				"nl":"Gevechts schepsels",
 				"br":"Criaturas de Combate"
+				"ar":"مخلوقات المعركة"
 			},
 			"p":7
 		},
@@ -340,6 +362,7 @@
 				"zh":"资源采集",
 				"nl":"Verzamelaars",
 				"br":"Colhedores"
+				"ar":"جمع الموارد"
 			},
 			"p":7
 		},
@@ -354,6 +377,7 @@
 				"zh":"高负重",
 				"nl":"Werk Ezel",
 				"br":"Transportadores"
+				"ar":"حمل الاوزان"
 			},
 			"p":7
 		},
@@ -368,6 +392,7 @@
 				"zh":"高机动性",
 				"nl":"Snelle schepsels",
 				"br":"Criaturas Rápidas"
+				"ar":"مخلوقات سريعه"
 			},
 			"p":7
 		},
@@ -382,6 +407,7 @@
 				"zh":"可繁殖",
 				"nl":"Broedbaar",
 				"br":"Reproduzíveis"
+				"ar":"قابل للتكاثر"
 			},
 			"p":8
 		},
@@ -396,6 +422,7 @@
 				"zh":"早期",
 				"nl":"Begin spel",
 				"br":"Começo de Jogo"
+				"ar":"بداية اللعبة"
 			},
 			"p":8
 		},
@@ -410,6 +437,7 @@
 				"zh":"中期",
 				"nl":"Midden spel",
 				"br":"Meio de Jogo"
+				"ar":"منتصف اللعبة"
 			},
 			"p":8
 		},
@@ -424,6 +452,7 @@
 				"zh":"后期",
 				"nl":"Eind spel",
 				"br":"Fim de Jogo"
+				"ar":"نهاية اللعبة"
 			},
 			"p":8
 		},
@@ -438,6 +467,7 @@
 				"zh":"BOSS",
 				"nl":"Bazen",
 				"br":"Chefes"
+				"ar":"الزعماء"
 			},
 			"p":8
 		},
@@ -460,6 +490,7 @@
 				"zh":"地图",
 				"nl":"Kaart",
 				"br":"Mapa"
+				"ar":"خريطه"
 			}
 		},
 		"2":{
@@ -473,6 +504,7 @@
 				"zh":"扩展资料片限定",
 				"nl":"Alleen vekrijgbaar met uibreidings paket",
 				"br":"Pacore de expansão exclusivo"
+				"ar":"حزمه"
 			}
 		},
 		"3":{
@@ -484,6 +516,7 @@
 				"ru":"Среда обитания",
 				"zh":"栖息地",
 				"nl":"Habitat"
+				"ar":"موطن"
 			}
 		},
 		"4":{
@@ -497,6 +530,7 @@
 				"zh":"骑乘性",
 				"nl":"Rijdbaarheid",
 				"br":"Guiabiliade"
+				"ar":"قابلية التخيل"
 			}
 		},
 		"5":{
@@ -519,6 +553,7 @@
 				"tr":"Evcilleştirme",
 				"nl":"Temmen",
 				"br":"Domando"
+				"ar":"ترويض"
 			}
 		},
 		"6":{
@@ -532,6 +567,7 @@
 				"zh":"饮食",
 				"nl":"Dieët",
 				"br":"Dieta"
+				"ar":"التغذية"
 			}
 		},
 		"7":{
@@ -554,6 +590,7 @@
 				"tr":"Faydaları",
 				"nl":"Nuttigheid",
 				"br":"Utilitário"
+				"ar":"الأستخدامات"
 			}
 		},
 		"8":{
@@ -576,6 +613,7 @@
 				"tr":"Daha Fazla",
 				"nl":"Meer",
 				"br":"Mais"
+				"ar":"المزيد"
 			}
 		}
 	}
