@@ -18,7 +18,8 @@
 				"ro":"Toate",
 				"th":"ทั้งหมด",
 				"tr":"Tümü",
-				"nl":"Alles"
+				"nl":"Alles",
+				"ar":"الكل"
 			}
 		},
 		"1":{
@@ -31,7 +32,8 @@
 				"zh":"新的",
 				"fr":"Nouveau",
 				"nl":"Nieuw",
-				"br":"Novo"
+				"br":"Novo",
+				"ar":"جديد"
 			}
 		},
 		"2":{
@@ -72,7 +74,8 @@
 				"ru":"Сухопутный",
 				"zh":"陆生",
 				"nl":"Aards",
-				"br":"Terrestre"
+				"br":"Terrestre",
+				"ar":"أنسان"
 			},
 			"p":3
 		},
@@ -86,7 +89,8 @@
 				"ru":"Воздушный",
 				"zh":"飞行",
 				"nl":"Vliegend",
-				"br":"Aéreo"
+				"br":"Aéreo",
+				"ar":"جوي"
 				
 			},
 			"p":3
@@ -101,7 +105,8 @@
 				"ru":"Водный",
 				"zh":"水生",
 				"nl":"Aquatisch",
-				"br":"Aquático"
+				"br":"Aquático",
+				"ar":"مائي"
 			},
 			"p":3
 		},
@@ -115,7 +120,9 @@
 				"ru":"Ездовой",
 				"zh":"可骑乘",
 				"nl":"Rijdbaar",
-				"br":"Montável"
+				"br":"Montável",
+				"ar":"قابل للتخلص منه"
+			
 			},
 			"p":4
 		},
@@ -129,7 +136,8 @@
 				"ru":"Обычное седло",
 				"zh":"工具鞍",
 				"nl":"Bruikbaar Zadel",
-				"br":"Sela Utilitária"
+				"br":"Sela Utilitária",
+				"ar":"سرج مفيد"
 			},
 			"p":4
 		},
@@ -143,7 +151,8 @@
 				"ru":"Седло-платформа",
 				"zh":"平台鞍",
 				"nl":"Platform Zadel",
-				"br":"Sela Plataforma"
+				"br":"Sela Plataforma",
+				"ar":"منصة السرج"
 			},
 			"p":4
 		},
@@ -157,7 +166,8 @@
 				"ru":"Многоместный",
 				"zh":"多座位",
 				"nl":"Meerdere-Passagiers",
-				"br":"Multi-Passageiros"
+				"br":"Multi-Passageiros",
+				"ar":"متعدد الركاب"
 			},
 			"p":4
 		},
@@ -172,6 +182,7 @@
 				"zh":"泰克鞍",
 				"nl":"Tek Zadel",
 				"br":"Sela Tecnológica"
+			         "ar":"سرج تيك"
 			},
 			"p":4
 		},
@@ -185,7 +196,8 @@
 				"ru":"Плечевой упор",
 				"zh":"可拾起",
 				"nl":"Schouder Metgezel",
-				"br":"Montar nos Ombros"
+				"br":"Montar nos Ombros",
+				"ar":"يوضع على الكتف"
       },
 			"p":4
 		},
@@ -199,7 +211,8 @@
 				"ru":"Приручаемый",
 				"zh":"可驯服",
 				"nl":"Tembaar",
-				"br":"Domesticável"
+				"br":"Domesticável",
+				"ar":"قابل للترويض"
 			},
 			"p":5
 		},
@@ -213,7 +226,8 @@
 				"ru":"Не приручаемый",
 				"zh":"不可驯服",
 				"nl":"Niet Tembaar",
-				"br":"Não Domesticável"
+				"br":"Não Domesticável",
+				"ar":"غير قابل للترويض"
 			},
 			"p":5
 		},
@@ -227,7 +241,8 @@
 				"ru":"Приручение оглушением",
 				"zh":"麻醉驯服",
 				"nl":"Temmen door bewusteloosheid",
-				"br":"Domável Inconsciente"
+				"br":"Domável Inconsciente",
+				"ar":"ترويض عبر التخدير"
 			},
 			"p":5
 		},
@@ -241,7 +256,8 @@
 				"ru":"Пассивное приручение",
 				"zh":"和平驯服",
 				"nl":"Passief temmen",
-				"br":"Domesticação passiva"
+				"br":"Domesticação passiva",
+				"ar":"ترويض سلمي"
 			},
 			"p":5
 		},
@@ -255,7 +271,8 @@
 				"ru":"Быстрое и лёгкое приручение",
 				"zh":"快速/简易驯服",
 				"nl":"Snel & Makkelijk te temmen",
-				"br":"Domesticação rápida e tranquila"
+				"br":"Domesticação rápida e tranquila",
+				"ar":"ترويض سريع / سهل"
 			},
 			"p":5
 		},
@@ -269,7 +286,8 @@
 				"ru":"Плотоядные",
 				"zh":"肉食性",
 				"nl":"Carnivoren",
-				"br":"Carnívoros"
+				"br":"Carnívoros",
+				"ar":"آكل لحوم"
 			},
 			"p":6
 		},
@@ -283,7 +301,8 @@
 				"ru":"Травоядные",
 				"zh":"草食性",
 				"nl":"Herbivoren",
-				"br":"Herbívoros"
+				"br":"Herbívoros",
+				"ar":"آكل أعشاب"
 			},
 			"p":6
 		},
@@ -297,7 +316,8 @@
 				"ru":"Всеядные",
 				"zh":"杂食性",
 				"nl":"Omnivoren",
-				"br":"Onívoros"
+				"br":"Onívoros",
+				"ar":"قارت"
 			},
 			"p":6
 		},
@@ -311,7 +331,8 @@
 				"ru":"Ихтиофаги",
 				"zh":"鱼食性",
 				"nl":"Viseters",
-				"br":"Piscívoros"
+				"br":"Piscívoros",
+				"ar":"حشرات"
 			},
 			"p":6
 		},
@@ -325,7 +346,8 @@
 				"ru":"Боевые существа",
 				"zh":"战斗用",
 				"nl":"Gevechts schepsels",
-				"br":"Criaturas de Combate"
+				"br":"Criaturas de Combate",
+				"ar":"مخلوقات المعركة"
 			},
 			"p":7
 		},
@@ -339,7 +361,8 @@
 				"ru":"Собиратели",
 				"zh":"资源采集",
 				"nl":"Verzamelaars",
-				"br":"Colhedores"
+				"br":"Colhedores",
+				"ar":"جمع الموارد"
 			},
 			"p":7
 		},
@@ -353,7 +376,8 @@
 				"ru":"Транспортировщики",
 				"zh":"高负重",
 				"nl":"Werk Ezel",
-				"br":"Transportadores"
+				"br":"Transportadores",
+				"ar":"حمل الاوزان"
 			},
 			"p":7
 		},
@@ -367,7 +391,8 @@
 				"ru":"Быстрые существа",
 				"zh":"高机动性",
 				"nl":"Snelle schepsels",
-				"br":"Criaturas Rápidas"
+				"br":"Criaturas Rápidas",
+				"ar":"مخلوقات سريعه"
 			},
 			"p":7
 		},
@@ -381,7 +406,8 @@
 				"ru":"Разводимые существа",
 				"zh":"可繁殖",
 				"nl":"Broedbaar",
-				"br":"Reproduzíveis"
+				"br":"Reproduzíveis",
+				"ar":"قابل للتكاثر"
 			},
 			"p":8
 		},
@@ -395,7 +421,8 @@
 				"ru":"Ранняя стадия игры",
 				"zh":"早期",
 				"nl":"Begin spel",
-				"br":"Começo de Jogo"
+				"br":"Começo de Jogo",
+				"ar":"بداية اللعبة"
 			},
 			"p":8
 		},
@@ -409,7 +436,8 @@
 				"ru":"Средняя стадия игры",
 				"zh":"中期",
 				"nl":"Midden spel",
-				"br":"Meio de Jogo"
+				"br":"Meio de Jogo",
+				"ar":"منتصف اللعبة"
 			},
 			"p":8
 		},
@@ -423,7 +451,8 @@
 				"ru":"Конечная стадия игры",
 				"zh":"后期",
 				"nl":"Eind spel",
-				"br":"Fim de Jogo"
+				"br":"Fim de Jogo",
+				"ar":"نهاية اللعبة"
 			},
 			"p":8
 		},
@@ -437,7 +466,8 @@
 				"ru":"Боссы",
 				"zh":"BOSS",
 				"nl":"Bazen",
-				"br":"Chefes"
+				"br":"Chefes",
+				"ar":"الزعماء"
 			},
 			"p":8
 		},
@@ -459,7 +489,8 @@
 				"ru":"Карта",
 				"zh":"地图",
 				"nl":"Kaart",
-				"br":"Mapa"
+				"br":"Mapa",
+				"ar":"خريطه"
 			}
 		},
 		"2":{
@@ -472,7 +503,8 @@
 				"ru":"Эксклюзивный пакет расширения",
 				"zh":"扩展资料片限定",
 				"nl":"Alleen vekrijgbaar met uibreidings paket",
-				"br":"Pacore de expansão exclusivo"
+				"br":"Pacore de expansão exclusivo",
+				"ar":"حزمه"
 			}
 		},
 		"3":{
@@ -483,7 +515,8 @@
 				"fr":"Habitat",
 				"ru":"Среда обитания",
 				"zh":"栖息地",
-				"nl":"Habitat"
+				"nl":"Habitat",
+				"ar":"موطن"
 			}
 		},
 		"4":{
@@ -496,7 +529,8 @@
 				"ru":"Управляемость",
 				"zh":"骑乘性",
 				"nl":"Rijdbaarheid",
-				"br":"Guiabiliade"
+				"br":"Guiabiliade",
+				"ar":"قابلية التخيل"
 			}
 		},
 		"5":{
@@ -518,7 +552,8 @@
 				"th":"การจับ",
 				"tr":"Evcilleştirme",
 				"nl":"Temmen",
-				"br":"Domando"
+				"br":"Domando",
+				"ar":"ترويض"
 			}
 		},
 		"6":{
@@ -531,7 +566,8 @@
 				"ru":"Рацион",
 				"zh":"饮食",
 				"nl":"Dieët",
-				"br":"Dieta"
+				"br":"Dieta",
+				"ar":"التغذية"
 			}
 		},
 		"7":{
@@ -553,7 +589,8 @@
 				"th":"สิ่งที่มีประโยชน์",
 				"tr":"Faydaları",
 				"nl":"Nuttigheid",
-				"br":"Utilitário"
+				"br":"Utilitário",
+				"ar":"الأستخدامات"
 			}
 		},
 		"8":{
@@ -575,7 +612,8 @@
 				"th":"เพิ่มเติม",
 				"tr":"Daha Fazla",
 				"nl":"Meer",
-				"br":"Mais"
+				"br":"Mais",
+				"ar":"المزيد"
 			}
 		}
 	}
