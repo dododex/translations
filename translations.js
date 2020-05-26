@@ -9338,6 +9338,9 @@ var languages = {
 			name:"侏罗纪汉化组：Heavensn(波仔)、QQ南极企鹅、Benzema星、睡鲨、失足（污力毓）",
 			link:"http://www.playarkcn.com/"
 		},{
+			name:"包子侯爵(baoziii)",
+			link:"https://steamcommunity.com/id/baoziii/"	
+		},{
 			name:"Koan",
 			link:"https://github.com/Koan317"
 		}]
