@@ -23,7 +23,7 @@ The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com
 1. **Add your name to the list of translators.** If you'd like, feel free to add your name and (optionally) a URL the bottom of the file.
 1. **Submit your changes** This will be submitted as a [pull request](https://help.github.com/articles/using-pull-requests/) and will be approved. 
 
-*(If you have any trouble with these instructions, but still want to help, please contact me at dan14lev at gmail.com or [Join the Translator Chat!](https://discord.gg/KvmRSSV)!)*
+*(If you have any trouble with these instructions, but still want to help, please contact me at dan14lev at gmail.com or [Join the Translator Chat](https://discord.gg/KvmRSSV)!)*
 
 ## 2. TRANSLATING CREATURE NAMES & CATEGORIES
 1. **Open [creatures.json](creatures.json) or [categories.json](categories.json) and click "Edit."**
@@ -31,7 +31,7 @@ The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com
    
    If a creature (or entire language) is not officially translated in-game, DO NOT translate it, Dododex will fallback to the English version. The goal is to make the creature names accessible, but expected -- don't translate JUST to translate. If "Ovis" is not translated in-game, do not translate it to "Sheep" in your language, as users would likely look for "Ovis" on Dododex. If a creature does not have a translation, simply omit it rather than creating a copy of the English translation. However, for not-Latin characters please consider transliterating if you think it would be more helpful to speakers of your language. 
    
-   **IMPORTANT**: Dialetcs (For example: Brazilian Portuguese / "PT-BR") are not supported. Only two-letter country codes can be used (For example: PT). If there are any discrepencies between dialets, please open an issue on Github so it can be logged.
+   **IMPORTANT**: Regional versions of languages (For example: Brazilian Portuguese / "PT-BR") are also supported. However, it is beneficial to also have the base language ("PT"), since all PT-XX languages will fall back on the base one. If there are any discrepencies between regional languages, please open an issue on Github so it can be logged.
    
    All creature names and categories should be in Title Case (_Example_: "Attack Drone" not "attack drone").
 
@@ -60,6 +60,7 @@ The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com
 | it | Italian              |  3.8% | ✅ | ✅ | ✅
 | pl | Polish               |  2.4% | ✅ |
 | zh | Chinese (Simplified) |  2.2% | ✅ | ✅
+| zh-tw | Chinese (Taditional) |  ?% | ✅ | ✅
 | da | Danish               |  1.3% | ✅ | Partial
 | tr | Turkish              |  1.2% | ✅ |
 | sv | Swedish              |  1.0% |   |
