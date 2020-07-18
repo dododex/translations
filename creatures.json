@@ -38,7 +38,7 @@
 		"name_t":{
 			"da":"Klumpangler",
 			"de":"Anglerfisch",
-			"es":"Pez Abisal",
+			"es":"Pez abisal",
 			"fr":"Baudroie Abyssale",
 			"it":"Rana pescatrice",
 			"ja":"アンコウ",
@@ -160,6 +160,7 @@
 	},
 	"bloodstalker":{
 		"name_t":{
+			"es":"Acechador sangriento",
 			"zh":"血蛛"
 		}
 	},
@@ -177,6 +178,7 @@
 	"broodmotherlysrix":{
 		"name_t":{
 			"de":"Brutmutter Lysrix",
+			"es":"Matriarca Lysrix",
 			"fr":"Broodmother",
 			"it":"Regina ragno",
 			"ja":"ブルードマザー",
@@ -300,6 +302,7 @@
 	},
 	"deinonychus":{
 		"name_t":{
+			"es":"Deinonico",
 			"ja":"デイノニクス",
 			"ko":"데이노니쿠스",
 			"zh":"恐爪龙"
@@ -307,6 +310,7 @@
 	},
 	"deserttitan":{
 		"name_t":{
+			"es":"Titán del desierto",
 			"fr":"Titan du desert",
 			"it":"Titano del deserto",
 			"ru":"Пустынный Титан",
@@ -381,7 +385,7 @@
 	"direwolf":{
 		"name_t":{
 			"da":"Direulv",
-			"es":"Lobo Gigante",
+			"es":"Lobo gigante",
 			"fr":"Loup Sinistre",
 			"it":"Meta-lupo",
 			"ja":"ダイアウルフ",
@@ -457,6 +461,7 @@
 	},
 	"enforcer":{
 		"name_t":{
+			"es":"Ejecutor",
 			"fr":"Exécuteur",
 			"it":"Esecutore",
 			"zh":"执行者",
@@ -486,7 +491,7 @@
 	"featherlight":{
 		"name_t":{
 			"da":"Neonfjer",
-			"es":"Pluma reluciente",
+			"es":"Pluminoso",
 			"fr":"Plumineux",
 			"it":"Piumalucente",
 			"ja":"フェザーライト",
@@ -502,6 +507,7 @@
 	},
 	"foresttitan":{
 		"name_t":{
+			"es":"Titán del bosque",
 			"fr":"Titan de la foret",
 			"it":"Titano della foresta",
 			"ru":"Лесной Титан",
@@ -578,7 +584,7 @@
 		"name_t":{
 			"da":"Ildflue",
 			"de":"Leuchtkäfer",
-			"es":"Luciérnaga",
+			"es":"Electrociérnaga",
 			"fr":"Luciole",
 			"it":"Luccioinsetto",
 			"ja":"グロウバグ",
@@ -590,7 +596,7 @@
 	"glowtail":{
 		"name_t":{
 			"da":"Glødehale",
-			"es":"Lagartija reluciente",
+			"es":"Lumigeco",
 			"fr":"Gecko Luisant",
 			"it":"Lucciocoda",
 			"ja":"グロウテール",
@@ -631,6 +637,7 @@
 	},
 	"icetitan":{
 		"name_t":{
+			"es":"Titán de hielo",
 			"fr":"Titan de glace",
 			"it":"Titano del ghiaccio",
 			"ru":"Ледяной Титан",
@@ -680,7 +687,7 @@
 	},
 	"jugbug":{
 		"name_t":{
-			"es":"Pulga cantimplora",
+			"es":"Escarabajo cántaro",
 			"fr":"Insecte a eau",
 			"it":"Insetto brocca",
 			"ko":"물병벌레",
@@ -709,7 +716,6 @@
 	},
 	"karkinos":{
 		"name_t":{
-			"es":"Carcinos",
 			"fr":"Karkinos",
 			"it":"Carcino",
 			"ja":"カルキノス",
@@ -779,7 +785,6 @@
 	},
 	"lymantria":{
 		"name_t":{
-			"es":"Polilla del desierto",
 			"fr":"lymantria",
 			"it":"Limantria",
 			"ja":"マイマイガ",
@@ -801,6 +806,7 @@
 	},
 	"magmasaur":{
 		"name_t":{
+			"es":"Magmasaurio",
 			"zh":"熔喉龙"
 		},
 	},
@@ -901,7 +907,6 @@
 	},
 	"megamek":{
 		"name_t":{
-			"fr":"Mega Mek",
 			"it":"MegaMek",
 			"ru":"Мега Мех"
 		},
@@ -968,7 +973,6 @@
 	},
 	"morellatops":{
 		"name_t":{
-			"es":"Morelátopo",
 			"fr":"Morellatops",
 			"it":"Morellatopo",
 			"ja":"モレラトプス",
@@ -979,7 +983,7 @@
 	},
 	"mosasaurus":{
 		"name_t":{
-			"es":"Mosasaurio",
+			"es":"Mosasaurios",
 			"fr":"Mosasaure",
 			"it":"Mosasauro",
 			"ja":"モササウルス",
@@ -1001,7 +1005,7 @@
 	"nameless":{
 		"name_t":{
 			"da":"Navnløs",
-			"es":"Innombrable",
+			"es":"Sin nombre",
 			"fr":"Namless",
 			"it":"Innominabile",
 			"ja":"ネームレス",
@@ -1035,6 +1039,7 @@
 	"overseer":{
 		"name_t":{
 			"da":"Opsynsmand",
+			"es":"Supervisor",
 			"fr":"Overseer",
 			"it":"Sorvegliante",
 			"ja":"監視者",
@@ -1231,6 +1236,7 @@
 	},
 	"ravager":{
 		"name_t":{
+			"es":"Asolador",
 			"fr":"Ravageur",
 			"it":"Devastatore",
 			"ja":"ラベンジャー",
@@ -1293,7 +1299,7 @@
 	"rollrat":{
 		"name_t":{
 			"da":"Rulle Rotte",
-			"es":"Rata apisonadora",
+			"es":"Roto rata",
 			"fr":"Rat des profondeurs",
 			"ru":"Кротокрыс",
 			"zh":"翻滚鼠",
@@ -1306,7 +1312,6 @@
 	"royalgriffon":{
 		"name_t":{
 			"de":"Königs Griffon",
-			"es":"Real Griffon",
 			"it":"Reale Griffon",
 			"ja":"ロイヤル・グリフォン",
 			"ko":"로얄 그리폰",
@@ -1349,6 +1354,7 @@
 	},
 	"scout":{
 		"name_t":{
+			"es":"Explorador",
 			"zh":"侦察机",
 			"fr":"Eclaireur",
 			"ru":"Разведчик"
@@ -1356,7 +1362,7 @@
 	},
 	"seeker":{
 		"name_t":{
-			"es":"Buscador",
+			"es":"Rastreador",
 			"fr":"Devoreur",
 			"it":"Cercatore",
 			"ja":"シーカー",
@@ -1368,7 +1374,7 @@
 	"shinehorn":{
 		"name_t":{
 			"da":"Glimmerhorn",
-			"es":"Cuerno reluciente",
+			"es":"Lumiasta",
 			"fr":"Lumicorne",
 			"it":"Brillacorno",
 			"ja":"シャインホーン",
@@ -1379,6 +1385,7 @@
 	},
 	"snowowl":{
 		"name_t":{
+			"es":"Búho de las nieves",
 			"fr":"Hibou des neiges",
 			"it":"Gufo delle nevi",
 			"zh":"雪鸮",
@@ -1446,7 +1453,7 @@
 	"thornydragon":{
 		"name_t":{
 			"da":"Tornet Drage",
-			"es":"Dragón espinoso",
+			"es":"Diablo espinoso",
 			"fr":"Lezard Epineux",
 			"it":"Drago spinoso",
 			"ja":"モロクトカゲ",
@@ -1477,6 +1484,7 @@
 	},
 	"titanomyrma":{
 		"name_t":{
+			"es":"Titanomyrma Drone",
 			"de":"Titanomyrma Drohne",
 			"fr":"Titanomyrma",
 			"ja":"ティタノミルマ",
@@ -1549,6 +1557,7 @@
 	},
 	"velonasaur":{
 		"name_t":{
+			"es":"Velonasaurio",
 			"fr":"Velonasaur",
 			"it":"Velonasauro",
 			"zh":"刺面龙",
@@ -1583,7 +1592,6 @@
 	},
 	"wyvern":{
 		"name_t":{
-			"es":"Dragón víbora",
 			"fr":"Wyverne",
 			"it":"Viverna",
 			"ja":"ワイバーン",
