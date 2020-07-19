@@ -556,11 +556,6 @@
 			"zh":"巨蜂"
 		}
 	},
-	"gianttortoise":{
-		"NOTE":"IGNORE. DO NOT TRANSLATE. WILL BE REMOVED.",
-		"name_t":{
-		}
-	},
 	"giganotosaurus":{
 		"name_t":{
 			"es":"Giganotosaurio",
@@ -1282,7 +1277,7 @@
 			"it":"Ratto Arrotolatore"
 		}
 	},
-	"royalgriffon":{
+	"royalgriffin":{
 		"name_t":{
 			"de":"Königs Griffon",
 			"it":"Reale Griffon",
@@ -1317,7 +1312,7 @@
 	},
 	"sarco":{
 		"name_t":{
-			"fr":"sarcosaurus",
+			"fr":"Sarcosuchus",
 			"it":"Sarcosuco",
 			"ja":"サルコスクス",
 			"ko":"샤르코",
