@@ -269,7 +269,6 @@ en: {
 	timer: "Timer",
 	noDataYet: "No data yet",
 	internetRequired: "An internet connection is required",
-	timersNote: "Dododex must be running for alarm to sound. Push notifications coming soon!",
 	playerDamageMultiplier: "Player Damage Multiplier",
 	XPMultiplier: "XP Multiplier",
 	translatorCredit: "Thank you, translators!",
@@ -425,7 +424,8 @@ en: {
 	active: "Active",
 	multipliers: "Multipliers",
 	viewAll: "View All",
-	removeAds: "Remove Dododex Ads"
+	removeAds: "Remove Dododex Ads",
+	spawnMaps: "Spawn Maps"
 },
 ar: {
 	aboutStarveIntro: "\ الترويض بالتجويع\" طريقة يستخدمها بعض اللاعبون لتقليل خطر فقدان الموارد خلال ترويض المخلوق.",
@@ -664,7 +664,6 @@ ar: {
 	timer: "مؤقت",
 	noDataYet: "لا توجد بيانات حتى الآن",
 	internetRequired: "مطلوب اتصال بالإنترنت",
-	timersNote: "يجب تشغيل تنبيه الصوت في دودوديكس . ارسال الإخطارات سيأتي قريبا!",
 	playerDamageMultiplier: "قوه اللاعب المضاعف",
 	XPMultiplier: "مضاعف نقاط الخبرة",
 	translatorCredit: "شكراً لكم ايها المترجمون!",
@@ -820,7 +819,8 @@ ar: {
 	active: null,
 	multipliers: null,
 	viewAll: null,
-	removeAds: null
+	removeAds: null,
+	spawnMaps: null
 },
 cs: {
 	aboutStarveIntro: "\"Starve Taming\" je technika, kterou někteří přeživší používají k minimalizaci rizika ztráty zdrojů při ochočování stvoření.",
@@ -1059,7 +1059,6 @@ cs: {
 	timer: "Časovač",
 	noDataYet: "Nejsou zatím žádná data",
 	internetRequired: "Je nutné být připojen k internetu",
-	timersNote: "Dododex musí být spuštěn, aby upozornil na odpočet. Push notifikace jsou v plánu!",
 	playerDamageMultiplier: "Násobitel poškození hráčem",
 	XPMultiplier: "XP násobitel",
 	translatorCredit: "Děkuji Vám, překladatelé!",
@@ -1215,7 +1214,8 @@ cs: {
 	active: null,
 	multipliers: null,
 	viewAll: null,
-	removeAds: null
+	removeAds: null,
+	spawnMaps: null
 },
 da: {
 	aboutStarveIntro: "\"Tæmning ved udsultning\" er en teknik, som nogle overlevende anvender for at minimere risikoen for at minimere risikoen for tab af ressourcer under tæmning.",
@@ -1454,7 +1454,6 @@ da: {
 	timer: "Timer",
 	noDataYet: "Ingen data endnu",
 	internetRequired: "Kræver internet forbindelse",
-	timersNote: "Dododex skal køre for at kunne høre alarmen. Push notifikationer kommer snart!",
 	playerDamageMultiplier: "Spiller Skade Multiplikator",
 	XPMultiplier: "XP Multiplikator",
 	translatorCredit: "Tak til oversætterne!",
@@ -1610,7 +1609,8 @@ da: {
 	active: null,
 	multipliers: null,
 	viewAll: null,
-	removeAds: null
+	removeAds: null,
+	spawnMaps: null
 },
 de: {
 	aboutStarveIntro: "\"Zähmen durch Aushungern\" ist eine Technik, die manche Überlebende benutzen, um das Risiko eines Ressourcenverlusts während des Zähmens zu minimieren.",
@@ -1849,7 +1849,6 @@ de: {
 	timer: "Timer",
 	noDataYet: "Bisher Keine Daten vorhanden",
 	internetRequired: "Internetverbindung erforderlich",
-	timersNote: "Die Dododex App muss laufen damit ein Alarm ertönt. Push Benachrichtigungen erscheinen bald!",
 	playerDamageMultiplier: "Spielerschaden Multiplikator",
 	XPMultiplier: "Erfahrungs Multiplikator",
 	translatorCredit: "Vielen Dank an die Übersetzer",
@@ -2005,7 +2004,8 @@ de: {
 	active: null,
 	multipliers: null,
 	viewAll: null,
-	removeAds: null
+	removeAds: null,
+	spawnMaps: null
 },
 es: {
 	aboutStarveIntro: "La \"doma por hambre\" es una técnica usada por algunos supervivientes para minimizar el riesgo de perder recursos durante la doma de una criatura.",
@@ -2244,7 +2244,6 @@ es: {
 	timer: "Temporizador",
 	noDataYet: "Sin datos aún",
 	internetRequired: "Se requiere conexión a internet",
-	timersNote: "Dododex debe estar funcionando para que suene la alarma. ¡Notificaciones push próximamente!",
 	playerDamageMultiplier: "Multiplicador de daño de jugador",
 	XPMultiplier: "Multiplicador de experiencia",
 	translatorCredit: "¡Gracias, traductores!",
@@ -2400,7 +2399,8 @@ es: {
 	active: "Activo",
 	multipliers: "Multiplicadores",
 	viewAll: "Ver todo",
-	removeAds: "Eliminar publicidad de Dododex"
+	removeAds: "Eliminar publicidad de Dododex",
+	spawnMaps: null
 },
 fi: {
 	aboutStarveIntro: "\"Näännytys kesyttäminen\" Tekniikka jota jotkut selviytyjät käyttävät minimoidakseen riskin menettää resursseja kesyttämisen aikana.",
@@ -2639,7 +2639,6 @@ fi: {
 	timer: "Ajastin",
 	noDataYet: "Ei tietoa vielä",
 	internetRequired: "Nettiyhteys vaaditaan",
-	timersNote: "Dododexin täytyy olla päällä, että hälytys soi. Push-ilmoitukset tulossa pian!",
 	playerDamageMultiplier: "Pelaajan vahinkokerroin",
 	XPMultiplier: "kokemuspistekerroin",
 	translatorCredit: "Kiitos, kääntäjät!",
@@ -2795,7 +2794,8 @@ fi: {
 	active: null,
 	multipliers: null,
 	viewAll: null,
-	removeAds: null
+	removeAds: null,
+	spawnMaps: null
 },
 fr: {
 	aboutStarveIntro: "Le \"dressage par la faim\" est une méthode que certains survivants utilisent pour minimiser le risque de perdre des ressources lors du dressage.",
@@ -3034,7 +3034,6 @@ fr: {
 	timer: "Minuteur",
 	noDataYet: "Pas encore de données",
 	internetRequired: "Une connexion Internet est requise",
-	timersNote: "Dododex doit être en cours d'exécution pour que les alarmes sonnent. Les notifications vont bientôt arriver !",
 	playerDamageMultiplier: "Multiplicateur de dommage du joueur",
 	XPMultiplier: "Multiplicateur d'XP",
 	translatorCredit: "Merci aux traducteurs !",
@@ -3190,7 +3189,8 @@ fr: {
 	active: null,
 	multipliers: null,
 	viewAll: null,
-	removeAds: null
+	removeAds: null,
+	spawnMaps: null
 },
 el: {
 	aboutStarveIntro: "\Χαληναγώγηση της πείνας\" Είναι μια τεχνική που μερικοί επιζώντες χρησημοποιούν για να μειώσουν το ρίσκο του να χάσουν προμήθειες όταν εξημερώνουν ένα πλάσμα.",
@@ -3429,7 +3429,6 @@ el: {
 	timer: "Χρονοδιακόπτης",
 	noDataYet: "Δεν υπάρχουν δεδομένα ακόμα",
 	internetRequired: "Μία σύνδεση με το διακομιστή είναι αναγκαία",
-	timersNote: "Το Ντόντοντεξ πρέπει να λειτουργεί για να ηχήσει η ειδοποίηση. Ειδοποιήσεις έρχονται σύντομα!",
 	playerDamageMultiplier: "Πολλαπλασιαστής δύναμης του παίχτη",
 	XPMultiplier: "Πολλαπλασιαστής εμπειρίας",
 	translatorCredit: "Ευχαριστώ, Μεταφραστές!",
@@ -3585,7 +3584,8 @@ el: {
 	active: null,
 	multipliers: null,
 	viewAll: null,
-	removeAds: null
+	removeAds: null,
+	spawnMaps: null
 },
 he: {
 	aboutStarveIntro: "\"אילוף בהרעבה\" היא טכניקה שחלק מהשורדים משתמשים בה כדי לצמצם את הסיכון של לאבד משאבים בזמן אילוף יצור.",
@@ -3824,7 +3824,6 @@ he: {
 	timer: "טיימר",
 	noDataYet: "אין מידע עדיין",
 	internetRequired: "חיבור אינטרנט דרוש",
-	timersNote: "דודודקס חייב להיות מופעל כדי שההתרעה תפעל. עדכון מגיע בקרוב!",
 	playerDamageMultiplier: "מכפיל נזק של שחקן",
 	XPMultiplier: "מכפיל אקספי",
 	translatorCredit: "תודה, מתרגמים!",
@@ -3980,7 +3979,8 @@ he: {
 	active: null,
 	multipliers: null,
 	viewAll: null,
-	removeAds: null
+	removeAds: null,
+	spawnMaps: null
 },
 hr: {
 	aboutStarveIntro: "\"Pripitomljavanje izgladnjivanjem\" je tehnika koju neki preživljavači koriste kako bi minimalizirali rizik od gubljenja resurasa dok pripitomljavaju stvorenje.",
@@ -4219,7 +4219,6 @@ hr: {
 	timer: "Timer",
 	noDataYet: "No data yet",
 	internetRequired: "An internet connection is required",
-	timersNote: "Dododex must be running for alarm to sound. Push notifications coming soon!",
 	playerDamageMultiplier: "Player Damage Multiplier",
 	XPMultiplier: "XP Multiplier",
 	translatorCredit: "Thank you, translators!",
@@ -4375,7 +4374,8 @@ hr: {
 	active: null,
 	multipliers: null,
 	viewAll: null,
-	removeAds: null
+	removeAds: null,
+	spawnMaps: null
 },
 id: {
 	aboutStarveIntro: "\"Penjinakkan\" adalah teknik yang digunakan beberapa penyintas untuk meminimalkan risiko kehilangan sumber daya saat menjinakkan hewan. ",
@@ -4614,7 +4614,6 @@ id: {
 	timer: "Pengatur waktu",
 	noDataYet: "Belum ada data",
 	internetRequired: "Koneksi internet di butuhkan",
-	timersNote: "Dododex harus dijalankan agar alarm berbunyi. Pemberitahuan nontikiasi segera hadir!",
 	playerDamageMultiplier: "Damage pemain multipemain",
 	XPMultiplier: "XP Multi pemain",
 	translatorCredit: "Terima kasih, penerjemah!",
@@ -4770,7 +4769,8 @@ id: {
 	active: null,
 	multipliers: null,
 	viewAll: null,
-	removeAds: null
+	removeAds: null,
+	spawnMaps: null
 },
 it: {
 	aboutStarveIntro: "\"Starve Taming\" è una tecnica che alcuni giocatori utilizzano per minimizzare il rischio di perdere risorse durante la domazione",
@@ -5009,7 +5009,6 @@ it: {
 	timer: "Timer",
 	noDataYet: "Nessun dato",
 	internetRequired: "È richiesta una connessione ad internet",
-	timersNote: "Dododex deve essere in esecuzione perché l'allarme suoni. Notifiche push in arrivo!",
 	playerDamageMultiplier: "Moltiplicatore danno giocatore",
 	XPMultiplier: "Moltiplicatore ESP",
 	translatorCredit: "Grazie, traduttori!",
@@ -5165,7 +5164,8 @@ it: {
 	active: null,
 	multipliers: null,
 	viewAll: null,
-	removeAds: null
+	removeAds: null,
+	spawnMaps: null
 },
 ja: {
 	aboutStarveIntro: "\"空腹テイム\"は、資源を失うリスクを最小限に抑えるためにサバイバー達が使う技法です。",
@@ -5404,7 +5404,6 @@ ja: {
 	timer: "タイマー",
 	noDataYet: "データがありません",
 	internetRequired: "インターネットに接続して下さい",
-	timersNote: "Dododex実行中にしかアラームがなりません。プッシュ通知はもうすぐ実装されます！",
 	playerDamageMultiplier: "プレイヤーの攻撃力",
 	XPMultiplier: "経験値倍率",
 	translatorCredit: "翻訳者の皆さん、ありがとうございます！",
@@ -5560,7 +5559,8 @@ ja: {
 	active: null,
 	multipliers: null,
 	viewAll: null,
-	removeAds: null
+	removeAds: null,
+	spawnMaps: null
 },
 ko: {
 	aboutStarveIntro: "\"굶주림 조련\". 몇몇 생존자들이 생물을 길들이기 동안 음식 손실을 최소화하기 위해 사용하는 기술입니다.",
@@ -5799,7 +5799,6 @@ ko: {
 	timer: "타이머",
 	noDataYet: "데이터가 없습니다",
 	internetRequired: "인터넷이 필요합니다",
-	timersNote: "Dododex 는 소리를 위해 알람이 울립니다. 푸시 알람이 곧 울립니다!",
 	playerDamageMultiplier: "플레이어 근접공격력 배율",
 	XPMultiplier: "경험치 배율",
 	translatorCredit: "번역자들에게 감사를 표합니다!",
@@ -5955,7 +5954,8 @@ ko: {
 	active: null,
 	multipliers: null,
 	viewAll: null,
-	removeAds: null
+	removeAds: null,
+	spawnMaps: null
 },
 nb: {
 	aboutStarveIntro: "\"Sultetemming\" er en teknikk overlevende bruker for å minimalisere risken for å miste ressurser mens de temmer en skapning.",
@@ -6194,7 +6194,6 @@ nb: {
 	timer: "Timer",
 	noDataYet: "Ingen data enda",
 	internetRequired: " En internetts-tilkobling er nødvendig",
-	timersNote: "Dododex må være påslått for at alarmen skal gå av. Push-notifikasjoner kommer snart!",
 	playerDamageMultiplier: "Spillerskade multiplikator",
 	XPMultiplier: "XP Multiplikator",
 	translatorCredit: "Tusen takk, oversettere!",
@@ -6350,7 +6349,8 @@ nb: {
 	active: null,
 	multipliers: null,
 	viewAll: null,
-	removeAds: null
+	removeAds: null,
+	spawnMaps: null
 },
 nl: {
 	aboutStarveIntro: "\"Uitgehongerd Temmen\" Is een techniek die sommige overlevers gebruiken om zo min mogelijk risico te lopen om hun spullen te verliezen tijdens het temmen van een dino.",
@@ -6589,7 +6589,6 @@ nl: {
 	timer: "Timer",
 	noDataYet: "Nog geen gegevens bekend",
 	internetRequired: "Een internet verbinding is noodzakelijk",
-	timersNote: "Dododex moet actief zijn om het alarm af te laten gaan, notificaties worden binnenkort verwacht!",
 	playerDamageMultiplier: "Speler schade vermenigvuldiger",
 	XPMultiplier: "XP Vermenigvuldiger",
 	translatorCredit: "Bedankt vertalers!",
@@ -6745,7 +6744,8 @@ nl: {
 	active: null,
 	multipliers: null,
 	viewAll: null,
-	removeAds: null
+	removeAds: null,
+	spawnMaps: null
 },
 pl:{
 	aboutStarveIntro: "\"Technika Głodowania\" to technika używana przez graczy do zminimalizowania traconych surowców podczas oswajania kreatury.",
@@ -6984,7 +6984,6 @@ pl:{
 	timer: "Stoper",
 	noDataYet: "Brak danych",
 	internetRequired: "Wymagane połączenie z internetem",
-	timersNote: "Dododex musi mieć uruchomiony alarm dźwiękowy.Powiadomienia \"Push\" już wkrótce!",
 	playerDamageMultiplier: "Mnożnik Obrażeń Gracza",
 	XPMultiplier: "Mnożnik Doświadczenia",
 	translatorCredit: "Dziękuję,Tłumacze!",
@@ -7140,7 +7139,8 @@ pl:{
 	active: null,
 	multipliers: null,
 	viewAll: null,
-	removeAds: null
+	removeAds: null,
+	spawnMaps: null
 },
 "pt-br":{
 	aboutStarveIntro: "\"Tempo de Fome\" é uma técnica que alguns sobreviventes usam para minimizar o risco de perderem recursos enquanto domam sua criatura.",
@@ -7379,7 +7379,6 @@ pl:{
 	timer: "Tempo",
 	noDataYet: "Ainda sem dados",
 	internetRequired: "É nescessário conexão com a internet",
-	timersNote: "Dododex deverá estar rodando para ouvir o som do alarme. Notificações no Push, virão em breve!",
 	playerDamageMultiplier: "Multiplicador de dano do jogador",
 	XPMultiplier: "Multiplicador de XP",
 	translatorCredit: "Obrigado, Tradutores!",
@@ -7535,7 +7534,8 @@ pl:{
 	active: null,
 	multipliers: null,
 	viewAll: null,
-	removeAds: null
+	removeAds: null,
+	spawnMaps: null
 },
 ro: {
 	aboutStarveIntro: "\"Îmblânzirea prin înfometare\" este o tehnică pe care unii supravieţuitori o folosesc pentru a minimiza riscul de a pierde resurse în timpul îmblânzirii unei creaturi.",
@@ -7774,7 +7774,6 @@ ro: {
 	timer: "Cronometru",
 	noDataYet: "Nu există date încă",
 	internetRequired: "Conexiunea la internet este necesară",
-	timersNote: "Dododex trebuie să fie deschis pentru ca alarma să sune. Dododex must be running for alarm to sound. Notificări în curând!",
 	playerDamageMultiplier: "Multiplicator al Damage-ului Jucătorului",
 	XPMultiplier: "Multiplicator XP",
 	translatorCredit: "Mulțumim traducătorilor!",
@@ -7930,7 +7929,8 @@ ro: {
 	active: null,
 	multipliers: null,
 	viewAll: null,
-	removeAds: null
+	removeAds: null,
+	spawnMaps: null
 },
 ru: {
 	aboutStarveIntro: "\"Приручение с голоданием\" - это техника приручения существ, которая помогает выжившим минимизировать риск потери ресурсов в процессе приручения.",
@@ -8169,7 +8169,6 @@ ru: {
 	timer: "Таймер",
 	noDataYet: "Все еще нет данных",
 	internetRequired: "Требуется подключение к Интернету",
-	timersNote: "Dododex должен быть запущен, для того, чтобы услышать звуки сигнала. Скоро ожидаются push уведомления!",
 	playerDamageMultiplier: "Множитель урона игрока",
 	XPMultiplier: "Множитель опыта",
 	translatorCredit: "Спасибо переводчикам!",
@@ -8325,7 +8324,8 @@ ru: {
 	active: null,
 	multipliers: null,
 	viewAll: null,
-	removeAds: null
+	removeAds: null,
+	spawnMaps: null
 },
 th: {
 	aboutStarveIntro: "\"การจับแบบอดอาหาร\" คือเทคนิคที่ผู้เล่นบางคนใช้เพื่อลดความเสี่ยงของการสูญเสียทรัพยากรณ์ในขณะจับไดโน",
@@ -8527,7 +8527,7 @@ th: {
 	timerFinished: "จับเวลาเสร็จแล้ว!",
 	deleteConfirm: "คุณแน่ใจนะว่าจะลบ?",
 	cancel: "ยกเลิก",
-		delete: "ลบ",
+	delete: "ลบ",
 	deleteAllTimers: "ลบตัวจับเวลาทั้งหมด",
 	deleteAllTimersConfirm: "คุณแน่ใจนะว่าจะลบตัวจับเวลาทั้งหมด?",
 	tooMuchFood: "อุ๊บส์ คุณใช้อาหารมากเกินไป อาหารที่เกินมาจะไม่ถูกนับ",
@@ -8564,7 +8564,6 @@ th: {
 	timer: "ตัวจับเวลา",
 	noDataYet: "ยังไม่มีข้อมูล",
 	internetRequired: "ต้องการเชื่อมต่ออินเทอร์เน็ต",
-	timersNote: "โดโด้เด๊กซ์จำเป็นต้องทำงานในโหมดการเตือนเพื่อจะได้มีเสียงเตือน ระบบการส่งการแจ้งเตือนจะมีในเร็ว ๆ นี้!",
 	playerDamageMultiplier: "ตัวคูณดามเมจของผู้เล่น",
 	XPMultiplier: "ตัวคูณค่าประสบการณ์",
 	translatorCredit: "ขอขอบคุณผู้แปล!",
@@ -8720,7 +8719,8 @@ th: {
 	active: null,
 	multipliers: null,
 	viewAll: null,
-	removeAds: null
+	removeAds: null,
+	spawnMaps: null
 },
 tr: {
 	aboutStarveIntro: "\"Aç Bırakmak\" evcilleştirme sırasında açlık değerinin düşmesini bekleyerek, kaynak kaybetme riskini en aza indirgemek için kullanılan bir yöntemdir.",
@@ -8959,7 +8959,6 @@ tr: {
 	timer: "Zamanlayıcı",
 	noDataYet: "Henüz bir veri yok",
 	internetRequired: "Ağ bağlantısı gerekiyor",
-	timersNote: "Alarm sesi için Dododex çalışır durumda olması gerekiyor. Çok Yakında bildirim gelecek!",
 	playerDamageMultiplier: "Oyuncu Hasar Çarpanı",
 	XPMultiplier: "XP Çarpanı",
 	translatorCredit: "Çevirmenlere sonsuz teşekkürler!",
@@ -9115,7 +9114,8 @@ tr: {
 	active: null,
 	multipliers: null,
 	viewAll: null,
-	removeAds: null
+	removeAds: null,
+	spawnMaps: null
 },
 zh: {
 	aboutStarveIntro: "\"饥饿驯服法\" 这项技术被很多幸存者用来最小化在驯服生物时的资源损失。",
@@ -9354,7 +9354,6 @@ zh: {
 	timer: "计时器",
 	noDataYet: "暂无数据",
 	internetRequired: "需要网络连接",
-	timersNote: "Dododex必须在警告声音开启的情况下运行. 推送通知功能即将到来!",
 	playerDamageMultiplier: "玩家伤害倍数",
 	XPMultiplier: "经验倍数",
 	translatorCredit: "感谢所有的翻译志愿者!",
@@ -9510,7 +9509,8 @@ zh: {
 	active: null,
 	multipliers: null,
 	viewAll: null,
-	removeAds: null
+	removeAds: null,
+	spawnMaps: null
 }}
 
 /* Language names should be in native language */
