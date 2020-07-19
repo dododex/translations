@@ -2400,7 +2400,7 @@ es: {
 	active: "Activo",
 	multipliers: "Multiplicadores",
 	viewAll: "Ver todo",
-	removeAds: "Eliminar publicidad"
+	removeAds: "Eliminar publicidad de Dododex"
 },
 fi: {
 	aboutStarveIntro: "\"Näännytys kesyttäminen\" Tekniikka jota jotkut selviytyjät käyttävät minimoidakseen riskin menettää resursseja kesyttämisen aikana.",
