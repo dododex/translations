@@ -1,4 +1,3 @@
-
 "APPDATA":{
 	"categories":{
 		"0":{
@@ -13,7 +12,7 @@
 				"ja":"全て",
 				"ko":"모든",
 				"pl":"Wszystko",
-				"br":"Tudo",
+				"pt":"Tudo",
 				"zh":"全部",
 				"ru":"Все",
 				"ro":"Toate",
@@ -34,7 +33,7 @@
 				"zh":"新的",
 				"fr":"Nouveau",
 				"nl":"Nieuw",
-				"br":"Novo",
+				"pt":"Novo",
 				"ar":"جديد"
 			},
 			"o":1
@@ -42,44 +41,52 @@
 		"2":{
 			"n":"The Island",
 			"o":2,
-			"p":1
+			"p":1,
+			"s":"Spawn_Map_(The_Island)"
 		},
 		"3":{
 			"n":"The Center",
 			"o":3,
-			"p":1
+			"p":1,
+			"s":"Spawn_Map_(The_Center)"
 		},
 		"4":{
 			"n":"Scorched Earth",
 			"o":4,
-			"p":1
+			"p":1,
+			"s":"Spawn_Map_(Scorched_Earth)"
 		},
 		"5":{
 			"n":"Ragnarok",
 			"o":5,
-			"p":1
+			"p":1,
+			"s":"Spawn_Map_(Ragnarok)"
 		},
 		"6":{
 			"n":"Aberration",
 			"o":6,
-			"p":1
+			"p":1,
+			"s":"Spawn_Map_(Aberration)"
 		},
 		"37":{
 			"n":"Extinction",
 			"nt":{},
 			"o":7,
 			"p":1,
-			"w":0
+			"w":0,
+			"s":"Spawn_Map_(Extinction)"
 		},
 		"41":{
 			"n":"Genesis",
 			"o":8,
-			"p":1
+			"p":1,
+			"s":"Spawn_Map_(Genesis:_Part_1)"
 		},
 		"43":{
 			"n":"Crystal Isles",
 			"o":9,
-			"p":1
+			"p":1,
+			"s":"Spawn_Map_(Extinction)"
 		},
 		"7":{
 			"n":"New To Scorched Earth",
@@ -121,7 +128,7 @@
 				"ru":"Сухопутный",
 				"zh":"陆生",
 				"nl":"Aards",
-				"br":"Terrestre",
+				"pt":"Terrestre",
 				"ar":"أنسان"
 			},
 			"o":30,
@@ -137,7 +144,7 @@
 				"ru":"Воздушный",
 				"zh":"飞行",
 				"nl":"Vliegend",
-				"br":"Aéreo",
+				"pt":"Aéreo",
 				"ar":"جوي"
 			},
 			"o":31,
@@ -153,7 +160,7 @@
 				"ru":"Водный",
 				"zh":"水生",
 				"nl":"Aquatisch",
-				"br":"Aquático",
+				"pt":"Aquático",
 				"ar":"مائي"
 			},
 			"o":32,
@@ -169,7 +176,7 @@
 				"ru":"Ездовой",
 				"zh":"可骑乘",
 				"nl":"Rijdbaar",
-				"br":"Montável",
+				"pt":"Montável",
 				"ar":"قابل للتخلص منه"
 			},
 			"o":40,
@@ -185,7 +192,7 @@
 				"ru":"Обычное седло",
 				"zh":"工具鞍",
 				"nl":"Bruikbaar Zadel",
-				"br":"Sela Utilitária",
+				"pt":"Sela Utilitária",
 				"ar":"سرج مفيد"
 			},
 			"o":41,
@@ -201,7 +208,7 @@
 				"ru":"Седло-платформа",
 				"zh":"平台鞍",
 				"nl":"Platform Zadel",
-				"br":"Sela Plataforma",
+				"pt":"Sela Plataforma",
 				"ar":"منصة السرج"
 			},
 			"o":42,
@@ -217,7 +224,7 @@
 				"ru":"Многоместный",
 				"zh":"多座位",
 				"nl":"Meerdere-Passagiers",
-				"br":"Multi-Passageiros",
+				"pt":"Multi-Passageiros",
 				"ar":"متعدد الركاب"
 			},
 			"o":43,
@@ -233,7 +240,7 @@
 				"ru":"Тек-седло",
 				"zh":"泰克鞍",
 				"nl":"Tek Zadel",
-				"br":"Sela Tecnológica",
+				"pt":"Sela Tecnológica",
 				"ar":"سرج تيك"
 			},
 			"o":44,
@@ -249,7 +256,7 @@
 				"ru":"Плечевой упор",
 				"zh":"可拾起",
 				"nl":"Schouder Metgezel",
-				"br":"Montar nos Ombros",
+				"pt":"Montar nos Ombros",
 				"ar":"يوضع على الكتف"
 			},
 			"o":45,
@@ -265,7 +272,7 @@
 				"ru":"Приручаемый",
 				"zh":"可驯服",
 				"nl":"Tembaar",
-				"br":"Domesticável",
+				"pt":"Domesticável",
 				"ar":"قابل للترويض"
 			},
 			"o":50,
@@ -281,7 +288,7 @@
 				"ru":"Не приручаемый",
 				"zh":"不可驯服",
 				"nl":"Niet Tembaar",
-				"br":"Não Domesticável",
+				"pt":"Não Domesticável",
 				"ar":"غير قابل للترويض"
 			},
 			"o":51,
@@ -297,7 +304,7 @@
 				"ru":"Приручение оглушением",
 				"zh":"麻醉驯服",
 				"nl":"Temmen door bewusteloosheid",
-				"br":"Domável Inconsciente",
+				"pt":"Domável Inconsciente",
 				"ar":"ترويض عبر التخدير"
 			},
 			"o":52,
@@ -313,7 +320,7 @@
 				"ru":"Пассивное приручение",
 				"zh":"和平驯服",
 				"nl":"Passief temmen",
-				"br":"Domesticação passiva",
+				"pt":"Domesticação passiva",
 				"ar":"ترويض سلمي"
 			},
 			"o":53,
@@ -329,7 +336,7 @@
 				"ru":"Быстрое и лёгкое приручение",
 				"zh":"快速/简易驯服",
 				"nl":"Snel & Makkelijk te temmen",
-				"br":"Domesticação rápida e tranquila",
+				"pt":"Domesticação rápida e tranquila",
 				"ar":"ترويض سريع / سهل"
 			},
 			"o":54,
@@ -345,7 +352,7 @@
 				"ru":"Плотоядные",
 				"zh":"肉食性",
 				"nl":"Carnivoren",
-				"br":"Carnívoros",
+				"pt":"Carnívoros",
 				"ar":"آكل لحوم"
 			},
 			"o":60,
@@ -361,7 +368,7 @@
 				"ru":"Травоядные",
 				"zh":"草食性",
 				"nl":"Herbivoren",
-				"br":"Herbívoros",
+				"pt":"Herbívoros",
 				"ar":"آكل أعشاب"
 			},
 			"o":61,
@@ -377,7 +384,7 @@
 				"ru":"Всеядные",
 				"zh":"杂食性",
 				"nl":"Omnivoren",
-				"br":"Onívoros",
+				"pt":"Onívoros",
 				"ar":"قارت"
 			},
 			"o":62,
@@ -393,7 +400,7 @@
 				"ru":"Ихтиофаги",
 				"zh":"鱼食性",
 				"nl":"Viseters",
-				"br":"Piscívoros",
+				"pt":"Piscívoros",
 				"ar":"حشرات"
 			},
 			"o":63,
@@ -409,7 +416,7 @@
 				"ru":"Боевые существа",
 				"zh":"战斗用",
 				"nl":"Gevechts schepsels",
-				"br":"Criaturas de Combate",
+				"pt":"Criaturas de Combate",
 				"ar":"مخلوقات المعركة"
 			},
 			"o":70,
@@ -425,7 +432,7 @@
 				"ru":"Собиратели",
 				"zh":"资源采集",
 				"nl":"Verzamelaars",
-				"br":"Colhedores",
+				"pt":"Colhedores",
 				"ar":"جمع الموارد"
 			},
 			"o":71,
@@ -441,7 +448,7 @@
 				"ru":"Транспортировщики",
 				"zh":"高负重",
 				"nl":"Werk Ezel",
-				"br":"Transportadores",
+				"pt":"Transportadores",
 				"ar":"حمل الاوزان"
 			},
 			"o":72,
@@ -457,7 +464,7 @@
 				"ru":"Быстрые существа",
 				"zh":"高机动性",
 				"nl":"Snelle schepsels",
-				"br":"Criaturas Rápidas",
+				"pt":"Criaturas Rápidas",
 				"ar":"مخلوقات سريعه"
 			},
 			"o":73,
@@ -473,7 +480,7 @@
 				"ru":"Разводимые существа",
 				"zh":"可繁殖",
 				"nl":"Broedbaar",
-				"br":"Reproduzíveis",
+				"pt":"Reproduzíveis",
 				"ar":"قابل للتكاثر"
 			},
 			"o":80,
@@ -489,7 +496,7 @@
 				"ru":"Ранняя стадия игры",
 				"zh":"早期",
 				"nl":"Begin spel",
-				"br":"Começo de Jogo",
+				"pt":"Começo de Jogo",
 				"ar":"بداية اللعبة"
 			},
 			"o":81,
@@ -505,7 +512,7 @@
 				"ru":"Средняя стадия игры",
 				"zh":"中期",
 				"nl":"Midden spel",
-				"br":"Meio de Jogo",
+				"pt":"Meio de Jogo",
 				"ar":"منتصف اللعبة"
 			},
 			"o":82,
@@ -521,7 +528,7 @@
 				"ru":"Конечная стадия игры",
 				"zh":"后期",
 				"nl":"Eind spel",
-				"br":"Fim de Jogo",
+				"pt":"Fim de Jogo",
 				"ar":"نهاية اللعبة"
 			},
 			"o":83,
@@ -537,7 +544,7 @@
 				"ru":"Боссы",
 				"zh":"BOSS",
 				"nl":"Bazen",
-				"br":"Chefes",
+				"pt":"Chefes",
 				"ar":"الزعماء"
 			},
 			"o":84,
@@ -564,11 +571,10 @@
 				"it":"Mappa",
 				"fr":"Carte",
 				"es":"Mapa",
-				"fr":"Monde",
 				"ru":"Карта",
 				"zh":"地图",
 				"nl":"Kaart",
-				"br":"Mapa",
+				"pt":"Mapa",
 				"ar":"خريطه"
 			}
 		},
@@ -582,7 +588,7 @@
 				"ru":"Эксклюзивный пакет расширения",
 				"zh":"扩展资料片限定",
 				"nl":"Alleen vekrijgbaar met uibreidings paket",
-				"br":"Pacore de expansão exclusivo",
+				"pt":"Pacore de expansão exclusivo",
 				"ar":"حزمه"
 			}
 		},
@@ -608,7 +614,7 @@
 				"ru":"Управляемость",
 				"zh":"骑乘性",
 				"nl":"Rijdbaarheid",
-				"br":"Guiabiliade",
+				"pt":"Guiabiliade",
 				"ar":"قابلية التخيل"
 			}
 		},
@@ -617,21 +623,19 @@
 			"nt":{
 				"cs":"Ochočování",
 				"da":"Tæmning",
-				"es":"Domando",
 				"fr":"Apprivoisement",
 				"de":"Zähmen",
 				"it":"Domazione",
 				"ja":"Taming",
 				"ko":"조련",
 				"pl":"Oswajanie",
-				"br":"Domando",
+				"pt":"Domando",
 				"zh":"驯服",
 				"ru":"Приручение",
 				"ro":"Îmblânzire",
 				"th":"การจับ",
 				"tr":"Evcilleştirme",
 				"nl":"Temmen",
-				"br":"Domando",
 				"ar":"ترويض"
 			}
 		},
@@ -645,7 +649,7 @@
 				"ru":"Рацион",
 				"zh":"饮食",
 				"nl":"Dieët",
-				"br":"Dieta",
+				"pt":"Dieta",
 				"ar":"التغذية"
 			}
 		},
@@ -661,14 +665,13 @@
 				"ja":"ユーティリティ",
 				"ko":"활용",
 				"pl":"Umiejętność Ostateczna",
-				"br":"Utilidade",
+				"pt":"Utilitário",
 				"zh":"实用性",
 				"ru":"Полезность",
 				"ro":"Utilitate",
 				"th":"สิ่งที่มีประโยชน์",
 				"tr":"Faydaları",
 				"nl":"Nuttigheid",
-				"br":"Utilitário",
 				"ar":"الأستخدامات"
 			}
 		},
@@ -684,14 +687,13 @@
 				"ja":"More",
 				"ko":"추가정보",
 				"pl":"Więcej",
-				"br":"Mais",
+				"pt":"Mais",
 				"zh":"更多",
 				"ru":"Больше",
 				"ro":"Mai mult",
 				"th":"เพิ่มเติม",
 				"tr":"Daha Fazla",
 				"nl":"Meer",
-				"br":"Mais",
 				"ar":"المزيد"
 			}
 		}
