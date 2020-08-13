@@ -2079,7 +2079,7 @@ es: {
 	idealIncubationTemp: "Temperatura ideal de incubación",
 	aboutStarveBenefits: "Si una criatura es atacada en mitad del método de doma normal, puedes perder toda la comida que ha consumido así como cualquier cosa que hubiera en su inventario. La doma por hambre no afecta a la eficiencia de la doma.",
 	aboutStarveUntilIsNotHead: "Si NO se muestra",
-	aboutStarveUntilIsHead: "Si el contador HASTA HAMBRIENTO SI se muestra",
+	aboutStarveUntilIsHead: "Si el contador HASTA HAMBRIENTO se muestra",
 	impactsMeleeWeapons: "Afecta a armas cuerpo a cuerpo.",
 	aboutStarveMethod: "En el método de doma normal, dejas a una criatura inconsciente e inmediatamente se le pone toda la comida requerida en su inventario y comerá una pieza cada vez que esté suficientemente hambriento. Con la doma por hambre, una vez la criatura esta inconsiente, se espera antes de darle comida o narcóticos. Una vez la criatura tiene suficiente hambre para comer toda la comida a la vez, se le alimenta con ella.",
 	incPerLvl: "Incr. por nivel",
@@ -2109,7 +2109,7 @@ es: {
 	primary: "Principal",
 	producedBy: "Producido por",
 	pts: "pts",
-	rate: "Valora",
+	rate: "Reducción",
 	rateDododex: "Valora Dododex",
 	rateThisCreature: "Valora esta criatura",
 	ratingsNote: "Valoraciones hasta 5. Recogida de {0} usuarios de Dododex.",
@@ -2163,8 +2163,8 @@ es: {
 	withBonus: "Con bono de doma",
 	xpk: "XP por muerte",
 	yourCreature: "Tu criatura",
-	aboutStarveUntilIs: "Tu criatura no tiene un valor máximo suficiente en el atributo comida para comer toda la comida necesaria de una vez. El contador HASTA HAMBRIENTO indica cuando el valor del atributo comida de tu criatura llegará a 0. Cuando esté cerca de 0, aliméntala con todo lo que pueda comer y desde ahí continua con el método normal de doma.",
-	aboutStarveUntilIsNot: "Tu criatura tiene un valor máximo suficiente en el atributo comida para comer toda la comida necesaria una cuando esté suficientemente hambrienta. Cuando el temporizador HASTA DOMADO esté llegando a 0, ¡empieza a alimentar!",
+	aboutStarveUntilIs: "Tu criatura no tiene un valor máximo suficiente en el atributo comida para comer toda la comida necesaria de una vez. El contador HASTA HAMBRIENTO indica cuándo el valor del atributo comida de tu criatura llegará a 0. Cuando esté cerca de 0, aliméntala con todo lo que pueda comer y desde ahí continua con el método normal de doma.",
+	aboutStarveUntilIsNot: "Tu criatura tiene un valor máximo suficiente en el atributo comida para comer toda la comida necesaria de golpe cuando esté suficientemente hambrienta. Cuando el temporizador HASTA DOMADO esté llegando a 0, ¡empieza a alimentar!",
 	minimumTime: "Tiempo mínimo",
 	comparisonNote: "Como las estadísticas base (nivel 1) clasifican ante otras criaturas.",
 	pauseTimer: "Pausa temporizador",
@@ -2181,7 +2181,7 @@ es: {
 	wild: "Salvaje",
 	perLvl: "Por Nvl",
 	patchNotes: "Notas de parche",
-	entityIDs: "IDs de entidad",
+	entityIDs: "IDs de entidades",
 	hideFullDetails: "Ocultar detalles completos",
 	beaconLocations: "Localizaciónes de balizas",
 	beaconItems: "Objetos en balizas",
@@ -2218,7 +2218,7 @@ es: {
 	tip: "Consejo",
 	primaryAttack: "Daño base del ataque principal",
 	secondaryAttack: "Ataque secundario",
-	sprinting: "Correr",
+	sprinting: "Corriendo",
 	ranked: "Clasificado #{0}",
 	reportPrompt: "¿Has encontrado algo mal?",
 	notEnoughFood: "Sin suficiente comida. Prueba a añadir:",
@@ -2227,7 +2227,7 @@ es: {
 	estData: "Datos estimados",
 	estDataNote: "Los datos de doma de esta criatura están basados en pruebas propias de Dododex puesto que el kit de desarrollador aun no ha sido publicado. Asegurate de llevar objetos de más y reporta cualquier error en \"Acerca de / Feedback\".",
 	copyrightNote: "Las imagenes de objetos y criaturas pertenecen a Studio Wildcard y son usadas con permiso.",
-	xUsed: "{0} usado",
+	xUsed: "{0} usados",
 	consumingX: "Consumiendo {0}...",
 	xToFill: "{0} para llenar",
 	alarm: "Alarma",
@@ -2257,7 +2257,7 @@ es: {
 	all: "Todos",
 	tamingKO: "Doma y K.O.",
 	utility: "Utilidad",
-	encountering: "Encuentros",
+	encountering: "Si te lo encuentras",
 	loadMore: "Cargar más",
 	noTips: "Lo siento, no hay consejos. ¡Sé el primero en añadir uno!",
 	betaTesting: "Versión de pruebas",
@@ -2281,7 +2281,7 @@ es: {
 	torporNotif: "¡Tu {0} se despertó!",
 	resourceCalculator: "Calculadora de recursos",
 	adminCommands: "Comandos de administrador",
-	fitsThrough: "Entra en",
+	fitsThrough: "Pasa por",
 	bossArenas: "Arenas de Jefe",
 	recipes: "Recetas",
 	favorites: "Favoritos",
@@ -2334,7 +2334,7 @@ es: {
 	uspsNote: "Activa esto si está activado en tu configuración de Ark (bajo \"General\"). Esto incrementará todos tus multiplicadores.",
 	perItem: "Por objeto",
 	maxTip: "Pulsa el número en la columna \"{0}\" para cambiar rápidamente a esa comida.",
-	qty: "Cantidad",
+	qty: "Cant.",
 	dismiss: "Descartar",
 	cloningCalculator: "Calculadora de clonado",
 	translate: "Traducir",
@@ -2400,7 +2400,7 @@ es: {
 	multipliers: "Multiplicadores",
 	viewAll: "Ver todo",
 	removeAds: "Eliminar publicidad de Dododex",
-	spawnMaps: null
+	spawnMaps: "Mapas donde aparece"
 },
 fi: {
 	aboutStarveIntro: "\"Näännytys kesyttäminen\" Tekniikka jota jotkut selviytyjät käyttävät minimoidakseen riskin menettää resursseja kesyttämisen aikana.",
@@ -9569,7 +9569,7 @@ var languages = {
 		credit:[{
 			name:"Fernando Román Gracia Crespo"
 		},{
-			name:"Jesus Fernandez Castillo"
+			name:"Jesus Fernandez aka Depink"
 		}]
 	},
 	fi:{
