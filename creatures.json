@@ -5,7 +5,6 @@
 			"it":"Acatina",
 			"ja":"アフリカマイマイ",
 			"ko":"아카티나",
-			"pt":"Achatina"
 			"ru":"Ахатина",
 			"zh":"玛瑙螺"
 		}
@@ -17,7 +16,7 @@
 			"it":"Allosauro",
 			"ja":"アロサウルス",
 			"ko":"알로사우르스",
-			"pt":"Alossauro"
+			"pt-br":"Alossauro",
 			"ru":"Аллозавр",
 			"zh":"异特龙"
 		}
@@ -29,7 +28,7 @@
 			"ja":"アンモナイト",
 			"ko":"암모나이트",
 			"ru":"Аммонит",
-			"pt":"Amonóide"
+			"pt-br":"Amonóide",
 			"zh":"菊石"
 		}
 	},
@@ -42,7 +41,7 @@
 			"it":"Rana pescatrice",
 			"ja":"アンコウ",
 			"ko":"앵글러피쉬",
-			"pt":"Peixe-Pescador"
+			"pt-br":"Peixe-Pescador",
 			"ru":"Удильщик",
 			"zh":"鮟鱇鱼"
 		}
@@ -54,7 +53,7 @@
 			"it":"Anchilosauro",
 			"ja":"アンキロサウルス",
 			"ko":"안킬로사우르스",
-			"pt":"Anquilossauro"
+			"pt-br":"Anquilossauro",
 			"ru":"Анкилозавр",
 			"zh":"甲龙"
 		}
@@ -64,7 +63,7 @@
 			"fr":"Araigne",
 			"ja":"アラネオ",
 			"ko":"아라네오",
-			"pt":"Aranha"
+			"pt-br":"Aranha",
 			"ru":"Аранео",
 			"zh":"蜘蛛"
 		}
@@ -75,7 +74,7 @@
 			"it":"Archeotterige",
 			"ja":"始祖鳥",
 			"ko":"시조새",
-			"pt":"Arqueoptérix"
+			"pt-br":"Arqueoptérix",
 			"ru":"Археоптерикс",
 			"zh":"始祖鸟"
 		}
@@ -85,7 +84,6 @@
 			"fr":"Argentavis",
 			"ja":"アルゲンタヴィス",
 			"ko":"아르젠타비스",
-			"pt":"Argentarvis"
 			"ru":"Аргентавис",
 			"zh":"阿根廷巨鹰"
 		}
@@ -95,7 +93,6 @@
 			"fr":"Arthropleura",
 			"ja":"アースロプレウラ",
 			"ko":"아트로플레우라",
-			"pt":"Arthropleura"
 			"ru":"Артроплевра",
 			"zh":"古马陆"
 		}
@@ -113,7 +110,7 @@
 			"es":"Dron de ataque",
 			"fr":"Drone d'attaque",
 			"ja":"アタックドローン",
-			"pt":"Drone de Ataque"
+			"pt-br":"Drone de Ataque",
 			"ru":"Атакующий Дрон",
 			"zh":"攻击无人机"
 		}
@@ -124,7 +121,7 @@
 			"it":"Barionice",
 			"ko":"바리오닉스",
 			"ru":"Барионикс",
-			"pt":"Barionix"
+			"pt-br":"Barionix",
 			"ja":"バリオニクス",
 			"zh":"重爪龙"
 		}
@@ -136,7 +133,7 @@
 			"it":"Basilisco",
 			"ja":"バジリスク",
 			"ko":"바실리스크",
-			"pt":"Basilísco"
+			"pt-br":"Basilísco",
 			"ru":"Василиск",
 			"zh":"毒蜥"
 		}
@@ -147,7 +144,7 @@
 			"it":"Basilosauro",
 			"ja":"バシロサウルス",
 			"ko":"바실로사우르스",
-			"pt":"Basilossauro"
+			"pt-br":"Basilossauro",
 			"ru":"Базилозавр",
 			"zh":"龙王鲸"
 		}
@@ -158,7 +155,6 @@
 			"it":"Rana diavolo",
 			"ja":"ベールゼブフォ",
 			"ko":"벨저부포",
-			"pt":"Belzebufo"
 			"ru":"Жаба",
 			"zh":"魔鬼蛙"
 		}
@@ -166,8 +162,7 @@
 	"bladewasp":{
 		"NOTE":"Please ignore the term 'Blade Wasp'. It is not a public-facing name. The English name is actually 'Insect Swarm'.",
 		"name_t":{
-			"pt":"Enxame de Insetos"
-
+			"pt-br":"Enxame de Insetos"
 		}
 	},
 	"bloodstalker":{
@@ -184,7 +179,7 @@
 			"it":"Brontosauro",
 			"ja":"ブロントサウルス",
 			"ko":"브론토사우르스",
-			"pt":"Brontossauro"
+			"pt-br":"Brontossauro",
 			"ru":"Бронтозавр",
 			"zh":"雷龙"
 		}
@@ -207,7 +202,7 @@
 			"it":"Canbulbo",
 			"ja":"バルブドッグ",
 			"ko":"벌브독",
-			"pt":"Cão-Lanterna"
+			"pt-br":"Cão-Lanterna",
 			"ru":"Лампадог",
 			"zh":"灯泡犬"
 		}
@@ -218,7 +213,6 @@
 			"ja":"カルボネミス",
 			"ko":"카르보네미스",
 			"ru":"Карбонемис",
-			"pt":"Carbonemys"
 			"zh":"淡水碳龟"
 		}
 	},
@@ -228,7 +222,7 @@
 			"it":"Carnotauro",
 			"ja":"カルノタウルス",
 			"ko":"카르노타우르스",
-			"pt":"Carnotauro"
+			"pt-br":"Carnotauro",
 			"ru":"Карнотавр",
 			"zh":"牛龙"
 		}
@@ -238,7 +232,7 @@
 			"it":"Castoroide",
 			"ja":"カストロイデス",
 			"ko":"카스토로이데스",
-			"pt":"Castor-Gigante"
+			"pt-br":"Castor-Gigante",
 			"ru":"Кастороидес",
 			"zh":"巨河狸"
 		}
@@ -249,7 +243,7 @@
 			"it":"Calicoterio",
 			"ja":"カリコテリウム",
 			"ko":"칼리코테리움",
-			"pt":"Chalicotério"
+			"pt-br":"Chalicotério",
 			"ru":"Халикотерий",
 			"zh":"砂犷兽"
 		}
@@ -258,7 +252,7 @@
 		"name_t":{
 			"ja":"クラゲ",
 			"ko":"크리다니아",
-			"pt":"Medusa"
+			"pt-br":"Medusa",
 			"ru":"Книдария",
 			"zh":"水母"
 		}
@@ -270,7 +264,7 @@
 			"it":"Celacanto",
 			"ja":"シーラカンス",
 			"ko":"실러켄스",
-			"pt":"Celacanto"
+			"pt-br":"Celacanto",
 			"ru":"Целакант",
 			"zh":"腔棘鱼"
 		}
@@ -281,21 +275,20 @@
 			"it":"Compsognato",
 			"ja":"コンプソグナトゥス",
 			"ko":"콤피",
-			"pt":"Compy"
 			"ru":"Компсогнат",
 			"zh":"美颌龙"
 		}
 	},
 	"crystalwyvern":{
 		"name_t":{
-			"ja":"クリスタルワイバーン"
-			"pt":"Wyvern de Cristal"
+			"ja":"クリスタルワイバーン",
+			"pt-br":"Wyvern de Cristal"
 		}
 	},
 	"crystalwyvernqueen":{
 		"name_t":{
-			"ja":"クリスタルワイバーンクイーン"
-			"pt":"Wyvern Rainha de Cristal"
+			"ja":"クリスタルワイバーンクイーン",
+			"pt-br":"Wyvern Rainha de Cristal"
 		}
 	},
 	"daeodon":{
@@ -303,7 +296,6 @@
 			"it":"Daeodonte",
 			"ja":"ダエオドン",
 			"ko":"다에오돈",
-			"pt":"Daeodon"
 			"ru":"Деодон",
 			"zh":"凶齿豨"
 		}
@@ -328,7 +320,7 @@
 			"es":"Unidad de defensa",
 			"ja":"ディフェンスユニット",
 			"ko":"방어유닛",
-			"pt":"Unidade de Defesa"
+			"pt-br":"Unidade de Defesa",
 			"ru":"Защитный Дрон",
 			"zh":"防御单元"
 		}
@@ -338,7 +330,7 @@
 			"es":"Deinonico",
 			"ja":"デイノニクス",
 			"ko":"데이노니쿠스",
-			"pt":"Deinonico"
+			"pt-br":"Deinonico",
 			"zh":"恐爪龙"
 		}
 	},
@@ -348,7 +340,7 @@
 			"fr":"Titan du desert",
 			"it":"Titano del deserto",
 			"ru":"Пустынный Титан",
-			"pt":"Titã do Deserto"
+			"pt-br":"Titã do Deserto",
 			"zh":"沙漠泰坦"
 		}
 	},
@@ -361,7 +353,7 @@
 			"it":"Dilofosauro",
 			"ja":"ディロフォサウルス",
 			"ko":"딜로포사우르스",
-			"pt":"Dilofossauro"
+			"pt-br":"Dilofossauro",
 			"ru":"Дилофозавр",
 			"zh":"双脊龙"
 		}
@@ -372,7 +364,7 @@
 			"it":"Dimetrodonte",
 			"ja":"ディメトロドン",
 			"ko":"디메트로돈",
-			"pt":"Dimetrodonte"
+			"pt-br":"Dimetrodonte",
 			"ru":"Диметродон",
 			"zh":"异齿龙"
 		}
@@ -383,7 +375,7 @@
 			"it":"Dimorfodonte",
 			"ja":"ディモルフォドン",
 			"ko":"디몰포돈",
-			"pt":"Dimorfodonte"
+			"pt-br":"Dimorfodonte",
 			"ru":"Диморфодон",
 			"zh":"双型齿翼龙"
 		}
@@ -394,7 +386,7 @@
 			"it":"Diplocaulo",
 			"ja":"ディプロカウルス",
 			"ko":"디플로카울르스",
-			"pt":"Diplocaucus"
+			"pt-br":"Diplocaucus",
 			"ru":"Диплокаулус",
 			"zh":"盗首螈"
 		}
@@ -405,7 +397,7 @@
 			"fr":"Diplodocus",
 			"ja":"ディプロドクス",
 			"ko":"디플로도쿠스",
-			"pt":"Diplodoco"
+			"pt-br":"Diplodoco",
 			"ru":"Диплодок",
 			"zh":"梁龙"
 		}
@@ -418,7 +410,7 @@
 			"it":"Meta-orso",
 			"ja":"ショートフェイスベア",
 			"ko":"다이어베어",
-			"pt":"Arcdotus"
+			"pt-br":"Arcdotus",
 			"ru":"Свирепый Медведь",
 			"zh":"恐熊"
 		}
@@ -431,7 +423,7 @@
 			"it":"Meta-lupo",
 			"ja":"ダイアウルフ",
 			"ko":"다이어울프",
-			"pt":"Lobo-Terrivel"
+			"pt-br":"Lobo-Terrivel",
 			"ru":"Лютоволк",
 			"zh":"恐狼"
 		}
@@ -441,7 +433,7 @@
 			"fr":"Dodo",
 			"ja":"ドードー",
 			"ko":"도도",
-			"pt":"Dodo"
+			"pt-br":"Dodo",
 			"ru":"Додо",
 			"zh":"渡渡鸟"
 		}
@@ -452,7 +444,7 @@
 			"it":"Dedicuro",
 			"ja":"ドエディクルス",
 			"ko":"도에디쿠스",
-			"pt":"Doedicurus"
+			"pt-br":"Doedicurus",
 			"ru":"Дедикурус",
 			"zh":"星尾兽"
 		}
@@ -466,7 +458,7 @@
 			"it":"Drago",
 			"ja":"ドラゴン",
 			"ko":"드레곤",
-			"pt":"Dragão"
+			"pt-br":"Dragão",
 			"ru":"Дракон",
 			"zh":"喷火龙"
 		}
@@ -479,7 +471,7 @@
 			"it":"Scarabeo stercorario",
 			"ja":"フンコロガシ",
 			"ko":"쇠똥구리",
-			"pt":"Rola-Bosta"
+			"pt-br":"Rola-Bosta",
 			"ru":"Скарабей",
 			"zh":"蜣螂"
 		}
@@ -490,7 +482,7 @@
 			"it":"Dunkleosteo",
 			"ja":"ダンクルオステウス",
 			"ko":"둔클레오스테스",
-			"pt":"Dunkleosteus"
+			"pt-br":"Dunkleosteus",
 			"ru":"Дунклеостей",
 			"zh":"邓氏鱼"
 		}
@@ -502,7 +494,7 @@
 			"it":"Elettroforo",
 			"ja":"電気ウナギ",
 			"ko":"전기뱀장어",
-			"pt":"Poraquê"
+			"pt-br":"Poraquê",
 			"ru":"Электрофорус",
 			"zh":"电鳗"
 		}
@@ -521,7 +513,7 @@
 			"fr":"Equus",
 			"ja":"エクウス",
 			"ko":"에쿠스",
-			"pt":"Equus"
+			"pt-br":"Equus",
 			"ru":"Эквус",
 			"zh":"庞马"
 		}
@@ -533,7 +525,7 @@
 			"it":"Euripteride",
 			"ja":"ウミサソリ",
 			"ko":"바다전갈",
-			"pt":"Euriptérido"
+			"pt-br":"Euriptérido",
 			"ru":"Эвриптерид",
 			"zh":"广翅鲎"
 		}
@@ -562,7 +554,7 @@
 			"fr":"Titan de la foret",
 			"it":"Titano della foresta",
 			"ru":"Лесной Титан",
-			"pt":"Titã da Floresta"
+			"pt-br":"Titã da Floresta",
 			"zh":"森林泰坦"
 		}
 	},
@@ -572,7 +564,7 @@
 			"ko":"가챠",
 			"zh":"嘎查",
 			"ja":"ガチャ",
-			"pt":"Gacha"
+			"pt-br":"Gacha",
 			"ru":"Гача"
 		}
 	},
@@ -582,7 +574,7 @@
 			"it":"Gallimimo",
 			"ja":"ガリミムス",
 			"ko":"갈리무무스",
-			"pt":"Galimimo"
+			"pt-br":"Galimimo",
 			"ru":"Галлимим",
 			"zh":"似鸡龙"
 		}
@@ -593,7 +585,6 @@
 			"it":"Gasinsetto",
 			"zh":"气囊虫",
 			"ko":"가스백",
-			"pt":"Gasbags"
 			"ru":"Газбагс"
 		}
 	},
@@ -606,7 +597,7 @@
 			"it":"Ape gigante",
 			"ja":"ジャイアントビー",
 			"ko":"거대벌",
-			"pt":"Abelha-Gigante"
+			"pt-br":"Abelha-Gigante",
 			"ru":"Гигантская Пчела",
 			"zh":"巨蜂"
 		}
@@ -618,7 +609,7 @@
 			"it":"Giganotosauro",
 			"ja":"ギガノトサウルス",
 			"ko":"기가노토사우르스",
-			"pt":"Giganotossauro"
+			"pt-br":"Giganotossauro",
 			"ru":"Гиганотозавр",
 			"zh":"南方巨兽龙"
 		}
@@ -629,7 +620,7 @@
 			"it":"Gigantopiteco",
 			"ja":"ギガントピテクス",
 			"ko":"기간토피테쿠스",
-			"pt":"Gigantopithecus"
+			"pt-br":"Gigantopithecus",
 			"ru":"Гигантопитек",
 			"zh":"巨猿"
 		}
@@ -665,7 +656,7 @@
 			"it":"Grifone",
 			"ja":"グリフィン",
 			"ko":"그리핀",
-			"pt":"Grifo"
+			"pt-br":"Grifo",
 			"ru":"Грифон",
 			"zh":"狮鹫"
 		}
@@ -676,7 +667,7 @@
 			"it":"Esperornite",
 			"ja":"ヘスペロルニス",
 			"ko":"이스페로니스",
-			"pt":"Hesperornis"
+			"pt-br":"Hesperornis",
 			"ru":"Гесперорнис",
 			"zh":"黄昏鸟"
 		}
@@ -687,7 +678,7 @@
 			"it":"Ienodonte",
 			"ja":"ヒエノドン",
 			"ko":"하이에나노돈",
-			"pt":"Hienodonte"
+			"pt-br":"Hienodonte",
 			"ru":"Гиенодон",
 			"zh":"鬣齿兽"
 		}
@@ -698,7 +689,7 @@
 			"fr":"Titan de glace",
 			"it":"Titano del ghiaccio",
 			"ru":"Ледяной Титан",
-			"pt":"Titã do Gelo"
+			"pt-br":"Titã do Gelo",
 			"zh":"冰原泰坦"
 		}
 	},
@@ -727,7 +718,7 @@
 			"zh":"禽龙",
 			"ja":"イグアノドン",
 			"ko":"이구아나돈",
-			"pt":"Iguanodonte"
+			"pt-br":"Iguanodonte",
 			"it":"Iguanodonte"
 		}
 	},
@@ -766,7 +757,7 @@
 			"ja":"カプロスクス",
 			"ko":"카프로수쿠스",
 			"ru":"Капрозух",
-			"pt":"Crocodilo-Javali"
+			"pt-br":"Crocodilo-Javali",
 			"zh":"猪鳄"
 		}
 	},
@@ -787,14 +778,14 @@
 			"it":"Kentrosauro",
 			"ja":"ケントロサウルス",
 			"ko":"켄트로사우르스",
-			"pt":"Kentrossauro"
+			"pt-br":"Kentrossauro",
 			"ru":"Кентрозавр",
 			"zh":"肯氏龙"
 		}
 	},
 	"kingtitan":{
 		"name_t":{
-			"pt":"Rei Titã"
+			"pt-br":"Rei Titã"
 			
 		}
 	},
@@ -818,7 +809,7 @@
 			"it":"Sanguisuga",
 			"ja":"蛭",
 			"ko":"거머리",
-			"pt":"Sanguessuga"
+			"pt-br":"Sanguessuga",
 			"ru":"Пиявки",
 			"ja":"ヒル",
 			"zh":"水蛭"
@@ -837,7 +828,7 @@
 			"it":"Liopleurodonte",
 			"ja":"リオプレウロドン",
 			"ko":"리플레우로돈",
-			"pt":"Liopleurodonte"
+			"pt-br":"Liopleurodonte",
 			"ru":"Лиоплевродон",
 			"zh":"滑齿龙"
 		}
@@ -858,7 +849,7 @@
 			"it":"Listrosauro",
 			"ja":"リストロサウルス",
 			"ko":"리스트로사우르스",
-			"pt":"Listrossauro"
+			"pt-br":"Listrossauro",
 			"ru":"Листрозавр",
 			"zh":"水龙兽"
 		}
@@ -878,7 +869,7 @@
 			"it":"Mammut",
 			"ja":"マンモス",
 			"ko":"맘모스",
-			"pt":"Mamute"
+			"pt-br":"Mamute",
 			"ru":"Мамонт",
 			"zh":"猛犸象"
 		}
@@ -887,7 +878,7 @@
 		"name_t":{
 			"zh":"玛纳加尔姆",
 			"ja":"マナガルム",
-			"pt":"Cão da Lua"
+			"pt-br":"Cão da Lua",
 			"ru":"Манагарм"
 		}
 	},
@@ -938,7 +929,7 @@
 			"it":"Megalocero",
 			"ja":"メガロケロス",
 			"ko":"메갈로케로스",
-			"pt":"Alce-Gigante"
+			"pt-br":"Alce-Gigante",
 			"ru":"Большерогий Олень",
 			"zh":"大角鹿"
 		}
@@ -948,7 +939,7 @@
 			"it":"Megalodonte",
 			"ja":"メガロドン",
 			"ko":"메갈로돈",
-			"pt":"Megalodonte"
+			"pt-br":"Megalodonte",
 			"ru":"Мегалодон",
 			"zh":"巨齿鲨"
 		}
@@ -960,7 +951,7 @@
 			"it":"Megalosauro",
 			"ja":"メガロサウルス",
 			"ko":"메갈로사우르스",
-			"pt":"Megalossauro"
+			"pt-br":"Megalossauro",
 			"ru":"Мегалозавр",
 			"zh":"斑龙"
 		}
@@ -992,7 +983,7 @@
 			"it":"Megaterio",
 			"ja":"メガテリウム",
 			"ko":"메가테리움",
-			"pt":"Megatério"
+			"pt-br":"Megatério",
 			"ru":"Мегатерий",
 			"zh":"大地懒"
 		}
@@ -1046,7 +1037,7 @@
 			"it":"Mosasauro",
 			"ja":"モササウルス",
 			"ko":"모사사우르스",
-			"pt":"Mosassauro"
+			"pt-br":"Mosassauro",
 			"ru":"Мозазавр",
 			"zh":"沧龙"
 		}
@@ -1090,7 +1081,7 @@
 			"it":"Lontra",
 			"ja":"オッター",
 			"ko":"수달아과",
-			"pt":"Lontra"
+			"pt-br":"Lontra",
 			"ru":"Выдра",
 			"zh":"水獭"
 		}
@@ -1116,10 +1107,9 @@
 	},
 	"ovis":{
 		"name_t":{
-			"fr":"Ovis",
 			"ja":"ヒツジ",
 			"ru":"Овис",
-			"pt":"Ovelha"
+			"pt-br":"Ovelha",
 			"zh":"绵羊"
 		}
 	},
@@ -1129,7 +1119,7 @@
 			"it":"Pachicefalosauro",
 			"ja":"パキケファロサウルス",
 			"ko":"파키케팔로사우루스",
-			"pt":"Paquicéfalo"
+			"pt-br":"Paquicéfalo",
 			"ru":"Пахицефалозавр",
 			"zh":"肿头龙"
 		}
@@ -1140,7 +1130,7 @@
 			"it":"Pachirinosauro",
 			"ja":"パキリノサウルス",
 			"ko":"파키리노사우루스",
-			"pt":"Paquirrinossauro"
+			"pt-br":"Paquirrinossauro",
 			"ru":"Пахиринозавр",
 			"zh":"厚鼻龙"
 		}
@@ -1151,7 +1141,7 @@
 			"it":"Paraceraterio",
 			"ja":"パラケラテリウム",
 			"ko":"파라케라테리움",
-			"pt":"Paraceratério"
+			"pt-br":"Paraceratério",
 			"ru":"Парацератерий",
 			"zh":"巨犀"
 		}
@@ -1169,7 +1159,7 @@
 			"it":"Parasauro",
 			"ja":"パラサウロロフス",
 			"ko":"파라사우롤로푸스",
-			"pt":"Parassauro"
+			"pt-br":"Parassauro",
 			"ru":"Паразауролоф",
 			"zh":"副栉龙"
 		}
@@ -1230,7 +1220,7 @@
 			"it":"Plesiosauro",
 			"ja":"エラスモサウルス",
 			"ko":"플레시오사우르스",
-			"pt":"Plesiossauro"
+			"pt-br":"Plesiossauro",
 			"ru":"Плезиозавр",
 			"zh":"蛇颈龙"
 		}
@@ -1251,7 +1241,7 @@
 			"ja":"プテラノドン",
 			"ko":"프테라노돈",
 			"ru":"Птеранодон",
-			"pt":"Pteranodonte"
+			"pt-br":"Pteranodonte",
 			"zh":"无齿翼龙"
 		}
 	},
@@ -1320,7 +1310,6 @@
 			"it":"Tirannosauro",
 			"ja":"ティラノサウルス",
 			"ko":"렉스",
-			"pt":"T-Rex"
 			"ru":"Тираннозавр",
 			"zh":"霸王龙"
 		}
@@ -1333,7 +1322,7 @@
 			"it":"Drago di roccia",
 			"ja":"ロックドレイク",
 			"ko":"락드레이크",
-			"pt":"Dragão da Rocha"
+			"pt-br":"Dragão da Rocha",
 			"ru":"Скальный Дрейк",
 			"zh":"岩龙"
 		}
@@ -1365,7 +1354,7 @@
 			"zh":"翻滚鼠",
 			"ja":"ロールラット",
 			"ko":"룰렛",
-			"pt":"Rato-Rolante"
+			"pt-br":"Rato-Rolante",
 			"fr":"Rat Des Profondeurs",
 			"it":"Ratto Arrotolatore"
 		}
@@ -1388,7 +1377,7 @@
 			"it":"Smilodonte",
 			"ja":"セイバートゥース",
 			"ko":"검치호",
-			"pt":"Dentes-de-Sabre"
+			"pt-br":"Dentes-de-Sabre",
 			"ru":"Саблезуб",
 			"zh":"剑齿虎"
 		}
@@ -1401,7 +1390,7 @@
 			"it":"Salmone Dai Denti a sciabola",
 			"ja":"セイバートゥース・サーモン",
 			"ru":"Саблезубый лосось",
-			"pt":"Salmão Dentes-de-Sabre"
+			"pt-br":"Salmão Dentes-de-Sabre",
 			"zh":"剑齿鲑鱼"
 		}
 	},
@@ -1411,7 +1400,7 @@
 			"it":"Sarcosuco",
 			"ja":"サルコスクス",
 			"ko":"샤르코",
-			"pt":"Crocodilo Imperador"
+			"pt-br":"Crocodilo Imperador",
 			"ru":"Саркозух",
 			"zh":"帝鳄"
 		}
@@ -1455,7 +1444,7 @@
 			"it":"Gufo delle nevi",
 			"zh":"雪鸮",
 			"ko":"눈부엉이",
-			"pt":"Coruja da Neve"
+			"pt-br":"Coruja da Neve",
 			"ja":"雪フクロウ",
 			"ru":"Снежная сова"
 		}
@@ -1468,7 +1457,7 @@
 			"it":"Spinosauro",
 			"ja":"スピノサウルス",
 			"ko":"스피노",
-			"pt":"Espinossauro"
+			"pt-br":"Espinossauro",
 			"ru":"Спинозавр",
 			"zh":"棘背龙"
 		}
@@ -1480,7 +1469,7 @@
 			"it":"Stegosauro",
 			"ja":"ステゴサウルス",
 			"ko":"스테고사우르스",
-			"pt":"Estegossauro"
+			"pt-br":"Estegossauro",
 			"ru":"Стегозавр",
 			"zh":"剑龙"
 		}
@@ -1503,7 +1492,7 @@
 			"it":"Uccello del terrore",
 			"ja":"テラーバード",
 			"ko":"테러버드",
-			"pt":"Ave do Terror"
+			"pt-br":"Ave do Terror",
 			"ru":"Ужасная Птица",
 			"zh":"骇鸟"
 		}
@@ -1515,7 +1504,7 @@
 			"it":"Terizinosauro",
 			"ja":"テリジノサウルス",
 			"ko":"테리지노사우르스",
-			"pt":"Therizinossauro"
+			"pt-br":"Therizinossauro",
 			"ru":"Теризинозавр",
 			"zh":"镰刀龙"
 		}
@@ -1547,7 +1536,7 @@
 			"ja":"ティタノボア",
 			"ko":"티타노보아",
 			"ru":"Титанобоа",
-			"pt":"Leão Marsupial"
+			"pt-br":"Leão Marsupial",
 			"zh":"泰坦巨蟒"
 		}
 	},
@@ -1568,7 +1557,7 @@
 			"it":"Titanosauro",
 			"ja":"ティタノサウルス",
 			"ko":"티타노사우르스",
-			"pt":"Titanossauro"
+			"pt-br":"Titanossauro",
 			"ru":"Титанозавр",
 			"zh":"泰坦龙"
 		}
@@ -1579,7 +1568,6 @@
 			"ja":"トリケラトプス",
 			"ko":"트리케라톱스",
 			"ru":"Трицератопс",
-			"pt":"Triceratops"
 			"zh":"三角龙"
 		}
 	},
@@ -1589,7 +1577,7 @@
 			"es":"Trilobita",
 			"ja":"三葉虫",
 			"ru":"Трилобит",
-			"pt":"Trilobita"
+			"pt-br":"Trilobita",
 			"zh":"三叶虫"
 		}
 	},
@@ -1598,7 +1586,7 @@
 			"it":"Troodonte",
 			"ja":"トロオドン",
 			"ru":"Тродоон",
-			"pt":"Troodonte"
+			"pt-br":"Troodonte",
 			"zh":"伤齿龙"
 		}
 	},
@@ -1658,7 +1646,7 @@
 			"it":"Rinoceronte lanoso",
 			"ja":"ケブカサイ",
 			"ko":"울리라이노",
-			"pt":"Rinoceronte-Lanudo"
+			"pt-br":"Rinoceronte-Lanudo",
 			"ru":"Шерстистый носорог",
 			"zh":"披毛犀"
 		}
@@ -1675,7 +1663,6 @@
 	},
 	"yeti":{
 		"name_t":{
-			"fr":"Yeti",
 			"ja":"イエティ",
 			"ko":"설인",
 			"ru":"Йети",
@@ -1684,12 +1671,11 @@
 	},
 	"yutyrannus":{
 		"name_t":{
-			"fr":"Yutyrannus",
 			"it":"Yutyranno",
 			"ja":"ユウティラヌス",
 			"ko":"유티라누스",
 			"ru":"Ютираннус",
-			"pt":"Yutirano"
+			"pt-br":"Yutirano",
 			"zh":"羽暴龙"
 		}
 	}
