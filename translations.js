@@ -7534,7 +7534,7 @@ pl:{
 	active: "Ativo",
 	multipliers: "Multiplicadores",
 	viewAll: "Ver todos",
-	removeAds: "Remover Anúncios",
+	removeAds: "Remover anúncios do Dododex",
 	spawnMaps: null
 },
 ro: {
