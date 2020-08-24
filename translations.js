@@ -425,7 +425,15 @@ en: {
 	multipliers: "Multipliers",
 	viewAll: "View All",
 	removeAds: "Remove Dododex Ads",
-	spawnMaps: "Spawn Maps"
+	spawnMaps: "Spawn Maps",
+	evolutionEvent: "Evolution Event",
+	noOffline: "Sorry, this feature is not available offline.",
+	xp: "XP",
+	dcfd: "Dino Character Food Drain",
+	multsDoubleShort: "Dododex has been updated to 2x taming to match ARK's new rates. ARK Mobile players are not affected, but must adjust their Dododex multipliers. Visit Settings for details.",
+	multsDoubleLong: "ARK's taming, XP, and gathering speeds are now permanently doubled. Dododex's calculations have updated to match this. This is a change to ARK's base game, meaning 1x taming will be the same speed as what 2x was previously. If you're on an official server, your rates should be set to 1. ARK Mobile is not affected, but players on Mobile players will need to adjust their Dododex multiplier since Dododex's rates are now doubled. Please use the updated presets below to ensure you're using the correct multiplier.",
+	settingsSwitchPrompt: "Switch to {0} settings?",
+	settingsSwitchDesc: "Update Dododex to use multipliers for {0}?"
 },
 ar: {
 	aboutStarveIntro: "\ الترويض بالتجويع\" طريقة يستخدمها بعض اللاعبون لتقليل خطر فقدان الموارد خلال ترويض المخلوق.",
@@ -463,7 +471,6 @@ ar: {
 	checkForNewData: "تحقق عن بيانات جديدة",
 	comparison: "مقارنة",
 	concious: "واعي",
-	consumptionSpeed: "سرعة الاستهلاك",
 	cookingPot: "وعاء الطبخ",
 	craftedIn: "تُصنع في",
 	currentFoodValue: "مقدار الطعام الحالي",
@@ -505,9 +512,9 @@ ar: {
 	incPerLvl: "الزيادة بكل مستوى",
 	incubation: "حضانة",
 	juvenile: "صغير",
-	kibble: "kibble",
-	kibbleFlowChart: "مخطط بياني للkibble",
-	kibbleProduced: "ينتج kibble",
+	kibble: "Kibble",
+	kibbleFlowChart: "مخطط بياني لل Kibble",
+	kibbleProduced: "ينتج Kibble",
 	knockOut: "ضرب حتى يفقد الوعي",
 	lvl: "مستوى",
 	maps: "خرائط",
@@ -594,7 +601,7 @@ ar: {
 	aboveAverage: "فوق المتوسط",
 	nonViolent: "ليست عنيفة",
 	intervals: "فترات",
-	ratedForGathering: "تم تقييمه # {0} لحصد",
+	ratedForGathering: "تم تقييمه #{0} لحصد",
 	hide: "جلد",
 	dataAccuracy: "دقة البيانات",
 	engramPoints: "نقاط تعلم الاشياء",
@@ -639,7 +646,7 @@ ar: {
 	primaryAttack: "الضرر الأساسي في الهجوم الأساسي",
 	secondaryAttack: "الهجوم الثانوي",
 	sprinting: "الركض",
-	ranked: "مصنيفه # {0}",
+	ranked: "مصنيفه #{0}",
 	reportPrompt: "العثور على شيء خطأ؟",
 	notEnoughFood: "لا يوجد طعام كافي. حاول إضافة:",
 	movementSpeed: "سرعة الحركة",
@@ -684,15 +691,15 @@ ar: {
 	betaTestingDesc: "هل ترغب في تجربة ميزات دودوديكس الجديدة قبل أي شخص آخر؟ يمكنك الاشتراك وستحصل على إصدارات جديدة من دودوديكس عند توفر اختبارات تجريبية. يمكنك إلغاء الاشتراك في أي وقت والعودة إلى الإصدار العام.",
 	reqGoogleLogin: "(يتطلب تسجيل الدخول إلى Google Play)",
 	betaTestingOptIn: "الاشتراك في اختبار التجريبية",
-	appName: "دودوديكس آلة حاسبة للترويض ل Ark: Survival Evolved",
-	appDescShort: "آلة حاسبة للترويض والتطبيق رفيق ل Ark: Survival Evolved",
-	appDescSummary: "ارفع لعبة Ark: Survival Evolved مع حاسبة ترويض دودوديكس والتطبيق المصاحب المستخدم من قبل أكثر من {0} لاعبين. يوفر دودوديكس دليلاً شاملاً ومحدثًا بشكل متكرر لكل مخلوق في Ark: Survival Evolved ، بما في ذلك حسابات الترويض ، وصفات الخلطات والسرج ، والإحصائيات ، والموقتات ، ومعلومات الضربة القاضية لأي سلاح ، بالإضافة إلى النصائح الأصلية والبيانات المجمعة من الآلاف من لاعبين Ark.",
+	appName: "دودوديكس آلة حاسبة للترويض ل ARK: Survival Evolved",
+	appDescShort: "آلة حاسبة للترويض والتطبيق رفيق ل ARK: Survival Evolved",
+	appDescSummary: "ارفع لعبة ARK: Survival Evolved مع حاسبة ترويض دودوديكس والتطبيق المصاحب المستخدم من قبل أكثر من {0} لاعبين. يوفر دودوديكس دليلاً شاملاً ومحدثًا بشكل متكرر لكل مخلوق في Ark: Survival Evolved ، بما في ذلك حسابات الترويض ، وصفات الخلطات والسرج ، والإحصائيات ، والموقتات ، ومعلومات الضربة القاضية لأي سلاح ، بالإضافة إلى النصائح الأصلية والبيانات المجمعة من الآلاف من لاعبين Ark.",
 	view: "معاينة",
 	ignore: "تجاهل",
 	save: "حفظ",
 	update: "تحديث",
 	optional: "اختياري",
-	rankedXOfY: "مصنفه # {0} من {1}",
+	rankedXOfY: "مصنفه #{0} من {1}",
 	spine: "ظهر",
 	tail: "الذيل",
 	starveNotifAlarm: "سيكون {0} جاهزًا للإطعام خلال {1} دقيقة.",
@@ -820,7 +827,13 @@ ar: {
 	multipliers: null,
 	viewAll: null,
 	removeAds: null,
-	spawnMaps: null
+	spawnMaps: null,
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"تم تحديث Dododex إلى 2x ترويض لتتناسب مع الأسعار الجديدة ARK ل. لا تتأثر اللاعبين ARK موبايل، ولكن يجب ضبط مضاعفات Dododex بهم. زيارة إعدادات للاطلاع على التفاصيل.",
+	multsDoubleLong:"والآن تضاعف بشكل دائم ترويض، XP، وبسرعة جمع ARK ل. وقد استكملت الحسابات Dododex لمطابقة هذا. هذا هو تغيير لقاعدة اللعبة ARK، وهذا يعني 1X ترويض ستكون بنفس سرعة ما كان 2X سابقا. إذا كنت على خادم الرسمي، يجب تعيين معدلات الخاص بك إلى 1. ARK موبايل لا يتأثر، ولكن لاعبا ولاعبة على اللاعبين تليفون تحتاج إلى ضبط Dododex مضاعف منذ تضاعف معدلات Dododex الآن. الرجاء استخدام المسبقة تحديث أدناه لضمان كنت تستخدم المضاعف الصحيح."
 },
 cs: {
 	aboutStarveIntro: "\"Starve Taming\" je technika, kterou někteří přeživší používají k minimalizaci rizika ztráty zdrojů při ochočování stvoření.",
@@ -1215,7 +1228,13 @@ cs: {
 	multipliers: null,
 	viewAll: null,
 	removeAds: null,
-	spawnMaps: null
+	spawnMaps: null,
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"Dododex byl aktualizován na 2x zkrocení tak, aby odpovídala nové sazby Ark. ARK Mobilní hráči nejsou ovlivněny, ale musí se přizpůsobit své Dododex mínění. Nastavení návštěva podrobnosti.",
+	multsDoubleLong:"Ark je krocení, XP a rychlost shromažďování jsou nyní trvale zdvojnásobil. Výpočty Dododex mají aktualizovány tak, aby odpovídaly to. Jedná se o změnu k Ark je základní hry, což znamená, 1x zkrocení bude stejná rychlost jako to, co bylo předtím 2x. Pokud jste na oficiálním serveru, by měla být vaše ceny nastaven na 1. ARK Mobile není ovlivněna, ale hráči na mobilním hráči budou muset přizpůsobit své Dododex násobič, protože ceny Dododex se nyní zdvojnásobil. aby zajistily, že používáte správný multiplikátor použijte aktualizované předvoleb níže."
 },
 da: {
 	aboutStarveIntro: "\"Tæmning ved udsultning\" er en teknik, som nogle overlevende anvender for at minimere risikoen for at minimere risikoen for tab af ressourcer under tæmning.",
@@ -1610,7 +1629,13 @@ da: {
 	multipliers: null,
 	viewAll: null,
 	removeAds: null,
-	spawnMaps: null
+	spawnMaps: null,
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"Dododex er blevet opdateret til 2x tæmme at matche ARK nye satser. ARK Mobile spillere er ikke påvirket, men må tilpasse deres Dododex multiplikatorer. Besøg Indstillinger for detaljer.",
+	multsDoubleLong:"ARK s tæmme, XP og indsamling hastigheder er nu permanent fordoblet. Dododex beregninger har opdateret til at matche dette. Dette er en ændring til ARK base spil, hvilket betyder 1x tæmme vil være den samme hastighed som hvad 2x var tidligere. Hvis du er på en officiel server, skal dine priser sættes til 1. ARK Mobile er ikke påvirket, men spillere på Mobile spillere bliver nødt til at tilpasse deres Dododex multiplikator siden Dododex satser nu fordobles. Brug venligst de opdaterede forudindstillinger nedenfor for at sikre, at du bruger den korrekte multiplikator."
 },
 de: {
 	aboutStarveIntro: "\"Zähmen durch Aushungern\" ist eine Technik, die manche Überlebende benutzen, um das Risiko eines Ressourcenverlusts während des Zähmens zu minimieren.",
@@ -2005,7 +2030,13 @@ de: {
 	multipliers: null,
 	viewAll: null,
 	removeAds: null,
-	spawnMaps: null
+	spawnMaps: null,
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"Dododex wurde 2x aktualisiert Zähmung ARK die neuen Tarife anzupassen. ARK Mobil Spieler sind davon nicht betroffen, sondern müssen ihre Dododex Multiplikatoren einstellen. Besuchen Sie Einstellungen für weitere Einzelheiten.",
+	multsDoubleLong:"ARK der Zähmung, XP, und das Sammeln Geschwindigkeiten sind nun permanent verdoppelt. Dododex Berechnungen werden aktualisiert, dies zu entsprechen. Dies ist eine Änderung zu ARK des Basisspiels, Zähmung bedeutet 1x wird mit der gleichen Geschwindigkeit wie das, was 2x vorher war. Wenn Sie auf einem offiziellen Server sind, sollten Sie Ihre Preise auf 1 ARK Mobil eingestellt werden davon nicht betroffen ist, aber die Spieler auf mobilen Spieler müssen ihre Dododex Multiplikator einstellen, da Dododex die Preise sind jetzt verdoppelt. Bitte verwenden Sie die aktualisierten Voreinstellungen unten, um sicherzustellen, Sie den richtigen Multiplikator verwenden."
 },
 es: {
 	aboutStarveIntro: "La \"doma por hambre\" es una técnica usada por algunos supervivientes para minimizar el riesgo de perder recursos durante la doma de una criatura.",
@@ -2400,7 +2431,13 @@ es: {
 	multipliers: "Multiplicadores",
 	viewAll: "Ver todo",
 	removeAds: "Eliminar publicidad de Dododex",
-	spawnMaps: "Mapas donde aparece"
+	spawnMaps: "Mapas donde aparece",
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"Dododex se ha actualizado a 2x domesticar para que coincida con las nuevas tarifas de ARK. ARCA jugadores móviles no se ven afectados, pero deben ajustar sus multiplicadores Dododex. Ve a Configuración para más detalles.",
+	multsDoubleLong:"la arca de doma, XP, y velocidades de recolección se duplicaron ahora de forma permanente. Los cálculos de Dododex han actualizado para coincidir con esto. Este es un cambio de juego base de ARCA, es decir, 1x doma será la misma velocidad que lo que antes era 2x. Si se encuentra en un servidor oficial, sus tasas deben establecerse a 1. ARCA móvil no se ve afectada, pero los jugadores sobre los jugadores móviles tendrán que ajustar su multiplicador Dododex ya que las tasas de Dododex ahora se duplicaron. Por favor utilice los preajustes actualizados a continuación para asegurarse de que está usando el multiplicador correcto."
 },
 fi: {
 	aboutStarveIntro: "\"Näännytys kesyttäminen\" Tekniikka jota jotkut selviytyjät käyttävät minimoidakseen riskin menettää resursseja kesyttämisen aikana.",
@@ -2795,7 +2832,13 @@ fi: {
 	multipliers: null,
 	viewAll: null,
 	removeAds: null,
-	spawnMaps: null
+	spawnMaps: null,
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"Dododex on päivitetty 2x kesyttämään vastaamaan ARK uuden hinnat. ARK Mobile pelaajat eivät vaikuta, vaan täytyy sopeuttaa Dododex kertojia. Asetuksien lisätietoja.",
+	multsDoubleLong:"Ark kesyttämään, XP ja kerääminen nopeudet ovat nyt pysyvästi kaksinkertaistunut. Dododex laskelmat ovat päivitetään vastaamaan tätä. Tämä on muutos ARK tukikohtaan peli, eli 1x taming on sama nopeus kuin mitä 2x oli aiemmin. Jos olet viralliseen palvelimeen, teidän hinnat tulisi asettaa 1. ARK Mobile ei vaikuta, vaan pelaajat Mobile pelaajien täytyy sopeuttaa Dododex kerrannaisvaikutus koska Dododex n hinnat ovat nyt kaksinkertaistunut. Käytä päivitettyä esiasetuksia alla varmistaa käytät oikeita kerroin."
 },
 fr: {
 	aboutStarveIntro: "Le \"dressage par la faim\" est une méthode que certains survivants utilisent pour minimiser le risque de perdre des ressources lors du dressage.",
@@ -3190,7 +3233,13 @@ fr: {
 	multipliers: null,
 	viewAll: null,
 	removeAds: null,
-	spawnMaps: null
+	spawnMaps: null,
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"Dododex a été mis à jour pour correspondre 2x dompter les nouveaux taux de RAK. Les joueurs ARK mobiles ne sont pas affectés, mais ils doivent ajuster leurs multiplicateurs Dododex. Visite de configuration.",
+	multsDoubleLong:"ark apprivoisement, XP, et des vitesses de collecte sont maintenant en permanence doublé. Les calculs de Dododex ont mis à jour pour correspondre à ce sujet. Ceci est un changement de jeu de base de ARK, ce qui signifie 1x dompter sera la même vitesse que ce 2x était auparavant. Si vous êtes sur un serveur officiel, vos taux devraient être fixés à 1. mobile ARK n'est pas affectée, mais les joueurs sur les joueurs mobiles devront ajuster leur multiplicateur Dododex étant donné que les taux de Dododex sont désormais doublés. S'il vous plaît utiliser les présélections mises à jour ci-dessous pour vous assurer que vous utilisez le multiplicateur correct."
 },
 el: {
 	aboutStarveIntro: "\Χαληναγώγηση της πείνας\" Είναι μια τεχνική που μερικοί επιζώντες χρησημοποιούν για να μειώσουν το ρίσκο του να χάσουν προμήθειες όταν εξημερώνουν ένα πλάσμα.",
@@ -3585,7 +3634,13 @@ el: {
 	multipliers: null,
 	viewAll: null,
 	removeAds: null,
-	spawnMaps: null
+	spawnMaps: null,
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"Dododex έχει ενημερωθεί για 2x εξημέρωση για να ταιριάζει με τις νέες τιμές ARK του. ARK Mobile παίκτες δεν επηρεάζονται, αλλά πρέπει να προσαρμόσει τους πολλαπλασιαστές τους Dododex. Ρυθμίσεις Επίσκεψη για λεπτομέρειες.",
+	multsDoubleLong:"εξημέρωση, XP, και ταχύτητες συγκέντρωση ARK είναι τώρα μόνιμα διπλασιαστεί. υπολογισμοί Dododex έχουν ενημερωθεί για να ταιριάζει με αυτό. Αυτή είναι μια αλλαγή στο βασικό παιχνίδι ARK του, πράγμα που σημαίνει 1x εξημέρωση θα είναι η ίδια ταχύτητα με το τι 2x ήταν στο παρελθόν. Αν είστε σε μια επίσημη server, τα ποσοστά σας θα πρέπει να οριστεί σε 1. ARK Mobile δεν επηρεάζεται, αλλά οι παίκτες στο κινητό παίκτες θα πρέπει να προσαρμόσουν Dododex πολλαπλασιαστή τους, δεδομένου ότι τα ποσοστά Dododex, τώρα διπλασιάζεται. Παρακαλούμε χρησιμοποιήστε την ενημέρωση προεπιλογές παρακάτω, για να διασφαλιστεί ότι χρησιμοποιείτε το σωστό πολλαπλασιαστή."
 },
 he: {
 	aboutStarveIntro: "\"אילוף בהרעבה\" היא טכניקה שחלק מהשורדים משתמשים בה כדי לצמצם את הסיכון של לאבד משאבים בזמן אילוף יצור.",
@@ -3980,7 +4035,13 @@ he: {
 	multipliers: null,
 	viewAll: null,
 	removeAds: null,
-	spawnMaps: null
+	spawnMaps: null,
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"Dododex עודכנה 2x אילוף להתאים השיעורים החדשים של ARK. שחקנים נייד ARK אינם מושפעים, אבל חייבים להתאים מכפילי Dododex שלהם. הגדרות בקר לפרטים.",
+	multsDoubleLong:"האילוף, XP, ומהירויות האיסוף של ARK כעת הוכפלו לצמיתות. החישובים של Dododex עדכנו להתאים הזה. זהו שינוי למשחק הבסיס של ARK, כלומר 1x אילוף יהיה באותה מהירות כמו מה 2x היה בעבר. אם אתה משתמש בשרת רשמי, שיעורי שלך צריך להיות מוגדר 1. ARK נייד אינו מושפע, אבל השחקנים על השחקנים נייד יצטרכו להתאים מכפיל Dododex שלהם מאז תעריפי Dododex כעת הוכפל. אנא השתמש קבוע מראש המעודכן שלהלן כדי להבטיח שאתה משתמש המכפיל הנכון."
 },
 hr: {
 	aboutStarveIntro: "\"Pripitomljavanje izgladnjivanjem\" je tehnika koju neki preživljavači koriste kako bi minimalizirali rizik od gubljenja resurasa dok pripitomljavaju stvorenje.",
@@ -4375,7 +4436,13 @@ hr: {
 	multipliers: null,
 	viewAll: null,
 	removeAds: null,
-	spawnMaps: null
+	spawnMaps: null,
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"Dododex je ažuriran kako bi 2x kroćenje odgovarati nove stope ARK-a. ARK Mobilni igrači nisu pogođeni, ali mora prilagoditi svoje Dododex multiplikatora. Posjetite Postavke za detalje.",
+	multsDoubleLong:"ARK-a Taming, XP i prikupljanje brzine su sada trajno udvostručio. Dododex proračuni su ažurirani parirati. To je promjena Arkova osnovnoj igri, što znači 1x kroćenje će biti isti brzina kao što je 2x bilo ranije. Ako ste na službenom serveru, vaše stope bi trebao biti postavljen na 1. ARK Mobile ne utječe, ali igrači na mobilnim igrači će morati prilagoditi svoje Dododex množitelj jer Dododex su stope sada udvostručio. Molimo koristite ažurirane prethodnih postavki u nastavku kako bi se osiguralo da koristite ispravnu množitelj."
 },
 id: {
 	aboutStarveIntro: "\"Penjinakkan\" adalah teknik yang digunakan beberapa penyintas untuk meminimalkan risiko kehilangan sumber daya saat menjinakkan hewan. ",
@@ -4544,7 +4611,7 @@ id: {
 	aboveAverage: "Diatas rata-rata",
 	nonViolent: "Tanpa kekerasan",
 	intervals: "Interval",
-	ratedForGathering: "Dinilai # {0} untuk pengumpulan",
+	ratedForGathering: "Dinilai #{0} untuk pengumpulan",
 	hide: "Sembunyi",
 	dataAccuracy: "Akurasi daty",
 	engramPoints: "Poin engram",
@@ -4748,7 +4815,7 @@ id: {
 	hitsUntilFlee:"Hit Hingga Lari",
 	tapForMoreInfo:"Tekan untuk info lebih lanjut",
 	addedForAccuracy:"Ditambahkan untuk akurasi tambahan",
-	ratedForWR: "Dinilai # {0} untuk pengurangan berat badan",
+	ratedForWR: "Dinilai #{0} untuk pengurangan berat badan",
 	wsps: "Dengan Pengaturan Single Player",
 	comingSoon: "Segera hadir!",
 	supportTheDeveloper: null,
@@ -4770,7 +4837,13 @@ id: {
 	multipliers: null,
 	viewAll: null,
 	removeAds: null,
-	spawnMaps: null
+	spawnMaps: null,
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"Dododex telah diperbarui untuk 2x penjinakan untuk mencocokkan harga baru ARK ini. pemain ARK Ponsel tidak terpengaruh, tetapi harus menyesuaikan pengganda Dododex mereka. Kunjungi Pengaturan untuk rincian.",
+	multsDoubleLong:"penjinakan, XP, dan kecepatan gathering ARK ini sekarang secara permanen dua kali lipat. perhitungan Dododex ini telah diperbarui untuk pertandingan ini. Ini adalah perubahan untuk pertandingan dasar ARK, yang berarti 1x penjinakan akan kecepatan yang sama seperti apa yang 2x sebelumnya. Jika Anda berada di server resmi, tingkat Anda harus ditetapkan ke 1. ARK Ponsel tidak terpengaruh, tapi pemain pada pemain Mobile akan perlu menyesuaikan multiplier Dododex mereka sejak tingkat Dododex ini sekarang dua kali lipat. Silakan gunakan preset diperbarui di bawah ini untuk memastikan Anda menggunakan multiplier yang benar."
 },
 it: {
 	aboutStarveIntro: "\"Starve Taming\" è una tecnica che alcuni giocatori utilizzano per minimizzare il rischio di perdere risorse durante la domazione",
@@ -5165,7 +5238,13 @@ it: {
 	multipliers: null,
 	viewAll: null,
 	removeAds: null,
-	spawnMaps: null
+	spawnMaps: null,
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"Dododex è stato aggiornato a 2x domare per abbinare nuove tariffe di ARK. giocatori ARK cellulari non sono interessati, ma devono adeguare i propri moltiplicatori Dododex. Visita impostazioni per altri dettagli.",
+	multsDoubleLong:"addomesticare, XP, e velocità di raccolta di ARK sono ora in modo permanente raddoppiati. I calcoli di Dododex hanno aggiornato a corrispondere a questo. Si tratta di una modifica al gioco base di ARK, il che significa 1x domare sarà la stessa velocità di quello che è stato in precedenza 2x. Se siete su un server ufficiale, i tassi dovrebbero essere impostati a 1. ARK Mobile non è influenzato, ma i giocatori su giocatori mobili dovranno adeguare le loro moltiplicatore Dododex poiché i tassi di Dododex sono ora raddoppiate. Si prega di utilizzare i preset aggiornati qui sotto per assicurarsi che si sta utilizzando il moltiplicatore corretto."
 },
 ja: {
 	aboutStarveIntro: "\"空腹テイム\"は、資源を失うリスクを最小限に抑えるためにサバイバー達が使う技法です。",
@@ -5560,7 +5639,13 @@ ja: {
 	multipliers: null,
 	viewAll: null,
 	removeAds: null,
-	spawnMaps: null
+	spawnMaps: null,
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"DododexはARKの新しいレートを一致させるために飼いならす2倍に更新されました。 ARKモバイル選手は影響を受けませんが、そのDododex乗数を調整する必要があります。詳細については、訪問設定。",
+	multsDoubleLong:"ARKの調教、XP、および収集速度は現在、恒久的に倍増しています。 Dododexの計算はこれに合わせて更新しています。これは2倍には以前にあったものと同じ速度になります順化1倍を意味し、ARKの基本ゲームへの変更です。あなたが公式のサーバーにしている場合は、あなたの速度には影響しません。1. ARKモバイルに設定する必要がありますが、モバイル選手の選手はDododexの金利は今倍増しているので、そのDododex乗数を調整する必要があります。あなたは正しい乗数を使用していることを確認するには、以下の更新プリセットを使用してください。"
 },
 ko: {
 	aboutStarveIntro: "\"굶주림 조련\". 몇몇 생존자들이 생물을 길들이기 동안 음식 손실을 최소화하기 위해 사용하는 기술입니다.",
@@ -5955,7 +6040,13 @@ ko: {
 	multipliers: null,
 	viewAll: null,
 	removeAds: null,
-	spawnMaps: null
+	spawnMaps: null,
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"Dododex는 ARK의 새로운 속도에 맞게 길들이기 2 배에 업데이트되었습니다. ARK 모바일 플레이어는 영향을받지 않습니다, 그러나 그들의 Dododex 배율을 조정해야합니다. 자세한 내용은 방문 설정.",
+	multsDoubleLong:"ARK의 길들이기, XP 및 수집 속도는 영구적으로 두 배가된다. Dododex의 계산이 일치하도록 업데이트했다. 이 배는 이전에 무엇인지와 같은 속도 것 길들이기 1X 의미 ARK의 기본 게임에 대한 변화이다. 당신이 공식 서버에 있다면, 당신의 비율은 영향을받지 않습니다 1. ARK 모바일로 설정해야하지만, 모바일 플레이어에서 플레이어는 Dododex의 비율이 지금 배가되기 때문에 자신의 Dododex의 배율을 조정해야합니다. 올바른 승수를 사용하기 위해 아래의 업데이트 된 사전 설정을 사용하십시오."
 },
 nb: {
 	aboutStarveIntro: "\"Sultetemming\" er en teknikk overlevende bruker for å minimalisere risken for å miste ressurser mens de temmer en skapning.",
@@ -6350,7 +6441,13 @@ nb: {
 	multipliers: null,
 	viewAll: null,
 	removeAds: null,
-	spawnMaps: null
+	spawnMaps: null,
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"Dododex har blitt oppdatert til 2x temme å matche ARK nye priser. ARK mobile spillere er ikke berørt, men må justere sine Dododex multiplikatorer. Gå til Innstillinger for detaljer.",
+	multsDoubleLong:"Ark temme, XP og samle hastigheter er nå permanent doblet. Dododex beregninger har oppdatert til å matche dette. Dette er en endring i ARK base spill, som betyr 1x temme vil være den samme hastighet som hva 2x var tidligere. Hvis du er på en offisiell server, bør dine priser settes til 1. ARK Mobile er ikke berørt, men spillerne på Mobile spillere må justere sine Dododex multiplikator siden Dododex satser nå doblet. Bruk de oppdaterte forhåndsinnstillinger nedenfor for å sikre at du bruker riktig multiplikator."
 },
 nl: {
 	aboutStarveIntro: "\"Uitgehongerd Temmen\" Is een techniek die sommige overlevers gebruiken om zo min mogelijk risico te lopen om hun spullen te verliezen tijdens het temmen van een dino.",
@@ -6745,7 +6842,13 @@ nl: {
 	multipliers: null,
 	viewAll: null,
 	removeAds: null,
-	spawnMaps: null
+	spawnMaps: null,
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"Dododex is bijgewerkt naar 2x temmen om nieuwe tarieven ARK te passen. ARK Mobile spelers zijn niet beïnvloed, maar moeten hun Dododex multipliers aan te passen. Bezoek Instellingen voor meer informatie.",
+	multsDoubleLong:"ARK's temmen, XP, en het verzamelen snelheden zijn nu permanent verdubbeld. berekeningen Dododex hebben bijgewerkt om deze aan te passen. Dit is een wijziging aan ARK's base spel, wat betekent 1x temmen zal dezelfde snelheid als wat 2x eerder was zijn. Als je op een officiële server, moet uw tarieven worden ingesteld op 1. ARK Mobile wordt niet beïnvloed, maar spelers op Mobile spelers zullen nodig hebben om hun Dododex multiplier aan te passen, omdat Dododex's prijzen nu verdubbeld. Gebruik de bijgewerkte presets hieronder om ervoor te zorgen dat je de juiste multiplier."
 },
 pl:{
 	aboutStarveIntro: "\"Technika Głodowania\" to technika używana przez graczy do zminimalizowania traconych surowców podczas oswajania kreatury.",
@@ -7140,7 +7243,13 @@ pl:{
 	multipliers: null,
 	viewAll: null,
 	removeAds: null,
-	spawnMaps: null
+	spawnMaps: null,
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"Dododex został zaktualizowany do 2x oswajania dopasować nowe stawki Arki. Gracze ARK Telefony nie są naruszone, ale muszą dostosować swoje mnożników Dododex. Przejdź na stronę Ustawienia dla szczegółów.",
+	multsDoubleLong:"oswajania, XP i szybkość gromadzenia ARK są teraz na stałe dwukrotnie. Obliczenia Dododex za zaktualizowane, aby dopasować to. Jest to zmiana w podstawowej grze Arki, co oznacza, 1x oswajania będzie taka sama jak prędkość 2x, co było wcześniej. Jeśli jesteś na oficjalnym serwerze, Twoje stopy powinny być ustawione na 1. ARK Mobile nie ma wpływu, ale gracze na mobilnych graczy będzie musiał dostosować swoje Dododex mnożnika od stopy Dododex są teraz dwukrotnie. Proszę używać zaktualizowanych ustawień poniżej, aby upewnić się, że używasz poprawnego mnożnika."
 },
 "pt-br":{
 	aboutStarveIntro: "\"Tempo de Fome\" é uma técnica que alguns sobreviventes usam para minimizar o risco de perderem recursos enquanto domam sua criatura.",
@@ -7535,7 +7644,13 @@ pl:{
 	multipliers: "Multiplicadores",
 	viewAll: "Ver todos",
 	removeAds: "Remover anúncios do Dododex",
-	spawnMaps: null
+	spawnMaps: null,
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"Dododex foi atualizado para 2x domar para coincidir com novas taxas de arca. jogadores ARK móveis não são afetados, mas deve ajustar seus multiplicadores Dododex. Configurações de visita para detalhes.",
+	multsDoubleLong:"domar, XP, e velocidades de coleta Arca estão agora permanentemente dobrou. Os cálculos de Dododex ter actualizado para corresponder a este. Esta é uma mudança de jogo base do ARK, significando 1x domar será a mesma velocidade que o 2x era anteriormente. Se você estiver em um servidor oficial, suas taxas deve ser definido como 1. ARK Mobile não é afetado, mas os jogadores sobre os jogadores móveis precisará ajustar seu multiplicador Dododex vez que as taxas de Dododex estão agora dobrou. Utilize as predefinições atualizados abaixo para garantir que você está usando o multiplicador correto."
 },
 ro: {
 	aboutStarveIntro: "\"Îmblânzirea prin înfometare\" este o tehnică pe care unii supravieţuitori o folosesc pentru a minimiza riscul de a pierde resurse în timpul îmblânzirii unei creaturi.",
@@ -7930,7 +8045,13 @@ ro: {
 	multipliers: null,
 	viewAll: null,
 	removeAds: null,
-	spawnMaps: null
+	spawnMaps: null,
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"Dododex a fost actualizat la 2x îmblânzirii pentru a se potrivi noilor rate ARK lui. jucători ARK mobile nu sunt afectate, dar trebuie să se adapteze multiplicatori lor Dododex. Accesați Setări pentru detalii.",
+	multsDoubleLong:"dresajul, XP și viteze de colectare a ARK sunt acum dublate permanent. Calculele Dododex au actualizat pentru a se potrivi acest lucru. Aceasta este o modificare a jocului de bază ARK lui, adica 1x îmblânzirea va fi aceeași viteză ca ceea ce a fost anterior 2x. Dacă sunteți pe un server oficial, ratele de dvs. ar trebui să fie setat la 1. ARK mobil nu este afectat, dar jucătorii de pe playerele mobile vor trebui să se adapteze lor de multiplicare Dododex deoarece ratele Dododex sunt acum dublate. Vă rugăm să folosiți presetări actualizate de mai jos, pentru a se asigura că utilizați multiplicatorul corect."
 },
 ru: {
 	aboutStarveIntro: "\"Приручение с голоданием\" - это техника приручения существ, которая помогает выжившим минимизировать риск потери ресурсов в процессе приручения.",
@@ -8325,7 +8446,13 @@ ru: {
 	multipliers: null,
 	viewAll: null,
 	removeAds: null,
-	spawnMaps: null
+	spawnMaps: null,
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"Dododex обновлен до 2х приручения, чтобы соответствовать новым тарифам ковчега. ARK Мобильные игроки не влияют, но должны корректировать свои мультипликаторы Dododex. Посетите Настройки для деталей.",
+	multsDoubleLong:"XP, создание поселения, и скорость сбора ковчега теперь постоянно в два раза. Расчеты Dododex имеют обновлены в соответствии с этим. Этот переход к основной игре ковчега, то есть 1x приручения будет такой же скоростью, как то, что 2x ранее. Если вы находитесь на официальном сервере, ваши ставки должны быть установлены в 1. ARK Mobile не влияет, но игроки на мобильных игроков нужно будет корректировать свои Dododex множитель, так как ставки Dododex в настоящее время в два раза. Пожалуйста, используйте обновленные пресеты ниже, чтобы убедиться, что вы используете правильный множитель."
 },
 th: {
 	aboutStarveIntro: "\"การจับแบบอดอาหาร\" คือเทคนิคที่ผู้เล่นบางคนใช้เพื่อลดความเสี่ยงของการสูญเสียทรัพยากรณ์ในขณะจับไดโน",
@@ -8720,7 +8847,13 @@ th: {
 	multipliers: null,
 	viewAll: null,
 	removeAds: null,
-	spawnMaps: null
+	spawnMaps: null,
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"Dododex ได้รับการปรับปรุง 2x ฝึกฝนเพื่อให้ตรงกับอัตราใหม่ของ ARK ผู้เล่น ARK มือถือยังไม่ได้รับผลกระทบ แต่ต้องปรับตัวคูณ Dododex ของพวกเขา เยี่ยมชมการตั้งค่าสำหรับรายละเอียด",
+	multsDoubleLong:"ARK ของการฝึกฝน, XP, และรวบรวมความเร็วในการอยู่ในขณะนี้อย่างถาวรเป็นสองเท่า คำนวณ Dododex ได้ปรับปรุงเพื่อให้ตรงนี้ นี่คือการเปลี่ยนแปลงที่จะเล่นเกมฐาน ARK ของความหมาย 1x ทำให้เชื่องจะเป็นความเร็วเช่นเดียวกับสิ่ง 2x ก่อนหน้านี้ หากคุณบนเซิร์ฟเวอร์อย่างเป็นทางการอัตราค่าบริการของคุณควรจะตั้งค่าเป็น 1 ARK มือถือไม่ได้รับผลกระทบ แต่ผู้เล่นกับผู้เล่นมือถือจะต้องปรับตัวคูณ Dododex ของพวกเขาเนื่องจากอัตรา Dododex ของเป็นสองเท่าในขณะนี้ โดยใช้ที่ตั้งไว้ล่วงหน้าการปรับปรุงด้านล่างเพื่อให้แน่ใจว่าคุณกำลังใช้ตัวคูณที่ถูกต้อง"
 },
 tr: {
 	aboutStarveIntro: "\"Aç Bırakmak\" evcilleştirme sırasında açlık değerinin düşmesini bekleyerek, kaynak kaybetme riskini en aza indirgemek için kullanılan bir yöntemdir.",
@@ -9115,7 +9248,13 @@ tr: {
 	multipliers: null,
 	viewAll: null,
 	removeAds: null,
-	spawnMaps: null
+	spawnMaps: null,
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"Dododex ARK yeni oranları eşleşecek şekilde ıslah 2x olarak güncellendi. ARK Mobil oyuncuları etkilenmez ama onların Dododex çarpanlarını ayarlamak gerekir. Ayrıntılar için ziyaret Ayarları.",
+	multsDoubleLong:"ARK adlı evcilleştirme, XP ve toplama hızları artık kalıcı ikiye katlanır. Dododex hesaplamaları bu maç için güncelledik. Bu 2x daha önce ne olduğunu aynı hızda olacak evcilleştirme 1x anlamına ARK baz oyuna bir değişikliktir. Eğer resmi bir sunucuda iseniz, oranları etkilenmez 1. ARK Mobile olarak ayarlanması gerekir, ancak Mobil çalarlarda oyuncuları Dododex en oranları şimdi iki katına beri kendi Dododex çarpanını ayarlamak gerekir. Doğru çarpanını kullandığınız emin olmak için aşağıdaki güncellenmiş ön ayarları kullanın."
 },
 zh: {
 	aboutStarveIntro: "\"饥饿驯服法\" 这项技术被很多幸存者用来最小化在驯服生物时的资源损失。",
@@ -9510,7 +9649,13 @@ zh: {
 	multipliers: "倍增器",
 	viewAll: "查看全部",
 	removeAds: "移除广告",
-	spawnMaps: "生成地图"
+	spawnMaps: "生成地图",
+	evolutionEvent: null,
+	noOffline: null,
+	xp: null,
+	dcfd: null,
+	multsDoubleShort:"Dododex已经更新到2倍驯服匹配ARK的新利率。 ARK手机玩家都不会受到影响，但必须调整自己的Dododex乘数。访问设置的详细信息。",
+	multsDoubleLong:"现在ARK的驯服，XP，和采集速度永久增加一倍。 Dododex的计算已更新，以符合这一点。这是一个改变ARK的基本游戏，这意味着1个驯服将是相同的速度2X什么以前。如果你是一个官方的服务器上，你的利率应设置为1 ARK移动不会受到影响，但玩家对移动玩家需要调整自己的Dododex乘数自Dododex的速率翻了一翻。请使用以下更新预置，以确保您使用正确的乘数。"
 }}
 
 /* Language names should be in native language */
