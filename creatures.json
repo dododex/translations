@@ -440,11 +440,9 @@
 	},
 	"doedicurus":{
 		"name_t":{
-			"fr":"Doedicurus",
 			"it":"Dedicuro",
 			"ja":"ドエディクルス",
 			"ko":"도에디쿠스",
-			"pt-br":"Doedicurus",
 			"ru":"Дедикурус",
 			"zh":"星尾兽"
 		}
@@ -454,10 +452,9 @@
 			"da":"Drage",
 			"de":"Drache",
 			"es":"Dragón",
-			"fr":"Dragon",
 			"it":"Drago",
 			"ja":"ドラゴン",
-			"ko":"드레곤",
+			"ko":"드래곤",
 			"pt-br":"Dragão",
 			"ru":"Дракон",
 			"zh":"喷火龙"
@@ -1486,7 +1483,6 @@
 	"terrorbird":{
 		"name_t":{
 			"da":"Terrorfugl",
-			"de":"Terror Bird",
 			"es":"Ave del terror",
 			"fr":"Oiseau Terreur",
 			"it":"Uccello del terrore",
@@ -1516,7 +1512,7 @@
 			"fr":"Lezard Epineux",
 			"it":"Drago spinoso",
 			"ja":"モロクトカゲ",
-			"ko":"가시드레곤",
+			"ko":"가시드래곤",
 			"ru":"Шипастый Дракон",
 			"zh":"棘蜥"
 		}
