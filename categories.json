@@ -90,30 +90,45 @@
 		},
 		"7":{
 			"n":"New To Scorched Earth",
+			"nt":{
+				"fr":"Nouveau sur Scorched Earth",
+			},
 			"o":20,
 			"p":2,
 			"w":4
 		},
 		"8":{
 			"n":"New To Aberration",
+			"nt":{
+				"fr":"Nouveau sur Aberration",
+			},
 			"o":21,
 			"p":2,
 			"w":4
 		},
 		"38":{
 			"n":"New To Extinction",
+			"nt":{
+				"fr":"Nouveau sur Extinction",
+			},
 			"o":22,
 			"p":2,
 			"w":4
 		},
 		"40":{
 			"n":"New To Genesis",
+			"nt":{
+				"fr":"Nouveau sur Genesis",
+			},
 			"o":23,
 			"p":2,
 			"w":4
 		},
 		"42":{
 			"n":"New To Crystal Isles",
+			"nt":{
+				"fr":"Nouveau sur Crystal Isles",
+			},
 			"o":24,
 			"p":2,
 			"w":4
@@ -171,7 +186,7 @@
 			"nt":{
 				"de":"Reitbar",
 				"it":"Cavalcabile",
-				"fr":"Chevauchable",
+				"fr":"Montable",
 				"es":"Manejable",
 				"ru":"Ездовой",
 				"zh":"可骑乘",
@@ -187,7 +202,7 @@
 			"nt":{
 				"de":"Nutzsattel",
 				"it":"Sella utilità",
-				"fr":"Selle utilisable",
+				"fr":"Selle Utilitaire",
 				"es":"Montura utilitaria",
 				"ru":"Обычное седло",
 				"zh":"工具鞍",
@@ -219,7 +234,7 @@
 			"nt":{
 				"de":"Multi-Passagier",
 				"it":"Multi passeggero",
-				"fr":"Multi passager",
+				"fr":"Multi Passager",
 				"es":"Multi pasajero",
 				"ru":"Многоместный",
 				"zh":"多座位",
@@ -331,7 +346,7 @@
 			"nt":{
 				"de":"Schnelles & Einfaches Zähmen",
 				"it":"Domazione facile e veloce",
-				"fr":"Apprivoisement facile et rapide",
+				"fr":"Apprivoisement Rapide et Facile",
 				"es":"Doma rápida y fácil",
 				"ru":"Быстрое и лёгкое приручение",
 				"zh":"快速/简易驯服",
@@ -681,7 +696,7 @@
 				"cs":"Více",
 				"da":"Mere",
 				"es":"Más",
-				"fr":"Autre",
+				"fr":"Plus",
 				"de":"Mehr",
 				"it":"Di più",
 				"ja":"More",
