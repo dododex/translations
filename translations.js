@@ -7325,7 +7325,7 @@ pl:{
 	aboutStarveUntilIsNotHead: "Se a contagem regressiva NÃO aparecer",
 	aboutStarveUntilIsHead: "Se a contagem regressiva aparecer",
 	impactsMeleeWeapons: "Impacto de armas de Combate.",
-	aboutStarveMethod: "No método de domesticação normal, você derruba uma criatura e imediatamente coloca todos os alimentos necessários ao seu inventário e ele comerá aos poucos quando sentir fome. Com a Doma de Fome, uma vez que a criatura é derrubada, você simplesmente espera a criatura ficar com fome antes de alimentá-lo com qualquer alimento ou Narcóticos. Quando a criatura estiver morrendo de fome, então você começa a alimentá-la.",
+	aboutStarveMethod: "No método de domesticação normal, você derruba uma criatura e imediatamente coloca todos os alimentos necessários em seu inventário e ele comerá aos poucos quando sentir fome. Com a domesticação por fome, uma vez que a criatura é derrubada, você simplesmente espera a criatura ficar com fome antes de alimentá-lo com qualquer alimento ou Narcóticos. Quando a criatura estiver morrendo de fome, então você começa a alimentá-la.",
 	incPerLvl: "Inc. por Nvl",
 	incubation: "Incubação",
 	juvenile: "Adolescente",
@@ -7356,7 +7356,7 @@ pl:{
 	rate: "Avaliar",
 	rateDododex: "Avaliar Dododex",
 	rateThisCreature: "Avalie esta criatura",
-	ratingsNote: "Avaliação de 5. coletado de {0} Usuários do Dododex.",
+	ratingsNote: "Avaliação de 5. Coletado de {0} Usuários do Dododex.",
 	recipesDyes: "Receitas & Corantes",
 	reportDataError: "Reporte erros nos dados",
 	resetTimer: "Resetar tempo",
@@ -7635,7 +7635,7 @@ pl:{
 	deleteAll: "Deletar todos",
 	pauseAll: "Pausar todos",
 	resumeAll: "Resumir todos",
-	stories: null,
+	stories: "Histórias",
 	damage: "Dano",
 	notifBorn: "Seu {0} irá nascer em {1} minutos.",
 	notifJuv: "Seu bebê {0} se tornará Adolescente em {1} minutos.",
@@ -7644,13 +7644,13 @@ pl:{
 	multipliers: "Multiplicadores",
 	viewAll: "Ver todos",
 	removeAds: "Remover anúncios do Dododex",
-	spawnMaps: null,
-	evolutionEvent: null,
-	noOffline: null,
-	xp: null,
-	dcfd: null,
-	multsDoubleShort:"Dododex foi atualizado para 2x domar para coincidir com novas taxas de arca. jogadores ARK móveis não são afetados, mas deve ajustar seus multiplicadores Dododex. Configurações de visita para detalhes.",
-	multsDoubleLong:"domar, XP, e velocidades de coleta Arca estão agora permanentemente dobrou. Os cálculos de Dododex ter actualizado para corresponder a este. Esta é uma mudança de jogo base do ARK, significando 1x domar será a mesma velocidade que o 2x era anteriormente. Se você estiver em um servidor oficial, suas taxas deve ser definido como 1. ARK Mobile não é afetado, mas os jogadores sobre os jogadores móveis precisará ajustar seu multiplicador Dododex vez que as taxas de Dododex estão agora dobrou. Utilize as predefinições atualizados abaixo para garantir que você está usando o multiplicador correto."
+	spawnMaps: "Mapas de Spawn",
+	evolutionEvent: "Evento de Evolução",
+	noOffline: "Desculpe, este recurso não está disponível no modo offline.",
+	xp: "XP",
+	dcfd: "Drenagem de comida do Dinossauro",
+	multsDoubleShort: "Dododex foi atualizado para a domesticação 2x mais rápida para coincidir com os novos parâmetros de ARK. Jogadores de ARK Mobile não são afetados, mas devem ajustar seus multiplicadores no Dododex. Visite Configurações para mais detalhes.",
+	multsDoubleLong: "A velocidade da domesticação de ARK, do XP ganho, e da coleta de recursos estão permanentemente dobradas. Os cálculos do Dododex foram atualizados para corresponder com essa alteração. Esta é uma mudança na base do jogo ARK, o que significa que a domesticação 1x será a mesma velocidade que o 2x era anteriormente. Se você estiver em um servidor oficial, suas taxas devem ser definidas como 1. ARK Mobile não é afetado, mas os jogadores das versão Mobile precisarão ajustar seus multiplicadores do Dododex, uma vez que os parâmentros do Dododex foram dobrados. Utilize as predefinições atualizadas abaixo para garantir que você está usando o multiplicador correto."
 },
 ro: {
 	aboutStarveIntro: "\"Îmblânzirea prin înfometare\" este o tehnică pe care unii supravieţuitori o folosesc pentru a minimiza riscul de a pierde resurse în timpul îmblânzirii unei creaturi.",
@@ -9810,6 +9810,9 @@ var languages = {
 		credit:[{
 			name:"Will Oliveira",
 			link:"https://twitter.com/WillOliveiraVix"
+		},{
+			name:"Gabriel Arydes",
+			link:"https://twitter.com/raymeki" 
 		}]
 	},
 	ro:{
