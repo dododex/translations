@@ -7325,7 +7325,7 @@ pl:{
 	aboutStarveUntilIsNotHead: "Se a contagem regressiva NÃO aparecer",
 	aboutStarveUntilIsHead: "Se a contagem regressiva aparecer",
 	impactsMeleeWeapons: "Impacto de armas de Combate.",
-	aboutStarveMethod: "No método de domesticação normal, você derruba uma criatura e imediatamente coloca todos os alimentos necessários em seu inventário e ele comerá aos poucos quando sentir fome. Com a domesticação por fome, uma vez que a criatura é derrubada, você simplesmente espera a criatura ficar com fome antes de alimentá-lo com qualquer alimento ou Narcóticos. Quando a criatura estiver morrendo de fome, então você começa a alimentá-la.",
+	aboutStarveMethod: "No método de domesticação normal, você derruba uma criatura e imediatamente coloca todos os alimentos necessários em seu inventário e ele comerá aos poucos quando sentir fome. Com a domesticação por fome, uma vez que a criatura é derrubada, você simplesmente espera a criatura ficar com fome antes de alimentá-la. Quando a criatura estiver morrendo de fome, então você começa a alimentá-la. Force a criatura a consumir Narcóticos para mantê-la adormecida para continuar domesticando-a.",
 	incPerLvl: "Inc. por Nvl",
 	incubation: "Incubação",
 	juvenile: "Adolescente",
@@ -9816,6 +9816,9 @@ var languages = {
 		},{
 			name:"Gabriel Arydes",
 			link:"https://twitter.com/raymeki" 
+		},{
+			name:"Erick Xavier",
+			link:"https://twitter.com/erickxavier" 
 		}]
 	},
 	ro:{
