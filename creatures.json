@@ -350,6 +350,7 @@
 			"es":"Titán del desierto",
 			"fr":"Titan du Désert",
 			"it":"Titano del deserto",
+			"ja":"デザートタイタン",
 			"ru":"Пустынный Титан",
 			"pt-br":"Titã do Deserto",
 			"zh":"沙漠泰坦"
@@ -514,6 +515,7 @@
 			"es":"Ejecutor",
 			"fr":"Exécuteur",
 			"it":"Esecutore",
+			"ja":"エンフォーサー",
 			"zh":"执行者",
 			"ru":"Инфорсер"
 		}
@@ -564,6 +566,7 @@
 			"es":"Titán del bosque",
 			"fr":"Titan de la Forêt",
 			"it":"Titano della foresta",
+			"ja":"フォレストタイタン",
 			"ru":"Лесной Титан",
 			"pt-br":"Titã da Floresta",
 			"zh":"森林泰坦"
@@ -594,6 +597,7 @@
 		"name_t":{
 			"fr":"Sacagaz",
 			"it":"Gasinsetto",
+			"ja":"ガスバグ",
 			"zh":"气囊虫",
 			"ko":"가스백",
 			"ru":"Газбагс"
@@ -699,6 +703,7 @@
 			"es":"Titán de hielo",
 			"fr":"Titan de Glace",
 			"it":"Titano del ghiaccio",
+			"ja":"アイスタイタン",
 			"ru":"Ледяной Титан",
 			"pt-br":"Titã do Gelo",
 			"zh":"冰原泰坦"
@@ -802,7 +807,8 @@
 	"kingtitan":{
 		"name_t":{
 			"pt-br":"Rei Titã",
-			"fr":"Roi des Titans"
+			"fr":"Roi des Titans",
+			"ja":"キングタイタン",
 		}
 	},
 	"lamprey":{
@@ -988,6 +994,7 @@
 		"name_t":{
 			"it":"MegaMek",
 			"fr":"Méga Mek",
+			"ja":"メガメック",
 			"ru":"Мега Мех"
 		}
 	},
@@ -995,6 +1002,7 @@
 		"name_t":{
 			"ko":"메가네우라",
 			"fr":"Méganeura",
+			"ja":"メガネウラ",
 			"zh":"巨脉蜻蜓",
 			"ru":"Меганевра"
 		}
@@ -1003,6 +1011,7 @@
 		"name_t":{
 			"it":"Megapiteco",
 			"fr":"Mégapithèque",
+			"ja":"メガピテクス",
 			"ko":"메가피테쿠스",
 			"ru":"Мегапитек",
 			"zh":"大金刚"
@@ -1024,6 +1033,7 @@
 		"name_t":{
 			"fr":"Mek",
 			"zh":"机甲",
+			"ja":"メック",
 			"ru":"Мех"
 		}
 	},
@@ -1186,6 +1196,7 @@
 	},
 	"parakeetfishschool":{
 		"name_t":{
+			"ja":"パラキートの魚群",
 			"zh":"鹦鹉鱼群",
 			"fr":"Banc de Poissons",
 		}
@@ -1686,7 +1697,7 @@
 			"es":"Buitre",
 			"fr":"Vautour",
 			"it":"Avvoltoio",
-			"ja":"ハゲタカ",
+			"ja":"ハゲワシ",
 			"ru":"Гриф",
 			"zh":"秃鹫"
 		}
