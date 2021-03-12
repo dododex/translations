@@ -10458,9 +10458,9 @@ vi: {
 	noOffline: "Xin lỗi, bạn không thể dùng app lúc Offline",
 	xp: "XP",
 	dcfd: "Dino Character Food Drain",
-	multsDoubleShort: "Dododex has been updated to 2x taming to match ARK's new rates. ARK Mobile players are not affected, but must adjust their Dododex multipliers. Visit Settings for details.",
-	multsDoubleLong: "ARK's taming, XP, and gathering speeds are now permanently doubled. Dododex's calculations have updated to match this. This is a change to ARK's base game, meaning 1x taming will be the same speed as what 2x was previously. If you're on an official server, your rates should be set to 1. ARK Mobile is not affected, but players on Mobile players will need to adjust their Dododex multiplier since Dododex's rates are now doubled. Please use the updated presets below to ensure you're using the correct multiplier.",
-	settingsSwitchPrompt: "Switch to {0} settings?",
+	multsDoubleShort: "Dododex đã cập nhật thành x2 taming để phù hợp với tỉ lệ mới của ARK. Người chơi ARK Mobile sẽ không bị ảnh hưởng, nhưng phải điều chỉnh các chức năng của Dododex để phù hợp hơn. Xem Cài Đặt để biết thêm chi tiết.",
+	multsDoubleLong: "Tốc độ thuần hóa, XP và thu hoạch của ARK giờ đây được nhân đôi vĩnh viễn. Các thuật toán của Dododex đã cập nhật để phù hợp với điều này. Đây là một thay đổi đối với trò chơi cơ bản của ARK, có nghĩa là 1x taming sẽ là tốc độ 2x. Nếu bạn chơi máy chủ chính thức, tỷ lệ của bạn phải được đặt thành 1. ARK Mobile không bị ảnh hưởng, nhưng người chơi trên Người chơi trên thiết bị di động sẽ cần điều chỉnh các thông số của Dododex vì tỷ lệ của Dododex hiện đã tăng gấp đôi. Vui lòng sử dụng các cài đặt trước được cập nhật bên dưới để đảm bảo bạn đang sử dụng đúng thuật toán.",
+	settingsSwitchPrompt: "Chuyển sang cài đặt của {0}?",
 	settingsSwitchDesc: "Update Dododex để sử dụng chức năng {0}?"
 },
 
