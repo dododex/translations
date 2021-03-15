@@ -53,14 +53,14 @@ The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com
 | ---- | -------- | ----------- | --------- | --------- | ---------- |
 | de | German               | 37.4% | ✅ | ✅ | ✅
 | fr | French               | 19.4% | ✅ | ✅ | Partial
-| pt | Portuguese           |  8.4% | ✅ |
+| pt | Portuguese           |  8.4% | ✅ | ✅ | ✅
 | es | Spanish              |  6.1% | ✅ | ✅ | ✅
 | ru | Russian              |  7.6% | ✅ | ✅ | ✅
-| nl | Dutch                |  4.0% | ✅ |
+| nl | Dutch                |  4.0% | ✅ |  | ✅
 | it | Italian              |  3.8% | ✅ | ✅ | ✅
 | pl | Polish               |  2.4% | ✅ |
-| zh | Chinese (Simplified) |  ~2.2% | ✅ | ✅
-| zh-hant | Chinese (Taditional) |  ?% | ✅ | ✅
+| zh | Chinese (Simplified) |  ~2.2% | ✅ | ✅ | ✅
+| zh-hant | Chinese (Traditional) |  ?% | ✅ | ✅
 | da | Danish               |  1.3% | ✅ | Partial
 | tr | Turkish              |  1.2% | ✅ |
 | sv | Swedish              |  1.0% |   |
@@ -81,4 +81,4 @@ The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com
 | lv | Latvian              | <0.1% | ✅ |
 
 
-_*Percent of non-English Dododex users_
+_*Percent of non-English Dododex users (roughly)_
