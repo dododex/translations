@@ -19,7 +19,8 @@
 				"th":"ทั้งหมด",
 				"tr":"Tümü",
 				"nl":"Alles",
-				"ar":"الكل"
+				"ar":"الكل",
+				"vi": "Tất cả"
 			},
 			"o":0
 		},
@@ -35,7 +36,8 @@
 				"fr":"Nouveau",
 				"nl":"Nieuw",
 				"pt":"Novo",
-				"ar":"جديد"
+				"ar":"جديد",
+				"vi":"Mới"
 			},
 			"o":1
 		},
@@ -151,7 +153,8 @@
 				"zh":"陆生",
 				"nl":"Aards",
 				"pt":"Terrestre",
-				"ar":"أنسان"
+				"ar":"أنسان",
+				"vi":"Trên cạn"
 			},
 			"o":30,
 			"p":3
@@ -168,7 +171,8 @@
 				"zh":"飞行",
 				"nl":"Vliegend",
 				"pt":"Aéreo",
-				"ar":"جوي"
+				"ar":"جوي",
+				"vi":"Trên không"
 			},
 			"o":31,
 			"p":3
@@ -185,7 +189,8 @@
 				"zh":"水生",
 				"nl":"Aquatisch",
 				"pt":"Aquático",
-				"ar":"مائي"
+				"ar":"مائي",
+				"vi":"Dưới nước"
 			},
 			"o":32,
 			"p":3
@@ -202,7 +207,8 @@
 				"zh":"可骑乘",
 				"nl":"Rijdbaar",
 				"pt":"Montável",
-				"ar":"قابل للتخلص منه"
+				"ar":"قابل للتخلص منه",
+				"vi":"Cưỡi được"
 			},
 			"o":40,
 			"p":4
@@ -219,7 +225,8 @@
 				"zh":"工具鞍",
 				"nl":"Bruikbaar Zadel",
 				"pt":"Sela Utilitária",
-				"ar":"سرج مفيد"
+				"ar":"سرج مفيد",
+				"vi":"Yên đa năng"
 			},
 			"o":41,
 			"p":4
@@ -236,7 +243,8 @@
 				"zh":"平台鞍",
 				"nl":"Platform Zadel",
 				"pt":"Sela Plataforma",
-				"ar":"منصة السرج"
+				"ar":"منصة السرج",
+				"vi":"Yên Platform"
 			},
 			"o":42,
 			"p":4
@@ -253,7 +261,8 @@
 				"zh":"多座位",
 				"nl":"Meerdere-Passagiers",
 				"pt":"Multi-Passageiros",
-				"ar":"متعدد الركاب"
+				"ar":"متعدد الركاب",
+				"vi":"Nhiều ngưỡi cưỡi"
 			},
 			"o":43,
 			"p":4
@@ -270,7 +279,8 @@
 				"zh":"泰克鞍",
 				"nl":"Tek Zadel",
 				"pt":"Sela Tecnológica",
-				"ar":"سرج تيك"
+				"ar":"سرج تيك",
+				"vi":"Yên Tek"
 			},
 			"o":44,
 			"p":4
@@ -287,7 +297,8 @@
 				"zh":"可拾起",
 				"nl":"Schouder Metgezel",
 				"pt":"Montar nos Ombros",
-				"ar":"يوضع على الكتف"
+				"ar":"يوضع على الكتف",
+				"vi":"Để lên vai"
 			},
 			"o":45,
 			"p":4
@@ -304,7 +315,8 @@
 				"zh":"可驯服",
 				"nl":"Tembaar",
 				"pt":"Domesticável",
-				"ar":"قابل للترويض"
+				"ar":"قابل للترويض",
+				"vi":"Có thể thuần hóa"
 			},
 			"o":50,
 			"p":5
@@ -321,7 +333,8 @@
 				"zh":"不可驯服",
 				"nl":"Niet Tembaar",
 				"pt":"Não Domesticável",
-				"ar":"غير قابل للترويض"
+				"ar":"غير قابل للترويض",
+				"vi":"Không thể thuần hóa"
 			},
 			"o":51,
 			"p":5
@@ -338,7 +351,8 @@
 				"zh":"麻醉驯服",
 				"nl":"Temmen door bewusteloosheid",
 				"pt":"Domável Inconsciente",
-				"ar":"ترويض عبر التخدير"
+				"ar":"ترويض عبر التخدير",
+				"vi":"Thuần Hóa Bắng Gục"
 			},
 			"o":52,
 			"p":5
@@ -355,7 +369,8 @@
 				"zh":"和平驯服",
 				"nl":"Passief temmen",
 				"pt":"Domesticação passiva",
-				"ar":"ترويض سلمي"
+				"ar":"ترويض سلمي",
+				"vi":"Thuần Hóa Đút Thức Ăn"
 			},
 			"o":53,
 			"p":5
@@ -371,7 +386,8 @@
 				"zh":"快速/简易驯服",
 				"nl":"Snel & Makkelijk te temmen",
 				"pt":"Domesticação rápida e tranquila",
-				"ar":"ترويض سريع / سهل"
+				"ar":"ترويض سريع / سهل",
+				"vi":"Thuần hóa Nhanh, gọn, lẹ"
 			},
 			"o":54,
 			"p":5
@@ -388,7 +404,8 @@
 				"zh":"肉食性",
 				"nl":"Carnivoren",
 				"pt":"Carnívoros",
-				"ar":"آكل لحوم"
+				"ar":"آكل لحوم",
+				"vi":"Ăn thịt"
 			},
 			"o":60,
 			"p":6
@@ -405,7 +422,8 @@
 				"zh":"草食性",
 				"nl":"Herbivoren",
 				"pt":"Herbívoros",
-				"ar":"آكل أعشاب"
+				"ar":"آكل أعشاب",
+				"vi":"Ăn cỏ"
 			},
 			"o":61,
 			"p":6
@@ -422,7 +440,8 @@
 				"zh":"杂食性",
 				"nl":"Omnivoren",
 				"pt":"Onívoros",
-				"ar":"قارت"
+				"ar":"قارت",
+				"vi":"Ăn tạp"
 			},
 			"o":62,
 			"p":6
@@ -439,7 +458,8 @@
 				"zh":"鱼食性",
 				"nl":"Viseters",
 				"pt":"Piscívoros",
-				"ar":"حشرات"
+				"ar":"حشرات",
+				"vi":"Ăn cá"
 			},
 			"o":63,
 			"p":6
@@ -456,7 +476,8 @@
 				"zh":"战斗用",
 				"nl":"Gevechts schepsels",
 				"pt":"Criaturas de Combate",
-				"ar":"مخلوقات المعركة"
+				"ar":"مخلوقات المعركة",
+				"vi":"Sinh Vật Chiến Đấu"
 			},
 			"o":70,
 			"p":7
@@ -473,7 +494,8 @@
 				"zh":"资源采集",
 				"nl":"Verzamelaars",
 				"pt":"Colhedores",
-				"ar":"جمع الموارد"
+				"ar":"جمع الموارد",
+				"vi":"Sinh Vật Thu Hoạch"
 			},
 			"o":71,
 			"p":7
@@ -490,7 +512,8 @@
 				"zh":"高负重",
 				"nl":"Werk Ezel",
 				"pt":"Transportadores",
-				"ar":"حمل الاوزان"
+				"ar":"حمل الاوزان",
+				"vi":"Di chuyển tốt"
 			},
 			"o":72,
 			"p":7
@@ -507,7 +530,8 @@
 				"zh":"高机动性",
 				"nl":"Snelle schepsels",
 				"pt":"Criaturas Rápidas",
-				"ar":"مخلوقات سريعه"
+				"ar":"مخلوقات سريعه",
+				"vi":"Sinh Vật Nhanh"
 			},
 			"o":73,
 			"p":7
@@ -524,7 +548,8 @@
 				"zh":"可繁殖",
 				"nl":"Broedbaar",
 				"pt":"Reproduzíveis",
-				"ar":"قابل للتكاثر"
+				"ar":"قابل للتكاثر",
+				"vi":"Có thể phối giống"
 			},
 			"o":80,
 			"p":8
@@ -541,7 +566,8 @@
 				"zh":"早期",
 				"nl":"Begin spel",
 				"pt":"Começo de Jogo",
-				"ar":"بداية اللعبة"
+				"ar":"بداية اللعبة",
+				"vi":"Đầu Game"
 			},
 			"o":81,
 			"p":8
@@ -559,7 +585,8 @@
 				"zh":"中期",
 				"nl":"Midden spel",
 				"pt":"Meio de Jogo",
-				"ar":"منتصف اللعبة"
+				"ar":"منتصف اللعبة",
+				"vi":"Giữa Game"
 			},
 			"o":82,
 			"p":8
@@ -576,7 +603,8 @@
 				"zh":"后期",
 				"nl":"Eind spel",
 				"pt":"Fim de Jogo",
-				"ar":"نهاية اللعبة"
+				"ar":"نهاية اللعبة",
+				"vi":"Cuối Game"
 			},
 			"o":83,
 			"p":8
@@ -593,7 +621,8 @@
 				"zh":"BOSS",
 				"nl":"Bazen",
 				"pt":"Chefes",
-				"ar":"الزعماء"
+				"ar":"الزعماء",
+				"vi":"Boss"
 			},
 			"o":84,
 			"p":8
@@ -624,7 +653,8 @@
 				"zh":"地图",
 				"nl":"Kaart",
 				"pt":"Mapa",
-				"ar":"خريطه"
+				"ar":"خريطه",
+				"vi":"Bản đồ"
 			}
 		},
 		"2":{
@@ -639,7 +669,8 @@
 				"zh":"扩展资料片限定",
 				"nl":"Alleen vekrijgbaar met uibreidings paket",
 				"pt":"Pacore de expansão exclusivo",
-				"ar":"حزمه"
+				"ar":"حزمه",
+				"vi":"Chỉ xuất hiện ở các DLC"
 			}
 		},
 		"3":{
@@ -652,7 +683,8 @@
 				"ru":"Среда обитания",
 				"zh":"栖息地",
 				"nl":"Habitat",
-				"ar":"موطن"
+				"ar":"موطن",
+				"vi":"Môi trường sống"
 			}
 		},
 		"4":{
@@ -666,7 +698,8 @@
 				"zh":"骑乘性",
 				"nl":"Rijdbaarheid",
 				"pt":"Guiabiliade",
-				"ar":"قابلية التخيل"
+				"ar":"قابلية التخيل",
+				"vi":"Có thể cưỡi"
 			}
 		},
 		"5":{
@@ -687,7 +720,8 @@
 				"th":"การจับ",
 				"tr":"Evcilleştirme",
 				"nl":"Temmen",
-				"ar":"ترويض"
+				"ar":"ترويض",
+				"vi":"Thuần Hóa"
 			}
 		},
 		"6":{
@@ -701,7 +735,8 @@
 				"zh":"饮食",
 				"nl":"Dieët",
 				"pt":"Dieta",
-				"ar":"التغذية"
+				"ar":"التغذية",
+				"vi":"Thức ăn"
 			}
 		},
 		"7":{
@@ -723,7 +758,8 @@
 				"th":"สิ่งที่มีประโยชน์",
 				"tr":"Faydaları",
 				"nl":"Nuttigheid",
-				"ar":"الأستخدامات"
+				"ar":"الأستخدامات",
+				"vi":"Đa năng"
 			}
 		},
 		"8":{
@@ -745,7 +781,8 @@
 				"th":"เพิ่มเติม",
 				"tr":"Daha Fazla",
 				"nl":"Meer",
-				"ar":"المزيد"
+				"ar":"المزيد",
+				"vi":"Thêm"
 			}
 		}
 	}
