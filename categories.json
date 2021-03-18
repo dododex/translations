@@ -495,7 +495,7 @@
 				"nl":"Verzamelaars",
 				"pt":"Colhedores",
 				"ar":"جمع الموارد",
-				"vi";"Sinh Vật Thu Hoạch"
+				"vi":"Sinh Vật Thu Hoạch"
 			},
 			"o":71,
 			"p":7
@@ -669,7 +669,7 @@
 				"zh":"扩展资料片限定",
 				"nl":"Alleen vekrijgbaar met uibreidings paket",
 				"pt":"Pacore de expansão exclusivo",
-				"ar":"حزمه"
+				"ar":"حزمه",
 				"vi":"Chỉ xuất hiện ở các DLC"
 			}
 		},
