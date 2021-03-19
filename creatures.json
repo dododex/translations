@@ -37,7 +37,6 @@
 			"el":"Αμμωνίτης",
 			"es":"Amonita",
 			"fi":"Ammoniitti",
-			"fr":"Ammonite",
 			"he":"אמונייט",
 			"ja":"アンモナイト",
 			"ko":"암모나이트",
@@ -57,9 +56,9 @@
 			"el":"Άνγκλερ",
 			"es":"Pez Abisal",
 			"fi":"Krotti",
-			"fr":"Baudroie abyssale",
+			"fr":"Baudroie Abyssale",
 			"he":"חכאי",
-			"it":"Rana pescatrice",
+			"it":"Rana Pescatrice",
 			"ja":"アンコウ",
 			"ko":"앵글러",
 			"nl":"Zeeduivel",
@@ -106,7 +105,6 @@
 			"ar":"أركيوبتركس",
 			"el":"Αρχαιοπτέρυξ",
 			"es":"Arqueoptérix",
-			"fr":"Archaeopteryx",
 			"he":"ארקיאפטריקס",
 			"it":"Archeotterige",
 			"ja":"始祖鳥",
@@ -120,7 +118,6 @@
 		"name_t":{
 			"ar":"أرجنتافس",
 			"el":"Γιγαντογύπας",
-			"fr":"Argentavis",
 			"he":"ארגנטוויס",
 			"ja":"アルゲンタヴィス",
 			"ko":"아르젠타비스",
@@ -364,7 +361,7 @@
 	"coelacanth":{
 		"name_t":{
 			"ar":"أسماك سيلكانث",
-			"cs":"Latimérie podivná",
+			"cs":"Latimérie Podivná",
 			"el":"Κοιλάκανθος",
 			"es":"Celacanto",
 			"fr":"Coelacanthe",
@@ -395,7 +392,7 @@
 		"name_t":{
 			"de":"Fehlerhafter Master Controller",
 			"es":"Controlador Maestro Corrupto",
-			"fr":"Maître contrôleur corrompu",
+			"fr":"Maître Contrôleur Corrompu",
 			"it":"Master Controller Corrotto",
 			"ko":"오염된 마스터 컨트롤러",
 			"ru":"Повреждённый Главный контроллер"
@@ -718,11 +715,9 @@
 			"ar":"ايكوس",
 			"el":"Άλογο",
 			"fi":"Villihevonen",
-			"fr":"Equus",
 			"hr":"Эквус",
 			"ja":"エクウス",
 			"ko":"에쿠스",
-			"pt-br":"Equus",
 			"ru":"Эквус",
 			"zh":"庞马"
 		}
@@ -958,7 +953,7 @@
 			"de":"Eistitan",
 			"es":"Titán de Hielo",
 			"fr":"Titan de Glace",
-			"it":"Titano del ghiaccio",
+			"it":"Titano del Ghiaccio",
 			"ja":"アイスタイタン",
 			"ko":"아이스 타이탄",
 			"nl":"Ijs Titaan",
@@ -1401,7 +1396,6 @@
 		"name_t":{
 			"da":"Mikroraptor",
 			"fi":"Mikroraptori",
-			"fr":"Microraptor",
 			"ja":"ミクロラプトル",
 			"ko":"미크로랍토르",
 			"ru":"Микрораптор",
@@ -1410,7 +1404,6 @@
 	},
 	"moeder":{
 		"name_t":{
-			"fr":"Moeder",
 			"ja":"ムーダー",
 			"ko":"모더",
 			"ru":"Моэдер",
@@ -1419,7 +1412,6 @@
 	},
 	"morellatops":{
 		"name_t":{
-			"fr":"Morellatops",
 			"it":"Morellatopo",
 			"ja":"モレラトプス",
 			"ko":"모렐라톱스",
@@ -1454,8 +1446,7 @@
 		"name_t":{
 			"cs":"Bezejmenný",
 			"da":"Navnløs",
-			"es":"Sin nombre",
-			"fr":"Nameless",
+			"es":"Sin Nombre",
 			"id":"Tanpa Nama",
 			"it":"Innominabile",
 			"ja":"ネームレス",
@@ -1473,7 +1464,6 @@
 		"name_t":{
 			"ar":"خفاش",
 			"el":"Ονυχονυχτερίδα",
-			"fr":"Onyc",
 			"it":"Pipistrello",
 			"ja":"オニコニクテリス",
 			"ko":"오니크",
@@ -1507,7 +1497,6 @@
 			"el":"Επιτηρητής",
 			"es":"Supervisor",
 			"fi":"Valvoja",
-			"fr":"Overseer",
 			"it":"Sorvegliante",
 			"ja":"監視者",
 			"ko":"감독관",
@@ -1519,7 +1508,6 @@
 	"oviraptor":{
 		"name_t":{
 			"fi":"Oviraptori",
-			"fr":"Oviraptor",
 			"ja":"オヴィラプトル",
 			"ko":"오비랍토르",
 			"ru":"Овираптор",
@@ -1582,7 +1570,7 @@
 		"name_t":{
 			"de":"Parakeetschwarm",
 			"es":"Cardumen de Peces Loro",
-			"fr":"Bancs de poissons perroquet",
+			"fr":"Bancs de Poissons Perroquet",
 			"ja":"パラキートの魚群",
 			"ko":"파라킷 물고기 떼",
 			"ru":"Стайка рыбок-попугаев",
@@ -1701,7 +1689,6 @@
 		"name_t":{
 			"el":"Πτερανόδοντας",
 			"fr":"Ptéranodon",
-			"fr-OLD":"Ptéradodon",
 			"he":"פטראנודון",
 			"it":"Pteranodonte",
 			"ja":"プテラノドン",
@@ -1715,7 +1702,6 @@
 		"name_t":{
 			"el":"Γιγάντιος Σκορπιός",
 			"fi":"Maaskorpioni",
-			"fr":"Pulmonoscorpius",
 			"it":"Pulmonoscorpio",
 			"ja":"プルモノスコルピウス",
 			"ko":"펄모노스콜피어스",
@@ -1726,7 +1712,6 @@
 	"purlovia":{
 		"name_t":{
 			"el":"Περλόβια",
-			"fr":"Purlovia",
 			"ja":"プルロヴィア",
 			"ko":"펄로비아",
 			"ru":"Пурловия",
@@ -1736,7 +1721,6 @@
 	"quetzal":{
 		"name_t":{
 			"ar":"الكوازال",
-			"fr":"Quetzal",
 			"he":"קצאל",
 			"it":"Quetzalcoatl",
 			"ja":"ケツァルコアトルス",
@@ -1797,7 +1781,7 @@
 			"es":"Dragón de Roca",
 			"fi":"Kividrake",
 			"fr":"Dragon Rocheux",
-			"it":"Drago di roccia",
+			"it":"Drago di Roccia",
 			"ja":"ロックドレイク",
 			"ko":"락 드레이크",
 			"nl":"Rots Draak",
@@ -1820,7 +1804,7 @@
 			"he":"רוק בסיסי.",
 			"hr":"Rock-Element",
 			"id":"Batu Elemental",
-			"it":"Elementale di roccia",
+			"it":"Elementale di Roccia",
 			"ja":"ロックエレメンタル",
 			"ko":"바위 정령",
 			"nl":"Rots elemental",
@@ -1831,7 +1815,6 @@
 	},
 	"rockwell":{
 		"name_t":{
-			"fr":"Rockwell",
 			"ja":"ロックウェル",
 			"ko":"록크웰",
 			"ru":"Роквелл",
@@ -1929,7 +1912,7 @@
 			"nl":"Verkenner",
 			"ru":"Разведчик",
 			"tr":"Gözcü",
-			"zh-OLD":"侦察机"
+			"zh":"侦察机"
 		}
 	},
 	"seeker":{
