@@ -9993,7 +9993,7 @@ zh: {
 	recent: "最近",
 	categories: "类别",
 	search: "搜索…",
-	merch: "货物",
+	merch: "周边",
 	human: "人类",
 	wallGap: "{0}可以穿过{1}墙的缝隙",
 	mustEat: "必须吃{0}食物才能被驯服。",
