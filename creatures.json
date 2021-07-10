@@ -150,7 +150,9 @@
 		}
 	},
 	"astrodelphis":{
-		"name_t":{}
+		"name_t":{
+			"ru":"Астроделфис"
+		}
 	},
 	"attackdrone":{
 		"name_t":{
@@ -403,14 +405,16 @@
 		"name_t":{
 			"fr":"Wyverne de Cristal",
 			"ja":"クリスタルワイバーン",
-			"pt-br":"Wyvern de Cristal"
+			"pt-br":"Wyvern de Cristal",
+			"ru":"Кристальная виверна"
 		}
 	},
 	"crystalwyvernqueen":{
 		"name_t":{
 			"fr":"Reine Wyverne de Cristal",
 			"ja":"クリスタルワイバーンクイーン",
-			"pt-br":"Wyvern Rainha de Cristal"
+			"pt-br":"Wyvern Rainha de Cristal",
+			"ru":"Королева кристальных виверн"
 		}
 	},
 	"daeodon":{
@@ -1088,7 +1092,8 @@
 		"name_t":{
 			"fr":"Roi des Titans",
 			"ja":"キングタイタン",
-			"pt-br":"Rei Titã"
+			"pt-br":"Rei Titã",
+			"ru":"Король Титанов"
 		}
 	},
 	"lamprey":{
@@ -1178,7 +1183,10 @@
 		}
 	},
 	"maewing":{
-		"name_t":{}
+		"name_t":{
+			"ru":"Мейвинг",
+		}
+		
 	},
 	"magmasaur":{
 		"name_t":{
@@ -1459,7 +1467,9 @@
 		}
 	},
 	"noglin":{
-		"name_t":{}
+		"name_t":{
+			"ru":"Ноглин",
+		}
 	},
 	"onyc":{
 		"name_t":{
@@ -1930,7 +1940,9 @@
 		}
 	},
 	"shadowmane":{
-		"name_t":{}
+		"name_t":{
+			"ru":"Тенегрив",
+		}
 	},
 	"shinehorn":{
 		"name_t":{
@@ -1997,7 +2009,9 @@
 		}
 	},
 	"stryder":{
-		"name_t":{}
+		"name_t":{
+			"ru":"Страйдер",
+		}
 	},
 	"tapejara":{
 		"name_t":{
@@ -2216,7 +2230,9 @@
 		}
 	},
 	"voidwyrm":{
-		"name_t":{}
+		"name_t":{
+			"ru":"Войдверна"
+		}
 	},
 	"vulture":{
 		"name_t":{
