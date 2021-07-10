@@ -32,7 +32,7 @@
 				"es":"Nuevo",
 				"ja":"最新",
 				"ru":"Новые",
-				"zh":"新的",
+				"zh":"新生物",
 				"fr":"Nouveau",
 				"nl":"Nieuw",
 				"pt":"Novo",
@@ -43,36 +43,54 @@
 		},
 		"2":{
 			"n":"The Island",
+			"nt":{
+				"zh":"孤岛"
+			},
 			"o":2,
 			"p":1,
 			"s":"Spawn_Map_(The_Island)"
 		},
 		"3":{
 			"n":"The Center",
+			"nt":{
+				"zh":"中心岛"
+			},
 			"o":3,
 			"p":1,
 			"s":"Spawn_Map_(The_Center)"
 		},
 		"4":{
 			"n":"Scorched Earth",
+			"nt":{
+				"zh":"焦土"
+			},
 			"o":4,
 			"p":1,
 			"s":"Spawn_Map_(Scorched_Earth)"
 		},
 		"5":{
 			"n":"Ragnarok",
+			"nt":{
+				"zh":"仙境"
+			},
 			"o":5,
 			"p":1,
 			"s":"Spawn_Map_(Ragnarok)"
 		},
 		"6":{
 			"n":"Aberration",
+			"nt":{
+				"zh":"畸变"
+			},
 			"o":6,
 			"p":1,
 			"s":"Spawn_Map_(Aberration)"
 		},
 		"37":{
 			"n":"Extinction",
+			"nt":{
+				"zh":"灭绝"
+			},
 			"nt":{},
 			"o":7,
 			"p":1,
@@ -81,12 +99,18 @@
 		},
 		"41":{
 			"n":"Genesis",
+			"nt":{
+				"zh":"创世纪第一部"
+			},
 			"o":8,
 			"p":1,
 			"s":"Spawn_Map_(Genesis:_Part_1)"
 		},
 		"43":{
 			"n":"Crystal Isles",
+			"nt":{
+				"zh":"水晶岛"
+			},
 			"o":9,
 			"p":1,
 			"s":"Spawn_Map_(Extinction)"
@@ -96,6 +120,7 @@
 			"nt":{
 				"fr":"Nouveau sur Scorched Earth",
 				"ja":"Scorched Earth 追加恐竜",
+				"zh":"《焦土》新生物",
 				"ru":"Новые: Scorched Earth"
 			},
 			"o":20,
@@ -107,6 +132,7 @@
 			"nt":{
 				"fr":"Nouveau sur Aberration",
 				"ja":"Aberration 追加恐竜",
+				"zh":"《畸变》新生物",
 				"ru":"Новые: Aberration"
 			},
 			"o":21,
@@ -118,6 +144,7 @@
 			"nt":{
 				"fr":"Nouveau sur Extinction",
 				"ja":"Extinction 追加恐竜",
+				"zh":"《灭绝》新生物",
 				"ru":"Новые: Extinction"
 			},
 			"o":22,
@@ -129,6 +156,7 @@
 			"nt":{
 				"fr":"Nouveau sur Genesis",
 				"ja":"Genesis 追加恐竜",
+				"zh":"《创世纪》新生物",
 				"ru":"Новые: Genesis"
 			},
 			"o":23,
@@ -140,6 +168,7 @@
 			"nt":{
 				"fr":"Nouveau sur Crystal Isles",
 				"ja":"Crystal Isles 追加恐竜",
+				"zh":"《水晶岛》新生物",
 				"ru":"Новые: Crystal Isles"
 			},
 			"o":24,
@@ -478,7 +507,7 @@
 				"es":"Criaturas de combate",
 				"ja":"戦闘恐竜",
 				"ru":"Боевые существа",
-				"zh":"战斗用",
+				"zh":"战斗生物",
 				"nl":"Gevechts schepsels",
 				"pt":"Criaturas de Combate",
 				"ar":"مخلوقات المعركة",
@@ -568,7 +597,7 @@
 				"es":"Inicio de partida",
 				"ja":"序盤恐竜",
 				"ru":"Ранняя стадия игры",
-				"zh":"早期",
+				"zh":"前期开荒",
 				"nl":"Begin spel",
 				"pt":"Começo de Jogo",
 				"ar":"بداية اللعبة",
@@ -587,7 +616,7 @@
 				"ja":"中盤恐竜",
 				"es":"Mitad de partida",
 				"ru":"Средняя стадия игры",
-				"zh":"中期",
+				"zh":"中期发展",
 				"nl":"Midden spel",
 				"pt":"Meio de Jogo",
 				"ar":"منتصف اللعبة",
@@ -605,7 +634,7 @@
 				"es":"Final de partida",
 				"ja":"終盤恐竜",
 				"ru":"Конечная стадия игры",
-				"zh":"后期",
+				"zh":"后期生存",
 				"nl":"Eind spel",
 				"pt":"Fim de Jogo",
 				"ar":"نهاية اللعبة",
@@ -623,7 +652,7 @@
 				"fr":"Boss",
 				"ja":"ボス",
 				"ru":"Боссы",
-				"zh":"BOSS",
+				"zh":"Boss",
 				"nl":"Bazen",
 				"pt":"Chefes",
 				"ar":"الزعماء",
@@ -640,7 +669,9 @@
 		},
 		"39":{
 			"n":"Valguero",
-			"nt":{},
+			"nt":{
+				"zh":"瓦尔盖罗"
+			},
 			"o":8,
 			"p":1
 		}
@@ -719,7 +750,7 @@
 				"ko":"조련",
 				"pl":"Oswajanie",
 				"pt":"Domando",
-				"zh":"驯服",
+				"zh":"驯服性",
 				"ru":"Приручение",
 				"ro":"Îmblânzire",
 				"th":"การจับ",
@@ -737,7 +768,7 @@
 				"fr":"Régime alimentaire",
 				"es":"Dieta",
 				"ru":"Рацион",
-				"zh":"饮食",
+				"zh":"饮食性",
 				"nl":"Dieët",
 				"pt":"Dieta",
 				"ar":"التغذية",
