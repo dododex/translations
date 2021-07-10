@@ -31,7 +31,7 @@
 				"it":"Nuovo",
 				"es":"Nuevo",
 				"ja":"最新",
-				"ru":"Новый",
+				"ru":"Новые",
 				"zh":"新生物",
 				"fr":"Nouveau",
 				"nl":"Nieuw",
@@ -120,7 +120,8 @@
 			"nt":{
 				"fr":"Nouveau sur Scorched Earth",
 				"ja":"Scorched Earth 追加恐竜",
-				"zh":"《焦土》新生物"
+				"zh":"《焦土》新生物",
+				"ru":"Новые: Scorched Earth"
 			},
 			"o":20,
 			"p":2,
@@ -131,7 +132,8 @@
 			"nt":{
 				"fr":"Nouveau sur Aberration",
 				"ja":"Aberration 追加恐竜",
-				"zh":"《畸变》新生物"
+				"zh":"《畸变》新生物",
+				"ru":"Новые: Aberration"
 			},
 			"o":21,
 			"p":2,
@@ -142,7 +144,8 @@
 			"nt":{
 				"fr":"Nouveau sur Extinction",
 				"ja":"Extinction 追加恐竜",
-				"zh":"《灭绝》新生物"
+				"zh":"《灭绝》新生物",
+				"ru":"Новые: Extinction"
 			},
 			"o":22,
 			"p":2,
@@ -153,7 +156,8 @@
 			"nt":{
 				"fr":"Nouveau sur Genesis",
 				"ja":"Genesis 追加恐竜",
-				"zh":"《创世纪》新生物"
+				"zh":"《创世纪》新生物",
+				"ru":"Новые: Genesis"
 			},
 			"o":23,
 			"p":2,
@@ -164,7 +168,8 @@
 			"nt":{
 				"fr":"Nouveau sur Crystal Isles",
 				"ja":"Crystal Isles 追加恐竜",
-				"zh":"《水晶岛》新生物"
+				"zh":"《水晶岛》新生物",
+				"ru":"Новые: Crystal Isles"
 			},
 			"o":24,
 			"p":2,
@@ -178,7 +183,7 @@
 				"fr":"Terrestre",
 				"es":"Terrestre",
 				"ja":"陸上恐竜",
-				"ru":"Сухопутный",
+				"ru":"Сухопутные",
 				"zh":"陆生",
 				"nl":"Aards",
 				"pt":"Terrestre",
@@ -196,7 +201,7 @@
 				"fr":"Aérien",
 				"es":"Aéreo",
 				"ja":"飛行恐竜",
-				"ru":"Воздушный",
+				"ru":"Воздушные",
 				"zh":"飞行",
 				"nl":"Vliegend",
 				"pt":"Aéreo",
@@ -214,7 +219,7 @@
 				"fr":"Aquatique",
 				"es":"Acuático",
 				"ja":"水中恐竜",
-				"ru":"Водный",
+				"ru":"Водные",
 				"zh":"水生",
 				"nl":"Aquatisch",
 				"pt":"Aquático",
@@ -232,7 +237,7 @@
 				"fr":"Montable",
 				"es":"Manejable",
 				"ja":"騎乗可能",
-				"ru":"Ездовой",
+				"ru":"Ездовые",
 				"zh":"可骑乘",
 				"nl":"Rijdbaar",
 				"pt":"Montável",
@@ -286,7 +291,7 @@
 				"fr":"Multi Passager",
 				"es":"Multi pasajero",
 				"ja":"複数人乗り",
-				"ru":"Многоместный",
+				"ru":"Многоместные",
 				"zh":"多座位",
 				"nl":"Meerdere-Passagiers",
 				"pt":"Multi-Passageiros",
@@ -322,7 +327,7 @@
 				"fr":"Monte sur l'épaule",
 				"es":"Monta a hombros",
 				"ja":"肩乗り生物",
-				"ru":"Плечевой упор",
+				"ru":"Сидят на плече",
 				"zh":"可拾起",
 				"nl":"Schouder Metgezel",
 				"pt":"Montar nos Ombros",
@@ -340,7 +345,7 @@
 				"fr":"Apprivoisable",
 				"es":"Domesticable",
 				"ja":"テイム可能",
-				"ru":"Приручаемый",
+				"ru":"Приручаемые",
 				"zh":"可驯服",
 				"nl":"Tembaar",
 				"pt":"Domesticável",
@@ -358,7 +363,7 @@
 				"fr":"Non apprivoisable",
 				"es":"No domesticable",
 				"ja":"テイム不可",
-				"ru":"Не приручаемый",
+				"ru":"Не приручаемые",
 				"zh":"不可驯服",
 				"nl":"Niet Tembaar",
 				"pt":"Não Domesticável",
@@ -696,7 +701,7 @@
 				"fr":"Contenu additionnel exclusif",
 				"es":"Paquete de expansión exclusivo",
 				"ja":"拡張パック限定",
-				"ru":"Эксклюзивный пакет расширения",
+				"ru":"Уникальные для дополнений",
 				"zh":"扩展资料片限定",
 				"nl":"Alleen vekrijgbaar met uibreidings paket",
 				"pt":"Pacore de expansão exclusivo",
