@@ -160,6 +160,7 @@
 			"de":"Angriffsdrone",
 			"es":"Dron de ataque",
 			"fr":"Drone d'Attaque",
+			"he":"רחפן התקפי",
 			"ja":"アタックドローン",
 			"pt-br":"Drone de Ataque",
 			"ru":"Атакующий Дрон",
@@ -170,7 +171,7 @@
 		"name_t":{
 			"ar":"بايرونكس",
 			"el":"Βαριόνυχας",
-			"he":"בריונקס",
+			"he":"בריוניקס",
 			"it":"Barionice",
 			"ja":"バリオニクス",
 			"ko":"바리오닉스",
@@ -187,6 +188,7 @@
 			"es":"Basilisco",
 			"fi":"Basiliski",
 			"fr":"Basilic",
+			"he":"בסיליסק",
 			"it":"Basilisco",
 			"ja":"バジリスク",
 			"ko":"바실리스크",
@@ -230,6 +232,7 @@
 			"de":"Insektenschwarm",
 			"es":"Enjambre de insectos",
 			"fr":"Essaim d'insectes",
+			"he":"נחיל חרקים",
 			"it":"Sciame d'insetti",
 			"ko":"곤충 떼",
 			"pt-br":"Enxame de Insetos",
@@ -281,6 +284,7 @@
 	"bulbdog":{
 		"name_t":{
 			"es":"Perro Abisal",
+			"he":"כלב נורה",
 			"it":"Canbulbo",
 			"ja":"バルブドッグ",
 			"ko":"벌브 독",
@@ -293,6 +297,7 @@
 		"name_t":{
 			"ar":"كربنميس",
 			"fi":"Kilpikonna",
+			"he":"קרבונמיס",
 			"ja":"カルボネミス",
 			"ko":"카르보네미스",
 			"ru":"Карбонемис",
@@ -351,6 +356,7 @@
 			"el":"Κνιδόζωο",
 			"fi":"Polttiaiseläin",
 			"fr":"Cnidaria",
+			"he":"מדוזה",
 			"ja":"クニダリア",
 			"ja-OLD":"クラゲ",
 			"ko":"크니다리아",
@@ -382,7 +388,7 @@
 			"ar":"كمبي",
 			"el":"Κομψόγναθος",
 			"fr":"Compy",
-			"he":"לחברה",
+			"he":"קומפי",
 			"it":"Compsognato",
 			"ja":"コンプソグナトゥス",
 			"ko":"콤피",
@@ -404,6 +410,7 @@
 	"crystalwyvern":{
 		"name_t":{
 			"fr":"Wyverne de Cristal",
+			"he":"וויברן קריסטל",
 			"ja":"クリスタルワイバーン",
 			"pt-br":"Wyvern de Cristal",
 			"ru":"Кристальная виверна"
@@ -412,6 +419,7 @@
 	"crystalwyvernqueen":{
 		"name_t":{
 			"fr":"Reine Wyverne de Cristal",
+			"he":"מלכת וויברני הקריסטל",
 			"ja":"クリスタルワイバーンクイーン",
 			"pt-br":"Wyvern Rainha de Cristal",
 			"ru":"Королева кристальных виверн"
@@ -422,6 +430,7 @@
 			"cs":"Daedon",
 			"el":"Δυόδων",
 			"fr":"Daeodon",
+			"he":"דיאודון",
 			"it":"Daeodonte",
 			"ja":"ダエオドン",
 			"ko":"다에오돈",
@@ -451,6 +460,7 @@
 			"de":"Verteidigungseinheit",
 			"es":"Unidad de defensa",
 			"fr":"Unité de défense",
+			"he":"יחידת הגנה",
 			"it":"Unità di difesa",
 			"ja":"防衛ユニット",
 			"ja-OLD":"ディフェンスユニット",
@@ -481,6 +491,7 @@
 			"de":"Wüstentitan",
 			"es":"Titán del Desierto",
 			"fr":"Titan du Désert",
+			"he":"טיטאן המדבר",
 			"it":"Titano del deserto",
 			"ja":"デザートタイタン",
 			"ko":"데저트 타이탄",
