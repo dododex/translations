@@ -37,7 +37,7 @@ sv:
 th:
 tr:
 vi:
-zh:
+zh:“饥饿驯服”是一些生存者用最小化资源损失的风险来驯服生物时的技术。
 "Wasted" Points // Context: Points given to the stat Movement Speed are wasted.
 ar:
 az:
@@ -77,7 +77,7 @@ sv:
 th:
 tr:
 vi:
-zh:
+zh:“浪费的”点数// 上下文：点数分配在移动速度是浪费的。
 * Wild creatures are given a stat point for each level. Each of these points are assigned to a random stat. Since Movement Speed is never upgraded in the wild, any points assigned to it will be "wasted" and discarded. For swimming creatures, Oxygen is not applicable, so these stats will also be discarded.
 ar:
 az:
@@ -117,7 +117,7 @@ sv:
 th:
 tr:
 vi:
-zh:
+zh:野生生物都会在每个等级上分配属性点。这些点中的每一个都被分配到一个随机属性。在野生生物中移动速度从未升级，分配给它的任何点数都会被“浪费”并丢弃。对于游泳的生物，氧气是不适用的，所以这些属性也将被丢弃。
 About
 ar:
 az:
@@ -157,7 +157,7 @@ sv:
 th:
 tr:
 vi:
-zh:
+zh:关于
 About / Feedback
 ar:
 az:
@@ -197,7 +197,7 @@ sv:
 th:
 tr:
 vi:
-zh:
+zh:关于/反馈
 About Starve Taming
 ar:
 az:
@@ -237,7 +237,7 @@ sv:
 th:
 tr:
 vi:
-zh:
+zh:关于饥饿驯服
 Add // Context: Add this weapon
 ar:
 az:
@@ -277,7 +277,7 @@ sv:
 th:
 tr:
 vi:
-zh:
+zh:添加 // 上下文：添加此武器
 Add a custom name to identify this weapon.
 ar:
 az:
@@ -317,7 +317,7 @@ sv:
 th:
 tr:
 vi:
-zh:
+zh:添加自定义名称以标识此武器。
 Add your own weapons and creatures with custom damage to personalize Dododex&#39;s knock out estimates.
 ar:
 az:
@@ -357,7 +357,7 @@ sv:
 th:
 tr:
 vi:
-zh:
+zh:添加你自己的武器和具有定制伤害的生物来使Dododex个性化。
 Adjust multipliers for unofficial server settings. (Keep multipliers at 1 for official servers.)
 ar:
 az:
@@ -397,7 +397,7 @@ sv:
 th:
 tr:
 vi:
-zh:
+zh:调整非官方服务器设置的倍率。（对于官方服务器，将倍率保持在1。）
 Adolescent
 ar:
 az:
@@ -437,7 +437,7 @@ sv:
 th:
 tr:
 vi:
-zh:
+zh:青少年
 Adult
 ar:
 az:
@@ -477,7 +477,7 @@ sv:
 th:
 tr:
 vi:
-zh:
+zh:成年
 Advanced
 ar:
 az:
@@ -557,7 +557,7 @@ sv:
 th:
 tr:
 vi:
-zh:
+zh:受//上下文：此生物受
 Alarm (mins. before)
 ar:
 az:
@@ -597,7 +597,7 @@ sv:
 th:
 tr:
 vi:
-zh:
+zh:警报（分钟前）
 Also impacts gestation speed
 ar:
 az:
@@ -637,7 +637,7 @@ sv:
 th:
 tr:
 vi:
-zh:
+zh:也会影响怀孕速度
 Also Preferred By
 ar:
 az:
@@ -677,7 +677,7 @@ sv:
 th:
 tr:
 vi:
-zh:
+zh:也更被
 Amount Per Use // Context: Amount of narcotics used each time you press the button
 ar:
 az:
@@ -717,7 +717,7 @@ sv:
 th:
 tr:
 vi:
-zh:
+zh:每次使用量//上下文：每次你按下按钮时使用的麻醉药量
 App Settings
 ar:
 az:
@@ -757,7 +757,7 @@ sv:
 th:
 tr:
 vi:
-zh:
+zh:应用设置
 Baby
 ar:
 az:
@@ -797,7 +797,7 @@ sv:
 th:
 tr:
 vi:
-zh:
+zh:婴儿
 Baby Mature Speed
 ar:
 az:
@@ -837,7 +837,7 @@ sv:
 th:
 tr:
 vi:
-zh:
+zh:婴儿成长速度
 Back // Context: Back button
 ar:
 az:
@@ -877,7 +877,7 @@ sv:
 th:
 tr:
 vi:
-zh:
+zh:返回//上下文：返回按钮
 Base // Context: Base level
 ar:
 az:
@@ -917,7 +917,7 @@ sv:
 th:
 tr:
 vi:
-zh:
+zh:基础//上下文：基础等级
 Benefits
 ar:
 az:
