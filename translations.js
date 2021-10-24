@@ -9809,7 +9809,7 @@ zh: {
 	weaponDamage: "武器伤害",
 	weapons: "武器",
 	weight: "负重",
-	wikiPage: "Wiki页面",
+	wikiPage: "维基页面",
 	shortcutsLinks: "Wiki 快捷方式 & 链接",
 	shortcuts: "快捷方式",
 	withBonus: "驯服后奖励",
@@ -10001,7 +10001,7 @@ zh: {
 	help: "帮助",
 	kibbleRecipe: "饲料食谱",
 	creatureInfo: "生物信息",
-	arkMobile: "ARK 移动",
+	arkMobile: "ARK 移动端",
 	share: "分享",
 	ratingPromptTitle: "Dododex有用吗?",
 	ratingPromptDesc: "你好!我叫丹，是Dododex的开发者。我的应用程序对你有帮助吗?",
@@ -10022,7 +10022,7 @@ zh: {
 	breedingDesc: "输入您的宠物目前的进展，以计算何时它将达到每个成熟阶段",
 	secsBetweenHits: "间隔时间",
 	secsBetweenHitsNote: "间隔时间说明",
-	wiki: null,
+	wiki: "维基",
 	creatureMap: "生物地图",
 	resourceMap: "资源地图",
 	explorerMap: "探索者地图",
@@ -10046,16 +10046,16 @@ zh: {
 	stories: "故事",
 	damage: "损伤",
 	notifBorn: "出生提示",
-	notifJuv: null,
-	notifAdult: null,
+	notifJuv:"青年提示",
+	notifAdult: "成年提示",
 	active: null,
 	multipliers: "倍增器",
 	viewAll: "查看全部",
 	removeAds: "移除广告",
 	spawnMaps: "生成地图",
-	evolutionEvent: null,
+	evolutionEvent: "进化事件",
 	noOffline: null,
-	xp: null,
+	xp: "经验值",
 	dcfd: null,
 	multsDoubleShort:"Dododex已经更新到2倍驯服匹配ARK的新利率。 ARK手机玩家都不会受到影响，但必须调整自己的Dododex乘数。访问设置的详细信息。",
 	multsDoubleLong:"现在ARK的驯服，XP，和采集速度永久增加一倍。 Dododex的计算已更新，以符合这一点。这是一个改变ARK的基本游戏，这意味着1个驯服将是相同的速度2X什么以前。如果你是一个官方的服务器上，你的利率应设置为1 ARK移动不会受到影响，但玩家对移动玩家需要调整自己的Dododex乘数自Dododex的速率翻了一翻。请使用以下更新预置，以确保您使用正确的乘数。"
@@ -10297,6 +10297,9 @@ var languages = {
 		},{
 			name:"公子月",
 			link:""
+		},{
+			name:"aCJ_Legend(eng.name),带坑(chinese name)",
+			link:"find me discord"
 		}]
 	}     
 }
