@@ -10705,8 +10705,8 @@ var languages = {
         vi:{
                name:"Tiếng Việt",
                credit:[{
-                        name:"ARK Việt Nam"
-                        link:"https://www.facebook.com/FanpageArkVietNam"
+                        name:"ShadoqTeam"
+                        link:"https://discord.com/channels/567860091244511257/849024994797289522"
                }]
        }
 }
