@@ -152,6 +152,7 @@
 	"astrodelphis":{
 		"name_t":{
 			"ru":"Астродельфис"
+			"zh":"虚空海豚"
 		}
 	},
 	"attackdrone":{
@@ -237,6 +238,7 @@
 			"ko":"곤충 떼",
 			"pt-br":"Enxame de Insetos",
 			"ru":"Рой насекомых"
+			"zh":"虫群"
 		},
 		"NOTE":"Please ignore the term 'Blade Wasp'. It is not a public-facing name. The English name is actually 'Insect Swarm'."
 	},
@@ -414,6 +416,7 @@
 			"ja":"クリスタルワイバーン",
 			"pt-br":"Wyvern de Cristal",
 			"ru":"Кристальная виверна"
+			"zh":"水晶飞龙"
 		}
 	},
 	"crystalwyvernqueen":{
@@ -423,6 +426,7 @@
 			"ja":"クリスタルワイバーンクイーン",
 			"pt-br":"Wyvern Rainha de Cristal",
 			"ru":"Королева кристальных виверн"
+			"zh":"水晶飞龙女王"
 		}
 	},
 	"daeodon":{
@@ -851,7 +855,7 @@
 			"ru":"Гигантская пчела",
 			"th":"ผึ้งยักษ์",
 			"tr":"Dev Arı",
-			"zh":"巨蜂"
+			"zh":"巨型蜜蜂"
 		}
 	},
 	"giganotosaurus":{
@@ -1106,6 +1110,7 @@
 			"ja":"キングタイタン",
 			"pt-br":"Rei Titã",
 			"ru":"Король Титанов"
+			"zh":"君王泰坦"
 		}
 	},
 	"lamprey":{
@@ -1197,6 +1202,7 @@
 	"maewing":{
 		"name_t":{
 			"ru":"Мейвинг",
+			"zh":"鸭嘴飞鼠"
 		}
 		
 	},
@@ -1481,6 +1487,7 @@
 	"noglin":{
 		"name_t":{
 			"ru":"Ноглин",
+			"zh":"诺格林"
 		}
 	},
 	"onyc":{
@@ -2023,6 +2030,7 @@
 	"stryder":{
 		"name_t":{
 			"ru":"Страйдер",
+			"zh":"跨步者"
 		}
 	},
 	"tapejara":{
@@ -2195,6 +2203,7 @@
 			"ja":"トロペオグナトゥス",
 			"ko":"트로페오그나투스",
 			"ru":"Тропеогнат"
+			"zh":"脊颌翼龙"
 		}
 	},
 	"tusoteuthis":{
@@ -2244,6 +2253,7 @@
 	"voidwyrm":{
 		"name_t":{
 			"ru":"Войдверна"
+			"zh":"虚空飞龙"
 		}
 	},
 	"vulture":{
