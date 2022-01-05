@@ -9809,8 +9809,7 @@ zh: {
 	weaponDamage: "武器伤害",
 	weapons: "武器",
 	weight: "负重",
-	wikiPage: "Wiki页面",
-	shortcutsLinks: "Wiki 快捷方式和链接",
+	wikiPage: "维基页面",
 	shortcuts: "快捷方式",
 	withBonus: "驯服后奖励",
 	xpk: "击杀后获得的经验值",
@@ -10289,14 +10288,15 @@ var languages = {
 			name:"侏罗纪汉化组：Heavensn(波仔)、QQ南极企鹅、Benzema星、睡鲨、失足（污力毓）",
 			link:"http://www.playarkcn.com/"
 		},{
-			name:"包子侯爵(baoziii)",
+			name:"包子侯爵 (baoziii)",
 			link:"https://steamcommunity.com/id/baoziii/"	
 		},{
 			name:"Koan",
 			link:"https://github.com/Koan317"
 		},{
-			name:"公子月",
-			link:""
+			name:"公子月"
+		},{
+			name:"aCJ_Legend (English name), 带坑 (Chinese name)"
 		}]
 	}     
 }
