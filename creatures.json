@@ -32,7 +32,7 @@
 	},
 	"amargasaurus":{
 		"name_t":{
-
+			"ru":"Амаргазавр"
 		}
 	},
 	"ammonite":{
@@ -561,7 +561,7 @@
 	},
 	"dinopithecus":{
 		"name_t":{
-			
+			"ru":"Динопитек"
 		}
 	},
 	"diplocaulus":{
@@ -1994,7 +1994,7 @@
 	},
 	"sinomacrops":{
 		"name_t":{
-			
+			"ru":"Синомакропс"
 		}
 	},
 	"snowowl":{
@@ -2055,7 +2055,7 @@
 	},
 	"summoner":{
 		"name_t":{
-			
+			"ru":"Призыватель"
 		}
 	},
 	"tapejara":{
