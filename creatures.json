@@ -30,6 +30,11 @@
 			"zh":"异特龙"
 		}
 	},
+	"amargasaurus":{
+		"name_t":{
+
+		}
+	}
 	"ammonite":{
 		"name_t":{
 			"ar":"حلزون",
@@ -540,7 +545,7 @@
 			"zh":"异齿龙"
 		}
 	},
-	"Dimorphodon":{
+	"dimorphodon":{
 		"name_t":{
 			"ar":"دايمورفادون",
 			"el":"Διμορφόδοντας",
@@ -554,6 +559,11 @@
 			"zh":"双型齿翼龙"
 		}
 	},
+	"dinopithecus":{
+		"name_t":{
+			
+		}
+	}
 	"diplocaulus":{
 		"name_t":{
 			"el":"Διπλόκαυλος",
@@ -778,6 +788,11 @@
 			"zh":"猿狐"
 		}
 	},
+	"fjordhawk":{
+		"name_t":{
+
+		}
+	}
 	"foresttitan":{
 		"name_t":{
 			"cs":"Lesní Titán",
@@ -1977,6 +1992,11 @@
 			"zh":"耀角鹿"
 		}
 	},
+	"sinomacrops":{
+		"name_t":{
+			
+		}
+	},
 	"snowowl":{
 		"name_t":{
 			"cs":"Sněžná sova",
@@ -2033,6 +2053,11 @@
 			"zh":"跨步者"
 		}
 	},
+	"summoner":{
+		"name_t":{
+			
+		}
+	}
 	"tapejara":{
 		"name_t":{
 			"ar":"تابجاره",
