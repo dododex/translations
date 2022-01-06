@@ -34,7 +34,7 @@
 		"name_t":{
 
 		}
-	}
+	},
 	"ammonite":{
 		"name_t":{
 			"ar":"حلزون",
@@ -156,7 +156,7 @@
 	},
 	"astrodelphis":{
 		"name_t":{
-			"ru":"Астродельфис"
+			"ru":"Астродельфис",
 			"zh":"虚空海豚"
 		}
 	},
@@ -242,7 +242,7 @@
 			"it":"Sciame d'insetti",
 			"ko":"곤충 떼",
 			"pt-br":"Enxame de Insetos",
-			"ru":"Рой насекомых"
+			"ru":"Рой насекомых",
 			"zh":"虫群"
 		},
 		"NOTE":"Please ignore the term 'Blade Wasp'. It is not a public-facing name. The English name is actually 'Insect Swarm'."
@@ -420,7 +420,7 @@
 			"he":"וויברן קריסטל",
 			"ja":"クリスタルワイバーン",
 			"pt-br":"Wyvern de Cristal",
-			"ru":"Кристальная виверна"
+			"ru":"Кристальная виверна",
 			"zh":"水晶飞龙"
 		}
 	},
@@ -430,7 +430,7 @@
 			"he":"מלכת וויברני הקריסטל",
 			"ja":"クリスタルワイバーンクイーン",
 			"pt-br":"Wyvern Rainha de Cristal",
-			"ru":"Королева кристальных виверн"
+			"ru":"Королева кристальных виверн",
 			"zh":"水晶飞龙女王"
 		}
 	},
@@ -563,7 +563,7 @@
 		"name_t":{
 			
 		}
-	}
+	},
 	"diplocaulus":{
 		"name_t":{
 			"el":"Διπλόκαυλος",
@@ -792,7 +792,7 @@
 		"name_t":{
 
 		}
-	}
+	},
 	"foresttitan":{
 		"name_t":{
 			"cs":"Lesní Titán",
@@ -1124,7 +1124,7 @@
 			"fr":"Roi des Titans",
 			"ja":"キングタイタン",
 			"pt-br":"Rei Titã",
-			"ru":"Король Титанов"
+			"ru":"Король Титанов",
 			"zh":"君王泰坦"
 		}
 	},
@@ -1975,7 +1975,7 @@
 	},
 	"shadowmane":{
 		"name_t":{
-			"ru":"Тенегрив",
+			"ru":"Тенегрив"
 		}
 	},
 	"shinehorn":{
@@ -2057,7 +2057,7 @@
 		"name_t":{
 			
 		}
-	}
+	},
 	"tapejara":{
 		"name_t":{
 			"ar":"تابجاره",
@@ -2227,7 +2227,7 @@
 			"fr":"Tropéognathus",
 			"ja":"トロペオグナトゥス",
 			"ko":"트로페오그나투스",
-			"ru":"Тропеогнат"
+			"ru":"Тропеогнат",
 			"zh":"脊颌翼龙"
 		}
 	},
@@ -2277,7 +2277,7 @@
 	},
 	"voidwyrm":{
 		"name_t":{
-			"ru":"Войдверна"
+			"ru":"Войдверна",
 			"zh":"虚空飞龙"
 		}
 	},
