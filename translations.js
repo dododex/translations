@@ -3174,7 +3174,7 @@ fr: {
 	recent: "Récent(e)",
 	categories: "catégories",
 	search: "Chercher...",
-	merch: "Merch",
+	merch: "Boutique",
 	human: "Hummain",
 	wallGap: "Le {0} peut passer à travers un {1} espace entre le mur.",
 	mustEat: "Doit manger {0} nourriture pour être apprivoisé.",
@@ -3235,8 +3235,8 @@ fr: {
 	removeAds: null,
 	spawnMaps: null,
 	evolutionEvent: null,
-	noOffline: null,
-	xp: null,
+	noOffline: “Désolé, cette fonctionnalité n’est pas disponible Horsligne.",
+	xp: “Xp”
 	dcfd: null,
 	multsDoubleShort:"Dododex a été mis à jour pour correspondre 2x dompter les nouveaux taux de RAK. Les joueurs ARK mobiles ne sont pas affectés, mais ils doivent ajuster leurs multiplicateurs Dododex. Visite de configuration.",
 	multsDoubleLong:"ark apprivoisement, XP, et des vitesses de collecte sont maintenant en permanence doublé. Les calculs de Dododex ont mis à jour pour correspondre à ce sujet. Ceci est un changement de jeu de base de ARK, ce qui signifie 1x dompter sera la même vitesse que ce 2x était auparavant. Si vous êtes sur un serveur officiel, vos taux devraient être fixés à 1. mobile ARK n'est pas affectée, mais les joueurs sur les joueurs mobiles devront ajuster leur multiplicateur Dododex étant donné que les taux de Dododex sont désormais doublés. S'il vous plaît utiliser les présélections mises à jour ci-dessous pour vous assurer que vous utilisez le multiplicateur correct."
