@@ -12,7 +12,7 @@ The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com
 1. **If your language is not there, add it.**
 
    1. To add a new language, copy and paste the entire English section ("en").
-   1. Change the "en" to your language's code ([list of language codes](https://sites.google.com/site/tomihasa/google-language-codes))). (Regional languages (`es-mx` vs. `es`) are only recommended if the translations will have a noticable difference. When possible, try to translate for the general language to simplify the project.)
+   1. Change the "en" to your language's code ([list of language codes](https://www.andiamo.co.uk/resources/iso-language-codes/))). Regional languages (`es-mx` vs. `es`) are only recommended if the translations will have a noticable difference. When possible, try to translate for the general language to simplify the project.
    1. Translate each of the phrases.
 1. **Translate the phrases into your language.** 
 
