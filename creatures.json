@@ -54,6 +54,11 @@
 			"zh":"菊石"
 		}
 	},
+	"andrewsarchus":{
+		"name_t":{
+
+		}
+	},
 	"angler":{
 		"name_t":{
 			"ar":"أبو الشص",
@@ -236,6 +241,16 @@
 			"zh":"魔鬼蛙"
 		}
 	},
+	"beyla":{
+		"name_t":{
+
+		}
+	},
+	"beylaspawn":{
+		"name_t":{
+
+		}
+	},
 	"bladewasp":{
 		"name_t":{
 			"ar":"سرب الحشرات",
@@ -303,7 +318,7 @@
 			"ko":"벌브 독",
 			"pt-br":"Cão-Lanterna",
 			"ru":"Лампадог",
-			"zh":"灯泡犬"
+			"zh":"灯泡犬",
 			"ar":"كلب ضوء"
 		}
 	},
@@ -316,6 +331,11 @@
 			"ko":"카르보네미스",
 			"ru":"Карбонемис",
 			"zh":"淡水碳龟"
+		}
+	},
+	"carcharodontosaurus":{
+		"name_t":{
+
 		}
 	},
 	"carnotaurus":{
@@ -441,8 +461,7 @@
 			"ja":"クリスタルワイバーンクイーン",
 			"pt-br":"Wyvern Rainha de Cristal",
 			"ru":"Королева кристальных виверн",
-			"zh":"水晶飞龙女王",
-
+			"zh":"水晶飞龙女王"
 		}
 	},
 	"daeodon":{
@@ -527,6 +546,11 @@
 			"zh":"沙漠泰坦"
 		}
 	},
+	"desmodus":{
+		"name_t":{
+
+		}
+	},
 	"dilophosaur":{
 		"name_t":{
 			"ar":"ديلوفوسور",
@@ -579,6 +603,11 @@
 		"name_t":{
 			"ar":"دينوبيثكس",
 			"ru":"Динопитек"
+		}
+	},
+	"dinopithecusking":{
+		"name_t":{
+
 		}
 	},
 	"diplocaulus":{
@@ -800,6 +829,16 @@
 			"zh":"轻羽鸟"
 		}
 	},
+	"fenrir":{
+		"name_t":{
+
+		}
+	},
+	"fenrisulfr":{
+		"name_t":{
+
+		}
+	},
 	"ferox":{
 		"name_t":{
 			"fr":"Ferox",
@@ -973,6 +1012,11 @@
 			"ru":"Грифон",
 			"th":"กริฟฟิน",
 			"zh":"狮鹫"
+		}
+	},
+	"hatiskoll":{
+		"name_t":{
+
 		}
 	},
 	"hesperornis":{
@@ -1841,6 +1885,11 @@
 			"zh":"霸王龙"
 		}
 	},
+	"rhyniognatha":{
+		"name_t":{
+
+		}
+	},
 	"rockdrake":{
 		"name_t":{
 			"da":"Klippe Drage",
@@ -1913,6 +1962,11 @@
 			"ko":"로얄 그리폰",
 			"ru":"Королевский Грифон",
 			"zh":"皇家狮鹫"
+		}
+	},
+	"rubblebear":{
+		"name_t":{
+
 		}
 	},
 	"sabertooth":{
@@ -2066,6 +2120,11 @@
 			"pt-br":"Estegossauro",
 			"ru":"Стегозавр",
 			"zh":"剑龙"
+		}
+	},
+	"steinbjorn":{
+		"name_t":{
+
 		}
 	},
 	"stryder":{

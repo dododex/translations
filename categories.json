@@ -20,7 +20,7 @@
 				"tr":"Tümü",
 				"nl":"Alles",
 				"ar":"الكل",
-				"vi": "Tất cả"
+				"vi":"Tất cả"
 			},
 			"o":0
 		},
@@ -41,13 +41,42 @@
 			},
 			"o":1
 		},
+		"44":{
+			"n":"Popular",
+			"o":2,
+			"nt":{
+				"ar":"جمع",
+				"cs":"Populární",
+				"da":"Populær",
+				"de":"Beliebt",
+				"es":"Popular",
+				"fi":"Suosittu",
+				"fr":"Populaire",
+				"el":"Δημοφιλής",
+				"he":"פופולרי",
+				"hr":"Popularan",
+				"id":"Populer",
+				"it":"Popolare",
+				"ja":"人気のあります",
+				"ko":"인기 있는",
+				"nb":"Populær",
+				"nl":"Populair",
+				"pl":"Popularny",
+				"ptbr":"Popular",
+				"ro":"Popular",
+				"ru":"Популярный",
+				"th":"เป็นที่นิยม",
+				"tr":"Popüler",
+				"zh":"受欢迎的"
+			}
+		},
 		"2":{
 			"n":"The Island",
 			"nt":{
 				"zh":"孤岛",
 				"ar":"الجزيره"
 			},
-			"o":2,
+			"o":5,
 			"p":1,
 			"s":"Spawn_Map_(The_Island)"
 		},
@@ -57,10 +86,9 @@
 				"zh":"中心岛",
 				"ar":"الوسط"
 			},
-			"o":3,
+			"o":6,
 			"p":1,
 			"s":"Spawn_Map_(The_Center)"
-                               
 		},
 		"4":{
 			"n":"Scorched Earth",
@@ -68,7 +96,7 @@
 				"zh":"焦土",
 				"ar":"الارض المحترقه"
 			},
-			"o":4,
+			"o":7,
 			"p":1,
 			"s":"Spawn_Map_(Scorched_Earth)"
 		},
@@ -78,7 +106,7 @@
 				"zh":"仙境",
 				"ar":"راجناروك"
 			},
-			"o":5,
+			"o":8,
 			"p":1,
 			"s":"Spawn_Map_(Ragnarok)"
 		},
@@ -88,7 +116,7 @@
 				"zh":"畸变",
 				"ar":"ابيريشن (ابانحراف)"
 			},
-			"o":6,
+			"o":9,
 			"p":1,
 			"s":"Spawn_Map_(Aberration)"
 		},
@@ -99,7 +127,7 @@
 				"ar":"اكستنشن(الانقراض)"
 			},
 			"nt":{},
-			"o":7,
+			"o":10,
 			"p":1,
 			"w":0,
 			"s":"Spawn_Map_(Extinction)"
@@ -110,7 +138,7 @@
 				"zh":"创世纪第一部",
 				"ar":"جينيسس(المنشأ)"
 			},
-			"o":8,
+			"o":11,
 			"p":1,
 			"s":"Spawn_Map_(Genesis:_Part_1)"
 		},
@@ -120,9 +148,27 @@
 				"zh":"水晶岛",
 				"ar":"كرستل ايلز(الجزر الكرستاليه)"
 			},
-			"o":9,
+			"o":12,
 			"p":1,
-			"s":"Spawn_Map_(Extinction)"
+			"s":"Spawn_Map_(Crystal_Isles)"
+		},
+		"45":{
+			"n":"Genesis Part 2",
+			"o":13,
+			"p":1,
+			"s":"Spawn_Map_(Genesis:_Part_2)"
+		},
+		"47":{
+			"n":"Lost Island",
+			"o":14,
+			"p":1,
+			"s":"Spawn_Map_(Lost_Island)"
+		},	
+		"50":{
+			"n":"Fjordur",
+			"o":15,
+			"p":1,
+			"s":"User:Danlev"
 		},
 		"7":{
 			"n":"New To Scorched Earth",
@@ -193,6 +239,21 @@
 			"o":24,
 			"p":2,
 			"w":4
+		},
+		"46":{
+			"n":"New To Genesis Part 2",
+			"o":25,
+			"p":2
+		},
+		"48":{
+			"n":"New To Lost Island",
+			"o":26,
+			"p":2
+		},
+		"49":{
+			"n":"New To Fjordur",
+			"o":27,
+			"p":2
 		},
 		"9":{
 			"n":"Terrestrial",
@@ -692,6 +753,7 @@
 				"zh":"瓦尔盖罗",
 				"ar":"فالقيرو"
 			},
+			"s":"Spawn_Map_(Valguero)",
 			"o":8,
 			"p":1
 		}
