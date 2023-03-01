@@ -1,7 +1,7 @@
 {"creatures":{
 	"achatina":{
 		"name_t":{
-			"ar":"الحلزون",
+			"ar":"اتشاتينا",
 			"el":"Σαλιγκαρι",
 			"fi":"Tiikerikotilo",
 			"fr":"Achatina",
@@ -32,12 +32,13 @@
 	},
 	"amargasaurus":{
 		"name_t":{
-			"ru":"Амаргазавр"
+			"ru":"Амаргазавр",
+			"ar":"اماقاسورس"
 		}
 	},
 	"ammonite":{
 		"name_t":{
-			"ar":"حلزون",
+			"ar":"عمونيت",
 			"da":"Ammonit",
 			"el":"Αμμωνίτης",
 			"es":"Amonita",
@@ -121,7 +122,7 @@
 	},
 	"argentavis":{
 		"name_t":{
-			"ar":"أرجنتافس",
+			"ar":"أرجنتيفس",
 			"el":"Γιγαντογύπας",
 			"he":"ארגנטוויס",
 			"ja":"アルゲンタヴィス",
@@ -147,6 +148,7 @@
 	},
 	"astrocetus":{
 		"name_t":{
+			"ar":"استروستس",
 			"fr":"Astrocetus",
 			"it":"Astroceto",
 			"ko":"아스트로시터스",
@@ -156,12 +158,14 @@
 	},
 	"astrodelphis":{
 		"name_t":{
+			"ar":"استروديلفس",
 			"ru":"Астродельфис",
 			"zh":"虚空海豚"
 		}
 	},
 	"attackdrone":{
 		"name_t":{
+			"ar":"طاءر بدون طيار هجومي",
 			"da":"Angrebsdrone",
 			"de":"Angriffsdrone",
 			"es":"Dron de ataque",
@@ -175,7 +179,7 @@
 	},
 	"baryonyx":{
 		"name_t":{
-			"ar":"بايرونكس",
+			"ar":"باريونكس",
 			"el":"Βαριόνυχας",
 			"he":"בריוניקס",
 			"it":"Barionice",
@@ -234,6 +238,7 @@
 	},
 	"bladewasp":{
 		"name_t":{
+			"ar":"سرب الحشرات",
 			"cs":"Roj hmyzu",
 			"de":"Insektenschwarm",
 			"es":"Enjambre de insectos",
@@ -249,6 +254,7 @@
 	},
 	"bloodstalker":{
 		"name_t":{
+			"ar":"سارق الدماء",		
 			"es":"Acechador Sangriento",
 			"it":"Cacciatore del sangue",
 			"ja":"ブラッドストーカー",
@@ -298,11 +304,12 @@
 			"pt-br":"Cão-Lanterna",
 			"ru":"Лампадог",
 			"zh":"灯泡犬"
+			"ar":"كلب ضوء"
 		}
 	},
 	"carbonemys":{
 		"name_t":{
-			"ar":"كربنميس",
+			"ar":"كاربونيميس",
 			"fi":"Kilpikonna",
 			"he":"קרבונמיס",
 			"ja":"カルボネミス",
@@ -328,7 +335,7 @@
 	},
 	"castoroides":{
 		"name_t":{
-			"ar":"كاستورويديس",
+			"ar":"كاستورويديس(قندس)",
 			"de":"Casteroides",
 			"el":"Καστοροειδή",
 			"fr":"Castoroides",
@@ -375,7 +382,7 @@
 	},
 	"coelacanth":{
 		"name_t":{
-			"ar":"أسماك سيلكانث",
+			"ar":"أسماك كولكانث",
 			"cs":"Latimérie Podivná",
 			"el":"Κοιλάκανθος",
 			"es":"Celacanto",
@@ -392,7 +399,7 @@
 	},
 	"compy":{
 		"name_t":{
-			"ar":"كمبي",
+			"ar":"كومبي",
 			"el":"Κομψόγναθος",
 			"fr":"Compy",
 			"he":"קומפי",
@@ -405,6 +412,7 @@
 	},
 	"corruptedmastercontroller":{
 		"name_t":{
+			"ar":"متحكم رءيسي منحرف",
 			"de":"Fehlerhafter Master Controller",
 			"es":"Controlador Maestro Corrupto",
 			"fr":"Maître Contrôleur Corrompu",
@@ -416,6 +424,7 @@
 	},
 	"crystalwyvern":{
 		"name_t":{
+			"ar":"تنين كرستالي",
 			"fr":"Wyverne de Cristal",
 			"he":"וויברן קריסטל",
 			"ja":"クリスタルワイバーン",
@@ -426,16 +435,19 @@
 	},
 	"crystalwyvernqueen":{
 		"name_t":{
+			"ar":"ملكة تنين كرستالي",
 			"fr":"Reine Wyverne de Cristal",
 			"he":"מלכת וויברני הקריסטל",
 			"ja":"クリスタルワイバーンクイーン",
 			"pt-br":"Wyvern Rainha de Cristal",
 			"ru":"Королева кристальных виверн",
-			"zh":"水晶飞龙女王"
+			"zh":"水晶飞龙女王",
+
 		}
 	},
 	"daeodon":{
 		"name_t":{
+			"ar":"دايودون",
 			"cs":"Daedon",
 			"el":"Δυόδων",
 			"fr":"Daeodon",
@@ -449,6 +461,7 @@
 	},
 	"deathworm":{
 		"name_t":{
+			"ar":"دودة الموت",
 			"cs":"Písečný červ",
 			"da":"Gigant Sandorm",
 			"el":"Σκουλήκι Θανάτου",
@@ -465,6 +478,7 @@
 	},
 	"defenseunit":{
 		"name_t":{
+			"ar":"وحدة الدفاع",        
 			"da":"Forsvarsenhed",
 			"de":"Verteidigungseinheit",
 			"es":"Unidad de defensa",
@@ -484,6 +498,7 @@
 	},
 	"deinonychus":{
 		"name_t":{
+			"ar":"دينونيكس",
 			"es":"Deinonico",
 			"fr":"Deinonychus",
 			"it":"Deinonico",
@@ -496,6 +511,7 @@
 	},
 	"deserttitan":{
 		"name_t":{
+			"ar":"عملاق الصحراء",          
 			"cs":"Pouštní Titán",
 			"de":"Wüstentitan",
 			"es":"Titán del Desierto",
@@ -547,7 +563,7 @@
 	},
 	"dimorphodon":{
 		"name_t":{
-			"ar":"دايمورفادون",
+			"ar":"ديمورفودون",
 			"el":"Διμορφόδοντας",
 			"fr":"Dimorphodon",
 			"he":"דימורפודון",
@@ -561,11 +577,13 @@
 	},
 	"dinopithecus":{
 		"name_t":{
+			"ar":"دينوبيثكس",
 			"ru":"Динопитек"
 		}
 	},
 	"diplocaulus":{
 		"name_t":{
+			"ar":"دبلوكاولوس",
 			"el":"Διπλόκαυλος",
 			"fr":"Diplocaulus",
 			"it":"Diplocaulo",
@@ -615,6 +633,7 @@
 	"direwolf":{
 		"name_t":{
 			"da":"Direulv",
+			"ar":"ذءب",
 			"el":"Ανταρόλυκος",
 			"es":"Lobo Gigante",
 			"fi":"Hirviösusi",
@@ -646,6 +665,7 @@
 	"doedicurus":{
 		"name_t":{
 			"el":"Δεδίκερος",
+			"ar":"دويديكوروس",           
 			"fr":"Doedicurus",
 			"he":"דואדיקורוס",
 			"it":"Dedicuro",
@@ -704,6 +724,7 @@
 	"dunkleosteus":{
 		"name_t":{
 			"fr":"Dunkleosteus",
+			"ar":"دنكليوستس",
 			"it":"Dunkleosteo",
 			"ja":"ダンクルオステウス",
 			"ko":"둔클레오스테우스",
