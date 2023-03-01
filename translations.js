@@ -11091,7 +11091,7 @@ var languages = {
 			name:"ShadoqTeam"
 			link:"https://discord.com/channels/567860091244511257/849024994797289522"
        }]
-   }
+	},
 	zh:{
 		name:"简体中文",
 		credit:[{
@@ -11108,9 +11108,8 @@ var languages = {
 		},{
 			name:"aCJ_Legend (English name), 带坑 (Chinese name)"
 		}]
-	}
-	
-	zh-TW:{
+	},
+	"zh-tw":{
 		name:"繁體中文",
 		credit:[{
 			name:"侏罗纪汉化组：Heavensn(波仔)、QQ南极企鹅、Benzema星、睡鲨、失足（污力毓）",
