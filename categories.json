@@ -44,7 +44,8 @@
 		"2":{
 			"n":"The Island",
 			"nt":{
-				"zh":"孤岛"
+				"zh":"孤岛",
+				"ar":"الجزيره"
 			},
 			"o":2,
 			"p":1,
@@ -53,16 +54,19 @@
 		"3":{
 			"n":"The Center",
 			"nt":{
-				"zh":"中心岛"
+				"zh":"中心岛",
+				"ar":"الوسط"
 			},
 			"o":3,
 			"p":1,
 			"s":"Spawn_Map_(The_Center)"
+                               
 		},
 		"4":{
 			"n":"Scorched Earth",
 			"nt":{
-				"zh":"焦土"
+				"zh":"焦土",
+				"ar":"الارض المحترقه"
 			},
 			"o":4,
 			"p":1,
@@ -71,7 +75,8 @@
 		"5":{
 			"n":"Ragnarok",
 			"nt":{
-				"zh":"仙境"
+				"zh":"仙境",
+				"ar":"راجناروك"
 			},
 			"o":5,
 			"p":1,
@@ -80,7 +85,8 @@
 		"6":{
 			"n":"Aberration",
 			"nt":{
-				"zh":"畸变"
+				"zh":"畸变",
+				"ar":"ابيريشن (ابانحراف)"
 			},
 			"o":6,
 			"p":1,
@@ -89,7 +95,8 @@
 		"37":{
 			"n":"Extinction",
 			"nt":{
-				"zh":"灭绝"
+				"zh":"灭绝",
+				"ar":"اكستنشن(الانقراض)"
 			},
 			"nt":{},
 			"o":7,
@@ -100,7 +107,8 @@
 		"41":{
 			"n":"Genesis",
 			"nt":{
-				"zh":"创世纪第一部"
+				"zh":"创世纪第一部",
+				"ar":"جينيسس(المنشأ)"
 			},
 			"o":8,
 			"p":1,
@@ -109,7 +117,8 @@
 		"43":{
 			"n":"Crystal Isles",
 			"nt":{
-				"zh":"水晶岛"
+				"zh":"水晶岛",
+				"ar":"كرستل ايلز(الجزر الكرستاليه)"
 			},
 			"o":9,
 			"p":1,
@@ -122,7 +131,8 @@
 				"ja":"Scorched Earth 追加恐竜",
 				"zh":"《焦土》新生物",
 				"ru":"Новые: Scorched Earth",
-				"de":"Neu auf Scorched Earth"
+				"de":"Neu auf Scorched Earth",
+				"ar":"جديد للارض المحترقه"
 			},
 			"o":20,
 			"p":2,
@@ -135,7 +145,8 @@
 				"ja":"Aberration 追加恐竜",
 				"zh":"《畸变》新生物",
 				"ru":"Новые: Aberration",
-				"de":"Neu auf Aberration"
+				"de":"Neu auf Aberration",
+				"ar":"(جديد لابيريشن (الانحراف"
 			},
 			"o":21,
 			"p":2,
@@ -148,7 +159,8 @@
 				"ja":"Extinction 追加恐竜",
 				"zh":"《灭绝》新生物",
 				"ru":"Новые: Extinction",
-				"de":"Neu auf Extinction"
+				"de":"Neu auf Extinction",
+				"ar":"جديد لاكستنشن(الانقراض)"
 			},
 			"o":22,
 			"p":2,
@@ -161,7 +173,8 @@
 				"ja":"Genesis 追加恐竜",
 				"zh":"《创世纪》新生物",
 				"ru":"Новые: Genesis",
-				"de":"Neu auf Genesis"
+				"de":"Neu auf Genesis",
+				"ar":"جديد لجينيسس (المنشأ)"
 			},
 			"o":23,
 			"p":2,
@@ -174,7 +187,8 @@
 				"ja":"Crystal Isles 追加恐竜",
 				"zh":"《水晶岛》新生物",
 				"ru":"Новые: Crystal Isles",
-				"de":"Neu auf Crystal Isles"
+				"de":"Neu auf Crystal Isles",
+				"ar":"جديد لكرستل ايلز(الجزر الكرستاليه)"
 			},
 			"o":24,
 			"p":2,
@@ -246,7 +260,7 @@
 				"zh":"可骑乘",
 				"nl":"Rijdbaar",
 				"pt":"Montável",
-				"ar":"قابل للتخلص منه",
+				"ar":"قابل للركب",
 				"vi":"Cưỡi được"
 			},
 			"o":40,
@@ -425,7 +439,7 @@
 				"zh":"快速/简易驯服",
 				"nl":"Snel & Makkelijk te temmen",
 				"pt":"Domesticação rápida e tranquila",
-				"ar":"ترويض سريع / سهل",
+				"ar":"ترويض سهل و سريع",
 				"vi":"Thuần hóa Nhanh, gọn, lẹ"
 			},
 			"o":54,
@@ -443,7 +457,7 @@
 				"zh":"肉食性",
 				"nl":"Carnivoren",
 				"pt":"Carnívoros",
-				"ar":"آكل لحوم",
+				"ar":"آكلي اللحوم",
 				"vi":"Ăn thịt"
 			},
 			"o":60,
@@ -461,7 +475,7 @@
 				"zh":"草食性",
 				"nl":"Herbivoren",
 				"pt":"Herbívoros",
-				"ar":"آكل أعشاب",
+				"ar":"آكلي ألاعشاب",
 				"vi":"Ăn cỏ"
 			},
 			"o":61,
@@ -479,7 +493,7 @@
 				"zh":"杂食性",
 				"nl":"Omnivoren",
 				"pt":"Onívoros",
-				"ar":"قارت",
+				"ar":"حيوانا اكلة النبات واللحوم",
 				"vi":"Ăn tạp"
 			},
 			"o":62,
@@ -533,7 +547,7 @@
 				"zh":"资源采集",
 				"nl":"Verzamelaars",
 				"pt":"Colhedores",
-				"ar":"جمع الموارد",
+				"ar":"مخلوقات جمع الموارد",
 				"vi":"Sinh Vật Thu Hoạch"
 			},
 			"o":71,
@@ -551,7 +565,7 @@
 				"zh":"高负重",
 				"nl":"Werk Ezel",
 				"pt":"Transportadores",
-				"ar":"حمل الاوزان",
+				"ar":"حيوانات مجموعه",
 				"vi":"Di chuyển tốt"
 			},
 			"o":72,
@@ -675,7 +689,8 @@
 		"39":{
 			"n":"Valguero",
 			"nt":{
-				"zh":"瓦尔盖罗"
+				"zh":"瓦尔盖罗",
+				"ar":"فالقيرو"
 			},
 			"o":8,
 			"p":1
@@ -710,7 +725,7 @@
 				"zh":"扩展资料片限定",
 				"nl":"Alleen vekrijgbaar met uibreidings paket",
 				"pt":"Pacore de expansão exclusivo",
-				"ar":"حزمه",
+				"ar":"حزمه الاضافه حصريه",
 				"vi":"Chỉ xuất hiện ở các DLC"
 			}
 		},
