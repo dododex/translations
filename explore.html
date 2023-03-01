@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Dododex Translations</title>
+    <link href="https://www.dododex.com/css/style.css" rel="stylesheet">
+    <script src="translations.js"></script>
+    <script>
+      window.onload = function() {
+        function translate() {
+          var key = document.getElementById("key").value;
+          var translations = document.getElementById("translations");
+          translations.innerHTML = `<tr>
+            <td width="10%" class="bold light cap right smaller uppercase">Language</th>
+            <td width="90%" class="bold light cap left smaller uppercase">Translation</th>
+          </tr>`;
+          for (var lang in window.translations) {
+            if (window.translations.hasOwnProperty(lang)) {
+              var translation = document.createElement("tr");
+              translation.innerHTML = '<td class="light right">' + lang + "</td><td>" + (window.translations[lang][key] == null ? '<span class="neg">MISSING</span>' : window.translations[lang][key]) + '</td>';
+              translations.appendChild(translation);
+            }
+          }
+        }
+
+        var keyInput = document.getElementById("key");
+        keyInput.addEventListener("input", translate);
+
+        // Count total number of translations
+        var totalLanguages = Object.keys(window.translations).length;
+        var totalEnKeys = Object.keys(window.translations.en).length;
+
+        totalTranslated = 0;
+        // Display percentage translated for each language
+        var langList = document.getElementById("langList");
+        for (var lang in window.translations) {
+          if (window.translations.hasOwnProperty(lang)) {
+            var numTranslated = Object.keys(window.translations[lang]).filter(function(key) {
+              return window.translations[lang][key] !== null;
+            }).length;
+            var totalKeys = Object.keys(window.translations[lang]).length;
+            var percentage = Math.round(numTranslated / totalKeys * 100);
+
+            // Add progress bar for the language
+            var progressBar = `
+            <tr style="${percentage >= 100 && "color:#BF7 !important"}">
+              <td class="right">
+                  <span class="light">${lang}</span>
+              </td>
+              <td class="right">
+                  ${percentage}%
+              </td>
+              <td class="small light marginLeftS marginRightS right">${numTranslated} / ${totalKeys != totalEnKeys ? '<span class="neg">' + totalKeys + '</span>' : totalKeys}</td>
+              <td>
+                <div class="miniBarWrap rowItem flex3">
+                  <div class="miniBar" style="width:${percentage}%;${percentage >= 100 && "background-color:#BF7"}"></div>
+                </div>
+              </td>
+            </tr>`;
+            totalTranslated += numTranslated;
+            langList.innerHTML += progressBar;
+          }
+        }
+
+        // Stats
+        percentTranslated = Math.round((totalTranslated / (totalLanguages * totalEnKeys) * 1000))/10;
+        document.getElementById("stats").innerHTML = `
+        <div class="miniBarWrap marginBottom" style="background-color:var(--neg)">
+          <div class="miniBar" style="width:${percentTranslated}%;background-color:var(--action)"></div>
+        </div>
+        <div class="row marginBottom2">
+          <div class="rowItem">
+            <div class="bigNum bold actionColor">${percentTranslated}%</div>
+            <div class="actionColor marginTopS">TRANSLATED</div>
+          </div>
+          <div class="rowItem center">
+            <div class="bigNum">${totalLanguages}</div>
+            <div class="light marginTopS">TOTAL LANGUAGES</div>
+          </div>
+          <div class="rowItem right">
+            <div class="bigNum neg">${(totalLanguages * totalEnKeys) - totalTranslated}</div>
+            <div class="neg light marginTopS">MISSING TRANSLATIONS</div>
+          </div>
+        </div>
+        `
+
+
+        // Find missing or unused keys
+        var numIssues = 0;
+        for (var lang in translations) {
+          // Skip the "en" language
+          if (lang === "en") {
+            continue;
+          }
+          
+          // Get the keys for the current language and the "en" language
+          var langKeys = Object.keys(translations[lang]);
+          var enKeys = Object.keys(translations.en);
+          
+          // Find any missing keys (in the "en" object but not in the current language object)
+          var missingKeys = enKeys.filter(function(key) {
+            return langKeys.indexOf(key) === -1;
+          });
+          
+          // Find any unnecessary keys (in the current language object but not in the "en" object)
+          var unnecessaryKeys = langKeys.filter(function(key) {
+            return enKeys.indexOf(key) === -1;
+          });
+
+          if(missingKeys.length == 0 && unnecessaryKeys.length == 0){
+            continue;
+          }
+          
+          numIssues++;
+
+          // Generate the HTML list for this language
+          var html = "<tr><td>" + lang + "</td><td>";
+          if (missingKeys.length > 0) {
+            html += "<ol class=\"small normallist\">";
+            missingKeys.forEach(function(key) {
+              html += "<li>" + key + "</li>";
+            });
+            html += "</ol>";
+          }
+            html += "</td>";
+          if (unnecessaryKeys.length > 0) {
+            html += "<td><ol class=\"small normallist\">";
+            unnecessaryKeys.forEach(function(key) {
+              html += "<li>" + key + "</li>";
+            });
+            html += "</ol>";
+          }
+          html += "</td></tr>";
+          document.getElementById("misMatched").innerHTML += html;
+        }
+        // Hide section if there's none.
+        if(numIssues == 0){
+          document.getElementById("misMatchedHolder").remove();
+        }
+
+
+        // Autocomplete possible keys
+        var keys = Object.keys(window.translations.en);
+        var keyInput = document.getElementById("key");
+        var keyList = document.createElement("datalist");
+        keyList.id = "key-list";
+        keys.forEach(function(key) {
+          var keyOption = document.createElement("option");
+          keyOption.value = key;
+          keyList.appendChild(keyOption);
+        });
+        keyInput.setAttribute("list", "key-list");
+        document.body.appendChild(keyList);
+
+
+      };
+    </script>
+  </head>
+  <body>
+    <div class="wrap marginBottom2" style="max-width:700px;">
+      <a class="button marginTop" href="./">&larr; Back to GitHub</a>
+      <h1>Dododex Translation Browser</h1>
+      <input class="whiteinput" type="text" id="key" name="key" list="key-list" onchange="translate()" size="30" placeholder="Enter a key" /> 
+
+     
+      <table class="btable marginTop" width="100%" id="translations">
+      </table>
+
+      <h2>Progress</h2>
+      <div id="stats"></div>
+
+      <table class="btable marginTop" width="100%">
+        <tr>
+          <td width="10%" class="bold light cap right smaller uppercase">Language</td>
+          <td width="10%" class="bold light cap right smaller uppercase">%</td>
+          <td width="10%" class="bold light cap right smaller uppercase">Keys</td>
+          <td width="60%" class="bold light cap left smaller uppercase">Progress</td>
+        </tr>
+        <tbody id="langList"></tbody>
+      </table>
+
+      <div id="misMatchedHolder">
+        <h3 class="neg">Mismatched Keys</h3>
+        <table class="btable marginTop" width="100%">
+          <tr>
+            <td width="10%" class="bold light cap right smaller uppercase">Language</td>
+            <td width="45%" class="bold light cap left smaller uppercase">Missing</td>
+            <td width="45%" class="bold light cap left smaller uppercase">Unused</td>
+          </tr>
+          <tbody id="misMatched"></tbody>
+        </table>
+      </div>
+
+    </div>
+  </body>
+</html>

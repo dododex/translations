@@ -2,6 +2,8 @@ The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com
 
 **Translators get Dododex Pro for free!** After contributing at least half of your language's translations, contact me (dan14lev[at]gmail.com) to get a promo code for the ad-free version of Dododex.
 
+[View Translator Browser](explore.html)
+
 [Join the Translator Chat!](https://discord.gg/KvmRSSV)
 
 ![Translate Dododex](https://raw.githubusercontent.com/dododex/translations/master/translate.png?2)
