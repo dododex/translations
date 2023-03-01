@@ -4,7 +4,7 @@ The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com
 
 [View Translator Browser](explore.html)
 
-[Join the Translator Chat!](https://discord.gg/KvmRSSV)
+[Join the Translator Chat!](https://app.dododex.com/translations/explore.html)
 
 ![Translate Dododex](https://raw.githubusercontent.com/dododex/translations/master/translate.png?2)
 
