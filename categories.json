@@ -67,14 +67,16 @@
 				"ru":"Популярный",
 				"th":"เป็นที่นิยม",
 				"tr":"Popüler",
-				"zh":"受欢迎的"
+				"zh":"受欢迎的",
+				"zh-hant":"受歡迎的"
 			}
 		},
 		"2":{
 			"n":"The Island",
 			"nt":{
 				"zh":"孤岛",
-				"ar":"الجزيره"
+				"ar":"الجزيره",
+				"zh-hant":"孤島"
 			},
 			"o":5,
 			"p":1,
@@ -84,7 +86,8 @@
 			"n":"The Center",
 			"nt":{
 				"zh":"中心岛",
-				"ar":"الوسط"
+				"ar":"الوسط",
+				"zh-hant":"中心島"
 			},
 			"o":6,
 			"p":1,
@@ -114,7 +117,8 @@
 			"n":"Aberration",
 			"nt":{
 				"zh":"畸变",
-				"ar":"ابيريشن (ابانحراف)"
+				"ar":"ابيريشن (ابانحراف)",
+				"zh-hant":"畸變"
 			},
 			"o":9,
 			"p":1,
@@ -124,7 +128,8 @@
 			"n":"Extinction",
 			"nt":{
 				"zh":"灭绝",
-				"ar":"اكستنشن(الانقراض)"
+				"ar":"اكستنشن(الانقراض)",
+				"zh-hant":"滅絕"
 			},
 			"o":10,
 			"p":1,
@@ -135,7 +140,8 @@
 			"n":"Genesis",
 			"nt":{
 				"zh":"创世纪第一部",
-				"ar":"جينيسس(المنشأ)"
+				"ar":"جينيسس(المنشأ)",
+				"zh-hant":"創世紀第一部份"
 			},
 			"o":11,
 			"p":1,
@@ -145,7 +151,8 @@
 			"n":"Crystal Isles",
 			"nt":{
 				"zh":"水晶岛",
-				"ar":"كرستل ايلز(الجزر الكرستاليه)"
+				"ar":"كرستل ايلز(الجزر الكرستاليه)",
+				"zh-hant":"水晶島"
 			},
 			"o":12,
 			"p":1,
@@ -153,12 +160,18 @@
 		},
 		"45":{
 			"n":"Genesis Part 2",
+			"nt":{
+				"zh":"創世紀第二部分"
+			},
 			"o":13,
 			"p":1,
 			"s":"Spawn_Map_(Genesis:_Part_2)"
 		},
 		"47":{
 			"n":"Lost Island",
+			"nt":{
+				"zh":"失落之島"
+			},
 			"o":14,
 			"p":1,
 			"s":"Spawn_Map_(Lost_Island)"
@@ -188,7 +201,8 @@
 			"nt":{
 				"fr":"Nouveau sur Aberration",
 				"ja":"Aberration 追加恐竜",
-				"zh":"《畸变》新生物",
+				"zh":"《畸變》新生物",
+				"zh-hant":""
 				"ru":"Новые: Aberration",
 				"de":"Neu auf Aberration",
 				"ar":"(جديد لابيريشن (الانحراف"
@@ -202,7 +216,8 @@
 			"nt":{
 				"fr":"Nouveau sur Extinction",
 				"ja":"Extinction 追加恐竜",
-				"zh":"《灭绝》新生物",
+				"zh":"《滅絕》新生物",
+				"zh-hant":""
 				"ru":"Новые: Extinction",
 				"de":"Neu auf Extinction",
 				"ar":"جديد لاكستنشن(الانقراض)"
@@ -216,7 +231,8 @@
 			"nt":{
 				"fr":"Nouveau sur Genesis",
 				"ja":"Genesis 追加恐竜",
-				"zh":"《创世纪》新生物",
+				"zh":"《創世紀》新生物",
+				"zh-hant":""
 				"ru":"Новые: Genesis",
 				"de":"Neu auf Genesis",
 				"ar":"جديد لجينيسس (المنشأ)"
@@ -230,7 +246,8 @@
 			"nt":{
 				"fr":"Nouveau sur Crystal Isles",
 				"ja":"Crystal Isles 追加恐竜",
-				"zh":"《水晶岛》新生物",
+				"zh":"《水晶島》新生物",
+				"zh-hant":""
 				"ru":"Новые: Crystal Isles",
 				"de":"Neu auf Crystal Isles",
 				"ar":"جديد لكرستل ايلز(الجزر الكرستاليه)"
@@ -241,11 +258,17 @@
 		},
 		"46":{
 			"n":"New To Genesis Part 2",
+			"nt":{
+				"zh":"《創世紀第二部份》新生物"
+			},
 			"o":25,
 			"p":2
 		},
 		"48":{
 			"n":"New To Lost Island",
+			"nt":{
+				"zh":"《失落之島》新生物"
+			},
 			"o":26,
 			"p":2
 		},
@@ -264,6 +287,7 @@
 				"ja":"陸上恐竜",
 				"ru":"Сухопутные",
 				"zh":"陆生",
+				"zh-hant":"陸生",
 				"nl":"Aards",
 				"pt":"Terrestre",
 				"ar":"أنسان",
@@ -282,6 +306,7 @@
 				"ja":"飛行恐竜",
 				"ru":"Воздушные",
 				"zh":"飞行",
+				"zh-hant":"飛行",
 				"nl":"Vliegend",
 				"pt":"Aéreo",
 				"ar":"جوي",
@@ -318,6 +343,7 @@
 				"ja":"騎乗可能",
 				"ru":"Ездовые",
 				"zh":"可骑乘",
+				"zh-hant":"可騎乘",
 				"nl":"Rijdbaar",
 				"pt":"Montável",
 				"ar":"قابل للركب",
@@ -426,6 +452,7 @@
 				"ja":"テイム可能",
 				"ru":"Приручаемые",
 				"zh":"可驯服",
+				"zh-hant":"可馴服",
 				"nl":"Tembaar",
 				"pt":"Domesticável",
 				"ar":"قابل للترويض",
@@ -444,6 +471,7 @@
 				"ja":"テイム不可",
 				"ru":"Не приручаемые",
 				"zh":"不可驯服",
+				"zh-hant":"不可馴服",
 				"nl":"Niet Tembaar",
 				"pt":"Não Domesticável",
 				"ar":"غير قابل للترويض",
@@ -462,6 +490,7 @@
 				"ja":"昏睡テイム",
 				"ru":"Приручение оглушением",
 				"zh":"麻醉驯服",
+				"zh-hant":"麻醉馴服",
 				"nl":"Temmen door bewusteloosheid",
 				"pt":"Domável Inconsciente",
 				"ar":"ترويض عبر التخدير",
@@ -480,6 +509,7 @@
 				"ja":"手渡しテイム",
 				"ru":"Пассивное приручение",
 				"zh":"和平驯服",
+				"zh-hant":"和平馴服",
 				"nl":"Passief temmen",
 				"pt":"Domesticação passiva",
 				"ar":"ترويض سلمي",
@@ -497,6 +527,7 @@
 				"es":"Doma rápida y fácil",
 				"ru":"Быстрое и лёгкое приручение",
 				"zh":"快速/简易驯服",
+				"zh-hant":"快速/簡易馴服",
 				"nl":"Snel & Makkelijk te temmen",
 				"pt":"Domesticação rápida e tranquila",
 				"ar":"ترويض سهل و سريع",
@@ -551,6 +582,7 @@
 				"ja":"雑食恐竜",
 				"ru":"Всеядные",
 				"zh":"杂食性",
+				"zh-hant":"雜食性",
 				"nl":"Omnivoren",
 				"pt":"Onívoros",
 				"ar":"حيوانا اكلة النبات واللحوم",
@@ -569,6 +601,7 @@
 				"ja":"魚食恐竜",
 				"ru":"Ихтиофаги",
 				"zh":"鱼食性",
+				"zh-hant":"魚食性",
 				"nl":"Viseters",
 				"pt":"Piscívoros",
 				"ar":"حشرات",
@@ -587,6 +620,7 @@
 				"ja":"戦闘恐竜",
 				"ru":"Боевые существа",
 				"zh":"战斗生物",
+				"zh-hant":"戰鬥生物",
 				"nl":"Gevechts schepsels",
 				"pt":"Criaturas de Combate",
 				"ar":"مخلوقات المعركة",
@@ -605,6 +639,7 @@
 				"ja":"資源恐竜",
 				"ru":"Собиратели",
 				"zh":"资源采集",
+				"zh-hant":"資源採集",
 				"nl":"Verzamelaars",
 				"pt":"Colhedores",
 				"ar":"مخلوقات جمع الموارد",
@@ -623,6 +658,7 @@
 				"ja":"重量恐竜",
 				"ru":"Транспортировщики",
 				"zh":"高负重",
+				"zh-hant":"高負重",
 				"nl":"Werk Ezel",
 				"pt":"Transportadores",
 				"ar":"حيوانات مجموعه",
@@ -641,6 +677,7 @@
 				"ja":"移動恐竜",
 				"ru":"Быстрые существа",
 				"zh":"高机动性",
+				"zh-hant":"高機動性",
 				"nl":"Snelle schepsels",
 				"pt":"Criaturas Rápidas",
 				"ar":"مخلوقات سريعه",
@@ -677,6 +714,7 @@
 				"ja":"序盤恐竜",
 				"ru":"Ранняя стадия игры",
 				"zh":"前期开荒",
+				"zh-hant":"前期開荒",
 				"nl":"Begin spel",
 				"pt":"Começo de Jogo",
 				"ar":"بداية اللعبة",
@@ -695,6 +733,7 @@
 				"ja":"中盤恐竜",
 				"ru":"Средняя стадия игры",
 				"zh":"中期发展",
+				"zh-hant":"中期發展",
 				"nl":"Midden spel",
 				"pt":"Meio de Jogo",
 				"ar":"منتصف اللعبة",
@@ -713,6 +752,7 @@
 				"ja":"終盤恐竜",
 				"ru":"Конечная стадия игры",
 				"zh":"后期生存",
+				"zh-hant":"後期生存",
 				"nl":"Eind spel",
 				"pt":"Fim de Jogo",
 				"ar":"نهاية اللعبة",
@@ -749,6 +789,7 @@
 			"n":"Valguero",
 			"nt":{
 				"zh":"瓦尔盖罗",
+				"zh-hant":"瓦爾蓋羅",
 				"ar":"فالقيرو"
 			},
 			"s":"Spawn_Map_(Valguero)",
@@ -767,6 +808,7 @@
 				"ja":"マップ",
 				"ru":"Карта",
 				"zh":"地图",
+				"zh-hant":"地圖",
 				"nl":"Kaart",
 				"pt":"Mapa",
 				"ar":"خريطه",
@@ -783,6 +825,7 @@
 				"ja":"拡張パック限定",
 				"ru":"Уникальные для дополнений",
 				"zh":"扩展资料片限定",
+				"zh-hant":"擴展資料片限定",
 				"nl":"Alleen vekrijgbaar met uibreidings paket",
 				"pt":"Pacore de expansão exclusivo",
 				"ar":"حزمه الاضافه حصريه",
@@ -798,6 +841,7 @@
 				"ja":"生息地",
 				"ru":"Среда обитания",
 				"zh":"栖息地",
+				"zh-hant":"棲息地",
 				"nl":"Habitat",
 				"ar":"موطن",
 				"vi":"Môi trường sống"
@@ -812,6 +856,7 @@
 				"fr":"Maniement",
 				"ru":"Управляемость",
 				"zh":"骑乘性",
+				"zh-hant":"騎乘性",
 				"nl":"Rijdbaarheid",
 				"pt":"Guiabiliade",
 				"ar":"قابلية التخيل",
@@ -831,6 +876,7 @@
 				"pl":"Oswajanie",
 				"pt":"Domando",
 				"zh":"驯服性",
+				"zh-hant":"馴服性",
 				"ru":"Приручение",
 				"ro":"Îmblânzire",
 				"th":"การจับ",
@@ -849,6 +895,7 @@
 				"es":"Dieta",
 				"ru":"Рацион",
 				"zh":"饮食性",
+				"zh-hant":"飲食性",
 				"nl":"Dieët",
 				"pt":"Dieta",
 				"ar":"التغذية",
@@ -869,6 +916,7 @@
 				"pl":"Umiejętność Ostateczna",
 				"pt":"Utilitário",
 				"zh":"实用性",
+				"zh-hant":"實用性",
 				"ru":"Полезность",
 				"ro":"Utilitate",
 				"th":"สิ่งที่มีประโยชน์",
