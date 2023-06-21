@@ -58,7 +58,7 @@
 	},
 	"andrewsarchus":{
 		"name_t":{
-
+			"ru":"Эндрюсарх"
 		}
 	},
 	"angler":{
@@ -255,7 +255,7 @@
 	},
 	"beyla":{
 		"name_t":{
-
+			"ru":"Бейла"
 		}
 	},
 	"beylaspawn":{
@@ -351,7 +351,7 @@
 	},
 	"carcharodontosaurus":{
 		"name_t":{
-
+			"ru":"Кархародонтозавр"
 		}
 	},
 	"carnotaurus":{
@@ -574,7 +574,7 @@
 	},
 	"desmodus":{
 		"name_t":{
-
+			"ru":"Десмод"
 		}
 	},
 	"dilophosaur":{
@@ -636,7 +636,7 @@
 	},
 	"dinopithecusking":{
 		"name_t":{
-
+			"ru":"Король Динопитеков"
 		}
 	},
 	"diplocaulus":{
@@ -871,12 +871,12 @@
 	},
 	"fenrir":{
 		"name_t":{
-
+			"ru":"Фенрир"
 		}
 	},
 	"fenrisulfr":{
 		"name_t":{
-
+			"ru":"Фенрис"
 		}
 	},
 	"ferox":{
@@ -890,7 +890,7 @@
 	},
 	"fjordhawk":{
 		"name_t":{
-
+			"ru":"Ястреб фьордов"
 		}
 	},
 	"foresttitan":{
@@ -1062,7 +1062,7 @@
 	},
 	"hatiskoll":{
 		"name_t":{
-
+			"ru":"Хати и Сколль"
 		}
 	},
 	"hesperornis":{
@@ -2070,7 +2070,7 @@
 	},
 	"rubblebear":{
 		"name_t":{
-
+			"ru":"Каменный медведь"
 		}
 	},
 	"sabertooth":{
@@ -2236,7 +2236,7 @@
 	},
 	"steinbjorn":{
 		"name_t":{
-
+			"ru":"Стайнбьорн"
 		}
 	},
 	"stryder":{
