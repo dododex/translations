@@ -437,7 +437,7 @@ var translations = {
 		firstInterval: "First Interval",
 		passive: "Passive",
 		addYourRatings: "Add Your Ratings",
-		adFreeBrowsing: "Ad-free Browsing",
+		adFreeBrowsing: "Ad-Free Browsing",
 		devCredit: "Developed with ♥ by Dan Leveille",
 		diseases: "Diseases",
 		readMore: "Read More",
