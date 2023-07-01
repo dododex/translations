@@ -28,6 +28,7 @@
 			"n":"New",
 			"nt":{
 				"de":"Neu",
+				"tr":"Yeni",
 				"it":"Nuovo",
 				"es":"Nuevo",
 				"ja":"最新",
@@ -276,6 +277,7 @@
 		"9":{
 			"n":"Terrestrial",
 			"nt":{
+				"tr":"Kara Canlısı",
 				"de":"Terrestrisch",
 				"it":"Terrestre",
 				"fr":"Terrestre",
@@ -295,6 +297,7 @@
 		"10":{
 			"n":"Aerial",
 			"nt":{
+				"tr":"Hava Canlısı",
 				"de":"Fliegend",
 				"it":"Aereo",
 				"fr":"Aérien",
@@ -314,6 +317,7 @@
 		"11":{
 			"n":"Aquatic",
 			"nt":{
+				"tr":"Deniz Canlısı",
 				"de":"Aquatisch",
 				"it":"Acquatico",
 				"fr":"Aquatique",
@@ -332,6 +336,7 @@
 		"12":{
 			"n":"Rideable",
 			"nt":{
+				"tr":"Sürülebilir",
 				"de":"Reitbar",
 				"it":"Cavalcabile",
 				"fr":"Montable",
@@ -351,6 +356,7 @@
 		"13":{
 			"n":"Utility Saddle",
 			"nt":{
+				"tr":"Kullanışlı Eğer",
 				"de":"Nutzsattel",
 				"it":"Sella utilità",
 				"fr":"Selle Utilitaire",
@@ -369,6 +375,7 @@
 		"14":{
 			"n":"Platform Saddle",
 			"nt":{
+				"tr":"Platform Eğeri",
 				"de":"Plattformsattel",
 				"it":"Sella piattaforma",
 				"fr":"Selle avec plateforme",
@@ -387,6 +394,7 @@
 		"15":{
 			"n":"Multi-Passenger",
 			"nt":{
+				"tr":"Yolcu Koltuğu",
 				"de":"Multi-Passagier",
 				"it":"Multi passeggero",
 				"fr":"Multi Passager",
@@ -405,6 +413,7 @@
 		"16":{
 			"n":"Tek Saddle",
 			"nt":{
+				"tr":"Tek Eğer",
 				"de":"Tek Sattel",
 				"it":"Sella Tek",
 				"fr":"Selle Tek",
@@ -423,6 +432,7 @@
 		"17":{
 			"n":"Shoulder Mounts",
 			"nt":{
+				"tr":"Omuzda Gezer",
 				"de":"Schulter-Begleiter",
 				"it":"Supporto spalla",
 				"fr":"Monte sur l'épaule",
@@ -441,6 +451,7 @@
 		"18":{
 			"n":"Tamable",
 			"nt":{
+				"tr":"Eğitebilir",
 				"de":"Zähmbar",
 				"it":"Addomesticabile",
 				"fr":"Apprivoisable",
@@ -460,6 +471,7 @@
 		"19":{
 			"n":"Non-tamable",
 			"nt":{
+				"tr":"Eğitilemez",
 				"de":"Unzähmbar",
 				"it":"Non domabile",
 				"fr":"Non apprivoisable",
@@ -479,6 +491,7 @@
 		"20":{
 			"n":"Knockout Taming",
 			"nt":{
+				"tr":"Bayıltarak Eğitilir",
 				"de":"Betäubungs-Zähmen",
 				"it":"Domazione con incoscio",
 				"fr":"Apprivoisement par assommement",
@@ -498,6 +511,7 @@
 		"21":{
 			"n":"Passive Taming",
 			"nt":{
+				"tr":"Pasif Evcilleştirme",
 				"de":"Passives Zähmen",
 				"it":"Domazione passiva",
 				"fr":"Apprivoisement passif",
@@ -517,6 +531,7 @@
 		"22":{
 			"n":"Quick & Easy Taming",
 			"nt":{
+				"tr":"Hızlı Ve Kolay Evcilleştirme",
 				"de":"Schnelles & Einfaches Zähmen",
 				"it":"Domazione facile e veloce",
 				"fr":"Apprivoisement Rapide et Facile",
@@ -535,6 +550,7 @@
 		"23":{
 			"n":"Carnivores",
 			"nt":{
+				"tr":"Etobur",
 				"de":"Fleischfresser",
 				"it":"Carnivori",
 				"es":"Carnívoros",
@@ -553,6 +569,7 @@
 		"24":{
 			"n":"Herbivores",
 			"nt":{
+				"tr":"Otçul",
 				"de":"Pflanzenfresser",
 				"it":"Erbivori",
 				"es":"Herbívoros",
@@ -571,6 +588,7 @@
 		"25":{
 			"n":"Omnivores",
 			"nt":{
+				"tr":"Hepçil",
 				"de":"Allesfresser",
 				"it":"Onnivori",
 				"es":"Omnívoros",
@@ -590,6 +608,7 @@
 		"26":{
 			"n":"Piscivores",
 			"nt":{
+				"tr":"Balıkçıl",
 				"de":"Fischfresser",
 				"it":"Piscivori",
 				"es":"Piscívoros",
@@ -609,6 +628,7 @@
 		"27":{
 			"n":"Battle Creatures",
 			"nt":{
+				"tr":"Savaş Canlısı",
 				"de":"Kampfkreaturen",
 				"it":"Creature da combattimento",
 				"fr":"Créatures de combat",
@@ -628,6 +648,7 @@
 		"28":{
 			"n":"Gatherers",
 			"nt":{
+				"tr":"Toplayıcı",
 				"de":"Sammler",
 				"it":"Raccoglitori",
 				"fr":"Cueilleurs",
@@ -647,6 +668,7 @@
 		"29":{
 			"n":"Pack Mules",
 			"nt":{
+				"tr":"Taşıyıcı",
 				"de":"Packesel",
 				"it":"Trasportatori",
 				"fr":"Transporteur",
@@ -666,6 +688,7 @@
 		"30":{
 			"n":"Fast Creatures",
 			"nt":{
+				"tr":"Hızlı Canlılar",
 				"de":"Schnelle Kreaturen",
 				"it":"Creature veloci",
 				"fr":"Créatures rapide",
@@ -685,6 +708,7 @@
 		"31":{
 			"n":"Breedable",
 			"nt":{
+				"tr":"Çiftleştirilebilir",
 				"de":"Züchtbar",
 				"it":"Allevabile",
 				"fr":"Reproductible",
@@ -703,6 +727,7 @@
 		"32":{
 			"n":"Early Game",
 			"nt":{
+				"tr":"Erken Oyun",
 				"de":"Spielbeginn",
 				"it":"Inizio partita",
 				"fr":"Début de partie",
@@ -722,6 +747,7 @@
 		"33":{
 			"n":"Midgame",
 			"nt":{
+				"tr":"Orta Oyun",
 				"de":"Spielmitte",
 				"it":"Metà partita",
 				"fr":"Milieu de partie",
@@ -741,6 +767,7 @@
 		"34":{
 			"n":"Endgame",
 			"nt":{
+				"tr":"Oyun Sonu",
 				"de":"Spielende",
 				"it":"Fine partita",
 				"fr":"Fin de partie",
@@ -760,6 +787,7 @@
 		"35":{
 			"n":"Bosses",
 			"nt":{
+				"tr":"Bosslar",
 				"de":"Bosse",
 				"it":"Boss",
 				"es":"Jefes",
@@ -797,6 +825,7 @@
 		"1":{
 			"n":"Map",
 			"nt":{
+				"tr":"Harita",
 				"de":"Karte",
 				"it":"Mappa",
 				"fr":"Carte",
@@ -814,6 +843,7 @@
 		"2":{
 			"n":"Expansion Pack Exclusive",
 			"nt":{
+				"tr":"DLC'ye Özel",
 				"de":"Inklusive Erweiterungen",
 				"it":"Pacco d'espansione esclusivo",
 				"fr":"Contenu additionnel exclusif",
@@ -831,6 +861,7 @@
 		"3":{
 			"n":"Habitat",
 			"nt":{
+				"tr":"Yaşam Alanı",
 				"de":"Lebensraum",
 				"es":"Hábitat",
 				"fr":"Habitat",
@@ -846,6 +877,7 @@
 		"4":{
 			"n":"Ridability",
 			"nt":{
+				"tr":"Sürülebilir",
 				"de":"Reitbarkeit",
 				"it":"Guidabilità",
 				"es":"Manejo",
