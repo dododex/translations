@@ -11539,6 +11539,9 @@ var translations = {
 		tr: {
 			name:"Türkçe",
 			credit: [{
+				name:"MehmetCan K.",
+				link:"https://www.instagram.com/yondaimehokagedes/"
+			},{
 				name:"Mustafa İdeko",
 				link:"http://steamcommunity.com/id/mustafaidk/"
 			},{
