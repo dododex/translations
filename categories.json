@@ -69,7 +69,8 @@
 				"th":"เป็นที่นิยม",
 				"tr":"Popüler",
 				"zh":"受欢迎的",
-				"zh-tw":"受歡迎的"
+				"zh-tw":"受歡迎的",
+				"vi":"Phổ Biến"
 			}
 		},
 		"2":{
@@ -191,7 +192,8 @@
 				"zh":"《焦土》新生物",
 				"ru":"Новые: Scorched Earth",
 				"de":"Neu auf Scorched Earth",
-				"ar":"جديد للارض المحترقه"
+				"ar":"جديد للارض المحترقه",
+				"vi":"Mới với Scorched Earth"
 			},
 			"o":20,
 			"p":2,
@@ -205,7 +207,8 @@
 				"zh":"《畸變》新生物",
 				"ru":"Новые: Aberration",
 				"de":"Neu auf Aberration",
-				"ar":"(جديد لابيريشن (الانحراف"
+				"ar":"(جديد لابيريشن (الانحراف",
+				"vi":"Mới với Aberration"
 			},
 			"o":21,
 			"p":2,
@@ -219,7 +222,8 @@
 				"zh":"《滅絕》新生物",
 				"ru":"Новые: Extinction",
 				"de":"Neu auf Extinction",
-				"ar":"جديد لاكستنشن(الانقراض)"
+				"ar":"جديد لاكستنشن(الانقراض)",
+				"vi":"Mới với Extinction"
 			},
 			"o":22,
 			"p":2,
@@ -233,7 +237,8 @@
 				"zh":"《創世紀》新生物",
 				"ru":"Новые: Genesis",
 				"de":"Neu auf Genesis",
-				"ar":"جديد لجينيسس (المنشأ)"
+				"ar":"جديد لجينيسس (المنشأ)",
+				"vi":"Mới với Genesis"
 			},
 			"o":23,
 			"p":2,
@@ -248,6 +253,7 @@
 				"ru":"Новые: Crystal Isles",
 				"de":"Neu auf Crystal Isles",
 				"ar":"جديد لكرستل ايلز(الجزر الكرستاليه)"
+				"vi":"Mới với Crystal Isles"
 			},
 			"o":24,
 			"p":2,
@@ -257,6 +263,7 @@
 			"n":"New To Genesis Part 2",
 			"nt":{
 				"zh":"《創世紀第二部份》新生物"
+				"vi":"Mới với Genesis Part 2"
 			},
 			"o":25,
 			"p":2
@@ -265,12 +272,16 @@
 			"n":"New To Lost Island",
 			"nt":{
 				"zh":"《失落之島》新生物"
+				"vi":"Mới với Lost Island"
 			},
 			"o":26,
 			"p":2
 		},
 		"49":{
 			"n":"New To Fjordur",
+			"nt":{
+				"vi":"Mới với Fjordur"
+			}
 			"o":27,
 			"p":2
 		},
@@ -503,7 +514,7 @@
 				"nl":"Temmen door bewusteloosheid",
 				"pt":"Domável Inconsciente",
 				"ar":"ترويض عبر التخدير",
-				"vi":"Thuần Hóa Bắng Gục"
+				"vi":"Thuần Hóa Bắng Bắn Gục"
 			},
 			"o":52,
 			"p":5
