@@ -252,7 +252,7 @@
 				"zh":"《水晶島》新生物",
 				"ru":"Новые: Crystal Isles",
 				"de":"Neu auf Crystal Isles",
-				"ar":"جديد لكرستل ايلز(الجزر الكرستاليه)"
+				"ar":"جديد لكرستل ايلز(الجزر الكرستاليه)",
 				"vi":"Mới với Crystal Isles"
 			},
 			"o":24,
@@ -262,7 +262,7 @@
 		"46":{
 			"n":"New To Genesis Part 2",
 			"nt":{
-				"zh":"《創世紀第二部份》新生物"
+				"zh":"《創世紀第二部份》新生物",
 				"vi":"Mới với Genesis Part 2"
 			},
 			"o":25,
@@ -271,7 +271,7 @@
 		"48":{
 			"n":"New To Lost Island",
 			"nt":{
-				"zh":"《失落之島》新生物"
+				"zh":"《失落之島》新生物",
 				"vi":"Mới với Lost Island"
 			},
 			"o":26,
@@ -281,7 +281,7 @@
 			"n":"New To Fjordur",
 			"nt":{
 				"vi":"Mới với Fjordur"
-			}
+			},
 			"o":27,
 			"p":2
 		},
