@@ -30,9 +30,8 @@ view, ignore, save, update: Interface buttons. ("View timer", "Ignore this notif
 xToFill: "[x] narcotics are needed to fill this dinosaur's torpor."
 xUsed: "[x] narcotics have been used."
 */
-
 var translations = {
-	en: {
+	vi: {
 		aboutStarveIntro: "\"Starve Taming\" is a technique some survivors use to minimize risk of losing resources while taming a creature.",
 		wastedPoints: "\"Wasted\" Points",
 		statCalcNote: "Wild creatures are given a stat point for each level. Each of these points are assigned to a random stat. Since Movement Speed is never upgraded in the wild, any points assigned to it will be \"wasted\" and discarded. For swimming creatures, Oxygen is not applicable, so these stats will also be discarded.",
