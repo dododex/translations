@@ -45,7 +45,6 @@ var translations = {
 		adjustMultipliers: "Adjust multipliers for unofficial server settings. (Keep multipliers at 1 for official servers.)",
 		adolescent: "Adolescent",
 		adult: "Adult",
-		adult:"sadasd",
 		advanced: "Advanced",
 		affectedBy: "Affected by",
 		alsoImpactsGestationSpeed: "Also impacts gestation speed",
