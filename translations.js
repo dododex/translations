@@ -9852,7 +9852,7 @@ var translations = {
 		secondary: "İkincil",
 		settings: "Ayarlar",
 		settingsMultipliers: "Ayarlar / Çarpanlar",
-			serverMultipliers: Sunucu Çarpanları,
+		serverMultipliers: Sunucu Çarpanları,
 		shell: "Kabuk",
 		showFullDetails: "Tüm Detayları Göster",
 		errorLoading: "Üzgünüz, Dododex yaratık verileri yüklenirken sorun oluştu. Lütfen ağ bağlantınızı kontrol edin veya birkaç dakika içinde tekrar deneyin.",
@@ -12072,6 +12072,9 @@ var translations = {
 			},{
 				name:"emovouc",
 				link:"https://twitter.com/cnemirhn"
+			},{
+				name:"Night_Civciv",
+				link:"https://steamcommunity.com/profiles/76561199168311862/"
 			}]
 		},
 		uk:{
