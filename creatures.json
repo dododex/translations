@@ -260,7 +260,7 @@
 	},
 	"beylaspawn":{
 		"name_t":{
-
+			"ru":"Порождение Бейлы"
 		}
 	},
 	"bladewasp":{
@@ -858,7 +858,7 @@
 	},
 	"fasolasuchus":{
 		"name_t":{
-
+			"ru":"Фасолазух"
 		}
 	},
 	"featherlight":{
@@ -1993,7 +1993,7 @@
 	},
 	"rhyniognatha":{
 		"name_t":{
-
+			"ru":"Риниогната"
 		}
 	},
 	"rockdrake":{
