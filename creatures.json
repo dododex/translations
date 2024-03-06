@@ -1012,6 +1012,21 @@
 			"zh":"巨猿"
 		}
 	},
+	"gigantoraptor":{
+		"name_t":{
+			"ar":"փետուրավոր",
+			"el":"Gigantoraptor",
+			"fi":"Gigantoraptor",
+			"fr":"Gigantoraptor",
+			"he":"ג'יגנטורפטור",
+			"it":"Gigantoraptor",
+			"ja":"ギガントラプトル",
+			"ko":"기간토랩터",
+			"pt-br":"Gigantoraptor",
+			"ru":"Гигантораптор",
+			"zh":"巨盗龙"
+		}
+	},
 	"glowbug":{
 		"name_t":{
 			"cs":"Světluška",
