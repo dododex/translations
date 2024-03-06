@@ -13,6 +13,7 @@
 				"ko":"모든",
 				"pl":"Wszystko",
 				"pt":"Tudo",
+				"pt-br":"Todos",
 				"zh":"全部",
 				"ru":"Все",
 				"ro":"Toate",
@@ -299,6 +300,7 @@
 				"zh-tw":"陸生",
 				"nl":"Aards",
 				"pt":"Terrestre",
+				"pt-br":"Terrestre",
 				"ar":"أنسان",
 				"vi":"Trên cạn"
 			},
@@ -319,6 +321,7 @@
 				"zh-tw":"飛行",
 				"nl":"Vliegend",
 				"pt":"Aéreo",
+				"pt-br":"Aéreo",
 				"ar":"جوي",
 				"vi":"Trên không"
 			},
@@ -338,6 +341,7 @@
 				"zh":"水生",
 				"nl":"Aquatisch",
 				"pt":"Aquático",
+				"pt-br":"Aquático",
 				"ar":"مائي",
 				"vi":"Dưới nước"
 			},
@@ -358,6 +362,7 @@
 				"zh-tw":"可騎乘",
 				"nl":"Rijdbaar",
 				"pt":"Montável",
+				"pt-br":"Montável",
 				"ar":"قابل للركب",
 				"vi":"Cưỡi được"
 			},
@@ -377,6 +382,7 @@
 				"zh":"工具鞍",
 				"nl":"Bruikbaar Zadel",
 				"pt":"Sela Utilitária",
+				"pt-br":"Sela Utilitária",
 				"ar":"سرج مفيد",
 				"vi":"Yên đa năng"
 			},
@@ -396,6 +402,7 @@
 				"zh":"平台鞍",
 				"nl":"Platform Zadel",
 				"pt":"Sela Plataforma",
+				"pt-br":"Sela Plataforma",
 				"ar":"منصة السرج",
 				"vi":"Yên Platform"
 			},
@@ -415,6 +422,7 @@
 				"zh":"多座位",
 				"nl":"Meerdere-Passagiers",
 				"pt":"Multi-Passageiros",
+				"pt-br":"Multi-Passageiros",
 				"ar":"متعدد الركاب",
 				"vi":"Nhiều ngưỡi cưỡi"
 			},
@@ -434,6 +442,7 @@
 				"zh":"泰克鞍",
 				"nl":"Tek Zadel",
 				"pt":"Sela Tecnológica",
+				"pt-br":"Sela Tecnológica",
 				"ar":"سرج تيك",
 				"vi":"Yên Tek"
 			},
@@ -453,6 +462,7 @@
 				"zh":"可拾起",
 				"nl":"Schouder Metgezel",
 				"pt":"Montar nos Ombros",
+				"pt-br":"Montar nos Ombros",
 				"ar":"يوضع على الكتف",
 				"vi":"Để lên vai"
 			},
@@ -473,6 +483,7 @@
 				"zh-tw":"可馴服",
 				"nl":"Tembaar",
 				"pt":"Domesticável",
+				"pt-br":"Domesticável",
 				"ar":"قابل للترويض",
 				"vi":"Có thể thuần hóa"
 			},
@@ -493,6 +504,7 @@
 				"zh-tw":"不可馴服",
 				"nl":"Niet Tembaar",
 				"pt":"Não Domesticável",
+				"pt-br":"Não Domesticável",
 				"ar":"غير قابل للترويض",
 				"vi":"Không thể thuần hóa"
 			},
@@ -513,6 +525,7 @@
 				"zh-tw":"麻醉馴服",
 				"nl":"Temmen door bewusteloosheid",
 				"pt":"Domável Inconsciente",
+				"pt-br":"Domável Inconsciente",
 				"ar":"ترويض عبر التخدير",
 				"vi":"Thuần Hóa Bắng Bắn Gục"
 			},
@@ -533,6 +546,7 @@
 				"zh-tw":"和平馴服",
 				"nl":"Passief temmen",
 				"pt":"Domesticação passiva",
+				"pt-br":"Domesticação passiva",
 				"ar":"ترويض سلمي",
 				"vi":"Thuần Hóa Đút Thức Ăn"
 			},
@@ -560,6 +574,7 @@
 				"nb": "Rask & Enkel Temming",
 				"nl": "Snel & Makkelijk te temmen",
 				"pl": "Szybkie i proste oswojenie",
+				"pt": "Domesticação rápida e tranquila",
 				"pt-br": "Domesticação rápida e tranquila",
 				"ro": "Îmblânzire rapidă și ușoară",
 				"ru": "Быстрое и лёгкое приручение",
@@ -585,6 +600,7 @@
 				"zh":"肉食性",
 				"nl":"Carnivoren",
 				"pt":"Carnívoros",
+				"pt-br":"Carnívoros",
 				"ar":"آكلي اللحوم",
 				"vi":"Ăn thịt"
 			},
@@ -604,6 +620,7 @@
 				"zh":"草食性",
 				"nl":"Herbivoren",
 				"pt":"Herbívoros",
+				"pt-br":"Herbívoros",
 				"ar":"آكلي ألاعشاب",
 				"vi":"Ăn cỏ"
 			},
@@ -624,6 +641,7 @@
 				"zh-tw":"雜食性",
 				"nl":"Omnivoren",
 				"pt":"Onívoros",
+				"pt-br":"Onívoros",
 				"ar":"حيوانا اكلة النبات واللحوم",
 				"vi":"Ăn tạp"
 			},
@@ -644,6 +662,7 @@
 				"zh-tw":"魚食性",
 				"nl":"Viseters",
 				"pt":"Piscívoros",
+				"pt-br":"Piscívoros",
 				"ar":"حشرات",
 				"vi":"Ăn cá"
 			},
@@ -664,6 +683,7 @@
 				"zh-tw":"戰鬥生物",
 				"nl":"Gevechts schepsels",
 				"pt":"Criaturas de Combate",
+				"pt-br":"Criaturas de Combate",
 				"ar":"مخلوقات المعركة",
 				"vi":"Sinh Vật Chiến Đấu"
 			},
@@ -684,6 +704,7 @@
 				"zh-tw":"資源採集",
 				"nl":"Verzamelaars",
 				"pt":"Colhedores",
+				"pt-br":"Colhedores",
 				"ar":"مخلوقات جمع الموارد",
 				"vi":"Sinh Vật Thu Hoạch"
 			},
@@ -704,6 +725,7 @@
 				"zh-tw":"高負重",
 				"nl":"Werk Ezel",
 				"pt":"Transportadores",
+				"pt-br":"Transportadores",
 				"ar":"حيوانات مجموعه",
 				"vi":"Di chuyển tốt"
 			},
@@ -724,6 +746,7 @@
 				"zh-tw":"高機動性",
 				"nl":"Snelle schepsels",
 				"pt":"Criaturas Rápidas",
+				"pt-br":"Criaturas Rápidas",
 				"ar":"مخلوقات سريعه",
 				"vi":"Sinh Vật Nhanh"
 			},
@@ -743,6 +766,7 @@
 				"zh":"可繁殖",
 				"nl":"Broedbaar",
 				"pt":"Reproduzíveis",
+				"pt-br":"Reproduzíveis",
 				"ar":"قابل للتكاثر",
 				"vi":"Có thể phối giống"
 			},
@@ -763,6 +787,7 @@
 				"zh-tw":"前期開荒",
 				"nl":"Begin spel",
 				"pt":"Começo de Jogo",
+				"pt-br":"Começo de Jogo",
 				"ar":"بداية اللعبة",
 				"vi":"Đầu Game"
 			},
@@ -783,6 +808,7 @@
 				"zh-tw":"中期發展",
 				"nl":"Midden spel",
 				"pt":"Meio de Jogo",
+				"pt-br":"Meio de Jogo",
 				"ar":"منتصف اللعبة",
 				"vi":"Giữa Game"
 			},
@@ -803,6 +829,7 @@
 				"zh-tw":"後期生存",
 				"nl":"Eind spel",
 				"pt":"Fim de Jogo",
+				"pt-br":"Fim de Jogo",
 				"ar":"نهاية اللعبة",
 				"vi":"Cuối Game"
 			},
@@ -822,6 +849,7 @@
 				"zh":"Boss",
 				"nl":"Bazen",
 				"pt":"Chefes",
+				"pt-br":"Chefes",
 				"ar":"الزعماء",
 				"vi":"Boss"
 			},
@@ -901,6 +929,7 @@
 				"zh-tw":"地圖",
 				"nl":"Kaart",
 				"pt":"Mapa",
+				"pt-br":"Mapa",
 				"ar":"خريطه",
 				"vi":"Bản đồ"
 			}
@@ -919,6 +948,7 @@
 				"zh-tw":"擴展資料片限定",
 				"nl":"Alleen vekrijgbaar met uibreidings paket",
 				"pt":"Pacore de expansão exclusivo",
+				"pt-br":"Pacore de expansão exclusivo",
 				"ar":"حزمه الاضافه حصريه",
 				"vi":"Chỉ xuất hiện ở các DLC"
 			}
@@ -952,6 +982,7 @@
 				"zh-tw":"騎乘性",
 				"nl":"Rijdbaarheid",
 				"pt":"Guiabiliade",
+				"pt-br":"Capacidade de guiar",
 				"ar":"قابلية التخيل",
 				"vi":"Có thể cưỡi"
 			}
@@ -968,6 +999,7 @@
 				"ko":"조련",
 				"pl":"Oswajanie",
 				"pt":"Domando",
+				"pt-br":"Domando",
 				"zh":"驯服性",
 				"zh-tw":"馴服性",
 				"ru":"Приручение",
@@ -991,6 +1023,7 @@
 				"zh-tw":"飲食性",
 				"nl":"Dieët",
 				"pt":"Dieta",
+				"pt-br":"Dieta",
 				"ar":"التغذية",
 				"vi":"Thức ăn"
 			}
@@ -1008,6 +1041,7 @@
 				"ko":"활용",
 				"pl":"Umiejętność Ostateczna",
 				"pt":"Utilitário",
+				"pt-br":"Utilitário",
 				"zh":"实用性",
 				"zh-tw":"實用性",
 				"ru":"Полезность",
@@ -1032,6 +1066,7 @@
 				"ko":"추가정보",
 				"pl":"Więcej",
 				"pt":"Mais",
+				"pt-br":"Mais",
 				"zh":"更多",
 				"ru":"Больше",
 				"ro":"Mai mult",
