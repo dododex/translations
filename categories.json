@@ -14,6 +14,7 @@
 				"pl":"Wszystko",
 				"pt":"Tudo",
 				"zh":"全部",
+				"zh-tw":"全部",
 				"ru":"Все",
 				"ro":"Toate",
 				"th":"ทั้งหมด",
@@ -34,6 +35,7 @@
 				"ja":"最新",
 				"ru":"Новые",
 				"zh":"新生物",
+				"zh-tw":"新生物",
 				"fr":"Nouveau",
 				"nl":"Nieuw",
 				"pt":"Novo",
@@ -69,7 +71,7 @@
 				"th":"เป็นที่นิยม",
 				"tr":"Popüler",
 				"zh":"受欢迎的",
-				"zh-tw":"受歡迎的",
+				"zh-tw":"熱門",
 				"vi":"Phổ Biến"
 			}
 		},
@@ -99,6 +101,7 @@
 			"n":"Scorched Earth",
 			"nt":{
 				"zh":"焦土",
+				"zh-tw":"焦土",
 				"ar":"الارض المحترقه"
 			},
 			"o":7,
@@ -109,6 +112,7 @@
 			"n":"Ragnarok",
 			"nt":{
 				"zh":"仙境",
+				"zh-tw":"仙境",
 				"ar":"راجناروك"
 			},
 			"o":8,
@@ -143,7 +147,7 @@
 			"nt":{
 				"zh":"创世纪第一部",
 				"ar":"جينيسس(المنشأ)",
-				"zh-tw":"創世紀第一部份"
+				"zh-tw":"創世紀第一部"
 			},
 			"o":11,
 			"p":1,
@@ -163,7 +167,8 @@
 		"45":{
 			"n":"Genesis Part 2",
 			"nt":{
-				"zh":"創世紀第二部分"
+				"zh":"創世紀第二部分",
+				"zh-tw":"創世紀第二部"
 			},
 			"o":13,
 			"p":1,
@@ -172,7 +177,8 @@
 		"47":{
 			"n":"Lost Island",
 			"nt":{
-				"zh":"失落之島"
+				"zh":"失落之島",
+				"zh-tw":"失落之島"
 			},
 			"o":14,
 			"p":1,
@@ -180,6 +186,9 @@
 		},	
 		"50":{
 			"n":"Fjordur",
+			"nt":{
+				"zh-tw":"維京"
+			},
 			"o":15,
 			"p":1,
 			"s":"User:Danlev"
@@ -190,6 +199,7 @@
 				"fr":"Nouveau sur Scorched Earth",
 				"ja":"Scorched Earth 追加恐竜",
 				"zh":"《焦土》新生物",
+				"zh-tw":"《焦土》新生物",
 				"ru":"Новые: Scorched Earth",
 				"de":"Neu auf Scorched Earth",
 				"ar":"جديد للارض المحترقه",
@@ -205,6 +215,7 @@
 				"fr":"Nouveau sur Aberration",
 				"ja":"Aberration 追加恐竜",
 				"zh":"《畸變》新生物",
+				"zh-tw":"《畸變》新生物",
 				"ru":"Новые: Aberration",
 				"de":"Neu auf Aberration",
 				"ar":"(جديد لابيريشن (الانحراف",
@@ -220,6 +231,7 @@
 				"fr":"Nouveau sur Extinction",
 				"ja":"Extinction 追加恐竜",
 				"zh":"《滅絕》新生物",
+				"zh-tw":"《滅絕》新生物",
 				"ru":"Новые: Extinction",
 				"de":"Neu auf Extinction",
 				"ar":"جديد لاكستنشن(الانقراض)",
@@ -235,6 +247,7 @@
 				"fr":"Nouveau sur Genesis",
 				"ja":"Genesis 追加恐竜",
 				"zh":"《創世紀》新生物",
+				"zh-tw":"《創世紀第一部》新生物",
 				"ru":"Новые: Genesis",
 				"de":"Neu auf Genesis",
 				"ar":"جديد لجينيسس (المنشأ)",
@@ -250,6 +263,7 @@
 				"fr":"Nouveau sur Crystal Isles",
 				"ja":"Crystal Isles 追加恐竜",
 				"zh":"《水晶島》新生物",
+				"zh-tw":"《水晶島》新生物",
 				"ru":"Новые: Crystal Isles",
 				"de":"Neu auf Crystal Isles",
 				"ar":"جديد لكرستل ايلز(الجزر الكرستاليه)",
@@ -263,6 +277,7 @@
 			"n":"New To Genesis Part 2",
 			"nt":{
 				"zh":"《創世紀第二部份》新生物",
+				"zh-tw":"《創世紀第二部》新生物",
 				"vi":"Mới với Genesis Part 2"
 			},
 			"o":25,
@@ -272,6 +287,7 @@
 			"n":"New To Lost Island",
 			"nt":{
 				"zh":"《失落之島》新生物",
+				"zh-tw":"《失落之島》新生物",
 				"vi":"Mới với Lost Island"
 			},
 			"o":26,
@@ -280,7 +296,8 @@
 		"49":{
 			"n":"New To Fjordur",
 			"nt":{
-				"vi":"Mới với Fjordur"
+				"vi":"Mới với Fjordur",
+				"zh-tw":"《維京》新生物"
 			},
 			"o":27,
 			"p":2
@@ -336,6 +353,7 @@
 				"ja":"水中恐竜",
 				"ru":"Водные",
 				"zh":"水生",
+				"zh-tw":"水生",
 				"nl":"Aquatisch",
 				"pt":"Aquático",
 				"ar":"مائي",
@@ -375,6 +393,7 @@
 				"ja":"作業台サドル",
 				"ru":"Обычное седло",
 				"zh":"工具鞍",
+				"zh-tw":"功能型鞍",
 				"nl":"Bruikbaar Zadel",
 				"pt":"Sela Utilitária",
 				"ar":"سرج مفيد",
@@ -394,6 +413,7 @@
 				"ja":"プラットフォームサドル",
 				"ru":"Седло-платформа",
 				"zh":"平台鞍",
+				"zh-tw":"平台鞍",
 				"nl":"Platform Zadel",
 				"pt":"Sela Plataforma",
 				"ar":"منصة السرج",
@@ -413,6 +433,7 @@
 				"ja":"複数人乗り",
 				"ru":"Многоместные",
 				"zh":"多座位",
+				"zh-tw":"多人座",
 				"nl":"Meerdere-Passagiers",
 				"pt":"Multi-Passageiros",
 				"ar":"متعدد الركاب",
@@ -432,6 +453,7 @@
 				"ja":"Tekサドル",
 				"ru":"Тек-седло",
 				"zh":"泰克鞍",
+				"zh-tw":"泰克鞍",
 				"nl":"Tek Zadel",
 				"pt":"Sela Tecnológica",
 				"ar":"سرج تيك",
@@ -451,6 +473,7 @@
 				"ja":"肩乗り生物",
 				"ru":"Сидят на плече",
 				"zh":"可拾起",
+				"zh-tw":"肩寵",
 				"nl":"Schouder Metgezel",
 				"pt":"Montar nos Ombros",
 				"ar":"يوضع على الكتف",
@@ -510,7 +533,7 @@
 				"ja":"昏睡テイム",
 				"ru":"Приручение оглушением",
 				"zh":"麻醉驯服",
-				"zh-tw":"麻醉馴服",
+				"zh-tw":"擊暈馴服",
 				"nl":"Temmen door bewusteloosheid",
 				"pt":"Domável Inconsciente",
 				"ar":"ترويض عبر التخدير",
@@ -567,7 +590,7 @@
 				"tr": "Hızlı ve Kolay Evcilleştirme",
 				"vi": "Thuần hóa Nhanh, gọn, lẹ",
 				"zh": "快速/简易驯服",
-				"zh-tw": "快速簡易馴化"
+				"zh-tw": "快速簡易馴服"
 			},
 			"o":54,
 			"p":5
@@ -583,6 +606,7 @@
 				"ja":"肉食恐竜",
 				"ru":"Плотоядные",
 				"zh":"肉食性",
+				"zh-tw":"肉食性",
 				"nl":"Carnivoren",
 				"pt":"Carnívoros",
 				"ar":"آكلي اللحوم",
@@ -602,6 +626,7 @@
 				"ja":"草食恐竜",
 				"ru":"Травоядные",
 				"zh":"草食性",
+				"zh-tw":"草食性",
 				"nl":"Herbivoren",
 				"pt":"Herbívoros",
 				"ar":"آكلي ألاعشاب",
@@ -741,6 +766,7 @@
 				"ja":"ブリーディング可能",
 				"ru":"Разводимые существа",
 				"zh":"可繁殖",
+				"zh-tw":"可繁殖",
 				"nl":"Broedbaar",
 				"pt":"Reproduzíveis",
 				"ar":"قابل للتكاثر",
@@ -830,7 +856,9 @@
 		},
 		"36":{
 			"n":"ARK Mobile",
-			"nt":{},
+			"nt":{
+				"zh-tw":"ARK 手遊"
+			},
 			"o":85,
 			"p":8
 		},
@@ -880,7 +908,7 @@
 				"tr":"Silah kullanırken binilebilir",
 				"vi":"Có thể cưỡi trong khi cầm vũ khí",
 				"zh":"骑乘时挥舞武器",
-				"zh-tw":"騎乘時揮舞武器"
+				"zh-tw":"騎乘時可使用武器"
 			},
 			"o":41,
 			"p":4
@@ -949,7 +977,7 @@
 				"fr":"Maniement",
 				"ru":"Управляемость",
 				"zh":"骑乘性",
-				"zh-tw":"騎乘性",
+				"zh-tw":"騎乘特性",
 				"nl":"Rijdbaarheid",
 				"pt":"Guiabiliade",
 				"ar":"قابلية التخيل",
@@ -969,7 +997,7 @@
 				"pl":"Oswajanie",
 				"pt":"Domando",
 				"zh":"驯服性",
-				"zh-tw":"馴服性",
+				"zh-tw":"馴服特性",
 				"ru":"Приручение",
 				"ro":"Îmblânzire",
 				"th":"การจับ",
@@ -988,7 +1016,7 @@
 				"es":"Dieta",
 				"ru":"Рацион",
 				"zh":"饮食性",
-				"zh-tw":"飲食性",
+				"zh-tw":"飲食特性",
 				"nl":"Dieët",
 				"pt":"Dieta",
 				"ar":"التغذية",
@@ -1009,7 +1037,7 @@
 				"pl":"Umiejętność Ostateczna",
 				"pt":"Utilitário",
 				"zh":"实用性",
-				"zh-tw":"實用性",
+				"zh-tw":"功能特性",
 				"ru":"Полезность",
 				"ro":"Utilitate",
 				"th":"สิ่งที่มีประโยชน์",
@@ -1033,6 +1061,7 @@
 				"pl":"Więcej",
 				"pt":"Mais",
 				"zh":"更多",
+				"zh-tw":"其他",
 				"ru":"Больше",
 				"ro":"Mai mult",
 				"th":"เพิ่มเติม",
