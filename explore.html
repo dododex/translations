@@ -12,8 +12,8 @@
           var key = document.getElementById("key").value;
           var translations = document.getElementById("translations");
           translations.innerHTML = `<tr>
-            <td width="10%" class="bold light cap right smaller uppercase">Language</th>
-            <td width="90%" class="bold light cap left smaller uppercase">Translation</th>
+            <td width="18%" class="bold light cap right smaller uppercase">Language</th>
+            <td width="82%" class="bold light cap left smaller uppercase">Translation</th>
           </tr>`;
           for (var lang in window.translations) {
             if (window.translations.hasOwnProperty(lang)) {
@@ -24,8 +24,30 @@
           }
         }
 
+        function lookUpLanguage() {
+          var language = document.getElementById("language").value;
+          var languageTable = document.getElementById("languageTranslations");
+          languageTable.innerHTML = `<tr>
+            <td width="18%" class="bold light cap right smaller uppercase">Translation Key</td>
+            <td width="41%" class="bold light cap left smaller uppercase">English</td>
+            <td width="41%" class="bold light cap left smaller uppercase">${language}</td>
+          </tr>`;
+          for (var key in window.translations.en) {
+            if (window.translations.en.hasOwnProperty(key)) {
+              var englishText = window.translations.en[key];
+              var translatedText = window.translations[language] && window.translations[language][key] ? window.translations[language][key] : '<span class="neg">MISSING</span>';
+              var row = document.createElement("tr");
+              row.innerHTML = `<td class="light right">${key}</td><td>${englishText}</td><td>${translatedText}</td>`;
+              languageTable.appendChild(row);
+            }
+          }
+        }
+
         var keyInput = document.getElementById("key");
         keyInput.addEventListener("input", translate);
+
+        var languageInput = document.getElementById("language");
+        languageInput.addEventListener("change", lookUpLanguage);
 
         // Count total number of translations
         var totalLanguages = Object.keys(window.translations).length;
@@ -47,6 +69,9 @@
             <tr style="${percentage >= 100 && "color:#BF7 !important"}">
               <td class="right">
                   <span class="light">${lang}</span>
+              </td>
+              <td class="right">
+                  ${languages[lang].name}
               </td>
               <td class="right">
                   ${percentage}%
@@ -115,7 +140,7 @@
           numIssues++;
 
           // Generate the HTML list for this language
-          var html = "<tr><td>" + lang + "</td><td>";
+          var html = "<tr><td>" + languages[lang].name + " (" + lang + ")</td><td>";
           if (missingKeys.length > 0) {
             html += "<ol class=\"small normallist\">";
             missingKeys.forEach(function(key) {
@@ -158,27 +183,51 @@
     </script>
   </head>
   <body>
-    <div class="wrap marginBottom2" style="max-width:700px;">
-      <a class="button marginTop" href="./">&larr; Back to GitHub</a>
-      <h1>Dododex Translation Browser</h1>
+    <header id="dodoheader">
+      <div class="wrap">
+        <div><a class="button marginTop" href="./">&larr; Back to GitHub</a></div>
+        <h1 class="center">Dododex Translation Browser</h1>
+      </div>
+    </header>
+    <div class="wrap marginBottom2">
+
+      <h2 class="marginTop2">Look Up a Language</h2>
+      <select id="language" class="whiteinput">
+        <option value="">Select a language</option>
+        <script>
+          for (var lang in window.translations) {
+            if (window.translations.hasOwnProperty(lang)) {
+              document.write('<option value="' + lang + '">' + languages[lang].name + ' (' + lang + ')</option>');
+            }
+          }
+        </script>
+      </select>
+      <table class="btable marginTop" width="100%" id="languageTranslations"></table>
+
+
+      <h2 class="marginTop2">Look Up a Phrase</h2>
       <input class="whiteinput" type="text" id="key" name="key" list="key-list" onchange="translate()" size="30" placeholder="Enter a key" /> 
 
      
       <table class="btable marginTop" width="100%" id="translations">
       </table>
 
-      <h2>Progress</h2>
-      <div id="stats"></div>
 
-      <table class="btable marginTop" width="100%">
-        <tr>
-          <td width="10%" class="bold light cap right smaller uppercase">Language</td>
-          <td width="10%" class="bold light cap right smaller uppercase">%</td>
-          <td width="10%" class="bold light cap right smaller uppercase">Keys</td>
-          <td width="60%" class="bold light cap left smaller uppercase">Progress</td>
-        </tr>
-        <tbody id="langList"></tbody>
-      </table>
+      <div class="lightbox marginTop2">
+        <h2 class="marginTop0">Progress</h2>
+        <div id="stats"></div>
+
+        <table class="btable marginTop" width="100%">
+          <tr>
+            <td width="10%" class="bold light cap right smaller uppercase">Language</td>
+            <td width="10%" class="bold light cap right smaller uppercase">Name</td>
+            <td width="10%" class="bold light cap right smaller uppercase">%</td>
+            <td width="10%" class="bold light cap right smaller uppercase">Keys</td>
+            <td width="60%" class="bold light cap left smaller uppercase">Progress</td>
+          </tr>
+          <tbody id="langList"></tbody>
+        </table>
+      </div>
 
       <div id="misMatchedHolder">
         <h3 class="neg">Mismatched Keys</h3>
