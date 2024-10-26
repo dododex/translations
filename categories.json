@@ -445,7 +445,7 @@
 				"pt":"Multi-Passageiros",
 				"pt-br":"Multi-Passageiros",
 				"ar":"متعدد الركاب",
-				"vi":"Nhiều ngưỡi cưỡi"
+				"vi":"Nhiều người cưỡi"
 			},
 			"o":44,
 			"p":4
@@ -550,7 +550,7 @@
 				"pt":"Domável Inconsciente",
 				"pt-br":"Domável Inconsciente",
 				"ar":"ترويض عبر التخدير",
-				"vi":"Thuần Hóa Bắng Bắn Gục"
+				"vi":"Thuần hóa Bắn Gục"
 			},
 			"o":52,
 			"p":5
@@ -571,7 +571,7 @@
 				"pt":"Domesticação passiva",
 				"pt-br":"Domesticação passiva",
 				"ar":"ترويض سلمي",
-				"vi":"Thuần Hóa Đút Thức Ăn"
+				"vi":"Thuần hóa Đút thức ăn"
 			},
 			"o":53,
 			"p":5
@@ -710,7 +710,7 @@
 				"pt":"Criaturas de Combate",
 				"pt-br":"Criaturas de Combate",
 				"ar":"مخلوقات المعركة",
-				"vi":"Sinh Vật Chiến Đấu"
+				"vi":"Sinh vật Chiến đấu"
 			},
 			"o":70,
 			"p":7
@@ -731,7 +731,7 @@
 				"pt":"Colhedores",
 				"pt-br":"Colhedores",
 				"ar":"مخلوقات جمع الموارد",
-				"vi":"Sinh Vật Thu Hoạch"
+				"vi":"Sinh vật Thu hoạch"
 			},
 			"o":71,
 			"p":7
@@ -752,7 +752,7 @@
 				"pt":"Transportadores",
 				"pt-br":"Transportadores",
 				"ar":"حيوانات مجموعه",
-				"vi":"Di chuyển tốt"
+				"vi":"Sinh vật Vận tải"
 			},
 			"o":72,
 			"p":7
@@ -773,7 +773,7 @@
 				"pt":"Criaturas Rápidas",
 				"pt-br":"Criaturas Rápidas",
 				"ar":"مخلوقات سريعه",
-				"vi":"Sinh Vật Nhanh"
+				"vi": "Sinh vật Nhanh"
 			},
 			"o":73,
 			"p":7
@@ -978,7 +978,7 @@
 				"pt":"Pacore de expansão exclusivo",
 				"pt-br":"Pacore de expansão exclusivo",
 				"ar":"حزمه الاضافه حصريه",
-				"vi":"Chỉ xuất hiện ở các DLC"
+				"vi":"Chỉ xuất hiện trong map DLC"
 			}
 		},
 		"3":{
@@ -1036,7 +1036,7 @@
 				"tr":"Evcilleştirme",
 				"nl":"Temmen",
 				"ar":"ترويض",
-				"vi":"Thuần Hóa"
+				"vi":"Thuần hóa"
 			}
 		},
 		"6":{
