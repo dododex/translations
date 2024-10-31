@@ -307,6 +307,7 @@ var translations = {
 		fitsThrough: "Fits Through",
 		bossArenas: "Boss Arenas",
 		recipes: "Recipes",
+		favorite: "Favorite",
 		favorites: "Favorites",
 		noFavs: "Add items to your favorites and you'll find them here!",
 		saddles: "Saddles",
@@ -464,7 +465,8 @@ var translations = {
 		addFavs: "Added to favorites",
 		removeFavs: "Removed from favorites",
 		addRC: "Added to resource calculator",
-		removeRC: "Removed from resource calculator"
+		removeRC: "Removed from resource calculator",
+        wantToTame: "Want To Tame"
 	},
 	ar: {
 		aboutStarveIntro: "\ الترويض بالتجويع\" طريقة يستخدمها بعض اللاعبون لتقليل خطر فقدان الموارد خلال ترويض المخلوق.",
@@ -741,6 +743,7 @@ var translations = {
 		fitsThrough: "يدخل عبر",
 		bossArenas: "ساحات الزعماء",
 		recipes: "وصفات",
+		favorite: "مفضل",
 		favorites: "المفضلة",
 		noFavs: "أضف العناصر إلى المفضلة وستجدها هنا!",
 		saddles: "السروج",
@@ -898,7 +901,8 @@ var translations = {
 	    addFavs: "تمت الإضافة إلى المفضلة",
 	    removeFavs: "تمت الإزالة من المفضلة",
 	    addRC: "تمت الإضافة إلى حاسبة الموارد",
-	    removeRC: "تمت الإزالة من حاسبة الموارد"
+	    removeRC: "تمت الإزالة من حاسبة الموارد",
+	       wantToTame: "أريد ترويضه"
 	},
 	cs: {
 		aboutStarveIntro: "\"Starve Taming\" je technika, kterou někteří přeživší používají k minimalizaci rizika ztráty zdrojů při ochočování stvoření.",
@@ -1175,6 +1179,7 @@ var translations = {
 		fitsThrough: "Projde skrz",
 		bossArenas: "Boss Arény",
 		recipes: "Recepty",
+		favorite: "Oblíbené",
 		favorites: "Oblíbené",
 		noFavs: "Přidej položky do oblíbených a najdeš je všechny zde!",
 		saddles: "Sedla",
@@ -1338,7 +1343,8 @@ var translations = {
 	    addFavs: "Přidáno do oblíbených",
 	    removeFavs: "Odstraněno z oblíbených",
 	    addRC: "Přidáno do kalkulačky zdrojů",
-	    removeRC: "Odstraněno z kalkulačky zdrojů"
+	    removeRC: "Odstraněno z kalkulačky zdrojů",
+	       wantToTame: "Chci ochočit"
 	},
 	da: {
 		aboutStarveIntro: "\"Tæmning ved udsultning\" er en teknik, som nogle overlevende anvender for at minimere risikoen for at minimere risikoen for tab af ressourcer under tæmning.",
@@ -1615,6 +1621,7 @@ var translations = {
 		fitsThrough: "Passer Gennem",
 		bossArenas: "Boss Arenaer",
 		recipes: "Opskrifter",
+		favorite: "Favorit",
 		favorites: "Favoritter",
 		noFavs: "Tilføj objekter til favoritter, og du kan finde dem her!",
 		saddles: "Sadler",
@@ -1772,7 +1779,8 @@ var translations = {
 	    addFavs: "Tilføjet til favoritter",
 	    removeFavs: "Fjernet fra favoritter",
 	    addRC: "Tilføjet til ressourceberegner",
-	    removeRC: "Fjernet fra ressourceberegner"
+	    removeRC: "Fjernet fra ressourceberegner",
+	       wantToTame: "Vil tæmme"
 	},
 	de: {
 		aboutStarveIntro: "\"Zähmen durch Aushungern\" ist eine Technik, die manche Überlebende benutzen, um das Risiko eines Ressourcenverlusts während des Zähmens zu minimieren.",
@@ -2049,6 +2057,7 @@ var translations = {
 		fitsThrough: "Passt durch",
 		bossArenas: "Boss Arenen",
 		recipes: "Rezepte",
+		favorite: "Favorit",
 		favorites: "Favoriten",
 		noFavs: "Füge Gegenstände zu deinen Favoriten hinzu und du wirst sie hier finden!",
 		saddles: "Sättel",
@@ -2206,7 +2215,8 @@ var translations = {
 	    addFavs: "Zu Favoriten hinzugefügt",
 	    removeFavs: "Von Favoriten entfernt",
 	    addRC: "Zum Ressourcenrechner hinzugefügt",
-	    removeRC: "Aus dem Ressourcenrechner entfernt"
+	    removeRC: "Aus dem Ressourcenrechner entfernt",
+	       wantToTame: "Will zähmen"
 	},
 	es: {
 		aboutStarveIntro: "La \"doma por hambre\" es una técnica usada por algunos supervivientes para minimizar el riesgo de perder recursos durante la doma de una criatura.",
@@ -2483,6 +2493,7 @@ var translations = {
 		fitsThrough: "Pasa por",
 		bossArenas: "Arenas de Jefe",
 		recipes: "Recetas",
+		favorite: "Favorito",
 		favorites: "Favoritos",
 		noFavs: "¡Agrega items a tus favoritos y los encontrarás aquí!",
 		saddles: "Monturas",
@@ -2640,7 +2651,8 @@ var translations = {
 	    addFavs: "Añadido a favoritos",
 	    removeFavs: "Eliminado de favoritos",
 	    addRC: "Añadido a la calculadora de recursos",
-	    removeRC: "Eliminado de la calculadora de recursos"
+	    removeRC: "Eliminado de la calculadora de recursos",
+	       wantToTame: "Quiero domar"
 	},
 	fi: {
 		aboutStarveIntro: "\"Näännytys kesyttäminen\" Tekniikka jota jotkut selviytyjät käyttävät minimoidakseen riskin menettää resursseja kesyttämisen aikana.",
@@ -2917,6 +2929,7 @@ var translations = {
 		fitsThrough: "Mahtuu läpi",
 		bossArenas: "Pomotaistelut",
 		recipes: "Reseptit",
+		favorite: "Suosikki",
 		favorites: "Suosikit",
 		noFavs: "Lisää tavaroita suosikkeihisi ja löydät ne täältä!",
 		saddles: "Satulat",
@@ -3074,7 +3087,8 @@ var translations = {
 		addFavs: "Lisätty suosikkeihin",
 		removeFavs: "Poistettu suosikeista",
 		addRC: "Lisätty resurssilaskuriin",
-		removeRC: "Poistettu resurssilaskurista"
+		removeRC: "Poistettu resurssilaskurista",
+	    wantToTame: "Haluan kesyttää"
 	},
 	fr: {
 		aboutStarveIntro: "Le \"dressage par la faim\" est une méthode que certains survivants utilisent pour minimiser le risque de perdre des ressources lors du dressage.",
@@ -3351,6 +3365,7 @@ var translations = {
 		fitsThrough: "Passe à travers",
 		bossArenas: "Arènes des boss",
 		recipes: "Recettes",
+		favorite: "Favori",
 		favorites: "Favoris",
 		noFavs: "Pas de favoris",
 		saddles: "Selles",
@@ -3508,7 +3523,8 @@ var translations = {
 		addFavs: "Ajouté aux favoris",
 		removeFavs: "Supprimé des favoris",
 		addRC: "Ajouté à la calculatrice de ressources",
-		removeRC: "Supprimé de la calculatrice de ressources"
+		removeRC: "Supprimé de la calculatrice de ressources",
+	    wantToTame: "Je veux apprivoiser"
 	},
 	el: {
 		aboutStarveIntro: "\Χαληναγώγηση της πείνας\" Είναι μια τεχνική που μερικοί επιζώντες χρησημοποιούν για να μειώσουν το ρίσκο του να χάσουν προμήθειες όταν εξημερώνουν ένα πλάσμα.",
@@ -3785,6 +3801,7 @@ var translations = {
 		fitsThrough: "Περνάει μέσα από",
 		bossArenas: "Αρένα αφεντικού",
 		recipes: "Συνταγές",
+		favorite: "Αγαπημένο",
 		favorites: "Αγαπημένα",
 		noFavs: "Πρόσθεσε αντικείμενα στα αγαπημένα και θα τα βρεις εδώ!",
 		saddles: "Σέλες",
@@ -3942,7 +3959,8 @@ var translations = {
 		addFavs: "Προστέθηκε στα αγαπημένα",
 		removeFavs: "Αφαιρέθηκε από τα αγαπημένα",
 		addRC: "Προστέθηκε στην αριθμομηχανή πόρων",
-		removeRC: "Αφαιρέθηκε από την αριθμομηχανή πόρων"
+		removeRC: "Αφαιρέθηκε από την αριθμομηχανή πόρων",
+	    wantToTame: "Θέλω να το εξημερώσω"
 	},
 	he: {
 		aboutStarveIntro: "\"אילוף בהרעבה\" היא טכניקה שחלק מהשורדים משתמשים בה כדי לצמצם את הסיכון של לאבד משאבים בזמן אילוף יצור.",
@@ -4219,6 +4237,7 @@ var translations = {
 		fitsThrough: "עובר ב",
 		bossArenas: "זירות בוס",
 		recipes: "מתכונים",
+		favorite: "מעודף",
 		favorites: "מועדפים",
 		noFavs: "הוסף פריט למועדפים ותוכל למצוא אותו פה!",
 		saddles: "אוכפים",
@@ -4376,7 +4395,8 @@ var translations = {
 		addFavs: "נוסף למועדפים",
 		removeFavs: "הוסר מהמועדפים",
 		addRC: "נוסף למחשבון המשאבים",
-		removeRC: "הוסר ממחשבון המשאבים"
+		removeRC: "הוסר ממחשבון המשאבים",
+	    wantToTame: "רוצה לאלף"
 	},
 	hr: {
 		aboutStarveIntro: "\"Pripitomljavanje izgladnjivanjem\" je tehnika koju neki preživljavači koriste kako bi minimalizirali rizik od gubljenja resurasa dok pripitomljavaju stvorenje.",
@@ -4653,6 +4673,7 @@ var translations = {
 		fitsThrough: "Prolazi kroz",
 		bossArenas: "Arena šefova",
 		recipes: "Recepti",
+		favorite: "Omiljeno",
 		favorites: "Favoriti",
 		noFavs: "Dodajte stavke u favorite i pronaći ćete ih ovdje!",
 		saddles: "Sedla",
@@ -4810,7 +4831,8 @@ var translations = {
 		addFavs: "Dodano u favorite",
 		removeFavs: "Uklonjeno iz favorita",
 		addRC: "Dodano u kalkulator resursa",
-		removeRC: "Uklonjeno iz kalkulatora resursa"
+		removeRC: "Uklonjeno iz kalkulatora resursa",
+	    wantToTame: "Želim ukrotiti"
 	},
 	id: {
 		aboutStarveIntro: "\"Penjinakkan\" adalah teknik yang digunakan beberapa survivor untuk meminimalkan risiko kehilangan sumber daya saat menjinakkan hewan. ",
@@ -5087,6 +5109,7 @@ var translations = {
 		fitsThrough: "Cocok melalui",
 		bossArenas: "Arena Bos",
 		recipes: "Resep",
+		favorite: "Favorit",
 		favorites: "Favorit",
 		noFavs: "Tambahkan item ke favorit Anda dan Anda akan menemukannya di sini!",
 		saddles: "Saddle",
@@ -5244,7 +5267,8 @@ var translations = {
 		addFavs: "Ditambahkan ke favorit",
 		removeFavs: "Dihapus dari favorit",
 		addRC: "Ditambahkan ke kalkulator sumber daya",
-		removeRC: "Dihapus dari kalkulator sumber daya"
+		removeRC: "Dihapus dari kalkulator sumber daya",
+	    wantToTame: "Ingin menjinakkan"
 	},
 	it: {
 		aboutStarveIntro: "\"Starve Taming\" è una tecnica che alcuni giocatori utilizzano per minimizzare il rischio di perdere risorse durante la domazione",
@@ -5521,6 +5545,7 @@ var translations = {
 		fitsThrough: "Adatto attraverso",
 		bossArenas: "Arene boss",
 		recipes: "Ricette",
+		favorite: "Preferito",
 		favorites: "Preferiti",
 		noFavs: "Aggiungi elementi ai tuoi preferiti e li troverai qui!",
 		saddles: "Selle",
@@ -5678,7 +5703,8 @@ var translations = {
 		addFavs: "Aggiunto ai preferiti",
 		removeFavs: "Rimosso dai preferiti",
 		addRC: "Aggiunto al calcolatore delle risorse",
-		removeRC: "Rimosso dal calcolatore delle risorse"
+		removeRC: "Rimosso dal calcolatore delle risorse",
+	    wantToTame: "Voglio addomesticare"
 	},
 	ja: {
 		aboutStarveIntro: "\"空腹テイム\"は、資源を失うリスクを最小限に抑えるためにサバイバー達が使う技法です。",
@@ -5955,6 +5981,7 @@ var translations = {
 		fitsThrough: "通り抜け可",
 		bossArenas: "ボスアリーナ",
 		recipes: "レシピ",
+		favorite: "気に入った",
 		favorites: "お気に入り",
 		noFavs: "お気に入りを追加すれば、ここに表示されます！",
 		saddles: "サドル",
@@ -6112,7 +6139,8 @@ var translations = {
 		addFavs: "お気に入りに追加",
 		removeFavs: "お気に入りから削除",
 		addRC: "リソース計算機に追加",
-		removeRC: "リソース計算機から削除"
+		removeRC: "リソース計算機から削除",
+	    wantToTame: "訓練したい"
 	},
 	ko: {
 		aboutStarveIntro: "\"굶주림 조련\". 몇몇 생존자들이 생물을 길들이기 동안 음식 손실을 최소화하기 위해 사용하는 기술입니다.",
@@ -6389,6 +6417,7 @@ var translations = {
 		fitsThrough: "통과 가능",
 		bossArenas: "보스 아레나",
 		recipes: "조합법",
+		favorite: "즐겨찾기",
 		favorites: "즐겨찾기",
 		noFavs: "즐겨찾기 등록을 하시면 이곳에 보여집니다.",
 		saddles: "안장",
@@ -6546,7 +6575,8 @@ var translations = {
 		addFavs: "즐겨찾기에 추가됨",
 		removeFavs: "즐겨찾기에서 제거됨",
 		addRC: "자원 계산기에 추가됨",
-		removeRC: "자원 계산기에서 제거됨"
+		removeRC: "자원 계산기에서 제거됨",
+	    wantToTame: "제보하고 싶음"
 	},
 	lv: {
 		aboutStarveIntro: "\" Bada pieradināšana \"ir metode, ko daži izdzīvojušie izmanto, lai samazinātu resursu zaudēšanu, pieradinot radību.",
@@ -6823,6 +6853,7 @@ var translations = {
 		fitsThrough: "Der cauri",
 		bossArenas: "Bosu Arēnas",
 		recipes: "Receptes",
+		favorite: "Izlase",
 		favorites: "Izlase",
 		noFavs: "Pievienojiet lietas savai izlasei, un jūs tās atradīsiet šeit!",
 		saddles: "Segli",
@@ -6980,7 +7011,8 @@ var translations = {
 		addFavs: "Pievienots favorītiem",
 		removeFavs: "Noņemts no favorītiem",
 		addRC: "Pievienots resursu kalkulatoram",
-		removeRC: "Noņemts no resursu kalkulatora"
+		removeRC: "Noņemts no resursu kalkulatora",
+	    wantToTame: "Vēlos pieradināt"
 	},
 	nb: {
 		aboutStarveIntro: "\"Sultetemming\" er en teknikk overlevende bruker for å minimalisere risken for å miste ressurser mens de temmer en skapning.",
@@ -7257,6 +7289,7 @@ var translations = {
 		fitsThrough: "Passer igjennom",
 		bossArenas: "Boss Arenas",
 		recipes: "Oppskrifter",
+		favorite: "Favoritt",
 		favorites: "Favoritter",
 		noFavs: "Legg til ditt utstyr i favoritter og du vil finne dem her!",
 		saddles: "Saler",
@@ -7414,7 +7447,8 @@ var translations = {
 		addFavs: "Lagt til favoritter",
 		removeFavs: "Fjernet fra favoritter",
 		addRC: "Lagt til i ressurskalkulatoren",
-		removeRC: "Fjernet fra ressurskalkulatoren"
+		removeRC: "Fjernet fra ressurskalkulatoren",
+	    wantToTame: "Vil temme"
 	},
 	nl: {
 		aboutStarveIntro: "\"Uitgehongerd Temmen\" Is een techniek die sommige overlevers gebruiken om zo min mogelijk risico te lopen om hun spullen te verliezen tijdens het temmen van een dino.",
@@ -7691,6 +7725,7 @@ var translations = {
 		fitsThrough: "Past door",
 		bossArenas: "Baas Arena's",
 		recipes: "Recepten",
+		favorite: "Favoriet",
 		favorites: "Favorieten",
 		noFavs: "Voeg je favoriete items toe, dan kan je ze hier terug vinden!",
 		saddles: "Zadels",
@@ -7848,7 +7883,8 @@ var translations = {
 		addFavs: "Toegevoegd aan favorieten",
 		removeFavs: "Verwijderd uit favorieten",
 		addRC: "Toegevoegd aan de broncalculator",
-		removeRC: "Verwijderd uit de broncalculator"
+		removeRC: "Verwijderd uit de broncalculator",
+	    wantToTame: "Wil temmen"
 	},
 	pl:{
 		aboutStarveIntro: "\"Technika Głodowania\" to technika używana przez graczy do zminimalizowania traconych surowców podczas oswajania kreatury.",
@@ -8125,6 +8161,7 @@ var translations = {
 		fitsThrough: "Pasuje Poprzez",
 		bossArenas: "Areny BossÛw ",
 		recipes: "Recepty",
+		favorite: "Ulubione",
 		favorites: "Ulubione",
 		noFavs: "Brak aktualnie jakichkolwiek ulubionych przedmiotÛw",
 		saddles: "Siod≥a",
@@ -8284,7 +8321,8 @@ var translations = {
 		addFavs: "Dodano do ulubionych",
 		removeFavs: "Usunięto z ulubionych",
 		addRC: "Dodano do kalkulatora zasobów",
-		removeRC: "Usunięto z kalkulatora zasobów"
+		removeRC: "Usunięto z kalkulatora zasobów",
+	    wantToTame: "Chcę oswoić"
 	},
 	"pt-br":{
 		aboutStarveIntro: "\"Tempo de Fome\" é uma técnica que alguns sobreviventes usam para minimizar o risco de perderem recursos enquanto domam sua criatura.",
@@ -8561,6 +8599,7 @@ var translations = {
 		fitsThrough: "Encaixe",
 		bossArenas: "Boss Arenas",
 		recipes: "Receitas",
+		favorite: "Favorito",
 		favorites: "Favoritos",
 		noFavs: "Adicione os intens aos favoritos que encontrar, aqui.",
 		saddles: "Selas",
@@ -8718,7 +8757,8 @@ var translations = {
 		addFavs: "Adicionado aos favoritos",
 		removeFavs: "Removido dos favoritos",
 		addRC: "Adicionado à calculadora de recursos",
-		removeRC: "Removido da calculadora de recursos"
+		removeRC: "Removido da calculadora de recursos",
+	    wantToTame: "Quero domar"
 	},
 	ro: {
 		aboutStarveIntro: "\"Îmblânzirea prin înfometare\" este o tehnică pe care unii supravieţuitori o folosesc pentru a minimiza riscul de a pierde resurse în timpul îmblânzirii unei creaturi.",
@@ -8995,6 +9035,7 @@ var translations = {
 		fitsThrough: "Încape Prin",
 		bossArenas: "Arenele pentru Boss",
 		recipes: "Reţete",
+		favorite: "Favorit",
 		favorites: "Favorite",
 		noFavs: "Adaugă elemente ca favorite şi le vei găsi aici!",
 		saddles: "Şei",
@@ -9152,7 +9193,8 @@ var translations = {
 		addFavs: "Adăugat la favorite",
 		removeFavs: "Eliminat din favorite",
 		addRC: "Adăugat la calculatorul de resurse",
-		removeRC: "Eliminat din calculatorul de resurse"
+		removeRC: "Eliminat din calculatorul de resurse",
+	    wantToTame: "Vreau să îmblânzesc"
 	},
 	ru: {
 		aboutStarveIntro: "\"Приручение с голоданием\" - это техника приручения существ, которая помогает выжившим минимизировать риск потери ресурсов в процессе приручения.",
@@ -9429,6 +9471,7 @@ var translations = {
 		fitsThrough: "Подходит для",
 		bossArenas: "Арены Боссов",
 		recipes: "Рецепты",
+		favorite: "Избранное",
 		favorites: "Избранное",
 		noFavs: "Добавьте предметы в избранное и вы сможете их тут найти!",
 		saddles: "Сёдла",
@@ -9586,7 +9629,8 @@ var translations = {
 		addFavs: "Добавлено в избранное",
 		removeFavs: "Удалено из избранного",
 		addRC: "Добавлено в калькулятор ресурсов",
-		removeRC: "Удалено из калькулятора ресурсов"
+		removeRC: "Удалено из калькулятора ресурсов",
+	    wantToTame: "Хочу приручить"
 	},
 	th: {
 		aboutStarveIntro: "\"การจับแบบอดอาหาร\" คือเทคนิคที่ผู้เล่นบางคนใช้เพื่อลดความเสี่ยงของการสูญเสียทรัพยากรณ์ในขณะจับไดโน",
@@ -9863,6 +9907,7 @@ var translations = {
 		fitsThrough: "สามารถผ่านเข้าได้",
 		bossArenas: "สนามสู้บอส",
 		recipes: "สูตรผสม",
+		favorite: "ชื่นชอบ",
 		favorites: "รายการโปรด",
 		noFavs: "เพิ่มไอเทมลงในรายการโปรด และคุณจะเห็นมันจากตรงนี้!",
 		saddles: "อาน",
@@ -10020,7 +10065,8 @@ var translations = {
 		addFavs: "เพิ่มไปยังรายการโปรด",
 		removeFavs: "ลบออกจากรายการโปรด",
 		addRC: "เพิ่มไปยังเครื่องคิดเลขทรัพยากร",
-		removeRC: "ลบออกจากเครื่องคิดเลขทรัพยากร"
+		removeRC: "ลบออกจากเครื่องคิดเลขทรัพยากร",
+	    wantToTame: "ต้องการปลีย์"
 	},
 	tr: {
 		aboutStarveIntro: "\"Aç Bırakmak\" evcilleştirme sırasında açlık değerinin düşmesini bekleyerek, kaynak kaybetme riskini en aza indirgemek için kullanılan bir yöntemdir.",
@@ -10297,6 +10343,7 @@ var translations = {
 		fitsThrough: "İçinden Geçebilir",
 		bossArenas: "Boss Arenaları",
 		recipes: "Tarifler",
+		favorite: "Favori",
 		favorites: "Favoriler",
 		noFavs: "Öğelerinizi favorilere ekleyin ve onları burada kolayca bulun.",
 		saddles: "Eyerler",
@@ -10456,7 +10503,8 @@ var translations = {
 		addFavs: "Favorilere eklendi",
 		removeFavs: "Favorilerden kaldırıldı",
 		addRC: "Kaynak hesaplayıcıya eklendi",
-		removeRC: "Kaynak hesaplayıcıdan kaldırıldı"
+		removeRC: "Kaynak hesaplayıcıdan kaldırıldı",
+	    wantToTame: "Evcilleştirmek istiyorum"
 	},
 	uk: {
 		aboutStarveIntro: "\"Приборкання голодом\" Цю техніку використовують деякі гравці, щоб мінімізувати ризик втрати ресурсі, під час приборкання істоти.",
@@ -10733,6 +10781,7 @@ var translations = {
 		fitsThrough: "Підходить всюди",
 		bossArenas: "Бос Арени",
 		recipes: "Рецепти",
+		favorite: "Обране",
 		favorites: "Обране",
 		noFavs: "Додайте елементи до обраного, і ви знайдете їх тут!",
 		saddles: "Сідла",
@@ -10896,7 +10945,8 @@ var translations = {
 		addFavs: "Додано до улюблених",
 		removeFavs: "Видалено з улюблених",
 		addRC: "Додано до калькулятора ресурсів",
-		removeRC: "Видалено з калькулятора ресурсів"
+		removeRC: "Видалено з калькулятора ресурсів",
+	    wantToTame: "Хочу приручити"
 	},
 	vi: {
 		aboutStarveIntro: "\"Thuần hóa bỏ đói\" đây là cách một số người chơi đã sử dụng để tiết kiệm lượng tài nguyên của mình",
@@ -11173,6 +11223,7 @@ var translations = {
 		fitsThrough: "Phù hợp với",
 		bossArenas: "Đấu trường Boss",
 		recipes: "Công thức",
+		favorite: "Yêu thích",
 		favorites: "Yêu thích",
 		noFavs: "Thêm vật phẩm vào danh sách yêu thích và chúng xuất hiện ở đây",
 		saddles: "Yên",
@@ -11330,7 +11381,8 @@ var translations = {
 		addFavs: "Đã thêm vào mục yêu thích",
 		removeFavs: "Đã xóa khỏi mục yêu thích",
 		addRC: "Đã thêm vào bộ tính tài nguyên",
-		removeRC: "Đã xóa khỏi bộ tính tài nguyên"
+		removeRC: "Đã xóa khỏi bộ tính tài nguyên",
+	    wantToTame: "Muốn thuần phục"
 	},
 	zh: {
 		aboutStarveIntro: "“饥饿驯服法”是一种很多玩家用来降低驯服过程中资源损失的方法。",
@@ -11607,6 +11659,7 @@ var translations = {
 		fitsThrough: "适合通过",
 		bossArenas: "Boss区域",
 		recipes: "食谱",
+		favorite: "收藏",
 		favorites: "喜爱",
 		noFavs: "为你的收藏夹添加物品后你就可以在这里找到它们了",
 		saddles: "鞍",
@@ -11764,7 +11817,8 @@ var translations = {
 		addFavs: "已添加到收藏夹",
 		removeFavs: "已从收藏夹中移除",
 		addRC: "已添加到资源计算器",
-		removeRC: "已从资源计算器中移除"
+		removeRC: "已从资源计算器中移除",
+	    wantToTame: "想迎来"
 	},
 	"zh-tw": {
 		aboutStarveIntro: "“飢餓馴服法”是一種很多玩家用來降低馴服過程中資源損失的方法。",
@@ -12041,6 +12095,7 @@ var translations = {
 		fitsThrough: "適合通過",
 		bossArenas: "Boss區域",
 		recipes: "食譜",
+		favorite: "收藏",
 		favorites: "喜愛",
 		noFavs: "為你的我的最愛添加物品後你就可以在這裡找到它們了",
 		saddles: "鞍",
@@ -12198,7 +12253,8 @@ var translations = {
 		addFavs: "已添加到收藏夾",
 		removeFavs: "已從收藏夾中移除",
 		addRC: "已添加到資源計算器",
-		removeRC: "已從資源計算器中移除"
+		removeRC: "已從資源計算器中移除",
+	    wantToTame: "想要導入"
 	}}
 	
 	/* Language names should be in native language */
