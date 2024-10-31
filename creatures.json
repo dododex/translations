@@ -36,7 +36,8 @@
 		"name_t":{
 			"ru":"Амаргазавр",
 			"zh-tw":"阿馬加龍",
-			"ar":"اماقاسورس"
+			"ar":"اماقاسورس",
+			"ja":"アマルガサウルス"
 		}
 	},
 	"ammonite":{
@@ -60,6 +61,7 @@
 	},
 	"andrewsarchus":{
 		"name_t":{
+			"ja":"アンドリューサルクス",
 			"ru":"Эндрюсарх"
 		}
 	},
@@ -166,6 +168,7 @@
 			"ar":"استروستس",
 			"fr":"Astrocetus",
 			"it":"Astroceto",
+			"ja":"アストロセタス",
 			"ko":"아스트로시터스",
 			"ru":"Астроцетус",
 			"zh":"虚空鲸",
@@ -175,6 +178,7 @@
 	"astrodelphis":{
 		"name_t":{
 			"ar":"استروديلفس",
+			"ja":"アストロデルフィス",
 			"ru":"Астродельфис",
 			"zh":"虚空海豚",
 			"zh-tw":"虛空海豚"
@@ -260,12 +264,14 @@
 	},
 	"beyla":{
 		"name_t":{
+			"ja":"ベイラ",
 			"ru":"Бейла",
 			"zh-tw":"貝依拉"
 		}
 	},
 	"beylaspawn":{
 		"name_t":{
+			"ja":"ベイラ・スポーン",
 			"ru":"Порождение Бейлы",
 			"zh-tw":"貝依拉召喚物"
 		}
@@ -279,6 +285,7 @@
 			"fr":"Essaim d'insectes",
 			"he":"נחיל חרקים",
 			"it":"Sciame d'insetti",
+			"ja":"虫の群れ",
 			"ko":"곤충 떼",
 			"nl":"Bladwesp",
 			"pt-br":"Enxame de Insetos",
@@ -361,6 +368,7 @@
 	},
 	"carcharodontosaurus":{
 		"name_t":{
+			"ja":"カルカロドントサウルス",
 			"ru":"Кархародонтозавр",
 			"zh":"鲨齿龙",
 			"zh-tw":"鯊齒龍"
@@ -471,6 +479,7 @@
 			"es":"Controlador Maestro Corrupto",
 			"fr":"Maître Contrôleur Corrompu",
 			"it":"Master Controller Corrotto",
+			"ja":"マスターコントローラー",
 			"ko":"오염된 마스터 컨트롤러",
 			"ru":"Повреждённый Главный контроллер",
 			"zh":"腐化的主宰者",
@@ -592,6 +601,7 @@
 	},
 	"desmodus":{
 		"name_t":{
+			"ja":"デスモダス",
 			"ru":"Десмод",
 			"zh-tw":"吸血蝠"
 		}
@@ -650,12 +660,14 @@
 	"dinopithecus":{
 		"name_t":{
 			"ar":"دينوبيثكس",
+			"ja":"ディノピテクス",
 			"ru":"Динопитек",
 			"zh-tw":"恐狒"
 		}
 	},
 	"dinopithecusking":{
 		"name_t":{
+			"ja":"ディノピテクスキング",
 			"ru":"Король Динопитеков",
 			"zh-tw":"恐狒國王"
 		}
@@ -882,6 +894,7 @@
 	},
 	"fasolasuchus":{
 		"name_t":{
+			"ja":"ファソラスクス",
 			"ru":"Фасолазух"
 		}
 	},
@@ -901,12 +914,14 @@
 	},
 	"fenrir":{
 		"name_t":{
+			"ja":"フェンリル",
 			"ru":"Фенрир",
 			"zh-tw":"芬里爾"
 		}
 	},
 	"fenrisulfr":{
 		"name_t":{
+			"ja":"フェンリル",
 			"ru":"Фенрис",
 			"zh-tw":"芬里爾巨狼"
 		}
@@ -923,6 +938,7 @@
 	},
 	"fjordhawk":{
 		"name_t":{
+			"ja":"フィヨルドホーク",
 			"ru":"Ястреб фьордов",
 			"zh-tw":"菲尤爾峽鷹"
 		}
@@ -1115,6 +1131,7 @@
 	},
 	"hatiskoll":{
 		"name_t":{
+			"ja":"ハティ&スコル",
 			"ru":"Хати и Сколль",
 			"zh-tw":"哈提和斯庫爾"
 		}
@@ -1337,7 +1354,7 @@
 			"hr":"Pijavica",
 			"id":"Lintah",
 			"it":"Sanguisuga",
-			"ja":"蛭",
+			"ja":"ヒル",
 			"ko":"거머리",
 			"nl":"Bloedzuiger",
 			"pt-br":"Sanguessuga",
@@ -1400,6 +1417,7 @@
 	},
 	"maewing":{
 		"name_t":{
+			"ja":"メイウィング",
 			"ru":"Мейвинг",
 			"zh":"鸭嘴飞鼠",
 			"zh-tw":"鴨嘴飛鼠"
@@ -1443,7 +1461,7 @@
 	"managarmr":{
 		"name_t":{
 			"fr":"Managarm",
-			"ja":"マナガルムル",
+			"ja":"マナガルム",
 			"ja-OLD":"マナガルム",
 			"ko":"마나가르마",
 			"pt-br":"Cão da Lua",
@@ -1709,6 +1727,7 @@
 	},
 	"noglin":{
 		"name_t":{
+			"ja":"ノグリン",
 			"ru":"Ноглин",
 			"zh":"诺格林",
 			"zh-tw":"諾格林"
@@ -1935,7 +1954,7 @@
 			"he":"של פליוזאור",
 			"id":"Plesiosaurus",
 			"it":"Plesiosauro",
-			"ja":"エラスモサウルス",
+			"ja":"プレシオサウルス",
 			"ko":"플레시오사우루스",
 			"nl":"Plesiosaurus",
 			"pt-br":"Plesiossauro",
@@ -2056,6 +2075,7 @@
 	},
 	"rhyniognatha":{
 		"name_t":{
+			"ja":"リニオグナタ",
 			"ru":"Риниогната",
 			"zh-tw":"萊尼蟲"
 		}
@@ -2141,6 +2161,7 @@
 	},
 	"rubblebear":{
 		"name_t":{
+			"ja":"ラブルベアー",
 			"ru":"Каменный медведь",
 			"zh-tw":"碎石恐熊"
 		}
@@ -2155,7 +2176,7 @@
 			"hr":"Sabljozubi Tigar",
 			"id":"Smilodon",
 			"it":"Smilodonte",
-			"ja":"セイバートゥース",
+			"ja":"サーベルタイガー",
 			"ja-OLD":"サーベルタイガー",
 			"ko":"검치호",
 			"nl":"Sabeltand",
@@ -2231,6 +2252,7 @@
 	},
 	"shadowmane":{
 		"name_t":{
+			"ja":"シャドウメイン",
 			"ru":"Тенегрив",
 			"zh-tw":"影鬃"
 		}
@@ -2252,6 +2274,7 @@
 	},
 	"sinomacrops":{
 		"name_t":{
+			"ja":"シノマクロプス",
 			"ru":"Синомакропс",
 			"zh-tw":"中華大眼翼龍"
 		}
@@ -2263,7 +2286,7 @@
 			"es":"Búho de las Nieves",
 			"fr":"Harfang des Neiges",
 			"it":"Gufo delle Nevi",
-			"ja":"シロフクロウ",
+			"ja":"雪フクロウ",
 			"ja-OLD":"雪フクロウ",
 			"ko":"눈올빼미",
 			"ko-OLD":"눈부엉이",
@@ -2311,12 +2334,14 @@
 	},
 	"steinbjorn":{
 		"name_t":{
+			"ja":"スタインヨルン",
 			"ru":"Стайнбьорн",
 			"zh-tw":"斯坦比約恩"
 		}
 	},
 	"stryder":{
 		"name_t":{
+			"ja":"ストライダー",
 			"ru":"Страйдер",
 			"zh":"跨步者",
 			"zh-tw":"跨步者"
@@ -2324,6 +2349,7 @@
 	},
 	"summoner":{
 		"name_t":{
+			"ja":"サモナー",
 			"ru":"Призыватель",
 			"zh-tw":"召喚師"
 		}
@@ -2562,6 +2588,7 @@
 	},
 	"voidwyrm":{
 		"name_t":{
+			"ja":"ヴォイドワーム",
 			"ru":"Войдверна",
 			"zh":"虚空飞龙",
 			"zh-tw":"虛空飛龍"
