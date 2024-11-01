@@ -135,6 +135,9 @@
 			"zh-tw":"始祖鳥"
 		}
 	},
+	"archelon":{
+		"name_t":{}
+	},
 	"argentavis":{
 		"name_t":{
 			"ar":"أرجنتيفس",
@@ -307,6 +310,9 @@
 			"zh-tw":"血蛛"
 		}
 	},
+	"brachiosaurus":{
+		"name_t":{}
+	},
 	"brontosaurus":{
 		"name_t":{
 			"ar":"برونتوسوروس",
@@ -407,6 +413,9 @@
 			"zh-tw":"巨河狸"
 		}
 	},
+	"ceratosaurus":{
+		"name_t":{}
+	},
 	"chalicotherium":{
 		"name_t":{
 			"ar":"تشاليكوثيريوم",
@@ -485,6 +494,9 @@
 			"zh":"腐化的主宰者",
 			"zh-rw":"腐化的主宰者"
 		}
+	},
+	"cosmo":{
+		"name_t":{}
 	},
 	"crystalwyvern":{
 		"name_t":{
@@ -579,6 +591,12 @@
 			"zh":"恐爪龙",
 			"zh-tw":"恐爪龍"
 		}
+	},
+	"deinosuchus":{
+		"name_t":{}
+	},
+	"deinotherium":{
+		"name_t":{}
 	},
 	"deserttitan":{
 		"name_t":{
@@ -758,6 +776,12 @@
 			"zh-tw":"渡渡鳥"
 		}
 	},
+	"dodorex":{
+		"name_t":{}
+	},
+	"dodowyvern":{
+		"name_t":{}
+	},
 	"doedicurus":{
 		"name_t":{
 			"el":"Δεδίκερος",
@@ -796,6 +820,12 @@
 			"zh":"喷火龙",
 			"zh-tw":"噴火龍"
 		}
+	},
+	"dreadnoughtus":{
+		"name_t":{}
+	},
+	"dreadmare":{
+		"name_t":{}
 	},
 	"dungbeetle":{
 		"name_t":{
@@ -1135,6 +1165,9 @@
 			"ru":"Хати и Сколль",
 			"zh-tw":"哈提和斯庫爾"
 		}
+	},
+	"helicoprion":{
+		"name_t":{}
 	},
 	"hesperornis":{
 		"name_t":{
@@ -1733,6 +1766,9 @@
 			"zh-tw":"諾格林"
 		}
 	},
+	"oasisaur":{
+		"name_t":{}
+	},
 	"onyc":{
 		"name_t":{
 			"ar":"خفاش",
@@ -2011,6 +2047,9 @@
 			"zh-tw":"獸頭獸"
 		}
 	},
+	"pyromane":{
+		"name_t":{}
+	},
 	"quetzal":{
 		"name_t":{
 			"ar":"الكوازال",
@@ -2256,6 +2295,9 @@
 			"ru":"Тенегрив",
 			"zh-tw":"影鬃"
 		}
+	},
+	"shastasaurus":{
+		"name_t":{}
 	},
 	"shinehorn":{
 		"name_t":{
@@ -2539,6 +2581,9 @@
 			"zh-tw":"脊頜翼龍"
 		}
 	},
+	"turkey":{
+		"name_t":{}
+	},
 	"tusoteuthis":{
 		"name_t":{
 			"fi":"Mustekala",
@@ -2650,6 +2695,9 @@
 			"zh-tw":"飛龍"
 		}
 	},
+	"xiphactinus":{
+		"name_t":{}
+	},
 	"yeti":{
 		"name_t":{
 			"ar":"اليتي",
@@ -2663,6 +2711,9 @@
 			"zh":"雪人",
 			"zh-tw":"雪人"
 		}
+	},
+	"yiling":{
+		"name_t":{}
 	},
 	"yutyrannus":{
 		"name_t":{
