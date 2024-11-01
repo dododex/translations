@@ -12375,6 +12375,9 @@ var translations = {
 			},{
 				name:"sai11121209",
 				link:"https://github.com/sai11121209"
+			},{
+				name:"eh6gac4",
+				link:"https://github.com/eh6gac4"
 			}]
 		},
 		ko:{
