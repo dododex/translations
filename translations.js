@@ -466,7 +466,8 @@ var translations = {
 		removeFavs: "Removed from favorites",
 		addRC: "Added to resource calculator",
 		removeRC: "Removed from resource calculator",
-        wantToTame: "Want To Tame"
+		wantToTame: "Want To Tame",
+		notYetTamed: "Not Yet Tamed"
 	},
 	ar: {
 		aboutStarveIntro: "\ الترويض بالتجويع\" طريقة يستخدمها بعض اللاعبون لتقليل خطر فقدان الموارد خلال ترويض المخلوق.",
@@ -902,7 +903,8 @@ var translations = {
 	    removeFavs: "تمت الإزالة من المفضلة",
 	    addRC: "تمت الإضافة إلى حاسبة الموارد",
 	    removeRC: "تمت الإزالة من حاسبة الموارد",
-	       wantToTame: "أريد ترويضه"
+		wantToTame: "أريد ترويضه",
+		notYetTamed: "لم يتم ترويضه بعد"
 	},
 	cs: {
 		aboutStarveIntro: "\"Starve Taming\" je technika, kterou někteří přeživší používají k minimalizaci rizika ztráty zdrojů při ochočování stvoření.",
@@ -1344,7 +1346,8 @@ var translations = {
 	    removeFavs: "Odstraněno z oblíbených",
 	    addRC: "Přidáno do kalkulačky zdrojů",
 	    removeRC: "Odstraněno z kalkulačky zdrojů",
-	       wantToTame: "Chci ochočit"
+		wantToTame: "Chci ochočit",
+		notYetTamed: "Ještě není zkroceno"
 	},
 	da: {
 		aboutStarveIntro: "\"Tæmning ved udsultning\" er en teknik, som nogle overlevende anvender for at minimere risikoen for at minimere risikoen for tab af ressourcer under tæmning.",
@@ -1780,7 +1783,8 @@ var translations = {
 	    removeFavs: "Fjernet fra favoritter",
 	    addRC: "Tilføjet til ressourceberegner",
 	    removeRC: "Fjernet fra ressourceberegner",
-	       wantToTame: "Vil tæmme"
+		wantToTame: "Vil tæmme",
+		notYetTamed: "Ikke tæmmet endnu"
 	},
 	de: {
 		aboutStarveIntro: "\"Zähmen durch Aushungern\" ist eine Technik, die manche Überlebende benutzen, um das Risiko eines Ressourcenverlusts während des Zähmens zu minimieren.",
@@ -2216,7 +2220,8 @@ var translations = {
 	    removeFavs: "Von Favoriten entfernt",
 	    addRC: "Zum Ressourcenrechner hinzugefügt",
 	    removeRC: "Aus dem Ressourcenrechner entfernt",
-	       wantToTame: "Will zähmen"
+		wantToTame: "Will zähmen",
+		notYetTamed: "Noch nicht gezähmt"
 	},
 	es: {
 		aboutStarveIntro: "La \"doma por hambre\" es una técnica usada por algunos supervivientes para minimizar el riesgo de perder recursos durante la doma de una criatura.",
@@ -2652,7 +2657,8 @@ var translations = {
 	    removeFavs: "Eliminado de favoritos",
 	    addRC: "Añadido a la calculadora de recursos",
 	    removeRC: "Eliminado de la calculadora de recursos",
-	       wantToTame: "Quiero domar"
+		wantToTame: "Quiero domar",
+		notYetTamed: "Aún no domesticado"
 	},
 	fi: {
 		aboutStarveIntro: "\"Näännytys kesyttäminen\" Tekniikka jota jotkut selviytyjät käyttävät minimoidakseen riskin menettää resursseja kesyttämisen aikana.",
@@ -3088,7 +3094,8 @@ var translations = {
 		removeFavs: "Poistettu suosikeista",
 		addRC: "Lisätty resurssilaskuriin",
 		removeRC: "Poistettu resurssilaskurista",
-	    wantToTame: "Haluan kesyttää"
+		wantToTame: "Haluan kesyttää",
+		notYetTamed: "Ei vielä kesytetty"
 	},
 	fr: {
 		aboutStarveIntro: "Le \"dressage par la faim\" est une méthode que certains survivants utilisent pour minimiser le risque de perdre des ressources lors du dressage.",
@@ -3524,7 +3531,8 @@ var translations = {
 		removeFavs: "Supprimé des favoris",
 		addRC: "Ajouté à la calculatrice de ressources",
 		removeRC: "Supprimé de la calculatrice de ressources",
-	    wantToTame: "Je veux apprivoiser"
+		wantToTame: "Je veux apprivoiser",
+		notYetTamed: "Pas encore apprivoisé"
 	},
 	el: {
 		aboutStarveIntro: "\Χαληναγώγηση της πείνας\" Είναι μια τεχνική που μερικοί επιζώντες χρησημοποιούν για να μειώσουν το ρίσκο του να χάσουν προμήθειες όταν εξημερώνουν ένα πλάσμα.",
@@ -3960,7 +3968,8 @@ var translations = {
 		removeFavs: "Αφαιρέθηκε από τα αγαπημένα",
 		addRC: "Προστέθηκε στην αριθμομηχανή πόρων",
 		removeRC: "Αφαιρέθηκε από την αριθμομηχανή πόρων",
-	    wantToTame: "Θέλω να το εξημερώσω"
+		wantToTame: "Θέλω να το εξημερώσω",
+		notYetTamed: "Ακόμα δεν έχει εξημερωθεί"
 	},
 	he: {
 		aboutStarveIntro: "\"אילוף בהרעבה\" היא טכניקה שחלק מהשורדים משתמשים בה כדי לצמצם את הסיכון של לאבד משאבים בזמן אילוף יצור.",
@@ -4396,7 +4405,8 @@ var translations = {
 		removeFavs: "הוסר מהמועדפים",
 		addRC: "נוסף למחשבון המשאבים",
 		removeRC: "הוסר ממחשבון המשאבים",
-	    wantToTame: "רוצה לאלף"
+		wantToTame: "רוצה לאלף",
+		notYetTamed: "עדיין לא בוית"
 	},
 	hr: {
 		aboutStarveIntro: "\"Pripitomljavanje izgladnjivanjem\" je tehnika koju neki preživljavači koriste kako bi minimalizirali rizik od gubljenja resurasa dok pripitomljavaju stvorenje.",
@@ -4832,7 +4842,8 @@ var translations = {
 		removeFavs: "Uklonjeno iz favorita",
 		addRC: "Dodano u kalkulator resursa",
 		removeRC: "Uklonjeno iz kalkulatora resursa",
-	    wantToTame: "Želim ukrotiti"
+		wantToTame: "Želim ukrotiti",
+		notYetTamed: "Još nije pripitomljen"
 	},
 	id: {
 		aboutStarveIntro: "\"Penjinakkan\" adalah teknik yang digunakan beberapa survivor untuk meminimalkan risiko kehilangan sumber daya saat menjinakkan hewan. ",
@@ -5268,7 +5279,8 @@ var translations = {
 		removeFavs: "Dihapus dari favorit",
 		addRC: "Ditambahkan ke kalkulator sumber daya",
 		removeRC: "Dihapus dari kalkulator sumber daya",
-	    wantToTame: "Ingin menjinakkan"
+		wantToTame: "Ingin menjinakkan",
+		notYetTamed: "Belum dijinakkan"
 	},
 	it: {
 		aboutStarveIntro: "\"Starve Taming\" è una tecnica che alcuni giocatori utilizzano per minimizzare il rischio di perdere risorse durante la domazione",
@@ -5704,7 +5716,8 @@ var translations = {
 		removeFavs: "Rimosso dai preferiti",
 		addRC: "Aggiunto al calcolatore delle risorse",
 		removeRC: "Rimosso dal calcolatore delle risorse",
-	    wantToTame: "Voglio addomesticare"
+		wantToTame: "Voglio addomesticare",
+		notYetTamed: "Non ancora domato"
 	},
 	ja: {
 		aboutStarveIntro: "\"空腹テイム\"は、資源を失うリスクを最小限に抑えるためにサバイバー達が使う技法です。",
@@ -6140,7 +6153,8 @@ var translations = {
 		removeFavs: "お気に入りから削除",
 		addRC: "リソース計算機に追加",
 		removeRC: "リソース計算機から削除",
-	    wantToTame: "訓練したい"
+		wantToTame: "訓練したい",
+		notYetTamed: "まだ手懐けていません"
 	},
 	ko: {
 		aboutStarveIntro: "\"굶주림 조련\". 몇몇 생존자들이 생물을 길들이기 동안 음식 손실을 최소화하기 위해 사용하는 기술입니다.",
@@ -6576,7 +6590,8 @@ var translations = {
 		removeFavs: "즐겨찾기에서 제거됨",
 		addRC: "자원 계산기에 추가됨",
 		removeRC: "자원 계산기에서 제거됨",
-	    wantToTame: "제보하고 싶음"
+		wantToTame: "제보하고 싶음",
+		notYetTamed: "아직 길들여지지 않음"
 	},
 	lv: {
 		aboutStarveIntro: "\" Bada pieradināšana \"ir metode, ko daži izdzīvojušie izmanto, lai samazinātu resursu zaudēšanu, pieradinot radību.",
@@ -7012,7 +7027,8 @@ var translations = {
 		removeFavs: "Noņemts no favorītiem",
 		addRC: "Pievienots resursu kalkulatoram",
 		removeRC: "Noņemts no resursu kalkulatora",
-	    wantToTame: "Vēlos pieradināt"
+		wantToTame: "Vēlos pieradināt",
+		notYetTamed: "Vēl nav pieradināts"
 	},
 	nb: {
 		aboutStarveIntro: "\"Sultetemming\" er en teknikk overlevende bruker for å minimalisere risken for å miste ressurser mens de temmer en skapning.",
@@ -7448,7 +7464,8 @@ var translations = {
 		removeFavs: "Fjernet fra favoritter",
 		addRC: "Lagt til i ressurskalkulatoren",
 		removeRC: "Fjernet fra ressurskalkulatoren",
-	    wantToTame: "Vil temme"
+		wantToTame: "Vil temme",
+		notYetTamed: "Ikke temmet ennå"
 	},
 	nl: {
 		aboutStarveIntro: "\"Uitgehongerd Temmen\" Is een techniek die sommige overlevers gebruiken om zo min mogelijk risico te lopen om hun spullen te verliezen tijdens het temmen van een dino.",
@@ -7884,7 +7901,8 @@ var translations = {
 		removeFavs: "Verwijderd uit favorieten",
 		addRC: "Toegevoegd aan de broncalculator",
 		removeRC: "Verwijderd uit de broncalculator",
-	    wantToTame: "Wil temmen"
+		wantToTame: "Wil temmen",
+		notYetTamed: "Nog niet getemd"
 	},
 	pl:{
 		aboutStarveIntro: "\"Technika Głodowania\" to technika używana przez graczy do zminimalizowania traconych surowców podczas oswajania kreatury.",
@@ -8322,7 +8340,8 @@ var translations = {
 		removeFavs: "Usunięto z ulubionych",
 		addRC: "Dodano do kalkulatora zasobów",
 		removeRC: "Usunięto z kalkulatora zasobów",
-	    wantToTame: "Chcę oswoić"
+		wantToTame: "Chcę oswoić",
+		notYetTamed: "Jeszcze nie oswojony"
 	},
 	"pt-br":{
 		aboutStarveIntro: "\"Tempo de Fome\" é uma técnica que alguns sobreviventes usam para minimizar o risco de perderem recursos enquanto domam sua criatura.",
@@ -8758,7 +8777,8 @@ var translations = {
 		removeFavs: "Removido dos favoritos",
 		addRC: "Adicionado à calculadora de recursos",
 		removeRC: "Removido da calculadora de recursos",
-	    wantToTame: "Quero domar"
+		wantToTame: "Quero domar",
+		notYetTamed: "Ainda não domado"
 	},
 	ro: {
 		aboutStarveIntro: "\"Îmblânzirea prin înfometare\" este o tehnică pe care unii supravieţuitori o folosesc pentru a minimiza riscul de a pierde resurse în timpul îmblânzirii unei creaturi.",
@@ -9194,7 +9214,8 @@ var translations = {
 		removeFavs: "Eliminat din favorite",
 		addRC: "Adăugat la calculatorul de resurse",
 		removeRC: "Eliminat din calculatorul de resurse",
-	    wantToTame: "Vreau să îmblânzesc"
+		wantToTame: "Vreau să îmblânzesc",
+		notYetTamed: "Încă nu este îmblânzit"
 	},
 	ru: {
 		aboutStarveIntro: "\"Приручение с голоданием\" - это техника приручения существ, которая помогает выжившим минимизировать риск потери ресурсов в процессе приручения.",
@@ -9630,7 +9651,8 @@ var translations = {
 		removeFavs: "Удалено из избранного",
 		addRC: "Добавлено в калькулятор ресурсов",
 		removeRC: "Удалено из калькулятора ресурсов",
-	    wantToTame: "Хочу приручить"
+		wantToTame: "Хочу приручить",
+		notYetTamed: "Еще не приручен"
 	},
 	th: {
 		aboutStarveIntro: "\"การจับแบบอดอาหาร\" คือเทคนิคที่ผู้เล่นบางคนใช้เพื่อลดความเสี่ยงของการสูญเสียทรัพยากรณ์ในขณะจับไดโน",
@@ -10066,7 +10088,8 @@ var translations = {
 		removeFavs: "ลบออกจากรายการโปรด",
 		addRC: "เพิ่มไปยังเครื่องคิดเลขทรัพยากร",
 		removeRC: "ลบออกจากเครื่องคิดเลขทรัพยากร",
-	    wantToTame: "ต้องการปลีย์"
+		wantToTame: "ต้องการปลีย์",
+		notYetTamed: "ยังไม่ได้ทำให้เชื่อง"
 	},
 	tr: {
 		aboutStarveIntro: "\"Aç Bırakmak\" evcilleştirme sırasında açlık değerinin düşmesini bekleyerek, kaynak kaybetme riskini en aza indirgemek için kullanılan bir yöntemdir.",
@@ -10504,7 +10527,8 @@ var translations = {
 		removeFavs: "Favorilerden kaldırıldı",
 		addRC: "Kaynak hesaplayıcıya eklendi",
 		removeRC: "Kaynak hesaplayıcıdan kaldırıldı",
-	    wantToTame: "Evcilleştirmek istiyorum"
+		wantToTame: "Evcilleştirmek istiyorum",
+		notYetTamed: "Henüz evcilleştirilmedi"
 	},
 	uk: {
 		aboutStarveIntro: "\"Приборкання голодом\" Цю техніку використовують деякі гравці, щоб мінімізувати ризик втрати ресурсі, під час приборкання істоти.",
@@ -10946,7 +10970,8 @@ var translations = {
 		removeFavs: "Видалено з улюблених",
 		addRC: "Додано до калькулятора ресурсів",
 		removeRC: "Видалено з калькулятора ресурсів",
-	    wantToTame: "Хочу приручити"
+		wantToTame: "Хочу приручити",
+		notYetTamed: "Ще не приручено"
 	},
 	vi: {
 		aboutStarveIntro: "\"Thuần hóa bỏ đói\" đây là cách một số người chơi đã sử dụng để tiết kiệm lượng tài nguyên của mình",
@@ -11382,7 +11407,8 @@ var translations = {
 		removeFavs: "Đã xóa khỏi mục yêu thích",
 		addRC: "Đã thêm vào bộ tính tài nguyên",
 		removeRC: "Đã xóa khỏi bộ tính tài nguyên",
-	    wantToTame: "Muốn thuần phục"
+		wantToTame: "Muốn thuần phục",
+		notYetTamed: "Chưa được thuần hóa"
 	},
 	zh: {
 		aboutStarveIntro: "“饥饿驯服法”是一种很多玩家用来降低驯服过程中资源损失的方法。",
@@ -11818,7 +11844,8 @@ var translations = {
 		removeFavs: "已从收藏夹中移除",
 		addRC: "已添加到资源计算器",
 		removeRC: "已从资源计算器中移除",
-	    wantToTame: "想迎来"
+		wantToTame: "想迎来",
+		notYetTamed: "尚未驯服"
 	},
 	"zh-tw": {
 		aboutStarveIntro: "“飢餓馴服法”是一種很多玩家用來降低馴服過程中資源損失的方法。",
@@ -12254,7 +12281,8 @@ var translations = {
 		removeFavs: "已從收藏夾中移除",
 		addRC: "已添加到資源計算器",
 		removeRC: "已從資源計算器中移除",
-	    wantToTame: "想要導入"
+		wantToTame: "想要導入",
+		notYetTamed: "尚未馴服"
 	}}
 	
 	/* Language names should be in native language */
