@@ -789,7 +789,7 @@
 				"ja":"ブリーディング可能",
 				"ru":"Разводимые существа",
 				"zh":"可繁殖",
-				"zh-tw":"可繁殖",
+				"zh-tw":"可繁育",
 				"nl":"Broedbaar",
 				"pt":"Reproduzíveis",
 				"pt-br":"Reproduzíveis",
@@ -949,7 +949,9 @@
 		},
 		"54":{
 			"n":"Tek Variant",
-			"nt":{},
+			"nt":{
+				"zh-tw":"泰克變體"
+			},
 			"o":98,
 			"p":8
 		}
