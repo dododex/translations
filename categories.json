@@ -888,7 +888,7 @@
 				"zh-tw":"ARK 手遊"
 			},
 			"o":85,
-			"p":8
+			"p":9
 		},
 		"39":{
 			"n":"Valguero",
@@ -905,7 +905,7 @@
 			"n":"ARK 2",
 			"nt":{},
 			"o":95,
-			"p":8
+			"p":10
 		},
 		"52":{
 
@@ -1118,6 +1118,30 @@
 				"nl":"Meer",
 				"ar":"المزيد",
 				"vi":"Thêm"
+			}
+		},
+		"9": {
+			"n": "Game Version",
+			"nt": {
+				"cs": "Verze hry",
+				"da": "Spilversion",
+				"es": "Versión del juego",
+				"fr": "Version du jeu",
+				"de": "Spielversion",
+				"it": "Versione del gioco",
+				"ja": "ゲームバージョン",
+				"ko": "게임 버전",
+				"pl": "Wersja gry",
+				"pt": "Versão do jogo",
+				"zh": "游戏版本",
+				"zh-tw": "遊戲版本",
+				"ru": "Версия игры",
+				"ro": "Versiune de joc",
+				"th": "เวอร์ชันเกม",
+				"tr": "Oyun Sürümü",
+				"nl": "Spelversie",
+				"ar": "إصدار اللعبة",
+				"vi": "Phiên bản trò chơi"
 			}
 		}
 	}
