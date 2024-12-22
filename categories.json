@@ -883,11 +883,11 @@
 			"p":8
 		},
 		"36":{
-			"n":"ARK Mobile",
+			"n":"ARK: Ultimate Mobile Edition",
 			"nt":{
 				"zh-tw":"ARK 手遊"
 			},
-			"o":120,
+			"o":123,
 			"p":9
 		},
 		"39":{
@@ -904,7 +904,7 @@
 		"51":{
 			"n":"ARK 2",
 			"nt":{},
-			"o":121,
+			"o":124,
 			"p":10
 		},
 		"52":{
@@ -954,6 +954,18 @@
 			},
 			"o":98,
 			"p":8
+		},
+		"55":{
+			"n":"ARK: Survival Evolved",
+			"nt":{},
+			"o":121,
+			"p":9
+		},
+		"56":{
+			"n":"ARK: Survival Ascended",
+			"nt":{},
+			"o":120,
+			"p":9
 		}
 	},
 	"categoriesP":{
