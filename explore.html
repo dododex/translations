@@ -32,12 +32,64 @@
             <td width="41%" class="bold light cap left smaller uppercase">English</td>
             <td width="41%" class="bold light cap left smaller uppercase">${language}</td>
           </tr>`;
+
+          // Add translations.js entries
+          var translationsHeader = document.createElement("tr");
+          translationsHeader.innerHTML = `<td colspan="3" class="bold action">translations.js (Interface Translations)</td>`;
+          languageTable.appendChild(translationsHeader);
+          
           for (var key in window.translations.en) {
             if (window.translations.en.hasOwnProperty(key)) {
               var englishText = window.translations.en[key];
               var translatedText = window.translations[language] && window.translations[language][key] ? window.translations[language][key] : '<span class="neg">MISSING</span>';
               var row = document.createElement("tr");
               row.innerHTML = `<td class="light right">${key}</td><td>${englishText}</td><td>${translatedText}</td>`;
+              languageTable.appendChild(row);
+            }
+          }
+
+          // Add creatures.json entries
+          var creaturesHeader = document.createElement("tr");
+          creaturesHeader.innerHTML = `<td colspan="3" class="bold action">creatures.json</td>`;
+          languageTable.appendChild(creaturesHeader);
+
+          for (var creature in window.creatures.CREATURES) {
+            if (window.creatures.CREATURES.hasOwnProperty(creature)) {
+              var creatureData = window.creatures.CREATURES[creature];
+              if (creatureData.name_t) {
+                var translatedName = creatureData.name_t[language] || '<span class="neg">(Uses English Version)</span>';
+                var row = document.createElement("tr");
+                row.innerHTML = `<td class="light right">${creature}</td><td></td><td>${translatedName}</td>`;
+                languageTable.appendChild(row);
+              }
+            }
+          }
+
+          // Add categories.json entries
+          var categoriesHeader = document.createElement("tr");
+          categoriesHeader.innerHTML = `<td colspan="3" class="bold action">categories.json</td>`;
+          languageTable.appendChild(categoriesHeader);
+
+          // Add regular categories
+          for (var categoryId in window.categories.APPDATA.categories) {
+            var category = window.categories.APPDATA.categories[categoryId];
+            if (category.nt) {
+              var englishName = category.n || categoryId;
+              var translatedName = category.nt[language] || '<span class="neg">(Uses English Version)</span>';
+              var row = document.createElement("tr");
+              row.innerHTML = `<td class="light right">${categoryId}</td><td>${englishName}</td><td>${translatedName}</td>`;
+              languageTable.appendChild(row);
+            }
+          }
+
+          // Add parent categories
+          for (var categoryId in window.categories.APPDATA.categoriesP) {
+            var category = window.categories.APPDATA.categoriesP[categoryId];
+            if (category.nt) {
+              var englishName = category.n || categoryId;
+              var translatedName = category.nt[language] || '<span class="neg">(Uses English Version)</span>';
+              var row = document.createElement("tr");
+              row.innerHTML = `<td class="light right">P${categoryId}</td><td>${englishName}</td><td>${translatedName}</td>`;
               languageTable.appendChild(row);
             }
           }
@@ -178,6 +230,19 @@
         keyInput.setAttribute("list", "key-list");
         document.body.appendChild(keyList);
 
+        // Load creatures.json
+        fetch('creatures.json')
+          .then(response => response.json())
+          .then(data => {
+            window.creatures = data;
+          });
+
+        // Load categories.json  
+        fetch('categories.json')
+          .then(response => response.json())
+          .then(data => {
+            window.categories = data;
+          });
 
       };
     </script>
@@ -215,6 +280,7 @@
 
       <div class="lightbox marginTop2">
         <h2 class="marginTop0">Progress</h2>
+        <p class="light marginTop0 marginBottom">Note: Percentages here only include interface translations. Creature and category names are not included since some languages use the English version.</p>
         <div id="stats"></div>
 
         <table class="btable marginTop" width="100%">
