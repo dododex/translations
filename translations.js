@@ -12364,6 +12364,8 @@ var translations = {
 			},{
 				name:"eh6gac4",
 				link:"https://github.com/eh6gac4"
+			},{
+				name:"nikepiko"
 			}]
 		},
 		ko:{

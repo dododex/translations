@@ -137,7 +137,9 @@
 		}
 	},
 	"archelon":{
-		"name_t":{}
+		"name_t":{
+			"ja":"アーケロン"
+		}
 	},
 	"argentavis":{
 		"name_t":{
@@ -152,7 +154,9 @@
 		}
 	},
 	"armadoggo":{
-		"name_t":{}
+		"name_t":{
+			"ja":"アルマドッゴ"
+		}
 	},
 	"arthropluera":{
 		"name_t":{
@@ -418,7 +422,9 @@
 		}
 	},
 	"ceratosaurus":{
-		"name_t":{}
+		"name_t":{
+			"ja":"ケラトサウルス"
+		}
 	},
 	"chalicotherium":{
 		"name_t":{
@@ -500,7 +506,9 @@
 		}
 	},
 	"cosmo":{
-		"name_t":{}
+		"name_t":{
+			"ja":"コスモ"
+		}
 	},
 	"crystalwyvern":{
 		"name_t":{
@@ -597,7 +605,9 @@
 		}
 	},
 	"deinosuchus":{
-		"name_t":{}
+		"name_t":{
+			"ja":"デイノスクス"
+		}
 	},
 	"deinotherium":{
 		"name_t":{}
@@ -782,11 +792,13 @@
 	},
 	"dodorex":{
 		"name_t":{
+			"ja":"ドードーレックス",
 			"zh-tw":"渡渡霸王龍"
 		}
 	},
 	"dodowyvern":{
 		"name_t":{
+			"ja":"ドードーワイバーン",
 			"zh-tw":"渡渡飛龍"
 		}
 	},
@@ -830,10 +842,14 @@
 		}
 	},
 	"dreadnoughtus":{
-		"name_t":{}
+		"name_t":{
+			"ja":"ドレッドノータス"
+		}
 	},
 	"dreadmare":{
-		"name_t":{}
+		"name_t":{
+			"ja":"ドレッドメア"
+		}
 	},
 	"dungbeetle":{
 		"name_t":{
@@ -1780,7 +1796,9 @@
 		}
 	},
 	"oasisaur":{
-		"name_t":{}
+		"name_t":{
+			"ja":"オアシサウルス"
+		}
 	},
 	"onyc":{
 		"name_t":{
@@ -2061,7 +2079,9 @@
 		}
 	},
 	"pyromane":{
-		"name_t":{}
+		"name_t":{
+			"ja":"パイロメイン"
+		}
 	},
 	"quetzal":{
 		"name_t":{
@@ -2310,7 +2330,9 @@
 		}
 	},
 	"shastasaurus":{
-		"name_t":{}
+		"name_t":{
+			"ja":"シャスタサウルス"
+		}
 	},
 	"shinehorn":{
 		"name_t":{
@@ -2709,7 +2731,9 @@
 		}
 	},
 	"xiphactinus":{
-		"name_t":{}
+		"name_t":{
+			"ja":"シファクティヌス"
+		}
 	},
 	"yeti":{
 		"name_t":{
@@ -2726,7 +2750,9 @@
 		}
 	},
 	"yiling":{
-		"name_t":{}
+		"name_t":{
+			"ja":"イーリン"
+		}
 	},
 	"yutyrannus":{
 		"name_t":{
