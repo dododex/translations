@@ -845,6 +845,11 @@
 			"zh-tw":"噴火龍"
 		}
 	},
+	"drakeling":{
+		"name_t":{
+			
+		}
+	},
 	"dreadnoughtus":{
 		"name_t":{
 			"ja":"ドレッドノータス"
@@ -2659,6 +2664,11 @@
 			"ru":"Единорог",
 			"zh":"独角兽",
 			"zh-tw":"獨角獸"
+		}
+	},
+	"veilwyn":{
+		"name_t":{
+			
 		}
 	},
 	"velonasaur":{
