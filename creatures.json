@@ -1741,6 +1741,9 @@
 			"zh-tw":"小盜龍"
 		}
 	},
+	"minotaur":{
+		"name_t":{}
+	},
 	"moeder":{
 		"name_t":{
 			"ja":"ムーダー",
@@ -1801,6 +1804,9 @@
 			"zh-tw":"無名怪"
 		}
 	},
+	"natrix":{
+		"name_t":{}
+	},
 	"noglin":{
 		"name_t":{
 			"ja":"ノグリン",
@@ -1808,6 +1814,9 @@
 			"zh":"诺格林",
 			"zh-tw":"諾格林"
 		}
+	},
+	"nunatak":{
+		"name_t":{}
 	},
 	"oasisaur":{
 		"name_t":{
@@ -2479,6 +2488,9 @@
 			"zh-tw":"駭鳥"
 		}
 	},
+	"thanatos":{
+		"name_t":{}
+	},
 	"therizinosaurus":{
 		"name_t":{
 			"es":"Tericinosaurio",
@@ -2493,6 +2505,9 @@
 			"zh":"镰刀龙",
 			"zh-tw":"鐮刀龍"
 		}
+	},
+	"thodes":{
+		"name_t":{}
 	},
 	"thornydragon":{
 		"name_t":{
