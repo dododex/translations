@@ -192,7 +192,7 @@
 			},
 			"o":15,
 			"p":1,
-			"s":"User:Danlev"
+			"s":"Spawn_Map_(Fjordur)"
 		},
 		"7":{
 			"n":"New To Scorched Earth",
@@ -968,6 +968,7 @@
 		"57":{
 			"n":"Astraeos",
 			"nt":{},
+			"s":"Spawn_Map_(Astraeos)",
 			"o":16,
 			"p":1
 		},
