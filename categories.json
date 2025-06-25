@@ -85,7 +85,7 @@
 			},
 			"o":5,
 			"p":1,
-			"s":"Spawn_Map_(The_Island)"
+			"s":"Spawn_Map/The_Island"
 		},
 		"3":{
 			"n":"The Center",
@@ -96,7 +96,7 @@
 			},
 			"o":6,
 			"p":1,
-			"s":"Spawn_Map_(The_Center)"
+			"s":"Spawn_Map/The_Center"
 		},
 		"4":{
 			"n":"Scorched Earth",
@@ -107,7 +107,7 @@
 			},
 			"o":7,
 			"p":1,
-			"s":"Spawn_Map_(Scorched_Earth)"
+			"s":"Spawn_Map/Scorched_Earth"
 		},
 		"5":{
 			"n":"Ragnarok",
@@ -118,7 +118,7 @@
 			},
 			"o":8,
 			"p":1,
-			"s":"Spawn_Map_(Ragnarok)"
+			"s":"Spawn_Map/Ragnarok"
 		},
 		"6":{
 			"n":"Aberration",
@@ -129,7 +129,7 @@
 			},
 			"o":9,
 			"p":1,
-			"s":"Spawn_Map_(Aberration)"
+			"s":"Spawn_Map/Aberration"
 		},
 		"37":{
 			"n":"Extinction",
@@ -141,7 +141,7 @@
 			"o":10,
 			"p":1,
 			"w":0,
-			"s":"Spawn_Map_(Extinction)"
+			"s":"Spawn_Map/Extinction"
 		},
 		"41":{
 			"n":"Genesis",
@@ -152,7 +152,7 @@
 			},
 			"o":11,
 			"p":1,
-			"s":"Spawn_Map_(Genesis:_Part_1)"
+			"s":"Spawn_Map/Genesis_Part_1)"
 		},
 		"43":{
 			"n":"Crystal Isles",
@@ -163,7 +163,7 @@
 			},
 			"o":12,
 			"p":1,
-			"s":"Spawn_Map_(Crystal_Isles)"
+			"s":"Spawn_Map/Crystal_Isles"
 		},
 		"45":{
 			"n":"Genesis Part 2",
@@ -173,7 +173,7 @@
 			},
 			"o":13,
 			"p":1,
-			"s":"Spawn_Map_(Genesis:_Part_2)"
+			"s":"Spawn_Map/Genesis_Part_2)"
 		},
 		"47":{
 			"n":"Lost Island",
@@ -183,7 +183,7 @@
 			},
 			"o":14,
 			"p":1,
-			"s":"Spawn_Map_(Lost_Island)"
+			"s":"Spawn_Map/Lost_Island"
 		},	
 		"50":{
 			"n":"Fjordur",
@@ -192,7 +192,7 @@
 			},
 			"o":15,
 			"p":1,
-			"s":"Spawn_Map_(Fjordur)"
+			"s":"Spawn_Map/Fjordur"
 		},
 		"7":{
 			"n":"New To Scorched Earth",
@@ -895,7 +895,7 @@
 				"zh-tw":"瓦爾蓋羅",
 				"ar":"فالقيرو"
 			},
-			"s":"Spawn_Map_(Valguero)",
+			"s":"Spawn_Map/Valguero",
 			"o":8,
 			"p":1
 		},
@@ -968,7 +968,6 @@
 		"57":{
 			"n":"Astraeos",
 			"nt":{},
-			"s":"Spawn_Map_(Astraeos)",
 			"o":16,
 			"p":1
 		},
