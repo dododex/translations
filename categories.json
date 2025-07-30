@@ -152,7 +152,7 @@
 			},
 			"o":11,
 			"p":1,
-			"s":"Spawn_Map/Genesis_Part_1)"
+			"s":"Spawn_Map/Genesis:_Part_1"
 		},
 		"43":{
 			"n":"Crystal Isles",
@@ -173,7 +173,7 @@
 			},
 			"o":13,
 			"p":1,
-			"s":"Spawn_Map/Genesis_Part_2)"
+			"s":"Spawn_Map/Genesis:_Part_2"
 		},
 		"47":{
 			"n":"Lost Island",
