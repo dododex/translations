@@ -277,6 +277,7 @@
 		"46":{
 			"n":"New To Genesis Part 2",
 			"nt":{
+				"fr":"Nouveau sur Genesis Part 2",
 				"zh":"《創世紀第二部份》新生物",
 				"zh-tw":"《創世紀第二部》新生物",
 				"vi":"Mới với Genesis Part 2"
@@ -287,6 +288,7 @@
 		"48":{
 			"n":"New To Lost Island",
 			"nt":{
+				"fr":"Nouveau sur Lost Island",
 				"zh":"《失落之島》新生物",
 				"zh-tw":"《失落之島》新生物",
 				"vi":"Mới với Lost Island"
@@ -297,6 +299,7 @@
 		"49":{
 			"n":"New To Fjordur",
 			"nt":{
+				"fr":"Nouveau sur Fjordur",
 				"vi":"Mới với Fjordur",
 				"zh-tw":"《維京》新生物"
 			},
