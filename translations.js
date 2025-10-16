@@ -487,7 +487,9 @@ var translations = {
 		trNoteKOAverage: "This creature drains torpor at {0} per second. Shoot at Dododex's \"Ideal Shooting Tempo\" — not faster or slower — to prevent any torpor depletion. Excessive time gaps or missed shots will cancel out hits.",
 		trNoteKOLow: "This creature drains torpor at only {0} per second. When you miss a shot or leave a time gap, only a little torpor will be depleted. Shoot at Dododex's \"Ideal Shooting Tempo\" — not faster or slower — to avoid torpor depletion.",
 		damageTorporRatio: "Damage:Torpor Ratio",
-		idealShootingTempo: "Ideal Shooting Tempo"
+		idealShootingTempo: "Ideal Shooting Tempo",
+		pinResourceBar: "Pin resource calculator",
+		rcLimitReached: "You've reached the limit of {0} items.",
 	},
 	ar: {
 		aboutStarveIntro: "\ الترويض بالتجويع\" طريقة يستخدمها بعض اللاعبون لتقليل خطر فقدان الموارد خلال ترويض المخلوق.",
@@ -943,7 +945,9 @@ var translations = {
 		trNoteKOAverage: "يستنزف هذا المخلوق التخدير بمعدل {0} في الثانية. أطلق وفق \"إيقاع الإطلاق المثالي\" لدودودكس — ليس أسرع ولا أبطأ — لمنع أي نقصان في التخدير. الفجوات الزمنية المفرطة أو الطلقات الضائعة ستلغي الضربات.",
 		trNoteKOLow: "يستنزف هذا المخلوق التخدير بمعدل {0} فقط في الثانية. عند تفويت طلقة أو ترك فجوة زمنية، سيتم تقليل القليل فقط من التخدير. أطلق وفق \"إيقاع الإطلاق المثالي\" لدودودكس — ليس أسرع ولا أبطأ — لتجنب نقصان التخدير.",
 		damageTorporRatio: "نسبة الضرر:التخدير",
-		idealShootingTempo: "إيقاع الإطلاق المثالي"
+		idealShootingTempo: "إيقاع الإطلاق المثالي",
+		pinResourceBar: "تثبيت شريط حاسبة الموارد",
+		rcLimitReached: "لقد وصلت إلى حد {0} عناصر."
 	},
 	cs: {
 		aboutStarveIntro: "\"Starve Taming\" je technika, kterou někteří přeživší používají k minimalizaci rizika ztráty zdrojů při ochočování stvoření.",
@@ -1400,7 +1404,9 @@ var translations = {
 		trNoteKOAverage: "Tento tvor snižuje otupění tempem {0} za sekundu. Střílejte v \"ideálním tempu střelby\" Dododexu — ani rychleji, ani pomaleji — abyste zabránili poklesu otupění. Nadměrné časové mezery nebo minuté výstřely zruší zásahy.",
 		trNoteKOLow: "Tento tvor snižuje otupění jen {0} za sekundu. Když minete nebo necháte časovou mezeru, sníží se otupění jen málo. Střílejte v \"ideálním tempu střelby\" Dododexu — ani rychleji, ani pomaleji — abyste se vyhnuli poklesu otupění.",
 		damageTorporRatio: "Poměr poškození:otupění",
-		idealShootingTempo: "Ideální tempo střelby"
+		idealShootingTempo: "Ideální tempo střelby",
+		pinResourceBar: "Připnout kalkulačku zdrojů",
+		rcLimitReached: "Dosáhli jste limitu {0} položek."
 	},
 	da: {
 		aboutStarveIntro: "\"Tæmning ved udsultning\" er en teknik, som nogle overlevende anvender for at minimere risikoen for at minimere risikoen for tab af ressourcer under tæmning.",
@@ -1856,7 +1862,9 @@ var translations = {
 		trNoteKOAverage: "Denne skabning dræner bedøvelse med {0} pr. sekund. Skyd i Dododex' \"Ideelle skydetempo\" — ikke hurtigere eller langsommere — for at forhindre bedøvelsestab. Overdrevne tidsgab eller missede skud annullerer træffere.",
 		trNoteKOLow: "Denne skabning dræner bedøvelse kun med {0} pr. sekund. Når du misser et skud eller laver en pause, bliver der kun tabt lidt bedøvelse. Skyd i Dododex' \"Ideelle skydetempo\" — ikke hurtigere eller langsommere — for at undgå bedøvelsestab.",
 		damageTorporRatio: "Skade:bedøvelse-forhold",
-		idealShootingTempo: "Ideelt skydetempo"
+		idealShootingTempo: "Ideelt skydetempo",
+		pinResourceBar: "Fastgør ressourceberegner",
+		rcLimitReached: "Du har nået grænsen på {0} genstande."
 	},
 	de: {
 		aboutStarveIntro: "\"Zähmen durch Aushungern\" ist eine Technik, die manche Überlebende benutzen, um das Risiko eines Ressourcenverlusts während des Zähmens zu minimieren.",
@@ -2312,7 +2320,9 @@ var translations = {
 		trNoteKOAverage: "Diese Kreatur reduziert Benommenheit mit {0} pro Sekunde. Schieße in Dododex' \"Idealem Schusstempo\" — nicht schneller oder langsamer — um Benommenheitsverlust zu verhindern. Übermäßige Zeitlücken oder Fehlschüsse heben Treffer auf.",
 		trNoteKOLow: "Diese Kreatur reduziert Benommenheit nur mit {0} pro Sekunde. Wenn du verfehlst oder eine Pause machst, geht nur wenig Benommenheit verloren. Schieße in Dododex' \"Idealem Schusstempo\" — nicht schneller oder langsamer — um Benommenheitsverlust zu vermeiden.",
 		damageTorporRatio: "Schaden:Benommenheit-Verhältnis",
-		idealShootingTempo: "Ideales Schusstempo"
+		idealShootingTempo: "Ideales Schusstempo",
+		pinResourceBar: "Ressourcenrechner anheften",
+		rcLimitReached: "Sie haben das Limit von {0} Gegenständen erreicht."
 	},
 	es: {
 		aboutStarveIntro: "La \"doma por hambre\" es una técnica usada por algunos supervivientes para minimizar el riesgo de perder recursos durante la doma de una criatura.",
@@ -2768,7 +2778,9 @@ var translations = {
 		trNoteKOAverage: "Esta criatura drena el aturdimiento a {0} por segundo. Dispara al \"Ritmo de Disparo Ideal\" de Dododex — ni más rápido ni más lento — para evitar la pérdida de aturdimiento. Las pausas excesivas o tiros fallados anularán los golpes.",
 		trNoteKOLow: "Esta criatura drena el aturdimiento solo a {0} por segundo. Cuando falles un tiro o dejes una pausa, se perderá muy poco aturdimiento. Dispara al \"Ritmo de Disparo Ideal\" de Dododex — ni más rápido ni más lento — para evitar la pérdida de aturdimiento.",
 		damageTorporRatio: "Relación Daño:Aturdimiento",
-		idealShootingTempo: "Ritmo de Disparo Ideal"
+		idealShootingTempo: "Ritmo de Disparo Ideal",
+		pinResourceBar: "Fijar calculadora de recursos",
+		rcLimitReached: "Has alcanzado el límite de {0} artículos."
 	},
 	fi: {
 		aboutStarveIntro: "\"Näännytys kesyttäminen\" Tekniikka jota jotkut selviytyjät käyttävät minimoidakseen riskin menettää resursseja kesyttämisen aikana.",
@@ -3224,7 +3236,9 @@ var translations = {
 		trNoteKOAverage: "Tämä olento vähentää tainnutusta nopeudella {0} sekunnissa. Ammu Dododexin \"Ihanteellisella ampumarytmillä\" — ei nopeammin eikä hitaammin — estääksesi tainnutuksen laskun. Liian pitkät tauot tai ohi menneet laukaukset mitätöivät osumat.",
 		trNoteKOLow: "Tämä olento vähentää tainnutusta vain {0} sekunnissa. Kun ohitat laukauksen tai pidät tauon, tainnutus vähenee vain vähän. Ammu Dododexin \"Ihanteellisella ampumarytmillä\" — ei nopeammin eikä hitaammin — välttääksesi tainnutuksen laskun.",
 		damageTorporRatio: "Vahinko:tainaussuhde",
-		idealShootingTempo: "Ihanteellinen ampumarytmi"
+		idealShootingTempo: "Ihanteellinen ampumarytmi",
+		pinResourceBar: "Kiinnitä resurssilaskin",
+		rcLimitReached: "Olet saavuttanut {0} kohteen rajan."
 	},
 	fr: {
 		aboutStarveIntro: "Le \"dressage par la faim\" est une méthode que certains survivants utilisent pour minimiser le risque de perdre des ressources lors du dressage.",
@@ -3680,7 +3694,9 @@ var translations = {
 		trNoteKOAverage: "Cette créature réduit l'engourdissement à {0} par seconde. Tirez au \"Rythme de tir idéal\" de Dododex — ni plus vite ni plus lentement — pour éviter la diminution de l'engourdissement. Des pauses excessives ou des tirs manqués annuleront les coups.",
 		trNoteKOLow: "Cette créature réduit l'engourdissement seulement à {0} par seconde. Lorsque vous manquez un tir ou laissez une pause, l'engourdissement diminue peu. Tirez au \"Rythme de tir idéal\" de Dododex — ni plus vite ni plus lentement — pour éviter la diminution de l'engourdissement.",
 		damageTorporRatio: "Rapport Dégâts:Engourdissement",
-		idealShootingTempo: "Rythme de tir idéal"
+		idealShootingTempo: "Rythme de tir idéal",
+		pinResourceBar: "Épingler la calculatrice de ressources",
+		rcLimitReached: "Vous avez atteint la limite de {0} objets."
 	},
 	el: {
 		aboutStarveIntro: "\Χαληναγώγηση της πείνας\" Είναι μια τεχνική που μερικοί επιζώντες χρησημοποιούν για να μειώσουν το ρίσκο του να χάσουν προμήθειες όταν εξημερώνουν ένα πλάσμα.",
@@ -4136,7 +4152,9 @@ var translations = {
 		trNoteKOAverage: "Αυτό το πλάσμα μειώνει τη νάρκωση με {0} ανά δευτερόλεπτο. Πυροβολήστε στο \"Ιδανικό Ρυθμό Βολής\" του Dododex — ούτε πιο γρήγορα ούτε πιο αργά — για να αποτρέψετε μείωση της νάρκωσης. Υπερβολικά κενά ή αστοχίες θα ακυρώσουν τα χτυπήματα.",
 		trNoteKOLow: "Αυτό το πλάσμα μειώνει τη νάρκωση μόνο με {0} ανά δευτερόλεπτο. Όταν χάνετε βολή ή αφήνετε κενό, η νάρκωση μειώνεται λίγο. Πυροβολήστε στο \"Ιδανικό Ρυθμό Βολής\" του Dododex — ούτε πιο γρήγορα ούτε πιο αργά — για να αποφύγετε τη μείωση της νάρκωσης.",
 		damageTorporRatio: "Αναλογία ζημιάς:νάρκωσης",
-		idealShootingTempo: "Ιδανικός ρυθμός βολής"
+		idealShootingTempo: "Ιδανικός ρυθμός βολής",
+		pinResourceBar: "Καρφίτσωμα αριθμομηχανής πόρων",
+		rcLimitReached: "Έχετε φτάσει το όριο των {0} αντικειμένων."
 	},
 	he: {
 		aboutStarveIntro: "\"אילוף בהרעבה\" היא טכניקה שחלק מהשורדים משתמשים בה כדי לצמצם את הסיכון של לאבד משאבים בזמן אילוף יצור.",
@@ -4592,7 +4610,9 @@ var translations = {
 		trNoteKOAverage: "יצור זה מפחית רדמה בקצב של {0} לשנייה. ירו ב-\"קצב הירי האידיאלי\" של Dododex — לא מהר יותר ולא לאט יותר — כדי למנוע ירידה ברדמה. מרווחי זמן מוגזמים או החטאות יבטלו את הפגיעות.",
 		trNoteKOLow: "יצור זה מפחית רדמה רק בקצב של {0} לשנייה. כאשר אתם מחמיצים ירייה או עושים הפסקה, יורדת מעט רדמה. ירו ב-\"קצב הירי האידיאלי\" של Dododex — לא מהר יותר ולא לאט יותר — כדי להימנע מירידה ברדמה.",
 		damageTorporRatio: "יחס נזק:רדמה",
-		idealShootingTempo: "קצב ירי אידיאלי"
+		idealShootingTempo: "קצב ירי אידיאלי",
+		pinResourceBar: "הצמד מחשבון משאבים",
+		rcLimitReached: "הגעתם למגבלה של {0} פריטים."
 	},
 	hr: {
 		aboutStarveIntro: "\"Pripitomljavanje izgladnjivanjem\" je tehnika koju neki preživljavači koriste kako bi minimalizirali rizik od gubljenja resurasa dok pripitomljavaju stvorenje.",
@@ -5048,7 +5068,9 @@ var translations = {
 		trNoteKOAverage: "Ovo stvorenje smanjuje omamljenost brzinom {0} u sekundi. Pucajte u \"Idealnom tempu pucanja\" Dododexa — ni brže ni sporije — kako biste spriječili pad omamljenosti. Prekomjerni razmaci ili promašaji poništit će pogotke.",
 		trNoteKOLow: "Ovo stvorenje smanjuje omamljenost samo {0} u sekundi. Kada promašite hitac ili napravite pauzu, gubi se samo malo omamljenosti. Pucajte u \"Idealnom tempu pucanja\" Dododexa — ni brže ni sporije — kako biste izbjegli pad omamljenosti.",
 		damageTorporRatio: "Omjer štete:omamljenosti",
-		idealShootingTempo: "Idealni tempo pucanja"
+		idealShootingTempo: "Idealni tempo pucanja",
+		pinResourceBar: "Prikačiti kalkulator resursa",
+		rcLimitReached: "Dostigli ste limit od {0} stavki."
 	},
 	id: {
 		aboutStarveIntro: "\"Penjinakkan\" adalah teknik yang digunakan beberapa survivor untuk meminimalkan risiko kehilangan sumber daya saat menjinakkan hewan. ",
@@ -5504,7 +5526,9 @@ var translations = {
 		trNoteKOAverage: "Makhluk ini menguras torpor sebesar {0} per detik. Tembak dengan \"Tempo Tembak Ideal\" Dododex — tidak lebih cepat atau lebih lambat — untuk mencegah penurunan torpor. Jeda waktu berlebihan atau tembakan meleset akan membatalkan hit.",
 		trNoteKOLow: "Makhluk ini hanya menguras torpor sebesar {0} per detik. Saat Anda meleset atau memberi jeda, hanya sedikit torpor yang berkurang. Tembak dengan \"Tempo Tembak Ideal\" Dododex — tidak lebih cepat atau lebih lambat — untuk menghindari penurunan torpor.",
 		damageTorporRatio: "Rasio Damage:Torpor",
-		idealShootingTempo: "Tempo Tembak Ideal"
+		idealShootingTempo: "Tempo Tembak Ideal",
+		pinResourceBar: "Pin kalkulator sumber daya",
+		rcLimitReached: "Anda telah mencapai batas {0} item."
 	},
 	it: {
 		aboutStarveIntro: "\"Starve Taming\" è una tecnica che alcuni giocatori utilizzano per minimizzare il rischio di perdere risorse durante la domazione",
@@ -5960,7 +5984,9 @@ var translations = {
 		trNoteKOAverage: "Questa creatura riduce la torpore a {0} al secondo. Spara al \"Ritmo di Tiro Ideale\" di Dododex — né più veloce né più lento — per evitare il calo del torpore. Pause eccessive o colpi mancati annulleranno i colpi.",
 		trNoteKOLow: "Questa creatura riduce la torpore solo a {0} al secondo. Quando manchi un colpo o lasci una pausa, si perderà solo un po' di torpore. Spara al \"Ritmo di Tiro Ideale\" di Dododex — né più veloce né più lento — per evitare il calo del torpore.",
 		damageTorporRatio: "Rapporto Danno:Torpore",
-		idealShootingTempo: "Ritmo di Tiro Ideale"
+		idealShootingTempo: "Ritmo di Tiro Ideale",
+		pinResourceBar: "Blocca calcolatore risorse",
+		rcLimitReached: "Hai raggiunto il limite di {0} oggetti."
 	},
 	ja: {
 		aboutStarveIntro: "\"空腹テイム\"は、資源を失うリスクを最小限に抑えるためにサバイバー達が使う技法です。",
@@ -6416,7 +6442,9 @@ var translations = {
 		trNoteKOAverage: "この生物は1秒あたり {0} のペースで気絶値が減少します。Dododexの\"理想的な射撃テンポ\"で撃ちましょう — 速すぎず遅すぎず — 気絶値の減少を防ぐために。過度の間隔や外した弾はヒットを無効にします。",
 		trNoteKOLow: "この生物は1秒あたり {0} しか気絶値が減少しません。弾を外したり間隔を空けたりすると、気絶値は少ししか減りません。Dododexの\"理想的な射撃テンポ\"で撃ちましょう — 速すぎず遅すぎず — 気絶値の減少を避けるために。",
 		damageTorporRatio: "ダメージ:気絶値 比率",
-		idealShootingTempo: "理想的な射撃テンポ"
+		idealShootingTempo: "理想的な射撃テンポ",
+		pinResourceBar: "リソース計算機をピン留め",
+		rcLimitReached: "{0} アイテムの制限に達しました。"
 	},
 	ko: {
 		aboutStarveIntro: "\"굶주림 조련\". 몇몇 생존자들이 생물을 길들이기 동안 음식 손실을 최소화하기 위해 사용하는 기술입니다.",
@@ -6872,7 +6900,9 @@ var translations = {
 		trNoteKOAverage: "이 생물은 초당 {0}의 속도로 기절 수치가 감소합니다. Dododex의 \"이상적인 사격 템포\"로 쏘세요 — 더 빠르지도 느리지도 않게 — 기절 수치 감소를 방지하기 위해. 과도한 간격이나 빗나감은 타격을 무효화합니다.",
 		trNoteKOLow: "이 생물은 초당 {0}만큼만 기절 수치가 감소합니다. 빗나가거나 간격을 두면 기절 수치가 조금만 줄어듭니다. Dododex의 \"이상적인 사격 템포\"로 쏘세요 — 더 빠르지도 느리지도 않게 — 기절 수치 감소를 피하기 위해.",
 		damageTorporRatio: "피해:기절 비율",
-		idealShootingTempo: "이상적인 사격 템포"
+		idealShootingTempo: "이상적인 사격 템포",
+		pinResourceBar: "자원 계산기 고정",
+		rcLimitReached: "{0}개 항목의 제한에 도달했습니다."
 	},
 	lv: {
 		aboutStarveIntro: "\" Bada pieradināšana \"ir metode, ko daži izdzīvojušie izmanto, lai samazinātu resursu zaudēšanu, pieradinot radību.",
@@ -7328,7 +7358,9 @@ var translations = {
 		trNoteKOAverage: "Šī būtne samazina apdullinājumu ar {0} sekundē. Šaujiet Dododex \"Ideālajā šaušanas tempā\" — ne ātrāk, ne lēnāk — lai novērstu apdullinājuma krišanos. Pārmērīgas atstarpes vai netrāpījumi anulēs trāpījumus.",
 		trNoteKOLow: "Šī būtne samazina apdullinājumu tikai ar {0} sekundē. Ja netrāpat vai ieturat pauzi, apdullinājums samazināsies tikai nedaudz. Šaujiet Dododex \"Ideālajā šaušanas tempā\" — ne ātrāk, ne lēnāk — lai izvairītos no apdullinājuma krišanās.",
 		damageTorporRatio: "Bojājumi:apdullinājums attiecība",
-		idealShootingTempo: "Ideālais šaušanas temps"
+		idealShootingTempo: "Ideālais šaušanas temps",
+		pinResourceBar: "Piespraust resursu kalkulatoru",
+		rcLimitReached: "Esat sasniedzis {0} vienību ierobežojumu."
 	},
 	nb: {
 		aboutStarveIntro: "\"Sultetemming\" er en teknikk overlevende bruker for å minimalisere risken for å miste ressurser mens de temmer en skapning.",
@@ -7784,7 +7816,9 @@ var translations = {
 		trNoteKOAverage: "Denne skapningen tapper bedøvelse med {0} per sekund. Skyt i Dododex' \"Ideelle skyttetempo\" — ikke raskere eller saktere — for å forhindre tap av bedøvelse. Overdrevne pauser eller bomskudd vil annullere treff.",
 		trNoteKOLow: "Denne skapningen tapper bedøvelse bare med {0} per sekund. Når du bommer eller tar en pause, reduseres bedøvelsen bare litt. Skyt i Dododex' \"Ideelle skyttetempo\" — ikke raskere eller saktere — for å unngå tap av bedøvelse.",
 		damageTorporRatio: "Skade:bedøvelse-forhold",
-		idealShootingTempo: "Ideelt skyttetempo"
+		idealShootingTempo: "Ideelt skyttetempo",
+		pinResourceBar: "Fest ressurskalkulator",
+		rcLimitReached: "Du har nådd grensen på {0} gjenstander."
 	},
 	nl: {
 		aboutStarveIntro: "\"Uitgehongerd Temmen\" Is een techniek die sommige overlevers gebruiken om zo min mogelijk risico te lopen om hun spullen te verliezen tijdens het temmen van een dino.",
@@ -8240,7 +8274,9 @@ var translations = {
 		trNoteKOAverage: "Dit wezen vermindert verdoving met {0} per seconde. Schiet op Dododex' \"Ideale schiettempo\" — niet sneller of langzamer — om verlies van verdoving te voorkomen. Overmatige pauzes of misfires maken treffers ongedaan.",
 		trNoteKOLow: "Dit wezen vermindert verdoving slechts met {0} per seconde. Wanneer je mist of een pauze laat, vermindert de verdoving maar een beetje. Schiet op Dododex' \"Ideale schiettempo\" — niet sneller of langzamer — om verlies van verdoving te vermijden.",
 		damageTorporRatio: "Schade:verdoving-verhouding",
-		idealShootingTempo: "Ideaal schiettempo"
+		idealShootingTempo: "Ideaal schiettempo",
+		pinResourceBar: "Broncalculator vastzetten",
+		rcLimitReached: "Je hebt de limiet van {0} items bereikt."
 	},
 	pl:{
 		aboutStarveIntro: "\"Technika Głodowania\" to technika używana przez graczy do zminimalizowania traconych surowców podczas oswajania kreatury.",
@@ -9152,7 +9188,9 @@ var translations = {
 		trNoteKOAverage: "Esta criatura reduz o torpor em {0} por segundo. Atire no \"Ritmo Ideal de Tiro\" do Dododex — nem mais rápido nem mais devagar — para evitar a queda no torpor. Lacunas de tempo excessivas ou tiros perdidos anularão os acertos.",
 		trNoteKOLow: "Esta criatura reduz o torpor em apenas {0} por segundo. Quando você erra um tiro ou faz uma pausa, o torpor cai apenas um pouco. Atire no \"Ritmo Ideal de Tiro\" do Dododex — nem mais rápido nem mais devagar — para evitar a queda no torpor.",
 		damageTorporRatio: "Relação Dano:Torpor",
-		idealShootingTempo: "Ritmo Ideal de Tiro"
+		idealShootingTempo: "Ritmo Ideal de Tiro",
+		pinResourceBar: "Fixar calculadora de recursos",
+		rcLimitReached: "Você atingiu o limite de {0} itens."
 	},
 	ro: {
 		aboutStarveIntro: "\"Îmblânzirea prin înfometare\" este o tehnică pe care unii supravieţuitori o folosesc pentru a minimiza riscul de a pierde resurse în timpul îmblânzirii unei creaturi.",
@@ -9608,7 +9646,9 @@ var translations = {
 		trNoteKOAverage: "Această creatură scade torporea cu {0} pe secundă. Trage la \"Ritmul Ideal de Tragere\" al Dododex — nici mai repede, nici mai încet — pentru a preveni scăderea torporeei. Pauzele excesive sau loviturile ratate vor anula loviturile.",
 		trNoteKOLow: "Această creatură scade torporea doar cu {0} pe secundă. Când ratezi o lovitură sau faci o pauză, torporea scade doar puțin. Trage la \"Ritmul Ideal de Tragere\" al Dododex — nici mai repede, nici mai încet — pentru a evita scăderea torporeei.",
 		damageTorporRatio: "Raport Daune:Torporee",
-		idealShootingTempo: "Ritmul ideal de tragere"
+		idealShootingTempo: "Ritmul ideal de tragere",
+		pinResourceBar: "Fixează calculatorul de resurse",
+		rcLimitReached: "Ai atins limita de {0} obiecte."
 	},
 	ru: {
 		aboutStarveIntro: "\"Приручение с голоданием\" - это техника приручения существ, которая помогает выжившим минимизировать риск потери ресурсов в процессе приручения.",
@@ -10064,7 +10104,9 @@ var translations = {
 		trNoteKOAverage: "Это существо снижает усыпление со скоростью {0} в секунду. Стреляйте в \"Идеальном темпе стрельбы\" Dododex — не быстрее и не медленнее — чтобы предотвратить снижение усыпления. Чрезмерные паузы или промахи аннулируют попадания.",
 		trNoteKOLow: "Это существо снижает усыпление всего на {0} в секунду. Когда вы промахиваетесь или делаете паузу, усыпление снижается лишь немного. Стреляйте в \"Идеальном темпе стрельбы\" Dododex — не быстрее и не медленнее — чтобы избежать снижения усыпления.",
 		damageTorporRatio: "Соотношение урон:усыпление",
-		idealShootingTempo: "Идеальный темп стрельбы"
+		idealShootingTempo: "Идеальный темп стрельбы",
+		pinResourceBar: "Закрепить калькулятор ресурсов",
+		rcLimitReached: "Вы достигли лимита в {0} предметов."
 	},
 	th: {
 		aboutStarveIntro: "\"การจับแบบอดอาหาร\" คือเทคนิคที่ผู้เล่นบางคนใช้เพื่อลดความเสี่ยงของการสูญเสียทรัพยากรณ์ในขณะจับไดโน",
@@ -10520,7 +10562,9 @@ var translations = {
 		trNoteKOAverage: "สิ่งมีชีวิตนี้ลดค่ามึนงงที่ {0} ต่อวินาที ยิงด้วย \"จังหวะการยิงที่เหมาะสม\" ของ Dododex — ไม่เร็วหรือช้ากว่า — เพื่อป้องกันการลดค่ามึนงง ช่องว่างของเวลาที่มากเกินไปหรือการยิงพลาดจะยกเลิกการโจมตี",
 		trNoteKOLow: "สิ่งมีชีวิตนี้ลดค่ามึนงงเพียง {0} ต่อวินาที เมื่อคุณยิงพลาดหรือเว้นช่วง ค่ามึนงงจะลดลงเพียงเล็กน้อย ยิงด้วย \"จังหวะการยิงที่เหมาะสม\" ของ Dododex — ไม่เร็วหรือช้ากว่า — เพื่อหลีกเลี่ยงการลดค่ามึนงง",
 		damageTorporRatio: "อัตราส่วน ดาเมจ:มึนงง",
-		idealShootingTempo: "จังหวะการยิงที่เหมาะสม"
+		idealShootingTempo: "จังหวะการยิงที่เหมาะสม",
+		pinResourceBar: "ปักหมุดเครื่องคิดเลขทรัพยากร",
+		rcLimitReached: "คุณได้ถึงขีดจำกัด {0} รายการแล้ว"
 	},
 	tr: {
 		aboutStarveIntro: "\"Aç Bırakmak\" evcilleştirme sırasında açlık değerinin düşmesini bekleyerek, kaynak kaybetme riskini en aza indirgemek için kullanılan bir yöntemdir.",
@@ -10978,7 +11022,9 @@ var translations = {
 		trNoteKOAverage: "Bu yaratık saniyede {0} oranında sersemleme düşürür. Dododex'in \"İdeal Atış Temposu\" ile ateş edin — daha hızlı ya da yavaş değil — sersemleme kaybını önlemek için. Aşırı zaman boşlukları veya ıskalamalar vuruşları iptal eder.",
 		trNoteKOLow: "Bu yaratık sersemlemeyi yalnızca saniyede {0} oranında düşürür. Iskaladığınızda veya ara verdiğinizde sersemleme sadece biraz azalır. Dododex'in \"İdeal Atış Temposu\" ile ateş edin — daha hızlı ya da yavaş değil — sersemleme kaybından kaçınmak için.",
 		damageTorporRatio: "Hasar:Sersemleme oranı",
-		idealShootingTempo: "İdeal atış temposu"
+		idealShootingTempo: "İdeal atış temposu",
+		pinResourceBar: "Kaynak hesaplayıcısını sabitle",
+		rcLimitReached: "{0} öğe sınırına ulaştınız."
 	},
 	uk: {
 		aboutStarveIntro: "\"Приборкання голодом\" Цю техніку використовують деякі гравці, щоб мінімізувати ризик втрати ресурсі, під час приборкання істоти.",
@@ -11434,7 +11480,9 @@ var translations = {
 		trNoteKOAverage: "Ця істота зменшує оглушення зі швидкістю {0} за секунду. Стріляйте в \"Ідеальному темпі стрільби\" Dododex — не швидше і не повільніше — щоб запобігти зменшенню оглушення. Надмірні паузи або промахи анулюють влучення.",
 		trNoteKOLow: "Ця істота зменшує оглушення лише на {0} за секунду. Коли ви промахуєтеся або робите паузу, оглушення зменшується лише трохи. Стріляйте в \"Ідеальному темпі стрільби\" Dododex — не швидше і не повільніше — щоб уникнути зменшення оглушення.",
 		damageTorporRatio: "Співвідношення Урон:Оглушення",
-		idealShootingTempo: "Ідеальний темп стрільби"
+		idealShootingTempo: "Ідеальний темп стрільби",
+		pinResourceBar: "Закріпити калькулятор ресурсів",
+		rcLimitReached: "Ви досягли ліміту в {0} предметів."
 	},
 	vi: {
 		aboutStarveIntro: "\"Thuần hóa bỏ đói\" đây là cách một số người chơi đã sử dụng để tiết kiệm lượng tài nguyên của mình",
@@ -11890,7 +11938,9 @@ var translations = {
 		trNoteKOAverage: "Sinh vật này giảm trạng thái choáng với tốc độ {0} mỗi giây. Hãy bắn theo \"Nhịp bắn lý tưởng\" của Dododex — không nhanh hơn cũng không chậm hơn — để ngăn việc giảm choáng. Khoảng dừng quá lâu hoặc bắn trượt sẽ hủy các đòn đánh.",
 		trNoteKOLow: "Sinh vật này chỉ giảm trạng thái choáng {0} mỗi giây. Khi bắn trượt hoặc ngừng bắn, choáng chỉ giảm một chút. Hãy bắn theo \"Nhịp bắn lý tưởng\" của Dododex — không nhanh hơn cũng không chậm hơn — để tránh giảm choáng.",
 		damageTorporRatio: "Tỷ lệ Sát thương:Choáng",
-		idealShootingTempo: "Nhịp bắn lý tưởng"
+		idealShootingTempo: "Nhịp bắn lý tưởng",
+		pinResourceBar: "Ghim máy tính tài nguyên",
+		rcLimitReached: "Bạn đã đạt giới hạn {0} mục."
 	},
 	zh: {
 		aboutStarveIntro: "“饥饿驯服法”是一种很多玩家用来降低驯服过程中资源损失的方法。",
@@ -12347,7 +12397,9 @@ var translations = {
 		trNoteKOAverage: "该生物的眩晕以每秒 {0} 的速度下降。按照 Dododex 的\"理想射击节奏\" 开火——不快不慢——以防止眩晕下降。过长的间隔或未命中会使命中无效。",
 		trNoteKOLow: "该生物的眩晕每秒只下降 {0}。当你打偏或停顿时，眩晕只会略微下降。按照 Dododex 的\"理想射击节奏\" 开火——不快不慢——以避免眩晕下降。",
 		damageTorporRatio: "伤害:眩晕 比例",
-		idealShootingTempo: "理想射击节奏"
+		idealShootingTempo: "理想射击节奏",
+		pinResourceBar: "固定资源计算器",
+		rcLimitReached: "您已达到 {0} 个物品的限制。"
 	},
 	"zh-tw": {
 		aboutStarveIntro: "“飢餓馴服法”是一種很多玩家用來降低馴服過程中資源損失的方法。",
@@ -12803,7 +12855,9 @@ var translations = {
 		trNoteKOAverage: "該生物的眩暈以每秒 {0} 的速度下降。按照 Dododex 的\"理想射擊節奏\" 開火——不快不慢——以防止眩暈下降。過長的間隔或未命中會使命中無效。",
 		trNoteKOLow: "該生物的眩暈每秒只下降 {0}。當你打偏或停頓時，眩暈只會略微下降。按照 Dododex 的\"理想射擊節奏\" 開火——不快不慢——以避免眩暈下降。",
 		damageTorporRatio: "傷害:眩暈 比例",
-		idealShootingTempo: "理想射擊節奏"
+		idealShootingTempo: "理想射擊節奏",
+		pinResourceBar: "固定資源計算器",
+		rcLimitReached: "您已達到 {0} 個物品的限制。"
 	}}
 	
 	/* Language names should be in native language */
