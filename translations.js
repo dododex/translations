@@ -9623,7 +9623,7 @@ var translations = {
 		removeRC: "Удалено из калькулятора ресурсов",
 		wantToTame: "Хочу приручить",
 		notYetTamed: "Еще не приручен"
-		
+	},
 	sv: {
 		aboutStarveIntro: "\"Starve Taming\" is a technique some survivors use to minimize risk of losing resources while taming a creature.",
 		wastedPoints: "\"Slösade\" Poäng",
@@ -10058,7 +10058,29 @@ var translations = {
 		addRC: "Added to resource calculator",
 		removeRC: "Removed from resource calculator",
 		wantToTame: "Want To Tame",
-		notYetTamed: "Not Yet Tamed"
+		notYetTamed: "Not Yet Tamed",
+		yourNewSettings: "Your New Settings",
+		oldArkMobile: "Old Ark Mobile",
+		singlePlayer: "Single Player",
+		spawnCommands: "Spawn Commands",
+		tribeTower: "Tribe Tower",
+		tribeTowerMultiplier: "Taming Speed Bonus / XP Bonus",
+		ASASinglePlayerEasy: "ASA Single Player (Easy Difficulty)",
+		ASASinglePlayerMedium: "ASA Single Player (Medium Difficulty)",
+		ASASinglePlayerHard: "ASA Single Player (Hard Difficulty)",
+		smallTribesServer: "Small Tribes Server",
+		gathering: "Gathering",
+		knockOutNotNeeded: "The {0} does not need to be knocked out. Information is for reference only.",
+		hits: "Hits",
+		itemsRecipes: "Items & Recipes",
+		engrams: "Engrams",
+		trNoteKOHigh: "Don't miss a shot! This creature drains torpor at {0} per second. Shoot at Dododex's \"Ideal Shooting Tempo\" — not faster or slower — to prevent any torpor depletion. Time gaps or missed shots will cancel out hits. Bring extra equipment.",
+		trNoteKOAverage: "This creature drains torpor at {0} per second. Shoot at Dododex's \"Ideal Shooting Tempo\" — not faster or slower — to prevent any torpor depletion. Excessive time gaps or missed shots will cancel out hits.",
+		trNoteKOLow: "This creature drains torpor at only {0} per second. When you miss a shot or leave a time gap, only a little torpor will be depleted. Shoot at Dododex's \"Ideal Shooting Tempo\" — not faster or slower — to avoid torpor depletion.",
+		damageTorporRatio: "Damage:Torpor Ratio",
+		idealShootingTempo: "Ideal Shooting Tempo",
+		pinResourceBar: "Pin resource calculator",
+		rcLimitReached: "You've reached the limit of {0} items."
 	},
 	th: {
 		aboutStarveIntro: "\"การจับแบบอดอาหาร\" คือเทคนิคที่ผู้เล่นบางคนใช้เพื่อลดความเสี่ยงของการสูญเสียทรัพยากรณ์ในขณะจับไดโน",
