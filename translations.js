@@ -12913,6 +12913,13 @@ var translations = {
 				link:"https://twitter.com/cnemirhn"
 			}]
 		},
+		sv:{
+			name:"Svenska",
+			credit:[{
+				name:"Hassebot1337",
+				link:"https://github.com/Hassebot1337"
+			}]
+		},
 		th:{
 			name:"ภาษาไทย",
 			credit:[{
