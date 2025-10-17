@@ -8732,7 +8732,9 @@ var translations = {
 		trNoteKOAverage: "To stworzenie zmniejsza odurzenie w tempie {0} na sekundę. Strzelaj w \"Idealnym tempie strzału\" Dododexa — ani szybciej, ani wolniej — aby zapobiec spadkowi odurzenia. Nadmierne przerwy lub pudła unieważnią trafienia.",
 		trNoteKOLow: "To stworzenie zmniejsza odurzenie tylko o {0} na sekundę. Gdy chybisz lub zrobisz przerwę, odurzenie spadnie tylko trochę. Strzelaj w \"Idealnym tempie strzału\" Dododexa — ani szybciej, ani wolniej — aby uniknąć spadku odurzenia.",
 		damageTorporRatio: "Stosunek Obrażenia:Odurzenie",
-		idealShootingTempo: "Idealne tempo strzału"
+		idealShootingTempo: "Idealne tempo strzału",
+		pinResourceBar: "Przypnij kalkulator zasobów",
+		rcLimitReached: "Osiągnąłeś limit {0} przedmiotów."
 	},
 	"pt-br":{
 		aboutStarveIntro: "\"Tempo de Fome\" é uma técnica que alguns sobreviventes usam para minimizar o risco de perderem recursos enquanto domam sua criatura.",
