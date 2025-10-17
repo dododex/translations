@@ -1,4 +1,4 @@
-name: Lint JSON (Translations)
+name: Lint JSON
 
 on:
   push:
@@ -23,11 +23,7 @@ jobs:
       - name: Install JSON linter
         run: npm install -g jsonlint
 
-      - name: Lint JSON files in /translations
+      - name: Lint all JSON files
         run: |
-          echo "Linting JSON files in /translations..."
-          if [ -d "./translations" ]; then
-            find ./translations -type f -name "*.json" -print0 | xargs -0 -n1 jsonlint -q
-          else
-            echo "No /translations directory found."
-          fi
+          echo "Linting JSON files..."
+          find . -type f -name "*.json" -print0 | xargs -0 -n1 jsonlint -q
