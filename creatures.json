@@ -210,6 +210,10 @@
 			"zh-tw":"攻擊無人機"
 		}
 	},
+	"aureliax":{
+		"name_t":{
+		}
+	},
 	"baryonyx":{
 		"name_t":{
 			"ar":"باريونكس",
@@ -1148,6 +1152,10 @@
 			"zh":"巨盗龙"
 		}
 	},
+	"gloon":{
+		"name_t":{
+		}
+	},
 	"glowbug":{
 		"name_t":{
 			"cs":"Světluška",
@@ -1519,6 +1527,10 @@
 			"ru":"Магмазавр",
 			"zh":"熔喉龙",
 			"zh-tw":"熔喉龍"
+		}
+	},
+	"malwyn":{
+		"name_t":{
 		}
 	},
 	"mammoth":{
@@ -1940,6 +1952,10 @@
 			"ru":"Пахиринозавр",
 			"zh":"厚鼻龙",
 			"zh-tw":"厚鼻龍"
+		}
+	},
+	"palaeoctopus":{
+		"name_t":{
 		}
 	},
 	"paracer":{
@@ -2414,6 +2430,10 @@
 			"tr":"Kar Baykuşu",
 			"zh":"雪鸮",
 			"zh-tw":"雪鴞"
+		}
+	},
+	"solwyn":{
+		"name_t":{
 		}
 	},
 	"spinosaur":{
