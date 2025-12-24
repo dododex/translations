@@ -1108,6 +1108,9 @@
 
 		}
 	},
+	"gigadesmodus":{
+		"name_t":{}
+	},
 	"giganotosaurus":{
 		"name_t":{
 			"ar":"جيجانوتوسوروس",
@@ -1480,6 +1483,12 @@
 			"zh-tw":"滑齒龍"
 		}
 	},
+	"lostking":{
+		"name_t":{}
+	},
+	"lostqueen":{
+		"name_t":{}
+	},
 	"lymantria":{
 		"name_t":{
 			"fr":"Lymantria",
@@ -1835,6 +1844,9 @@
 		}
 	},
 	"natrix":{
+		"name_t":{}
+	},
+	"neophyte":{
 		"name_t":{}
 	},
 	"noglin":{
@@ -2572,6 +2584,9 @@
 			"zh":"棘蜥",
 			"zh-tw":"棘蜥"
 		}
+	},
+	"thrall":{
+		"name_t":{}
 	},
 	"thylacoleo":{
 		"name_t":{
