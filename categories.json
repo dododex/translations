@@ -1976,7 +1976,7 @@
 					"zh-tw":"結構"
 				},
 				"o":1,
-				"p":5 // PArent is Structures
+				"p":5
 			},
 			"2":{
 				"n":"Recipes",
