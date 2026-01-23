@@ -1939,10 +1939,10 @@
 					"zh-tw":"工具"
 				},
 				"o":0,
-				"p":27
+				"p":26
 			},
 			"1":{
-				"n":"Structures",
+				"n":"General Structures",
 				"i":"Stone_Wall.png",
 				"nt":{
 					"ar":"هياكل",
@@ -1975,7 +1975,7 @@
 					"zh-tw":"結構"
 				},
 				"o":1,
-				"p":5
+				"p":27
 			},
 			"2":{
 				"n":"Recipes",
@@ -2261,7 +2261,7 @@
 					"zh":"种子",
 					"zh-tw":"種子"
 				},
-				"o":9,
+				"o":5,
 				"p":22
 			},
 			"10":{
@@ -2405,7 +2405,7 @@
 					"zh":"消耗品",
 					"zh-tw":"消耗品"
 				},
-				"o":13,
+				"o":8,
 				"p":22
 			},
 			"14":{
@@ -2643,6 +2643,7 @@
 			},
 			"21":{
 				"n":"Kibble (Old Ark Mobile)",
+				"i":"Kibble.png",
 				"nt":{
 					"ar":"Kibble (ARK Mobile القديم)",
 					"cs":"Kibble (Starý ARK Mobile)",
