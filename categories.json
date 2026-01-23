@@ -2225,7 +2225,8 @@
 					"zh":"神器",
 					"zh-tw":"神器"
 				},
-				"o":8
+				"o":8,
+				"p":28
 			},
 			"9":{
 				"n":"Seeds",
@@ -2260,7 +2261,8 @@
 					"zh":"种子",
 					"zh-tw":"種子"
 				},
-				"o":9
+				"o":9,
+				"p":22
 			},
 			"10":{
 				"n":"Attachments",
@@ -2295,7 +2297,8 @@
 					"zh":"附件",
 					"zh-tw":"附件"
 				},
-				"o":10
+				"o":10,
+				"p":26
 			},
 			"11":{
 				"n":"Wood",
@@ -2909,6 +2912,42 @@
 					"zh-tw":"特殊"
 				},
 				"o":6
+			},
+			"29":{
+				"n":"Thatch",
+				"i":"Thatch_Wall.png",
+				"nt":{
+					"ar":"قش",
+					"cs":"Sláma",
+					"da":"Strå",
+					"de":"Stroh",
+					"el":"Άχυρο",
+					"es":"Paja",
+					"fi":"Olki",
+					"fr":"Chaume",
+					"he":"קש",
+					"hr":"Slama",
+					"id":"Jerami",
+					"it":"Paglia",
+					"ja":"わら",
+					"ko":"짚",
+					"lv":"Salmi",
+					"nb":"Strå",
+					"nl":"Riet",
+					"pl":"Słoma",
+					"pt-br":"Palha",
+					"ro":"Paie",
+					"ru":"Солома",
+					"sv":"Strå",
+					"th":"ฟาง",
+					"tr":"Saman",
+					"uk":"Солома",
+					"vi":"Rơm",
+					"zh":"茅草",
+					"zh-tw":"茅草"
+				},
+				"o":0,
+				"p":7
 			}
 		},
 		"variantCategories":{
