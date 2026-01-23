@@ -1907,7 +1907,7 @@
 		"itemCategories":{
 			"0":{
 				"n":"Tools",
-				"img":"Metal_Pick.png",
+				"i":"Metal_Pick.png",
 				"nt":{
 					"ar":"أدوات",
 					"cs":"Nástroje",
@@ -1943,7 +1943,7 @@
 			},
 			"1":{
 				"n":"Structures",
-				"img":"Stone_Wall.png",
+				"i":"Stone_Wall.png",
 				"nt":{
 					"ar":"هياكل",
 					"cs":"Stavby",
@@ -1979,7 +1979,7 @@
 			},
 			"2":{
 				"n":"Recipes",
-				"img":"Note.png",
+				"i":"Note.png",
 				"nt":{
 					"ar":"وصفات",
 					"cs":"Recepty",
@@ -2015,7 +2015,7 @@
 			},
 			"3":{
 				"n":"Armor",
-				"img":"Flak_Chestpiece.png",
+				"i":"Flak_Chestpiece.png",
 				"nt":{
 					"ar":"دروع",
 					"cs":"Zbroj",
@@ -2051,7 +2051,7 @@
 			},
 			"4":{
 				"n":"Skins",
-				"img":"Santa_Costume_Skin.png",
+				"i":"Santa_Costume_Skin.png",
 				"nt":{
 					"ar":"مظاهر",
 					"cs":"Skiny",
@@ -2087,7 +2087,7 @@
 			},
 			"5":{
 				"n":"Resources",
-				"img":"Stone.png",
+				"i":"Stone.png",
 				"nt":{
 					"ar":"موارد",
 					"cs":"Suroviny",
@@ -2123,7 +2123,7 @@
 			},
 			"6":{
 				"n":"Weapons",
-				"img":"Fabricated_Pistol.png",
+				"i":"Fabricated_Pistol.png",
 				"nt":{
 					"ar":"الأسلحة",
 					"cs":"Zbraně",
@@ -2158,7 +2158,7 @@
 			},
 			"7":{
 				"n":"Greenhouse",
-				"img":"Greenhouse_Wall.png",
+				"i":"Greenhouse_Wall.png",
 				"nt":{
 					"ar":"بيت زجاجي",
 					"cs":"Skleník",
@@ -2194,7 +2194,7 @@
 			},
 			"8":{
 				"n":"Artifacts",
-				"img":"Artifact_of_the_Stalker.png",
+				"i":"Artifact_of_the_Stalker.png",
 				"nt":{
 					"ar":"آثار",
 					"cs":"Artefakty",
@@ -2229,7 +2229,7 @@
 			},
 			"9":{
 				"n":"Seeds",
-				"img":"Plant_Species_Z_Seed.png",
+				"i":"Plant_Species_Z_Seed.png",
 				"nt":{
 					"ar":"بذور",
 					"cs":"Semena",
@@ -2264,7 +2264,7 @@
 			},
 			"10":{
 				"n":"Attachments",
-				"img":"Scope_Attachment.png",
+				"i":"Scope_Attachment.png",
 				"nt":{
 					"ar":"ملحقات",
 					"cs":"Příslušenství",
@@ -2299,7 +2299,7 @@
 			},
 			"11":{
 				"n":"Wood",
-				"img":"Wooden_Wall.png",
+				"i":"Wooden_Wall.png",
 				"nt":{
 					"ar":"خشب",
 					"cs":"Dřevo",
@@ -2335,7 +2335,7 @@
 			},
 			"12":{
 				"n":"Trophies",
-				"img":"Alpha_Nunatak_Trophy.png",
+				"i":"Alpha_Nunatak_Trophy.png",
 				"nt":{
 					"ar":"جوائز",
 					"cs":"Trofie",
@@ -2371,7 +2371,7 @@
 			},
 			"13":{
 				"n":"Consumables",
-				"img":"Mindwipe_Tonic.png",
+				"i":"Mindwipe_Tonic.png",
 				"nt":{
 					"ar":"المواد الاستهلاكية",
 					"cs":"Consumables",
@@ -2407,7 +2407,7 @@
 			},
 			"14":{
 				"n":"Ammunition",
-				"img":"Simple_Bullet.png",
+				"i":"Simple_Bullet.png",
 				"nt":{
 					"ar":"ذخيرة",
 					"cs":"Munice",
@@ -2443,7 +2443,7 @@
 			},
 			"15":{
 				"n":"Adobe",
-				"img":"Adobe_Wall.png",
+				"i":"Adobe_Wall.png",
 				"nt":{
 					"ar":"طوب",
 					"cs":"Adobe",
@@ -2479,7 +2479,7 @@
 			},
 			"16":{
 				"n":"Emotes",
-				"img":"Archer_Flex_Emote.png",
+				"i":"Archer_Flex_Emote.png",
 				"nt":{
 					"ar":"إيماءات",
 					"cs":"Emoty",
@@ -2515,7 +2515,7 @@
 			},
 			"17":{
 				"n":"Eggs",
-				"img":"Dodo_Egg.png",
+				"i":"Dodo_Egg.png",
 				"nt":{
 					"ar":"بيض",
 					"cs":"Vejce",
@@ -2551,7 +2551,7 @@
 			},
 			"18":{
 				"n":"Stone",
-				"img":"Stone_Wall.png",
+				"i":"Stone_Wall.png",
 				"nt":{
 					"ar":"حجر",
 					"cs":"Kámen",
@@ -2587,7 +2587,7 @@
 			},
 			"19":{
 				"n":"Metal",
-				"img":"Metal_Wall.png",
+				"i":"Metal_Wall.png",
 				"nt":{
 					"ar":"معدن",
 					"cs":"Kov",
@@ -2623,7 +2623,7 @@
 			},
 			"20":{
 				"n":"Tek",
-				"img":"Tek_Wall.png",
+				"i":"Tek_Wall.png",
 				"nt":{
 					"ar":"تيك",
 					"he":"טק",
@@ -2675,7 +2675,7 @@
 			},
 			"22":{
 				"n":"Resources",
-				"img":"Stone.png",
+				"i":"Stone.png",
 				"nt":{
 					"ar":"الموارد",
 					"cs":"Materiály",
@@ -2710,7 +2710,7 @@
 			},
 			"23":{
 				"n":"Kibble",
-				"img":"Kibble.png",
+				"i":"Kibble.png",
 				"nt":{
 					"da":"Tørfoder",
 					"de":"Trockenfutter",
@@ -2737,7 +2737,7 @@
 			},
 			"24":{
 				"n":"Saddles",
-				"img":"Raptor_Saddle.png",
+				"i":"Raptor_Saddle.png",
 				"nt":{
 					"ar":"السروج",
 					"cs":"Sedla",
@@ -2772,7 +2772,7 @@
 			},
 			"25":{
 				"n":"Dyes",
-				"img":"White_Dye.png",
+				"i":"White_Dye.png",
 				"nt":{
 					"ar":"الأصباغ",
 					"cs":"Barvy",
@@ -2807,7 +2807,7 @@
 			},
 			"26":{
 				"n":"Weapons & Gear",
-				"img":"Fabricated_Pistol.png",
+				"i":"Fabricated_Pistol.png",
 				"nt":{
 					"ar":"أسلحة ومعدات",
 					"cs":"Zbraně a výstroj",
@@ -2842,7 +2842,7 @@
 			},
 			"27":{
 				"n":"Structures",
-				"img":"Stone_Wall.png",
+				"i":"Stone_Wall.png",
 				"nt":{
 					"ar":"الهياكل",
 					"cs":"Struktury",
@@ -2877,7 +2877,7 @@
 			},
 			"28":{
 				"n":"Special",
-				"img":"Artifact_of_the_Void.png",
+				"i":"Artifact_of_the_Void.png",
 				"nt":{
 					"ar":"خاص",
 					"cs":"Speciální",
