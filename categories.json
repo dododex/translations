@@ -3055,19 +3055,19 @@
 			},
 			"1":{
 				"n":"Dinos",
-				"slug":"dinos",
+				"slug":"dino-commands",
 				"p":3,
 				"o":5
 			},
 			"2":{
 				"n":"Items",
-				"slug":"items",
+				"slug":"item-commands",
 				"p":3,
 				"o":10
 			},
 			"3":{
 				"n":"Structures",
-				"slug":"structures",
+				"slug":"structure-commands",
 				"p":3,
 				"o":15
 			},
@@ -3115,13 +3115,31 @@
 			},
 			"11":{
 				"n":"Misc",
-				"slug":"misc",
+				"slug":"misc-commands",
 				"p":3,
 				"o":55
 			},
 			"12":{
 				"n":"Visuals",
 				"slug":"visuals",
+				"p":3,
+				"o":60
+			},
+			"13":{
+				"n":"Breeding",
+				"slug":"breeding",
+				"p":3,
+				"o":60
+			},
+			"14":{
+				"n":"Skills",
+				"slug":"skills",
+				"p":3,
+				"o":60
+			},
+			"15":{
+				"n":"Combat",
+				"slug":"combat",
 				"p":3,
 				"o":60
 			}
