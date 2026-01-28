@@ -1907,6 +1907,7 @@
 		"itemCategories":{
 			"0":{
 				"n":"Tools",
+				"slug":"tools",
 				"i":"Metal_Pick.png",
 				"nt":{
 					"ar":"أدوات",
@@ -1943,6 +1944,7 @@
 			},
 			"1":{
 				"n":"General Structures",
+				"slug":"general-structures",
 				"i":"Stone_Wall.png",
 				"nt":{
 					"ar":"هياكل",
@@ -1979,6 +1981,7 @@
 			},
 			"2":{
 				"n":"Recipes",
+				"slug":"recipes",
 				"i":"Note.png",
 				"nt":{
 					"ar":"وصفات",
@@ -2015,6 +2018,7 @@
 			},
 			"3":{
 				"n":"Armor",
+				"slug":"armor",
 				"i":"Flak_Chestpiece.png",
 				"nt":{
 					"ar":"دروع",
@@ -2051,6 +2055,7 @@
 			},
 			"4":{
 				"n":"Skins",
+				"slug":"skins",
 				"i":"Santa_Costume_Skin.png",
 				"nt":{
 					"ar":"مظاهر",
@@ -2087,6 +2092,7 @@
 			},
 			"5":{
 				"n":"Resources & Consumables",
+				"slug":"resources-consumables",
 				"i":"Stone.png",
 				"nt":{
 					"ar":"الموارد والاستهلاك",
@@ -2123,6 +2129,7 @@
 			},
 			"6":{
 				"n":"Weapons",
+				"slug":"weapons",
 				"i":"Fabricated_Pistol.png",
 				"nt":{
 					"ar":"الأسلحة",
@@ -2158,6 +2165,7 @@
 			},
 			"7":{
 				"n":"Greenhouse",
+				"slug":"greenhouse",
 				"i":"Greenhouse_Wall.png",
 				"nt":{
 					"ar":"بيت زجاجي",
@@ -2194,6 +2202,7 @@
 			},
 			"8":{
 				"n":"Artifacts",
+				"slug":"artifacts",
 				"i":"Artifact_of_the_Stalker.png",
 				"nt":{
 					"ar":"آثار",
@@ -2230,6 +2239,7 @@
 			},
 			"9":{
 				"n":"Seeds",
+				"slug":"seeds",
 				"i":"Plant_Species_Z_Seed.png",
 				"nt":{
 					"ar":"بذور",
@@ -2266,6 +2276,7 @@
 			},
 			"10":{
 				"n":"Attachments",
+				"slug":"attachments",
 				"i":"Scope_Attachment.png",
 				"nt":{
 					"ar":"ملحقات",
@@ -2302,6 +2313,7 @@
 			},
 			"11":{
 				"n":"Wood",
+				"slug":"wood",
 				"i":"Wooden_Wall.png",
 				"nt":{
 					"ar":"خشب",
@@ -2338,6 +2350,7 @@
 			},
 			"12":{
 				"n":"Trophies",
+				"slug":"trophies",
 				"i":"Alpha_Nunatak_Trophy.png",
 				"nt":{
 					"ar":"جوائز",
@@ -2374,6 +2387,7 @@
 			},
 			"13":{
 				"n":"Consumables",
+				"slug":"consumables",
 				"i":"Mindwipe_Tonic.png",
 				"nt":{
 					"ar":"المواد الاستهلاكية",
@@ -2410,6 +2424,7 @@
 			},
 			"14":{
 				"n":"Ammunition",
+				"slug":"ammunition",
 				"i":"Simple_Bullet.png",
 				"nt":{
 					"ar":"ذخيرة",
@@ -2446,6 +2461,7 @@
 			},
 			"15":{
 				"n":"Adobe",
+				"slug":"adobe",
 				"i":"Adobe_Wall.png",
 				"nt":{
 					"ar":"طوب",
@@ -2482,6 +2498,7 @@
 			},
 			"16":{
 				"n":"Emotes",
+				"slug":"emotes",
 				"i":"Archer_Flex_Emote.png",
 				"nt":{
 					"ar":"إيماءات",
@@ -2518,6 +2535,7 @@
 			},
 			"17":{
 				"n":"Eggs",
+				"slug":"eggs",
 				"i":"Dodo_Egg.png",
 				"nt":{
 					"ar":"بيض",
@@ -2554,6 +2572,7 @@
 			},
 			"18":{
 				"n":"Stone",
+				"slug":"stone",
 				"i":"Stone_Wall.png",
 				"nt":{
 					"ar":"حجر",
@@ -2590,6 +2609,7 @@
 			},
 			"19":{
 				"n":"Metal",
+				"slug":"metal",
 				"i":"Metal_Wall.png",
 				"nt":{
 					"ar":"معدن",
@@ -2626,6 +2646,7 @@
 			},
 			"20":{
 				"n":"Tek",
+				"slug":"tek",
 				"i":"Tek_Wall.png",
 				"nt":{
 					"ar":"تيك",
@@ -2643,6 +2664,7 @@
 			},
 			"21":{
 				"n":"Kibble (Old Ark Mobile)",
+				"slug":"kibble-old",
 				"i":"Kibble.png",
 				"nt":{
 					"ar":"Kibble (ARK Mobile القديم)",
@@ -2679,6 +2701,7 @@
 			},
 			"22":{
 				"n":"Resources",
+				"slug":"resources",
 				"i":"Stone.png",
 				"nt":{
 					"ar":"الموارد",
@@ -2714,6 +2737,7 @@
 			},
 			"23":{
 				"n":"Kibble",
+				"slug":"kibble",
 				"i":"Kibble.png",
 				"nt":{
 					"da":"Tørfoder",
@@ -2741,6 +2765,7 @@
 			},
 			"24":{
 				"n":"Saddles",
+				"slug":"saddles",
 				"i":"Raptor_Saddle.png",
 				"nt":{
 					"ar":"السروج",
@@ -2776,6 +2801,7 @@
 			},
 			"25":{
 				"n":"Dyes",
+				"slug":"dyes",
 				"i":"White_Dye.png",
 				"nt":{
 					"ar":"الأصباغ",
@@ -2811,6 +2837,7 @@
 			},
 			"26":{
 				"n":"Weapons & Gear",
+				"slug":"weapons-gear",
 				"i":"Fabricated_Pistol.png",
 				"nt":{
 					"ar":"أسلحة ومعدات",
@@ -2846,6 +2873,7 @@
 			},
 			"27":{
 				"n":"Structures",
+				"slug":"structures",
 				"i":"Stone_Wall.png",
 				"nt":{
 					"ar":"الهياكل",
@@ -2881,6 +2909,7 @@
 			},
 			"28":{
 				"n":"Special",
+				"slug":"special",
 				"i":"Artifact_of_the_Void.png",
 				"nt":{
 					"ar":"خاص",
@@ -2916,6 +2945,7 @@
 			},
 			"29":{
 				"n":"Thatch",
+				"slug":"thatch",
 				"i":"Thatch_Wall.png",
 				"nt":{
 					"ar":"قش",
@@ -2952,6 +2982,7 @@
 			},
 			"30":{
 				"n":"Chibis",
+				"slug":"chibis",
 				"i":"Chibi_Otter.png",
 				"nt":{
 					"ja":"チビ",
@@ -2965,44 +2996,134 @@
 		},
 		"variantCategories":{
 			"0":{
-				"n":"Main Dinos",
+				"n":"Dinos",
+				"slug":"main-dinos",
 				"o":0
 			},
 			"1":{
 				"n":"Alphas",
+				"slug":"alphas",
 				"o":1
 			},
 			"2":{
 				"n":"Bosses",
+				"slug":"bosses",
 				"o":2
 			},
 			"3":{
 				"n":"Tek Creatures",
+				"slug":"tek-creatures",
 				"o":3
 			},
 			"4":{
 				"n":"Genesis",
+				"slug":"genesis",
 				"o":4
 			},
 			"5":{
 				"n":"Aberration",
+				"slug":"aberration",
 				"o":5
 			},
 			"6":{
 				"n":"Extinction",
+				"slug":"extinction",
 				"o":6
 			},
 			"7":{
 				"n":"Genesis 2",
+				"slug":"genesis-2",
 				"o":7
 			},
 			"8":{
 				"n":"Lost Colony",
+				"slug":"lost-colony",
 				"o":8
 			},
 			"9":{
 				"n":"Event Creatures",
+				"slug":"event-creatures",
 				"o":9
+			}
+		},
+		"cmdCategories":{
+			"0":{
+				"n":"Tribe & Player Administration",
+				"slug":"tribe-player-administration",
+				"p":3,
+				"o":0
+			},
+			"1":{
+				"n":"Dinos",
+				"slug":"dinos",
+				"p":3,
+				"o":5
+			},
+			"2":{
+				"n":"Items",
+				"slug":"items",
+				"p":3,
+				"o":10
+			},
+			"3":{
+				"n":"Structures",
+				"slug":"structures",
+				"p":3,
+				"o":15
+			},
+			"4":{
+				"n":"Server",
+				"slug":"server",
+				"p":3,
+				"o":20
+			},
+			"5":{
+				"n":"Cheats",
+				"slug":"cheats",
+				"p":3,
+				"o":25
+			},
+			"6":{
+				"n":"Chat & Messaging",
+				"slug":"chat-messaging",
+				"p":3,
+				"o":30
+			},
+			"7":{
+				"n":"Movement",
+				"slug":"movement",
+				"p":3,
+				"o":35
+			},
+			"8":{
+				"n":"Player Cosmetics",
+				"slug":"player-cosmetics",
+				"p":3,
+				"o":40
+			},
+			"9":{
+				"n":"Player Status",
+				"slug":"player-status",
+				"p":3,
+				"o":45
+			},
+			"10":{
+				"n":"Environment",
+				"slug":"environment",
+				"p":3,
+				"o":50
+			},
+			"11":{
+				"n":"Misc",
+				"slug":"misc",
+				"p":3,
+				"o":55
+			},
+			"12":{
+				"n":"Visuals",
+				"slug":"visuals",
+				"p":3,
+				"o":60
 			}
 		}
 	}
