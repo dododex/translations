@@ -1454,6 +1454,7 @@
 			},
 			"36":{
 				"n":"ARK: Ultimate Mobile Edition",
+				"short":"UME",
 				"nt":{},
 				"o":123,
 				"p":9
@@ -1582,12 +1583,14 @@
 			},
 			"55":{
 				"n":"ARK: Survival Evolved",
+				"short":"ASE",
 				"nt":{},
 				"o":121,
 				"p":9
 			},
 			"56":{
 				"n":"ARK: Survival Ascended",
+				"short":"ASA",
 				"nt":{},
 				"o":120,
 				"p":9
