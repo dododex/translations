@@ -2094,38 +2094,38 @@
 				"p":28
 			},
 			"5":{
-				"n":"Resources & Consumables",
+				"n":"Resources",
 				"slug":"resources-consumables",
 				"i":"Stone.png",
 				"nt":{
-					"ar":"الموارد والاستهلاك",
-					"cs":"Suroviny a spotřeba",
-					"da":"Ressourcer & forbrug",
-					"de":"Ressourcen & Verbrauch",
-					"el":"Πόροι & αναλώσιμα",
-					"es":"Recursos y usos",
-					"fi":"Resurssit & kulutus",
-					"fr":"Ressources & conso",
-					"he":"משאבים וצריכה",
-					"hr":"Resursi i potrošnja",
-					"id":"Sumber daya & pakai",
-					"it":"Risorse & consumo",
-					"ja":"資源・消耗品",
-					"ko":"자원·소모",
-					"lv":"Resursi un patēriņš",
-					"nb":"Ressurser & forbruk",
-					"nl":"Grondst. & verbruik",
-					"pl":"Surowce i zużycie",
-					"pt-br":"Recursos & consumo",
-					"ro":"Resurse & consum",
-					"ru":"Ресурсы и расход",
-					"sv":"Resurser & förbruk",
-					"th":"ทรัพยากร·สิ้นเปลือง",
-					"tr":"Kaynaklar & tüketim",
-					"uk":"Ресурси та витрати",
-					"vi":"Tài nguyên & tiêu hao",
-					"zh":"资源·消耗",
-					"zh-tw":"資源・消耗"
+					"ar":"الموارد",
+					"cs":"Suroviny",
+					"da":"Ressourcer",
+					"de":"Ressourcen",
+					"el":"Πόροι",
+					"es":"Recursos",
+					"fi":"Resurssit",
+					"fr":"Ressources",
+					"he":"משאבים",
+					"hr":"Resursi",
+					"id":"Sumber daya",
+					"it":"Risorse",
+					"ja":"資源",
+					"ko":"자원",
+					"lv":"Resursi",
+					"nb":"Ressurser",
+					"nl":"Grondst.",
+					"pl":"Surowce",
+					"pt-br":"Recursos",
+					"ro":"Resurse",
+					"ru":"Ресурсы",
+					"sv":"Resurser",
+					"th":"ทรัพยากร",
+					"tr":"Kaynaklar",
+					"uk":"Ресурси",
+					"vi":"Tài nguyên",
+					"zh":"资源",
+					"zh-tw":"資源"
 				},
 				"o":5
 			},
@@ -2800,7 +2800,7 @@
 					"zh":"鞍",
 					"zh-tw":"鞍"
 				},
-				"o":2
+				"o":10
 			},
 			"25":{
 				"n":"Dyes",
@@ -2836,7 +2836,7 @@
 					"zh":"染料",
 					"zh-tw":"染料"
 				},
-				"o":3
+				"o":15
 			},
 			"26":{
 				"n":"Weapons & Gear",
@@ -2872,7 +2872,7 @@
 					"zh":"武器与装备",
 					"zh-tw":"武器與裝備"
 				},
-				"o":4
+				"o":20
 			},
 			"27":{
 				"n":"Structures",
@@ -2908,7 +2908,7 @@
 					"zh":"结构",
 					"zh-tw":"結構"
 				},
-				"o":5
+				"o":25
 			},
 			"28":{
 				"n":"Special",
@@ -2944,7 +2944,7 @@
 					"zh":"特殊",
 					"zh-tw":"特殊"
 				},
-				"o":6
+				"o":30
 			},
 			"29":{
 				"n":"Thatch",
