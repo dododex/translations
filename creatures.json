@@ -1197,6 +1197,9 @@
 			"zh-tw":"耀尾獸"
 		}
 	},
+	"grandtortugar":{
+		"name_t":{}
+	}
 	"grendel":{
 		"name_t":{
 			
@@ -1260,6 +1263,9 @@
 			"zh":"鬣齿兽",
 			"zh-tw":"鬣齒獸"
 		}
+	},
+	"hydra":{
+		"name_t":{}
 	},
 	"icetitan":{
 		"name_t":{
