@@ -1605,7 +1605,8 @@
 				"n":"Lost Colony",
 				"nt":{},
 				"o":17,
-				"p":1
+				"p":1,
+				"s":"Spawn_Map/Lost_Colony"
 			}
 		},
 		"categoriesP":{
