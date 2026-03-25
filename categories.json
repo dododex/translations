@@ -1599,7 +1599,8 @@
 				"n":"Astraeos",
 				"nt":{},
 				"o":16,
-				"p":1
+				"p":1,
+				"s":"Spawn_Map/Astraeos"
 			},
 			"58":{
 				"n":"Lost Colony",
