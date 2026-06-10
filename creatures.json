@@ -442,6 +442,11 @@
 			"ja":"ケラトサウルス"
 		}
 	},
+	"cerberax":{
+		"name_t":{
+
+		}
+	},
 	"chalicotherium":{
 		"name_t":{
 			"ar":"تشاليكوثيريوم",
@@ -945,6 +950,11 @@
 			"tr":"İnfazcı",
 			"zh":"执行者",
 			"zh-tw":"執行者"
+		}
+	},
+	"enigmasaur":{
+		"name_t":{
+			
 		}
 	},
 	"equus":{
