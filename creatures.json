@@ -1513,6 +1513,9 @@
 	"lostqueen":{
 		"name_t":{}
 	},
+	"lumina":{
+		"name_t":{}
+	},
 	"lymantria":{
 		"name_t":{
 			"fr":"Lymantria",
@@ -2037,6 +2040,9 @@
 			"zh":"副栉龙",
 			"zh-tw":"副櫛龍"
 		}
+	},
+	"parrot":{
+		"name_t":{}
 	},
 	"pegomastax":{
 		"name_t":{
@@ -2747,6 +2753,9 @@
 			"zh":"托斯特巨鱿",
 			"zh-tw":"托斯特巨魷"
 		}
+	},
+	"umbra":{
+		"name_t":{}
 	},
 	"unicorn":{
 		"name_t":{
