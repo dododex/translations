@@ -55,35 +55,36 @@ The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com
 
 | Code | Language | % of Users* | [Interface](translations.js) | [Creatures](creatures.json) | [Categories](categories.json) |
 | ---- | -------- | ----------- | --------- | --------- | ---------- |
-| de | German               | 37.4% | ✅ | ✅ | ✅
-| fr | French               | 19.4% | ✅ | ✅ | Partial
-| pt-br | Portuguese (Brazilian) |  8.4% | ✅ | ✅ | ✅
-| es | Spanish              |  6.1% | ✅ | ✅ | ✅
-| ru | Russian              |  7.6% | ✅ | ✅ | ✅
-| nl | Dutch                |  4.0% | ✅ |  | ✅
-| it | Italian              |  3.8% | ✅ | ✅ | ✅
-| pl | Polish               |  2.4% | ✅ |
-| zh | Chinese (Simplified) |  ~2.2% | ✅ | ✅ | ✅
+| es | Spanish              | 26.9% | ✅ | ✅ | ✅
+| pt-br | Portuguese (Brazilian) | 14.0% | ✅ | ✅ | ✅
+| de | German               | 9.4% | ✅ | ✅ | ✅
+| fr | French               | 8.4% | ✅ | ✅ | Partial
+| vi | Vietnamese           | 5.4% | ✅ | ✅
+| ja | Japanese             | 4.9% | ✅ | ✅
+| ru | Russian              | 4.5% | ✅ | ✅ | ✅
+| ar | Arabic               | 4.4% | ✅ | | ✅
+| th | Thai                 | 3.3% | ✅ | 
+| zh | Chinese (Simplified) | 3.2% | ✅ | ✅ | ✅
 | zh-tw | Chinese (Traditional) |  ?% | ✅ | ✅
-| da | Danish               |  1.3% | ✅ | Partial
-| tr | Turkish              |  1.2% | ✅ |
-| sv | Swedish              |  1.0% |   |
-| cs | Czech                |  0.7% | ✅ |
-| nb | Norwegian            |  0.6% | ✅ |
-| hu | Hungarian            |  0.5% |   |
-| th | Thai                 |  0.5% | ✅ | 
-| ar | Arabic               |  0.4% | ✅ | | ✅
-| ko | Korean               |  0.3% | ✅ |
-| fi | Finnish              |  0.3% | ✅ |
-| ja | Japanese             |  0.3% | ✅ | ✅
-| he | Hebrew               |  0.2% | ✅ |
-| hr | Croatian             |  0.2% | ✅ |
-| sk | Slovak               |  0.1% |   |
-| ro | Romanian             |  0.1% | ✅ |
-| el | Greek                |  0.1% | ✅ |
-| id | Indonesian           | <0.1% | ✅ |
+| id | Indonesian           | 2.9% | ✅ |
+| tr | Turkish              | 2.3% | ✅ |
+| nl | Dutch                | 1.5% | ✅ |  | ✅
+| it | Italian              | 1.3% | ✅ | ✅ | ✅
+| ko | Korean               | 1.2% | ✅ |
+| pl | Polish               | 1.1% | ✅ |
+| hu | Hungarian            | 0.8% |   |
+| cs | Czech                | 0.5% | ✅ |
+| sv | Swedish              | 0.4% |   |
+| uk | Ukrainian            | 0.4% | ✅ |
+| fa | Persian              | 0.4% |  |
+| ro | Romanian             | 0.3% | ✅ |
+| da | Danish               | 0.3% | ✅ | Partial
+| hr | Croatian             | 0.2% | ✅ |
+| nb | Norwegian            | 0.2% | ✅ |
+| fi | Finnish              | 0.1% | ✅ |
+| he | Hebrew               | 0.1% | ✅ |
+| sk | Slovak               | 0.1% |   |
+| el | Greek                | 0.1% | ✅ |
 | lv | Latvian              | <0.1% | ✅ |
-| uk | Ukrainian            | ?%    | ✅ |
-
 
 _*Percent of non-English Dododex users (roughly)_
