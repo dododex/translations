@@ -512,6 +512,11 @@
 			"zh-tw":"美頜龍"
 		}
 	},
+	"concavenator":{
+		"name_t":{
+			
+		}
+	},
 	"corruptedmastercontroller":{
 		"name_t":{
 			"ar":"متحكم رءيسي منحرف",
@@ -1079,6 +1084,9 @@
 			"zh":"似鸡龙",
 			"zh-tw":"似雞龍"
 		}
+	},
+	"gargantar":{
+		"name_t":{}
 	},
 	"gasbags":{
 		"name_t":{
