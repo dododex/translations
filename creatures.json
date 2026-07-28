@@ -15,7 +15,9 @@
 		}
 	},
 	"acrocanthosaurus":{
-			"name_t":{}
+			"name_t":{
+			  "ja":"アクロカントサウルス"
+			}
 	},
 	"allosaurus":{
 		"name_t":{
@@ -215,6 +217,7 @@
 	},
 	"aureliax":{
 		"name_t":{
+			"ja":"オーレリアックス"
 		}
 	},
 	"baryonyx":{
@@ -377,7 +380,7 @@
 	},
 	"burrowbuck":{
 		"name_t":{
-			
+			"ja":"ブローバック"
 		}
 	},
 	"carbonemys":{
@@ -435,6 +438,7 @@
 	},
 	"cat":{
 		"name_t":{
+			"ja":"猫"
 		}
 	},
 	"ceratosaurus":{
@@ -537,7 +541,9 @@
 		}
 	},
 	"cryolophosaurus":{
-		"name_t":{}
+		"name_t":{
+			"ja":"クライオロフォサウルス"
+		}
 	},
 	"crystalwyvern":{
 		"name_t":{
@@ -639,7 +645,9 @@
 		}
 	},
 	"deinotherium":{
-		"name_t":{}
+		"name_t":{
+			"ja":"ディノテリウム"
+		}
 	},
 	"deserttitan":{
 		"name_t":{
@@ -872,7 +880,7 @@
 	},
 	"drakeling":{
 		"name_t":{
-			
+			"ja":"ドレイクリング"
 		}
 	},
 	"dreadnoughtus":{
@@ -923,7 +931,7 @@
 	},
 	"elderclaw":{
 		"name_t":{
-			
+			"ja":"エルダークロー"
 		}
 	},
 	"electrophorus":{
@@ -1135,7 +1143,9 @@
 		}
 	},
 	"gigadesmodus":{
-		"name_t":{}
+		"name_t":{
+			"ja":"ギガデスモダス"
+		}
 	},
 	"giganotosaurus":{
 		"name_t":{
@@ -1186,6 +1196,7 @@
 	},
 	"gloon":{
 		"name_t":{
+			"ja":"グルーン"
 		}
 	},
 	"glowbug":{
@@ -1224,11 +1235,13 @@
 		}
 	},
 	"grandtortugar":{
-		"name_t":{}
+		"name_t":{
+			"ja":"グランド・トルトゥガー"
+		}
 	},
 	"grendel":{
 		"name_t":{
-			
+			"ja":"グレンデル"
 		}
 	},
 	"griffin":{
@@ -1258,7 +1271,9 @@
 		}
 	},
 	"helicoprion":{
-		"name_t":{}
+		"name_t":{
+			"ja":"ヘリコプリオン"
+		}
 	},
 	"hesperornis":{
 		"name_t":{
@@ -1291,7 +1306,9 @@
 		}
 	},
 	"hydra":{
-		"name_t":{}
+		"name_t":{
+			"ja":"ハイドラ"
+		}
 	},
 	"icetitan":{
 		"name_t":{
@@ -1516,13 +1533,19 @@
 		}
 	},
 	"lostking":{
-		"name_t":{}
+		"name_t":{
+			"ja":"ロストキング"
+		}
 	},
 	"lostqueen":{
-		"name_t":{}
+		"name_t":{
+			"ja":"ロストクイーン"
+		}
 	},
 	"lumina":{
-		"name_t":{}
+		"name_t":{
+			"ja":"ルミナ"
+		}
 	},
 	"lymantria":{
 		"name_t":{
@@ -1553,7 +1576,7 @@
 	},
 	"maeguana":{
 		"name_t":{
-			
+			"ja":"メイグアナ"
 		}
 	},
 	"maewing":{
@@ -1578,6 +1601,7 @@
 	},
 	"malwyn":{
 		"name_t":{
+			"ja":"マルウィン"
 		}
 	},
 	"mammoth":{
@@ -1765,7 +1789,7 @@
 	},
 	"megaraptor":{
 		"name_t":{
-			
+			"ja":"メガラプトル"
 		}
 	},
 	"megatherium":{
@@ -1879,10 +1903,14 @@
 		}
 	},
 	"natrix":{
-		"name_t":{}
+		"name_t":{
+			"ja":"ヤマカガシ"
+		}
 	},
 	"neophyte":{
-		"name_t":{}
+		"name_t":{
+			"ja":"ネオファイト"
+		}
 	},
 	"noglin":{
 		"name_t":{
@@ -1893,7 +1921,9 @@
 		}
 	},
 	"nunatak":{
-		"name_t":{}
+		"name_t":{
+			"ja":"ヌナタク"
+		}
 	},
 	"oasisaur":{
 		"name_t":{
@@ -1913,7 +1943,9 @@
 		}
 	},
 	"ossidon":{
-		"name_t":{}
+		"name_t":{
+			"ja":"オシドン"
+		}
 	},
 	"otter":{
 		"name_t":{
@@ -2006,6 +2038,7 @@
 	},
 	"palaeoctopus":{
 		"name_t":{
+			"ja":"パレオクトパス"
 		}
 	},
 	"paracer":{
@@ -2050,7 +2083,9 @@
 		}
 	},
 	"parrot":{
-		"name_t":{}
+		"name_t":{
+			"ja":"オウム"
+		}
 	},
 	"pegomastax":{
 		"name_t":{
@@ -2224,7 +2259,8 @@
 			"es":"Asolador",
 			"fr":"Ravageur",
 			"it":"Devastatore",
-			"ja":"ラヴェジャー",
+			"ja":"ラベジャー",
+			"ja-OLD":"ラヴェジャー",
 			"ko":"레비져",
 			"ru":"Опустошитель",
 			"zh":"劫掠者",
@@ -2256,7 +2292,9 @@
 		}
 	},
 	"revenant":{
-		"name_t":{}
+		"name_t":{
+			"ja":"レヴナント"
+		}
 	},
 	"rhyniognatha":{
 		"name_t":{
@@ -2490,6 +2528,7 @@
 	},
 	"solwyn":{
 		"name_t":{
+			"ja":"ソルウィン"
 		}
 	},
 	"spinosaur":{
@@ -2583,7 +2622,9 @@
 		}
 	},
 	"thanatos":{
-		"name_t":{}
+		"name_t":{
+			"ja":"タナトス"
+		}
 	},
 	"therizinosaurus":{
 		"name_t":{
@@ -2601,7 +2642,9 @@
 		}
 	},
 	"thodes":{
-		"name_t":{}
+		"name_t":{
+			"ja":"ソデス"
+		}
 	},
 	"thornydragon":{
 		"name_t":{
@@ -2627,7 +2670,9 @@
 		}
 	},
 	"thrall":{
-		"name_t":{}
+		"name_t":{
+			"ja":"スロール"
+		}
 	},
 	"thylacoleo":{
 		"name_t":{
@@ -2642,7 +2687,7 @@
 	},
 	"tidepup":{
 		"name_t":{
-			
+			"ja":"タイドパップ"
 		}
 	},
 	"titanoboa":{
@@ -2748,7 +2793,9 @@
 		}
 	},
 	"turkey":{
-		"name_t":{}
+		"name_t":{
+			"ja":"七面鳥"
+		}
 	},
 	"tusoteuthis":{
 		"name_t":{
@@ -2763,7 +2810,9 @@
 		}
 	},
 	"umbra":{
-		"name_t":{}
+		"name_t":{
+			"ja":"アンブラ"
+		}
 	},
 	"unicorn":{
 		"name_t":{
@@ -2788,7 +2837,7 @@
 	},
 	"veilwyn":{
 		"name_t":{
-			
+			"ja":"ベールウィン"
 		}
 	},
 	"velonasaur":{
