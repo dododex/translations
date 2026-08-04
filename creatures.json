@@ -22,7 +22,16 @@
 	},
 	"acrocanthosaurus":{
 		"name_t":{
-			"ja":"アクロカントサウルス"
+			"ja":"アクロカントサウルス",
+			"es":"Acrocantosaurio",
+			"fr":"Acrocanthosaure",
+			"it":"Acrocantosauro",
+			"ko":"아크로칸토사우루스",
+			"pt-br":"Acrocantossauro",
+			"ru":"Акрокантозавр",
+			"tr":"Akrokantososaurus",
+			"zh":"高棘龙",
+			"zh-tw":"高棘龍"
 		}
 	},
 	"allosaurus":{
@@ -276,7 +285,12 @@
 	},
 	"aureliax":{
 		"name_t":{
-			"ja":"オーレリアックス"
+			"ja":"オーレリアックス",
+			"ko":"아우렐리악스",
+			"pt-br":"Auréliax",
+			"ru":"Аурелиакс",
+			"zh":"寒辉雪龙",
+			"zh-tw":"寒輝雪龍"
 		}
 	},
 	"baryonyx":{
@@ -465,7 +479,11 @@
 	},
 	"burrowbuck":{
 		"name_t":{
-			"ja":"ブローバック"
+			"ja":"ブローバック",
+			"ko":"버로우벅",
+			"ru":"Бурроубак",
+			"zh":"穴角兔",
+			"zh-tw":"穴角兔"
 		}
 	},
 	"carbonemys":{
@@ -674,7 +692,15 @@
 	},
 	"cryolophosaurus":{
 		"name_t":{
-			"ja":"クライオロフォサウルス"
+			"ja":"クライオロフォサウルス",
+			"da":"Kryolophosaurus",
+			"fr":"Cryolophosaure",
+			"ko":"크리올로포사우루스",
+			"pt-br":"Crylofossauro",
+			"ru":"Криолофозавр",
+			"tr":"Kriyolofosaurus",
+			"zh":"冰脊龙",
+			"zh-tw":"冰脊龍"
 		}
 	},
 	"crystalwyvern":{
@@ -1440,7 +1466,19 @@
 	},
 	"gigadesmodus":{
 		"name_t":{
-			"ja":"ギガデスモダス"
+			"ja":"ギガデスモダス",
+			"da":"Gigabyte-tilstand",
+			"de":"Gigabyte-Modus",
+			"es":"Modo gigabyte",
+			"fr":"Mode gigaoctet",
+			"it":"Modalità Gigabyte",
+			"ko":"기가바이트 모드",
+			"nl":"Gigabyte-modus",
+			"pt-br":"Modo Gigabyte",
+			"ru":"Гигабайтный режим",
+			"tr":"Gigabayt modu",
+			"zh":"巨翼魔蝠",
+			"zh-tw":"巨翼魔蝠"
 		}
 	},
 	"giganotosaurus":{
@@ -1493,7 +1531,11 @@
 	},
 	"gloon":{
 		"name_t":{
-			"ja":"グルーン"
+			"ja":"グルーン",
+			"ko":"글룬",
+			"ru":"Глун",
+			"zh":"咕隆",
+			"zh-tw":"咕隆"
 		}
 	},
 	"glowbug":{
@@ -1536,7 +1578,15 @@
 	},
 	"grandtortugar":{
 		"name_t":{
-			"ja":"グランド・トルトゥガー"
+			"ja":"グランド・トルトゥガー",
+			"it":"Gran Tortugar",
+			"ko":"그랜드 토르투가르",
+			"nl":"Grote Tortugar",
+			"pt-br":"Grande Tortugar",
+			"ru":"Гранд Тортугар",
+			"tr":"Büyük Tortugar",
+			"zh":"巨甲陆龟",
+			"zh-tw":"巨甲陸龜"
 		}
 	},
 	"grendel":{
@@ -1877,17 +1927,53 @@
 	},
 	"lostking":{
 		"name_t":{
-			"ja":"ロストキング"
+			"ja":"ロストキング",
+			"da":"Den fortabte konge",
+			"de":"Verlorener König",
+			"es":"Rey perdido",
+			"fr":"Le Roi Perdu",
+			"it":"Re perduto",
+			"ko":"잃어버린 왕",
+			"nl":"Verloren Koning",
+			"pt-br":"Rei Perdido",
+			"ru":"Потерянный король",
+			"tr":"Kayıp Kral",
+			"zh":"失落之王",
+			"zh-tw":"失落之王"
 		}
 	},
 	"lostqueen":{
 		"name_t":{
-			"ja":"ロストクイーン"
+			"ja":"ロストクイーン",
+			"da":"Den fortabte dronning",
+			"de":"Verlorene Königin",
+			"es":"Reina perdida",
+			"fr":"La reine perdue",
+			"it":"Regina perduta",
+			"ko":"잃어버린 여왕",
+			"nl":"Verloren Koningin",
+			"pt-br":"Rainha Perdida",
+			"ru":"Потерянная королева",
+			"tr":"Kayıp Kraliçe",
+			"zh":"失落女王",
+			"zh-tw":"失落女王"
 		}
 	},
 	"lumina":{
 		"name_t":{
-			"ja":"ルミナ"
+			"ja":"ルミナ",
+			"da":"Lys",
+			"de":"Licht",
+			"es":"Luz",
+			"fr":"Lumière",
+			"it":"Leggero",
+			"ko":"빛",
+			"nl":"Licht",
+			"pt-br":"Luz",
+			"ru":"Свет",
+			"tr":"Işık",
+			"zh":"皎光仔",
+			"zh-tw":"皎光仔"
 		}
 	},
 	"lymantria":{
@@ -1959,7 +2045,11 @@
 	},
 	"malwyn":{
 		"name_t":{
-			"ja":"マルウィン"
+			"ja":"マルウィン",
+			"ko":"말윈",
+			"ru":"Малвин",
+			"zh":"诡狱狐",
+			"zh-tw":"詭獄狐"
 		}
 	},
 	"mammoth":{
@@ -2330,7 +2420,19 @@
 	},
 	"neophyte":{
 		"name_t":{
-			"ja":"ネオファイト"
+			"ja":"ネオファイト",
+			"da":"Neofyt",
+			"de":"Neophyt",
+			"es":"Neófito",
+			"fr":"Néophyte",
+			"it":"Neofita",
+			"ko":"신참자",
+			"nl":"Neofiet",
+			"pt-br":"Neófito",
+			"ru":"Неофит",
+			"tr":"Acemi",
+			"zh":"新侍徒",
+			"zh-tw":"新侍徒"
 		}
 	},
 	"noglin":{
@@ -2391,7 +2493,12 @@
 	},
 	"ossidon":{
 		"name_t":{
-			"ja":"オシドン"
+			"ja":"オシドン",
+			"es":"Osidón",
+			"ko":"오시돈",
+			"ru":"Оссидон",
+			"zh":"霜獠魌",
+			"zh-tw":"霜獠魌"
 		}
 	},
 	"otter":{
@@ -2495,7 +2602,15 @@
 	},
 	"palaeoctopus":{
 		"name_t":{
-			"ja":"パレオクトパス"
+			"ja":"パレオクトパス",
+			"da":"Palæoblæksprutte",
+			"fr":"Paléoctopus",
+			"it":"Paleopolpo",
+			"ko":"고대문어",
+			"pt-br":"Paleopolvo",
+			"ru":"Палеоктопус",
+			"zh":"古章鱼",
+			"zh-tw":"古章魚"
 		}
 	},
 	"paracer":{
@@ -2546,7 +2661,19 @@
 	},
 	"parrot":{
 		"name_t":{
-			"ja":"オウム"
+			"ja":"オウム",
+			"da":"Papegøje",
+			"de":"Papagei",
+			"es":"Loro",
+			"fr":"Perroquet",
+			"it":"Pappagallo",
+			"ko":"앵무새",
+			"nl":"Papegaai",
+			"pt-br":"Papagaio",
+			"ru":"Попугай",
+			"tr":"Papağan",
+			"zh":"鹦鹉",
+			"zh-tw":"鸚鵡"
 		}
 	},
 	"pegomastax":{
@@ -2793,7 +2920,15 @@
 	},
 	"revenant":{
 		"name_t":{
-			"ja":"レヴナント"
+			"ja":"レヴナント",
+			"da":"Genkomst",
+			"de":"Wiedergänger",
+			"es":"Renacido",
+			"ko":"레버넌트",
+			"ru":"Призрак",
+			"tr":"Hortlak",
+			"zh":"亡魂",
+			"zh-tw":"亡魂"
 		}
 	},
 	"rhyniognatha":{
@@ -3067,7 +3202,11 @@
 	},
 	"solwyn":{
 		"name_t":{
-			"ja":"ソルウィン"
+			"ja":"ソルウィン",
+			"ko":"솔윈",
+			"ru":"Солвин",
+			"zh":"霄光狐",
+			"zh-tw":"霄光狐"
 		}
 	},
 	"spinosaur":{
@@ -3241,7 +3380,17 @@
 	},
 	"thrall":{
 		"name_t":{
-			"ja":"スロール"
+			"ja":"スロール",
+			"da":"Træl",
+			"es":"Esclavo",
+			"fr":"Servitude",
+			"it":"Schiavo",
+			"ko":"노예",
+			"nl":"Boeien",
+			"ru":"Тралл",
+			"tr":"Köle",
+			"zh":"失落者",
+			"zh-tw":"失落者"
 		}
 	},
 	"thylacoleo":{
@@ -3259,7 +3408,13 @@
 	},
 	"tidepup":{
 		"name_t":{
-			"ja":"タイドパップ"
+			"ja":"タイドパップ",
+			"de":"Gezeitenpup",
+			"es":"Cachorro de marea",
+			"ko":"타이드펍",
+			"ru":"Тайдепуп",
+			"zh":"潮佑螈",
+			"zh-tw":"潮佑螈"
 		}
 	},
 	"titanoboa":{
@@ -3409,7 +3564,19 @@
 	},
 	"umbra":{
 		"name_t":{
-			"ja":"アンブラ"
+			"ja":"アンブラ",
+			"da":"Skyggelægning",
+			"de":"Schattierung",
+			"es":"Sombreado",
+			"fr":"Ombres",
+			"it":"Ombreggiatura",
+			"ko":"농담",
+			"nl":"Schaduw",
+			"pt-br":"Sombreamento",
+			"ru":"Затенение",
+			"tr":"Gölgelendirme",
+			"zh":"幽影仔",
+			"zh-tw":"幽影仔"
 		}
 	},
 	"unicorn":{
