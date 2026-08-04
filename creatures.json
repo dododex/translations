@@ -243,7 +243,6 @@
 	"astrocetus":{
 		"name_t":{
 			"ar":"استروستس",
-			"fr":"Astrocetus",
 			"it":"Astroceto",
 			"ja":"アストロセタス",
 			"ko":"아스트로시터스",
@@ -347,7 +346,6 @@
 		"name_t":{
 			"ar":"بيلزيبوفو",
 			"el":"Δαιμόνιος Βάτραχος",
-			"fr":"Beelzebufo",
 			"he":"קרפדת הביזלבופו",
 			"it":"Rana diavolo",
 			"ja":"ベールゼブフォ",
@@ -589,7 +587,6 @@
 			"ar":"تشاليكوثيريوم",
 			"el":"Χαλικοθηρίο",
 			"es":"Calicoterio",
-			"fr":"Chalicotherium",
 			"it":"Calicoterio",
 			"ja":"カリコテリウム",
 			"ko":"칼리코테리움",
@@ -606,7 +603,6 @@
 			"cs":"Medůza",
 			"el":"Κνιδόζωο",
 			"fi":"Polttiaiseläin",
-			"fr":"Cnidaria",
 			"he":"מדוזה",
 			"ja":"クニダリア",
 			"ja-OLD":"クラゲ",
@@ -905,7 +901,6 @@
 		"name_t":{
 			"ar":"ديمورفودون",
 			"el":"Διμορφόδοντας",
-			"fr":"Dimorphodon",
 			"he":"דימורפודון",
 			"it":"Dimorfodonte",
 			"ja":"ディモルフォドン",
@@ -948,7 +943,6 @@
 		"name_t":{
 			"ar":"دبلوكاولوس",
 			"el":"Διπλόκαυλος",
-			"fr":"Diplocaulus",
 			"it":"Diplocaulo",
 			"ja":"ディプロカウルス",
 			"ko":"디플로카울루스",
@@ -962,7 +956,6 @@
 	"diplodocus":{
 		"name_t":{
 			"ar":"ديبلودوكس",
-			"fr":"Diplodocus",
 			"he":"דיפלודוקוס",
 			"it":"Diplodoco",
 			"ja":"ディプロドクス",
@@ -1023,7 +1016,6 @@
 			"ar":"دودو",
 			"el":"Ντόντο",
 			"fi":"Drontti",
-			"fr":"Dodo",
 			"he":"דודו",
 			"ja":"ドードー",
 			"ko":"도도",
@@ -1084,7 +1076,6 @@
 			"el":"Δράκος",
 			"es":"Dragón",
 			"fi":"Lohikäärme",
-			"fr":"Dragon",
 			"he":"דרקון",
 			"hr":"Zmaj",
 			"id":"Naga",
@@ -1507,7 +1498,6 @@
 			"it":"Gigantopiteco",
 			"ja":"ギガントピテクス",
 			"ko":"기간토피테쿠스",
-			"pt-br":"Gigantopithecus",
 			"ru":"Гигантопитек",
 			"zh":"巨猿",
 			"zh-tw":"巨猿"
@@ -1518,12 +1508,9 @@
 			"ar":"փետուրավոր",
 			"el":"Gigantoraptor",
 			"fi":"Gigantoraptor",
-			"fr":"Gigantoraptor",
 			"he":"ג'יגנטורפטור",
-			"it":"Gigantoraptor",
 			"ja":"ギガントラプトル",
 			"ko":"기간토랩터",
-			"pt-br":"Gigantoraptor",
 			"ru":"Гигантораптор",
 			"zh":"巨盗龙",
 			"zh-tw":"巨盜龍"
@@ -1641,7 +1628,6 @@
 	"hesperornis":{
 		"name_t":{
 			"el":"Εσπορόνις",
-			"fr":"Hesperornis",
 			"he":"הספראורניס",
 			"hr":"Гесперорнисы",
 			"it":"Esperornite",
@@ -1693,7 +1679,6 @@
 	"ichthyornis":{
 		"name_t":{
 			"el":"Ιχθυόρνις",
-			"fr":"Ichthyornis",
 			"it":"Ittiornite",
 			"ja":"イクチオルニス",
 			"ko":"이크티오르니스",
@@ -1722,7 +1707,6 @@
 	"iguanodon":{
 		"name_t":{
 			"el":"Ιγκουανόδοντας",
-			"fr":"Iguanodon",
 			"hr":"Игуанодон",
 			"it":"Iguanodonte",
 			"ja":"イグアノドン",
@@ -1742,7 +1726,6 @@
 			"el":"Είδος μικρού ποντικού",
 			"es":"Jerbo",
 			"fi":"Hyppyrotta",
-			"fr":"Jerboa",
 			"he":"ירבוע",
 			"hr":"Тушканчик",
 			"it":"Gerboa",
@@ -1817,7 +1800,6 @@
 	},
 	"karkinos":{
 		"name_t":{
-			"fr":"Karkinos",
 			"it":"Carcino",
 			"ja":"カルキノス",
 			"ko":"카르키노스",
@@ -1904,7 +1886,6 @@
 	},
 	"leedsichthys":{
 		"name_t":{
-			"fr":"Leedsichthys",
 			"ja":"リードシクティス",
 			"ko":"리드시크티스",
 			"ru":"Лидсихтис",
@@ -1915,7 +1896,6 @@
 	},
 	"liopleurodon":{
 		"name_t":{
-			"fr":"Liopleurodon",
 			"it":"Liopleurodonte",
 			"ja":"リオプレウロドン",
 			"ko":"리오플레우로돈",
@@ -2286,7 +2266,6 @@
 	},
 	"mek":{
 		"name_t":{
-			"fr":"Mek",
 			"ja":"メック",
 			"ko":"맥",
 			"ru":"Мех",
@@ -2384,7 +2363,6 @@
 	},
 	"moschops":{
 		"name_t":{
-			"fr":"Moschops",
 			"it":"Moscope",
 			"ja":"モスコプス",
 			"ko":"모스콥스",
@@ -2554,7 +2532,6 @@
 	"ovis":{
 		"name_t":{
 			"cs":"Ovce",
-			"fr":"Ovis",
 			"hr":"Овис",
 			"ja":"ヒツジ",
 			"ko":"오비스",
@@ -2678,7 +2655,6 @@
 	},
 	"pegomastax":{
 		"name_t":{
-			"fr":"Pegomastax",
 			"ja":"ペゴマスタクス",
 			"ko":"페고매스탁스",
 			"ru":"Пегомастакс",
@@ -2745,7 +2721,6 @@
 			"el":"Πιράνχας",
 			"es":"Piraña",
 			"fi":"Piraija",
-			"fr":"Piranha",
 			"he":"פיראנה",
 			"it":"Piragna",
 			"ja":"メガピラニア",
@@ -2776,7 +2751,6 @@
 	},
 	"procoptodon":{
 		"name_t":{
-			"fr":"Procoptodon",
 			"it":"Procoptodonte",
 			"ja":"プロコプトドン",
 			"ko":"프로콥토돈",
@@ -3422,10 +3396,8 @@
 			"de":"Titanboa",
 			"el":"Τιτανοβόας",
 			"fi":"Titaaniboa",
-			"fr":"Titanoboa",
 			"ja":"ティタノボア",
 			"ko":"티타노보아",
-			"pt-br":"Titanoboa",
 			"ru":"Титанобоа",
 			"zh":"泰坦巨蟒",
 			"zh-tw":"泰坦巨蟒"
@@ -3485,7 +3457,6 @@
 			"es":"Trilobites",
 			"es-OLD":"Trilobita",
 			"fi":"Trilobiitti",
-			"fr":"Trilobite",
 			"he":"טרילוביט",
 			"hr":"Trilobit",
 			"id":"Trilobita",
@@ -3503,7 +3474,6 @@
 	},
 	"troodon":{
 		"name_t":{
-			"fr":"Troodon",
 			"it":"Troodonte",
 			"ja":"トロオドン",
 			"ko":"트로오돈",
@@ -3511,11 +3481,7 @@
 			"ru":"Троодон",
 			"zh":"伤齿龙",
 			"zh-tw":"傷齒龍",
-			"da":"Troon",
-			"de":"Trooon",
-			"es":"Troón",
-			"nl":"Trooon",
-			"tr":"Troon"
+			"es":"Troodón"
 		}
 	},
 	"tropeognathus":{
@@ -3552,7 +3518,6 @@
 	"tusoteuthis":{
 		"name_t":{
 			"fi":"Mustekala",
-			"fr":"Tusoteuthis",
 			"it":"Tusoteutide",
 			"ja":"トゥソテウティス",
 			"ko":"투소테우티스",
@@ -3740,7 +3705,6 @@
 	},
 	"yutyrannus":{
 		"name_t":{
-			"fr":"Yutyrannus",
 			"it":"Yutyranno",
 			"ja":"ユウティラヌス",
 			"ko":"유티라누스",
