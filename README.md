@@ -1,16 +1,16 @@
-The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com) is being translated into every language and your help is needed! Translations are crowdsourced — edits made to this Github project will be included in a future version of the app. Continued edits and new languages will be added through Github.
+The [Dododex Taming Calculator for Ark: Survival Ascended & Evolved](http://www.dododex.com) is translated into many languages and your help is needed! Edits made to this Github project will be included in a future version of the app.
 
-**Translators get Dododex Pro for free!** After contributing your language's translations, contact me (dan14lev[at]gmail.com) to get a promo code for the ad-free version of Dododex.
+**Translators get Dododex Pro for free!** After contributing your language's translations, contact me (dan14lev[at]gmail.com), include your platform (iOS or Android), and I'll give you a promo code for the ad-free version of Dododex.
 
 
-[View Translator Browser](https://app.dododex.com/translations/explore.html)
+🌍 [View Translator Browser](https://www.dododex.com/translations)
 
-[Join the Translator Chat!](https://discord.gg/KvmRSSV)
+💬 [Join the Translator Chat!](https://discord.gg/KvmRSSV)
 
 
 ![Translate Dododex](https://raw.githubusercontent.com/dododex/translations/master/translate.png?2)
 
-## 1. TRANSLATING DODODEX
+## 1. TRANSLATING DODODEX'S INTERFACE
 
 1. **Open [translations.js](translations.js) and click "Edit"**
 1. **If your language is not there, add it.**
@@ -35,7 +35,7 @@ The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com
    
    If a creature (or entire language) is not officially translated in-game, DO NOT translate it, Dododex will fallback to the English version. The goal is to make the creature names accessible, but expected -- don't translate JUST to translate. If "Ovis" is not translated in-game, do not translate it to "Sheep" in your language, as users would likely look for "Ovis" on Dododex. If a creature does not have a translation, simply omit it rather than creating a copy of the English translation. However, for not-Latin characters please consider transliterating if you think it would be more helpful to speakers of your language. 
    
-   **IMPORTANT**: Regional versions of languages (For example: Brazilian Portuguese / "PT-BR") are also supported. However, it is beneficial to also have the base language ("PT"), since all PT-XX languages will fall back on the base one. If there are any discrepencies between regional languages, please open an issue on Github so it can be logged.
+   **IMPORTANT**: Regional versions of languages (For example: Brazilian Portuguese / "PT-BR") are also supported. However, it is beneficial to also have the base language ("PT"), since all PT-XX languages will fall back on the base one.
    
    All creature names and categories should be in Title Case (_Example_: "Attack Drone" not "attack drone").
 
@@ -51,40 +51,42 @@ The [Dododex Taming Calculator for Ark: Survival Evolved](http://www.dododex.com
 * **Starting A Discussion:** If you're unsure of any translations, have questions about a phrase or its context, or think that a translation is incorrect, start a discussion by [creating an issue](https://github.com/dododex/translations/issues/new). Please include the language in the title of the issue.
 * **Variables:** Some phrases have variables in them where a term will be inserted into the sentence. These are indicated with a `{0}`. For example, `There are {0} creatures` could become `There are 50 creatures` and the number would increment as more creatures are added. All translations must include this variable. If phrasing in your language can vary depending on what the variable actually is (for example, grammatical gender), please do your best to accomidate what the variable could be. If appropriate, rephrase so the line works better in your language.
 
-## TRANSLATION PROGRESS
+## LANGUAGES
 
-| Code | Language | % of Users* | [Interface](translations.js) | [Creatures](creatures.json) | [Categories](categories.json) |
-| ---- | -------- | ----------- | --------- | --------- | ---------- |
-| es | Spanish              | 26.9% | ✅ | ✅ | ✅
-| pt-br | Portuguese (Brazilian) | 14.0% | ✅ | ✅ | ✅
-| de | German               | 9.4% | ✅ | ✅ | ✅
-| fr | French               | 8.4% | ✅ | ✅ | Partial
-| vi | Vietnamese           | 5.4% | ✅ | ✅
-| ja | Japanese             | 4.9% | ✅ | ✅
-| ru | Russian              | 4.5% | ✅ | ✅ | ✅
-| ar | Arabic               | 4.4% | ✅ | | ✅
-| th | Thai                 | 3.3% | ✅ | 
-| zh | Chinese (Simplified) | 3.2% | ✅ | ✅ | ✅
-| zh-tw | Chinese (Traditional) |  ?% | ✅ | ✅
-| id | Indonesian           | 2.9% | ✅ |
-| tr | Turkish              | 2.3% | ✅ |
-| nl | Dutch                | 1.5% | ✅ |  | ✅
-| it | Italian              | 1.3% | ✅ | ✅ | ✅
-| ko | Korean               | 1.2% | ✅ |
-| pl | Polish               | 1.1% | ✅ |
-| hu | Hungarian            | 0.8% |   |
-| cs | Czech                | 0.5% | ✅ |
-| sv | Swedish              | 0.4% |   |
-| uk | Ukrainian            | 0.4% | ✅ |
-| fa | Persian              | 0.4% |  |
-| ro | Romanian             | 0.3% | ✅ |
-| da | Danish               | 0.3% | ✅ | Partial
-| hr | Croatian             | 0.2% | ✅ |
-| nb | Norwegian            | 0.2% | ✅ |
-| fi | Finnish              | 0.1% | ✅ |
-| he | Hebrew               | 0.1% | ✅ |
-| sk | Slovak               | 0.1% |   |
-| el | Greek                | 0.1% | ✅ |
-| lv | Latvian              | <0.1% | ✅ |
+View the progress of each language in the [translation browser](https://www.dododex.com/translations)
+
+
+| Code | Language | % of Users* | Supported?
+| ------- | ---------------------- | ----- | --- |
+| `es`    | Spanish                | 27%   | ✅
+| `pt-br` | Portuguese (Brazilian) | 14%   | ✅
+| `de`    | German                 | 9.4%  | ✅
+| `fr`    | French                 | 8.4%  | ✅
+| `vi`    | Vietnamese             | 5.4%  | ✅
+| `ja`    | Japanese               | 4.9%  | ✅
+| `ru`    | Russian                | 4.5%  | ✅
+| `ar`    | Arabic                 | 4.4%  | ✅
+| `th`    | Thai                   | 3.3%  | ✅
+| `zh`    | Chinese (Simplified)   | 3.2%  | ✅
+| `zh-tw` | Chinese (Traditional)  | (Combined w/ Simplified) | ✅ 
+| `id`    | Indonesian             | 2.9%  | ✅
+| `tr`    | Turkish                | 2.3%  | ✅
+| `nl`    | Dutch                  | 1.5%  | ✅
+| `it`    | Italian                | 1.3%  | ✅
+| `ko`    | Korean                 | 1.2%  | ✅
+| `pl`    | Polish                 | 1.1%  | ✅
+| `hu`    | Hungarian              | 0.8%  | *Please contribute!*
+| `cs`    | Czech                  | 0.5%  | ✅
+| `sv`    | Swedish                | 0.4%  | ✅
+| `uk`    | Ukrainian              | 0.4%  | ✅
+| `ro`    | Romanian               | 0.3%  | ✅
+| `da`    | Danish                 | 0.3%  | ✅
+| `hr`    | Croatian               | 0.2%  | ✅
+| `nb`    | Norwegian              | 0.2%  | ✅
+| `fi`    | Finnish                | 0.1%  | ✅
+| `he`    | Hebrew                 | 0.1%  | ✅
+| `sk`    | Slovak                 | 0.1%  | *Please contribute!*
+| `el`    | Greek                  | 0.1%  | ✅
+| `lv`    | Latvian                | <0.1% | ✅
 
 _*Percent of non-English Dododex users (roughly)_

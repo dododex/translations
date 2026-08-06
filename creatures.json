@@ -195,14 +195,8 @@
 			"ru":"Аргентавис",
 			"zh":"阿根廷巨鹰",
 			"zh-tw":"阿根廷巨鷹",
-			"da":"Sølv",
-			"de":"Silber",
-			"es":"Plata",
 			"fr":"Argent",
-			"it":"Argento",
-			"nl":"Zilver",
-			"pt-br":"Prata",
-			"tr":"Gümüş"
+			"it":"Argento"
 		}
 	},
 	"armadoggo":{
@@ -1006,8 +1000,7 @@
 			"pt-br":"Dodo",
 			"ru":"Додо",
 			"zh":"渡渡鸟",
-			"zh-tw":"渡渡鳥",
-			"es":"Vejestorio"
+			"zh-tw":"渡渡鳥"
 		}
 	},
 	"dodorex":{
