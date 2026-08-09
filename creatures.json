@@ -11,13 +11,7 @@
 			"ko":"아카티나",
 			"ru":"Ахатина",
 			"zh":"玛瑙螺",
-			"zh-tw":"瑪瑙螺",
-			"da":"Avhatina",
-			"de":"Avhatina",
-			"es":"Avhatina",
-			"nl":"Avhatina",
-			"pt-br":"Avhatina",
-			"tr":"Avhatin"
+			"zh-tw":"瑪瑙螺"
 		}
 	},
 	"acrocanthosaurus":{
@@ -126,11 +120,7 @@
 			"ro":"Ankylozaur",
 			"ru":"Анкилозавр",
 			"zh":"甲龙",
-			"zh-tw":"甲龍",
-			"da":"Anomlosseus",
-			"de":"Anomlousus",
-			"nl":"Anomlameus",
-			"tr":"Anomlosureus"
+			"zh-tw":"甲龍"
 		}
 	},
 	"araneo":{
@@ -202,10 +192,6 @@
 	"armadoggo":{
 		"name_t":{
 			"ja":"アルマドッゴ",
-			"de":"Armadogo",
-			"fr":"Armadogogo",
-			"nl":"Armadogo",
-			"pt-br":"Armadogo",
 			"ru":"Армадогго",
 			"zh":"铠护犬",
 			"zh-tw":"鎧護犬"
@@ -215,20 +201,13 @@
 		"name_t":{
 			"ar":"أرثروبيليورا",
 			"de":"Arthropleura",
-			"fi":"Tuhatjalkainen",
-			"fr":"Arthropleura",
+			"fi":"Tuhatjalkainen"
 			"he":"ארתרופלאורה",
-			"it":"Arthropleura",
 			"ja":"アースロプレウラ",
 			"ko":"아트로플레우라",
-			"ro":"Arthropleura",
 			"ru":"Артроплевра",
 			"zh":"古马陆",
-			"zh-tw":"古馬陸",
-			"es":"Artropluera",
-			"nl":"Artropluera",
-			"pt-br":"Arthropleura",
-			"tr":"Artropluera"
+			"zh-tw":"古馬陸"
 		}
 	},
 	"astrocetus":{
@@ -351,15 +330,7 @@
 			"ja":"ベイラ",
 			"ru":"Бейла",
 			"zh-tw":"貝依拉",
-			"da":"Wedla",
-			"de":"WEDLA",
-			"es":"Castaño",
-			"fr":"Wedla",
-			"it":"Wedla",
 			"ko":"베일라",
-			"nl":"Wedla",
-			"pt-br":"Wedla",
-			"tr":"Wedla",
 			"zh":"贝依拉"
 		}
 	},
@@ -459,9 +430,6 @@
 			"zh":"灯泡犬",
 			"zh-tw":"燈泡犬",
 			"ar":"كلب ضوء",
-			"de":"Glühbirne",
-			"nl":"Bol",
-			"tr":"Ampul"
 		}
 	},
 	"burrowbuck":{
@@ -514,19 +482,13 @@
 			"ru":"Карнотавр",
 			"zh":"牛龙",
 			"zh-tw":"牛龍",
-			"da":"Carnouous",
-			"de":"Carnouous",
-			"es":"Carno",
-			"nl":"Carnouous",
-			"tr":"Karnavalı"
+			"es":"Carno"
 		}
 	},
 	"castoroides":{
 		"name_t":{
 			"ar":"كاستورويديس(قندس)",
-			"de":"Casteroides",
 			"el":"Καστοροειδή",
-			"fr":"Castoroides",
 			"he":"בונה",
 			"it":"Castoroide",
 			"ja":"カストロイデス",
@@ -749,7 +711,6 @@
 			"ru":"Червь смерти",
 			"zh":"死亡沙虫",
 			"zh-tw":"死亡沙蟲",
-			"de":"Darinwom",
 			"pt-br":"Verme da Morte",
 			"tr":"Kara"
 		}
@@ -960,14 +921,12 @@
 			"ja":"ショートフェイスベア",
 			"ko":"다이어 베어",
 			"nl":"Oerbeer",
-			"pt-br":"Arcdotus",
 			"ro":"Urs",
 			"ru":"Свирепый медведь",
 			"th":"หมีดุร้าย",
 			"tr":"Uluayı",
 			"zh":"恐熊",
-			"zh-tw":"恐熊",
-			"de":"Dire Bär"
+			"zh-tw":"恐熊"
 		}
 	},
 	"direwolf":{
@@ -1036,12 +995,7 @@
 			"ru":"Дедикурус",
 			"zh":"星尾兽",
 			"zh-tw":"星尾獸",
-			"da":"Doneedicourus",
-			"de":"Mordeedicourus",
-			"es":"Doedicouro",
-			"nl":"Doneedicourus",
-			"pt-br":"Doneedicourus",
-			"tr":"Donedicourus"
+			"es":"Doedicouro"
 		}
 	},
 	"dragon":{
@@ -1071,7 +1025,6 @@
 	"drakeling":{
 		"name_t":{
 			"ja":"ドレイクリング",
-			"de":"Drakelling",
 			"ko":"드라켈링",
 			"ru":"Дрейклинг",
 			"zh":"幼龙",
@@ -1212,7 +1165,6 @@
 			"ru":"Эквус",
 			"zh":"庞马",
 			"zh-tw":"龐馬",
-			"de":"Gleich",
 			"es":"Igual a",
 			"fr":"Égalise"
 		}
@@ -1236,15 +1188,9 @@
 		"name_t":{
 			"ja":"ファソラスクス",
 			"ru":"Фасолазух",
-			"da":"Beansuchus",
-			"de":"Beansuchus",
 			"es":"frijolsuchus",
-			"fr":"Beansuchus",
-			"it":"Beansuchus",
 			"ko":"빈수쿠스",
-			"nl":"Beansuchus",
 			"pt-br":"Feijão",
-			"tr":"Beansuchus",
 			"zh":"法索拉鳄",
 			"zh-tw":"法索拉鱷"
 		}
@@ -1261,7 +1207,6 @@
 			"ru":"Яснокрыл",
 			"zh":"轻羽鸟",
 			"zh-tw":"輕羽鳥",
-			"de":"Federleicht",
 			"pt-br":"Pluma-luminosa",
 			"tr":"Tüy hafifliğinde"
 		}
@@ -1345,7 +1290,6 @@
 			"zh":"嘎查",
 			"zh-tw":"嘎查",
 			"da":"Op til",
-			"de":"Bis zu",
 			"es":"Hasta",
 			"it":"Fino a",
 			"nl":"Tot",
@@ -1429,16 +1373,8 @@
 	"gigadesmodus":{
 		"name_t":{
 			"ja":"ギガデスモダス",
-			"da":"Gigabyte-tilstand",
-			"de":"Gigabyte-Modus",
-			"es":"Modo gigabyte",
-			"fr":"Mode gigaoctet",
-			"it":"Modalità Gigabyte",
 			"ko":"기가바이트 모드",
-			"nl":"Gigabyte-modus",
-			"pt-br":"Modo Gigabyte",
 			"ru":"Гигабайтный режим",
-			"tr":"Gigabayt modu",
 			"zh":"巨翼魔蝠",
 			"zh-tw":"巨翼魔蝠"
 		}
@@ -1708,22 +1644,16 @@
 	"jugbug":{
 		"name_t":{
 			"ar":"إبريق علة",
-			"el":"Κανάτα Bug",
 			"es":"Escarabajo Cántaro",
 			"fi":"Kannukärpänen",
 			"fr":"Insecte Jarre",
 			"he":"כד באג",
-			"hr":"Bacač Greška",
-			"id":"Kendi Bug",
 			"it":"Insetto brocca",
 			"ja":"ジャグ・バグ",
 			"ko":"주전자 벌레",
-			"ro":"Ulcior Bug",
 			"ru":"Жук-кувшинчик",
 			"zh":"壶虫",
 			"zh-tw":"壺蟲",
-			"de":"Krug Bug",
-			"nl":"Kruik",
 			"pt-br":"Besouro Cantil",
 			"tr":"Sürahi böceği"
 		}
@@ -1738,13 +1668,8 @@
 			"ru":"Кайруку",
 			"zh":"远古企鹅",
 			"zh-tw":"遠古企鵝",
-			"da":"Dykker",
-			"de":"Taucher",
 			"es":"Buzo",
-			"it":"Sub",
-			"nl":"Duiker",
-			"pt-br":"Mergulhador",
-			"tr":"Dalgıç"
+			"it":"Sub"
 		}
 	},
 	"kaprosuchus":{
@@ -1758,11 +1683,8 @@
 			"ru":"Капрозух",
 			"zh":"猪鳄",
 			"zh-tw":"豬鱷",
-			"da":"Caprosuchus",
-			"de":"Caprosuchus",
 			"es":"Caprosuchus",
-			"nl":"Caprosuchus",
-			"tr":"Caproschus"
+			"nl":"Caprosuchus"
 		}
 	},
 	"karkinos":{
@@ -1855,7 +1777,6 @@
 			"ru":"Лидсихтис",
 			"zh":"利兹鱼",
 			"zh-tw":"利茲魚",
-			"de":"Leedichthys"
 		}
 	},
 	"liopleurodon":{
@@ -1931,7 +1852,6 @@
 			"ru":"Шелкопряд",
 			"zh":"沙蛾",
 			"zh-tw":"沙蛾",
-			"de":"Lyantria",
 			"pt-br":"Mariposa"
 		}
 	},
@@ -1979,12 +1899,8 @@
 			"ru":"Магмазавр",
 			"zh":"熔喉龙",
 			"zh-tw":"熔喉龍",
-			"da":"Magsasaur",
-			"de":"Magsasaur",
 			"it":"Magmasauro",
-			"nl":"Tovenaar",
-			"pt-br":"Magsasaur",
-			"tr":"Magsasaur"
+			"nl":"Tovenaar"
 		}
 	},
 	"malwyn":{
@@ -2029,7 +1945,6 @@
 			"ru":"Манагарм",
 			"zh":"玛纳加尔姆",
 			"zh-tw":"瑪納加爾姆",
-			"de":"Accalarmr",
 			"es":"Gerente",
 			"it":"Gestione",
 			"tr":"Managar"
@@ -2046,7 +1961,6 @@
 			"tr":"Vatoz",
 			"zh":"蝠鲼",
 			"zh-tw":"蝠鱝",
-			"de":"Vergessen",
 			"it":"Dimenticare",
 			"nl":"Vergeten",
 			"pt-br":"Esquecer"
@@ -2155,10 +2069,7 @@
 			"ru":"Мегалозавр",
 			"zh":"斑龙",
 			"zh-tw":"斑龍",
-			"da":"Megalasaurus",
-			"de":"Megalasaurus",
-			"nl":"Megalasaurus",
-			"tr":"Megalasaurus"
+			"nl":"Megalasaurus"
 		}
 	},
 	"megamek":{
@@ -2248,20 +2159,12 @@
 	},
 	"microraptor":{
 		"name_t":{
-			"da":"Mikroraptor",
 			"fi":"Mikroraptori",
 			"ja":"ミクロラプトル",
 			"ko":"미크로랍토르",
 			"ru":"Микрораптор",
 			"zh":"小盗龙",
-			"zh-tw":"小盜龍",
-			"de":"Microrapt",
-			"es":"Microrapt",
-			"fr":"Microrap",
-			"it":"Microrapt",
-			"nl":"Microrapt",
-			"pt-br":"Microrapt",
-			"tr":"Mikrorapt"
+			"zh-tw":"小盜龍"
 		}
 	},
 	"minotaur":{
@@ -2286,14 +2189,7 @@
 			"ko":"모더",
 			"ru":"Моэдер",
 			"zh":"海洋之主莫德尔",
-			"zh-tw":"海洋之主莫德爾",
-			"da":"Mor",
-			"de":"Mutter",
-			"es":"Madre",
-			"fr":"Mère",
-			"it":"Madre",
-			"pt-br":"Mãe",
-			"tr":"Anne"
+			"zh-tw":"海洋之主莫德爾"
 		}
 	},
 	"morellatops":{
@@ -2385,16 +2281,6 @@
 	"nunatak":{
 		"name_t":{
 			"ja":"ヌナタク",
-			"da":"Forseglet",
-			"de":"Versiegelt",
-			"es":"Sellado",
-			"fr":"Scellé",
-			"it":"Sigillato",
-			"ko":"봉인됨",
-			"nl":"Verzegeld",
-			"pt-br":"Selado",
-			"ru":"Запечатанный",
-			"tr":"Mühürlü",
 			"zh":"努纳塔克",
 			"zh-tw":"努納塔克"
 		}
@@ -2511,12 +2397,7 @@
 			"pt-br":"Paquicéfalo",
 			"ru":"Пахицефалозавр",
 			"zh":"肿头龙",
-			"zh-tw":"腫頭龍",
-			"da":"Lugt",
-			"de":"Gerüche",
-			"es":"Hedor",
-			"nl":"Geuren",
-			"tr":"Koku"
+			"zh-tw":"腫頭龍"
 		}
 	},
 	"pachyrhinosaurus":{
@@ -2641,13 +2522,7 @@
 			"ko":"피오미아",
 			"ru":"Фиомия",
 			"zh":"渐新象",
-			"zh-tw":"漸新象",
-			"da":"Phhhemia",
-			"de":"Phhhemie",
-			"es":"Fhhemia",
-			"nl":"Phhhemia",
-			"pt-br":"Phhhemia",
-			"tr":"Fhhemya"
+			"zh-tw":"漸新象"
 		}
 	},
 	"phoenix":{
@@ -2713,10 +2588,7 @@
 			"ko":"프로콥토돈",
 			"ru":"Прокоптодон",
 			"zh":"巨型袋鼠",
-			"zh-tw":"巨型袋鼠",
-			"de":"Procptodon",
-			"pt-br":"Proctodon",
-			"tr":"Prokoptodon"
+			"zh-tw":"巨型袋鼠"
 		}
 	},
 	"pteranodon":{
@@ -2796,10 +2668,7 @@
 			"ko":"랩터",
 			"ru":"Раптор",
 			"zh":"迅猛龙",
-			"zh-tw":"迅猛龍",
-			"de":"Raubvogel",
-			"es":"Rapaz",
-			"nl":"Roofvogel"
+			"zh-tw":"迅猛龍"
 		}
 	},
 	"ravager":{
@@ -2811,12 +2680,7 @@
 			"ko":"레비져",
 			"ru":"Опустошитель",
 			"zh":"劫掠者",
-			"zh-tw":"劫掠者",
-			"da":"Hærge",
-			"de":"Verwüsten",
-			"nl":"Verwoesten",
-			"pt-br":"Ravage",
-			"tr":"Hasar"
+			"zh-tw":"劫掠者"
 		}
 	},
 	"reaper":{
@@ -2933,9 +2797,7 @@
 			"pt-br":"Rato-Rolante",
 			"ru":"Кротокрыс",
 			"zh":"翻滚鼠",
-			"zh-tw":"翻滾鼠",
-			"de":"Roll Ratte",
-			"tr":"Rulo"
+			"zh-tw":"翻滾鼠"
 		}
 	},
 	"royalgriffin":{
@@ -3007,7 +2869,6 @@
 			"ru":"Саблезубый лосось",
 			"zh":"剑齿鲑鱼",
 			"zh-tw":"劍齒鮭魚",
-			"de":"Sabertooth -Lachs",
 			"tr":"Kılıç Somonu"
 		}
 	},
@@ -3180,14 +3041,9 @@
 			"ru":"Страйдер",
 			"zh":"跨步者",
 			"zh-tw":"跨步者",
-			"da":"Tek Warrior",
-			"de":"Tek Warrior",
 			"es":"Guerrero",
 			"fr":"Stryder Tek",
-			"it":"Tek Warrior",
 			"ko":"테크 스트라이더",
-			"nl":"Tek Warrior",
-			"pt-br":"Tek Warrior",
 			"tr":"Tek savaşçı"
 		}
 	},
@@ -3329,7 +3185,6 @@
 	"tidepup":{
 		"name_t":{
 			"ja":"タイドパップ",
-			"de":"Gezeitenpup",
 			"es":"Cachorro de marea",
 			"ko":"타이드펍",
 			"ru":"Тайдепуп",
@@ -3339,7 +3194,6 @@
 	},
 	"titanoboa":{
 		"name_t":{
-			"de":"Titanboa",
 			"el":"Τιτανοβόας",
 			"fi":"Titaaniboa",
 			"ja":"ティタノボア",
@@ -3435,26 +3289,13 @@
 			"ko":"트로페오그나투스",
 			"ru":"Тропеогнат",
 			"zh":"脊颌翼龙",
-			"zh-tw":"脊頜翼龍",
-			"de":"Tropoghus",
-			"es":"Tropoognathus",
-			"it":"Tropenathus",
-			"tr":"Tropognathus"
+			"zh-tw":"脊頜翼龍"
 		}
 	},
 	"turkey":{
 		"name_t":{
 			"ja":"七面鳥",
-			"da":"Mord Tyrkiet",
-			"de":"Mord Türkei",
-			"es":"Asesinato Turquía",
-			"fr":"Meurtre en Turquie",
-			"it":"Omicidio Turchia",
 			"ko":"터키 살인",
-			"nl":"Moord Turkije",
-			"pt-br":"Assassinato na Turquia",
-			"ru":"Убийство в Турции",
-			"tr":"Cinayet Türkiye",
 			"zh":"火鸡恶霸",
 			"zh-tw":"火雞惡霸"
 		}
@@ -3541,15 +3382,7 @@
 			"ru":"Войдверна",
 			"zh":"虚空飞龙",
 			"zh-tw":"虛空飛龍",
-			"da":"Hulrum",
-			"de":"Voidor",
-			"es":"Voidor",
-			"fr":"Voidor",
-			"it":"Voidor",
-			"ko":"보이드웜",
-			"nl":"Leegte",
-			"pt-br":"Voidor",
-			"tr":"Boşluk"
+			"ko":"보이드웜"
 		}
 	},
 	"vulture":{
@@ -3591,8 +3424,7 @@
 			"ru":"Шерстистый носорог",
 			"tr":"Yünlü Gergedan",
 			"zh":"披毛犀",
-			"zh-tw":"披毛犀",
-			"de":"Woll Rhino"
+			"zh-tw":"披毛犀"
 		}
 	},
 	"wyvern":{
