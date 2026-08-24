@@ -274,7 +274,7 @@
 			"ru":"Барионикс",
 			"zh":"重爪龙",
 			"zh-tw":"重爪龍",
-			"es":"Barialx"
+			"es":"Baryonix"
 		}
 	},
 	"basilisk":{
@@ -1238,7 +1238,7 @@
 			"ru":"Ферокс",
 			"zh":"猿狐",
 			"zh-tw":"猿狐",
-			"da":"Voldsom"
+			"da":"Voldsom",
 			"it":"Feroce",
 			"nl":"Krachtig",
 			"tr":"Şiddetli"
@@ -1657,9 +1657,7 @@
 			"ko":"카이루쿠",
 			"ru":"Кайруку",
 			"zh":"远古企鹅",
-			"zh-tw":"遠古企鵝",
-			"es":"Buzo",
-			"it":"Sub"
+			"zh-tw":"遠古企鵝"
 		}
 	},
 	"kaprosuchus":{
@@ -3057,7 +3055,7 @@
 			"ko":"타페자라",
 			"ru":"Тапежара",
 			"zh":"古神翼龙",
-			"zh-tw":"古神翼龍"
+			"zh-tw":"古神翼龍",
 			"tr":"Bantjara"
 		}
 	},
