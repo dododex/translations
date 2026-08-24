@@ -833,7 +833,7 @@
 			"ru":"Диметродон",
 			"zh":"异齿龙",
 			"zh-tw":"異齒龍",
-			"es":"Diméleo"
+			"es":"Dimetrodón"
 		}
 	},
 	"dimorphodon":{
@@ -994,8 +994,7 @@
 			"ko":"도에디쿠루스",
 			"ru":"Дедикурус",
 			"zh":"星尾兽",
-			"zh-tw":"星尾獸",
-			"es":"Doedicouro"
+			"zh-tw":"星尾獸"
 		}
 	},
 	"dragon":{
@@ -1092,11 +1091,7 @@
 			"pt-br":"Dunkleosteus",
 			"ru":"Дунклеостей",
 			"zh":"邓氏鱼",
-			"zh-tw":"鄧氏魚",
-			"da":"Darkleosteus",
-			"es":"Darkleosteus",
-			"nl":"Darkleosteus",
-			"tr":"Darkleosteus"
+			"zh-tw":"鄧氏魚"
 		}
 	},
 	"elderclaw":{
@@ -1165,7 +1160,6 @@
 			"ru":"Эквус",
 			"zh":"庞马",
 			"zh-tw":"龐馬",
-			"es":"Igual a",
 			"fr":"Égalise"
 		}
 	},
@@ -1188,7 +1182,6 @@
 		"name_t":{
 			"ja":"ファソラスクス",
 			"ru":"Фасолазух",
-			"es":"frijolsuchus",
 			"ko":"빈수쿠스",
 			"pt-br":"Feijão",
 			"zh":"法索拉鳄",
@@ -1245,11 +1238,9 @@
 			"ru":"Ферокс",
 			"zh":"猿狐",
 			"zh-tw":"猿狐",
-			"da":"Voldsom",
-			"es":"Feroz",
+			"da":"Voldsom"
 			"it":"Feroce",
 			"nl":"Krachtig",
-			"pt-br":"Feroz",
 			"tr":"Şiddetli"
 		}
 	},
@@ -1290,7 +1281,6 @@
 			"zh":"嘎查",
 			"zh-tw":"嘎查",
 			"da":"Op til",
-			"es":"Hasta",
 			"it":"Fino a",
 			"nl":"Tot",
 			"tr":"Kadar"
@@ -1603,7 +1593,7 @@
 			"ru":"Ихтиозавр",
 			"zh":"鱼龙",
 			"zh-tw":"魚龍",
-			"es":"Ictiosauro",
+			"es":"Ictiosaurio",
 			"nl":"Ichtyosaurus",
 			"pt-br":"Ictiossauro"
 		}
@@ -2007,8 +1997,7 @@
 			"ko":"메가셸론",
 			"ru":"Мегахелон",
 			"zh":"岛龟",
-			"zh-tw":"島龜",
-			"es":"Megachelson"
+			"zh-tw":"島龜"
 		}
 	},
 	"megalania":{
@@ -2221,8 +2210,7 @@
 			"ko":"모스콥스",
 			"ru":"Мосхопс",
 			"zh":"麝足兽",
-			"zh-tw":"麝足獸",
-			"es":"Mosquitero"
+			"zh-tw":"麝足獸"
 		}
 	},
 	"nameless":{
@@ -2630,7 +2618,6 @@
 		"name_t":{
 			"ja":"パイロメイン",
 			"da":"Pyroman",
-			"es":"Incendiario",
 			"it":"Piromane",
 			"ko":"방화광",
 			"nl":"Pyromaan",
@@ -3070,8 +3057,7 @@
 			"ko":"타페자라",
 			"ru":"Тапежара",
 			"zh":"古神翼龙",
-			"zh-tw":"古神翼龍",
-			"es":"Cinta",
+			"zh-tw":"古神翼龍"
 			"tr":"Bantjara"
 		}
 	},
