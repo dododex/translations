@@ -381,6 +381,11 @@
 			"tr":"Kan atma makinesi"
 		}
 	},
+	"boaratos":{
+		"name_t":{
+			
+		}
+	},
 	"brachiosaurus":{
 		"name_t":{}
 	},
@@ -3423,6 +3428,11 @@
 			"zh":"飞龙",
 			"zh-tw":"飛龍",
 			"tr":"Ejderha"
+		}
+	},
+	"xeranox":{
+		"name_t":{
+			
 		}
 	},
 	"xiphactinus":{
