@@ -1705,6 +1705,9 @@
 			"zh-tw":"肯氏龍"
 		}
 	},
+	"khoron":{
+		"name_t":{}
+	},
 	"kingtitan":{
 		"name_t":{
 			"fr":"Roi des Titans",
@@ -3478,5 +3481,8 @@
 			"zh":"羽暴龙",
 			"zh-tw":"羽暴龍"
 		}
+	},
+	"zuffin":{
+		"name_t":{}
 	}
 }}
