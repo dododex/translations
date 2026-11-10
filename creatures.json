@@ -591,7 +591,6 @@
 		"name_t":{
 			"ar":"كومبي",
 			"el":"Κομψόγναθος",
-			"fr":"Compy",
 			"he":"קומפי",
 			"it":"Compsognato",
 			"ja":"コンプソグナトゥス",
@@ -599,10 +598,7 @@
 			"ru":"Компсогнат",
 			"zh":"美颌龙",
 			"zh-tw":"美頜龍",
-			"de":"Kompy",
-			"es":"Combinar",
-			"nl":"Samenvoegen",
-			"tr":"Uyumlu"
+			"de":"Kompy"
 		}
 	},
 	"concavenator":{
