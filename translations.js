@@ -3916,7 +3916,7 @@ var translations = {
 		arkUME: "ARK : Ultimate Mobile Edition",
 		ASESinglePlayer: "ASE Solo",
 		settingsDesc: "Ajustez vos multiplicateurs pour correspondre aux paramètres de votre jeu.",
-		filter: "Filtrer",
+		filter: "Filtre",
 		gatherable: "Récoltable",
 		rentAnArkServer: "Louer un serveur ARK",
 		addCategory: "Ajouter une catégorie",
