@@ -196,7 +196,7 @@
 			"45":{
 				"n":"Genesis Part 2",
 				"nt":{
-					"zh":"創世紀第二部分",
+					"zh":"创世纪第二部",
 					"zh-tw":"創世紀第二部"
 				},
 				"o":13,
@@ -206,7 +206,7 @@
 			"47":{
 				"n":"Lost Island",
 				"nt":{
-					"zh":"失落之島",
+					"zh":"失落之岛",
 					"zh-tw":"失落之島"
 				},
 				"o":14,
@@ -216,6 +216,7 @@
 			"50":{
 				"n":"Fjordur",
 				"nt":{
+					"zh":"维京",
 					"zh-tw":"維京"
 				},
 				"o":15,
@@ -287,7 +288,7 @@
 					"tr":"Aberration'a Yeni",
 					"uk":"Нове в Aberration",
 					"vi":"Mới với Aberration",
-					"zh":"《畸變》新生物",
+					"zh":"《畸变》新生物",
 					"zh-tw":"《畸變》新生物"
 				},
 				"o":21,
@@ -323,7 +324,7 @@
 					"tr":"Extinction'a Yeni",
 					"uk":"Нове в Extinction",
 					"vi":"Mới với Extinction",
-					"zh":"《滅絕》新生物",
+					"zh":"《灭绝》新生物",
 					"zh-tw":"《滅絕》新生物"
 				},
 				"o":22,
@@ -359,7 +360,7 @@
 					"tr":"Genesis'e Yeni",
 					"uk":"Нове в Genesis",
 					"vi":"Mới với Genesis",
-					"zh":"《創世紀》新生物",
+					"zh":"《创世纪第一部》新生物",
 					"zh-tw":"《創世紀第一部》新生物"
 				},
 				"o":23,
@@ -395,7 +396,7 @@
 					"tr":"Crystal Isles'a Yeni",
 					"uk":"Нове в Crystal Isles",
 					"vi":"Mới với Crystal Isles",
-					"zh":"《水晶島》新生物",
+					"zh":"《水晶岛》新生物",
 					"zh-tw":"《水晶島》新生物"
 				},
 				"o":24,
@@ -431,7 +432,7 @@
 					"tr":"Genesis Bölüm 2'ye Yeni",
 					"uk":"Нове в Genesis Частина 2",
 					"vi":"Mới với Genesis Part 2",
-					"zh":"《創世紀第二部份》新生物",
+					"zh":"《创世纪第二部》新生物",
 					"zh-tw":"《創世紀第二部》新生物"
 				},
 				"o":25,
@@ -466,7 +467,7 @@
 					"tr":"Lost Island'a Yeni",
 					"uk":"Нове в Lost Island",
 					"vi":"Mới với Lost Island",
-					"zh":"《失落之島》新生物",
+					"zh":"《失落之岛》新生物",
 					"zh-tw":"《失落之島》新生物"
 				},
 				"o":26,
@@ -501,7 +502,7 @@
 					"tr":"Fjordur'a Yeni",
 					"uk":"Нове в Fjordur",
 					"vi":"Mới với Fjordur",
-					"zh":"《Fjordur》新生物",
+					"zh":"《维京》新生物",
 					"zh-tw":"《維京》新生物"
 				},
 				"o":27,
@@ -2500,7 +2501,7 @@
 					"tr":"Kerpiç",
 					"uk":"Саман",
 					"vi":"Adobe",
-					"zh":"土坯",
+					"zh":"黏土",
 					"zh-tw":"土坯"
 				},
 				"o":15,
